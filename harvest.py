@@ -514,7 +514,7 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
       if(language in ['zh','ja']):
        if(not found):
          for index2, column2 in termsLangDF.iterrows(): 
-           numFound = countSingleCharsInQuote(keyword, fullQuote, case=True)
+           numFound = countSingleCharsInQuote(keyword, searchQuote+fullQuote, case=True)
            if(numFound>0):
              foundKeywords.append(keyword) 
              foundColumns.append(column2) 
