@@ -1,7 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'1bd470d857',extremes,Cold Wave,#a7e9fa,wmo,冰冻中国,2025-12-10T03:45:00+00:00,China,0.7426714478136197,0,2,zh,EAS,Asia
-'5e3a5a7072',extremes,Cold Wave,#a7e9fa,wmo,寒潮新源县,2025-12-10T03:45:00+00:00,China,0.7376070692564877,0,2,zh,EAS,Asia
-'1992637918',extremes,Cold Wave,#a7e9fa,wmo,额敏县冰冻,2025-12-11T03:46:00+00:00,China,0.7354643702385708,0,2,zh,EAS,Asia
+'1992637918',extremes,Cold Wave,#a7e9fa,wmo,额敏县冰冻,2025-12-11T03:46:00+00:00,China,0.7752947297027852,1,2,zh,EAS,Asia
 'c685705bbd',extremes,Earthquake,#870007,usgs,中国地震,2025-12-07T03:46:00+00:00,China,0.7334561782673767,0,2,zh,ECA,Asia
 'f7493e0a77',extremes,Tropical Cyclone,#4f4f4f,wmo,台风中国,2025-11-30T03:46:00+00:00,China,0.7278683703755179,0,2,zh,EAS,Asia
 '0dbfb0c2b4',extremes,Cold Wave,#a7e9fa,wmo,寒潮中国,2025-12-09T03:41:00+00:00,China,0.7264245633507326,0,2,zh,EAS,Asia
@@ -26,3 +24,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fe7870f943',extremes,Wildfire,#d60d2b,wmo,井冈山市山火,2025-12-02T03:41:00+00:00,China,0.6336747897557083,1,1,zh,EAS,Asia
 '33cc9b24b0',extremes,Cold Wave,#a7e9fa,wmo, 巩留县寒潮,2025-12-10T03:45:00+00:00,China,0.6323424576474708,1,1,zh,EAS,Asia
 '71747ed39a',extremes,Earthquake,#870007,usgs,图姆苏克地震,2025-12-05T03:40:00+00:00,China,0.6301151120175933,1,1,zh,ECA,Asia
+'5e3a5a7072',extremes,Cold Wave,#a7e9fa,wmo,寒潮新源县,2025-12-10T03:45:00+00:00,China,0.6269660088680145,1,1,zh,EAS,Asia
