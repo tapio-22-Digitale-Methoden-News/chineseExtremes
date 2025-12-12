@@ -431,6 +431,7 @@ def countSingleCharsInQuote(keyword, quote, case=True):
       if(keyw in quote):
         countFound += 1
     if(countAll>0):
+      print(['countSingleCharsInQuote', countFound, countAll])
       return countFound/countAll
     return 0
 
@@ -533,7 +534,14 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
         foundArticles.append(data)
       else:
         data['term'] = keyWord
+        data['country'] = country
+        data['ipcc'] = ipcc
+        data['continent'] = continent
+        data['feed'] = feed
+        data['topic'] = topic
         #foundArticles.append(data)
+        if(language in ['zh','ja']):   
+          foundArticles.append(data)  
 
     return foundArticles
 
