@@ -33,6 +33,7 @@ DATA_PATH = Path.cwd()
 
 dtNow = datetime.datetime.fromtimestamp(int(time.time()), datetime.UTC)
 dtLastMonth = datetime.datetime.fromtimestamp(int(time.time())-60*60*24*30, datetime.UTC)
+##dtNow = datetime.datetime.fromtimestamp(int(time.time()) )
 
 '''
 topicColors = {'Thunderstorm':'#53785a', 'Flood':'#030ba1', 'Storm':'#b3b2b1', 'Storm Surge':'#834fa1', 'Flash Flood':'#02b5b8',
@@ -172,12 +173,12 @@ def translateData(data):
    anyText = str(data['title']) + '. ' + str(data['description'])
    if('de'==data['language']):
        data['de'] = anyText
-       data['en'] = lt.getTranslatorByLanguage('de','en').translate(data['de'])
-       data['la'] = lt.getTranslatorByLanguage('de','la').translate(data['de'])
+       data['en'] = lt.getTranslatorByLanguage('de','en').translate(anyText)
+       data['la'] = lt.getTranslatorByLanguage('de','la').translate(anyText)
    if('en'==data['language']):
        data['en'] = anyText
-       data['de'] = lt.getTranslatorByLanguage('en','de').translate(data['de'])
-       data['la'] = lt.getTranslatorByLanguage('en','la').translate(data['en'])
+       data['de'] = lt.getTranslatorByLanguage('en','de').translate(anyText)
+       data['la'] = lt.getTranslatorByLanguage('en','la').translate(anyText)
    if('' == data['language']):
        data['language'] = 'xx'
        data['de'] = ''
@@ -418,47 +419,82 @@ def extractData(article, language, keyWord, topic, feed, country, ipcc, continen
             'image':image, 'content':content, 'quote':'', 'language': language, 'term':keyWord, 'topic':topic, 'feed':feed, 'country':country, 'ipcc':ipcc, 'continent':continent}
     return data  
 
+def checkKeywordInQuote(keyword, quote, case=True, anyKey=False):
+    keyword = keyword.replace("+","").replace("-","")
+    keywords = keyword.strip("'").split(" ")
+    if(not case):
+        keywords = keyword.strip("'").lower().split(" ")
+        quote = quote.lower()
+    if(anyKey):
+      allFound = False
+      for keyw in keywords:
+        allFound = allFound or (keyw in quote)    
+    else:
+      allFound = True
+      for keyw in keywords:
+        allFound = allFound and (keyw in quote)  
+
+    return allFound
+
 def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, topic, feed, country, ipcc, continent):
-    ## keywordsLangDF = termsDF[termsDF['language']==language]
-    ## keywordsLangDF = termsDF[termsDF['term']==keyWord] ## to harsh
-    keywordsLangDF = termsDF[termsDF['topic']==topic]
+    termsLangDF = termsDF[termsDF['language']==language]
     foundArticles = []
     for article in articles:
       data = extractData(article, language, keyWord, topic, feed, country, ipcc, continent)
       searchQuote = str(data['title']) + " " + str(data['description'])
-      searchQuote = searchQuote.lower()
+      fullQuote = str(data['content'])
       foundKeywords = []
       foundColumns = []
       found = False
-      for index2, column2 in keywordsLangDF.iterrows(): 
+      valid = 0.1
+      for index2, column2 in termsLangDF.iterrows(): 
          keyword = column2['term']
-         allFound = True
-         keywords = str(keyword).strip("'").lower().split(" ")
-         for keyw in keywords:
-            allFound = allFound and (keyw in searchQuote)
-         if(allFound):
-             foundKeywords.append(keyword)
+         if(keyword.strip("'") in searchQuote):
+             foundKeywords.append(keyword) 
              foundColumns.append(column2) 
              found = True
-      # add seldom keywords twice if
-      for index2, column2 in seldomDF.iterrows(): 
-         keyword = column2['term']
-         allFound = True
-         keywords = str(keyword).strip("'").lower().split(" ")
-         for keyw in keywords:
-            allFound = allFound and (keyw in searchQuote)
+             valid = max(valid,0.9)
+         allFound = checkKeywordInQuote(keyword, searchQuote, case=True)
          if(allFound):
              foundKeywords.append(keyword) 
-             foundColumns.append(column2)
+             foundColumns.append(column2) 
              found = True
-      print([data['title'], found])  
-      if(not data['url']):
-        found = False
-      if(found):
-        ##foundKeywords.append(keyWord) 
-        print(foundKeywords) 
+             valid = max(valid,0.8)
+         allFound = checkKeywordInQuote(keyword, searchQuote, case=False)
+         if(allFound):
+             foundKeywords.append(keyword) 
+             foundColumns.append(column2) 
+             found = True
+             max(valid,0.7)
+      # add seldom keywords twice if
+      if(not seldomDF.empty):
+       keywordsSeldomLangDF = seldomDF[seldomDF['language']==language]
+       for index2, column2 in keywordsSeldomLangDF.iterrows(): 
+         keyword = column2['term']
+         allFound = checkKeywordInQuote(keyword, searchQuote, case=True) 
+         if(allFound):
+             foundKeywords.append(keyword) 
+             foundColumns.append(column2) 
+             found = True
+      if(not found):
+        for index2, column2 in termsLangDF.iterrows(): 
+           allFound = checkKeywordInQuote(keyword, fullQuote, case=True)
+           if(allFound):
+             foundKeywords.append(keyword) 
+             found = True
+             max(valid,0.6) 
+      if(not found):
+        for index2, column2 in termsLangDF.iterrows(): 
+           allFound = checkKeywordInQuote(keyword, fullQuote, case=True, anyKey=True)
+           if(allFound):
+             foundKeywords.append(keyword) 
+             foundColumns.append(column2) 
+             found = True
+             max(valid,0.2) 
+      data['valid'] = valid
+      if(valid>0.15):
+        foundKeywords.append(keyWord) 
         anyColumn = random.choice(foundColumns)
-        #data['term'] = random.choice(foundKeywords)
         data['term'] = anyColumn['term']
         data['country'] = anyColumn['country']
         data['ipcc'] = anyColumn['ipcc']
@@ -466,8 +502,10 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
         data['feed'] = anyColumn['feed']
         data['topic'] = anyColumn['topic']
         foundArticles.append(data)
-      else:    
-        print([keyWord, searchQuote])
+      else:
+        data['term'] = keyWord
+        #foundArticles.append(data)
+
     return foundArticles
 
 def filterNewAndArchive(articles):
