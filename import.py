@@ -48,8 +48,10 @@ def doTranslate(column, targetLanguage, tmpTopic = True, lowerCase=True):
   tmpTerm = lt.getTranslatorByLanguage(column['language'],targetLanguage).translate(tmpSource)
   print(['translate',tmpSource,tmpTerm])
   if(tmpTopic):
-    #tmpArray = tmpTerm.split(':', 1)
-    tmpArray = tmpTerm.split('：', 1)
+    if(':' in tmpTerm):
+      tmpArray = tmpTerm.split(':', 1)
+    if('：' in tmpTerm):
+      tmpArray = tmpTerm.split('：', 1) 
     if(len(tmpArray)>1):
        tmpTerm = tmpArray[1]
   return tmpTerm.strip()
