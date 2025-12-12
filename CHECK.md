@@ -1,14 +1,9 @@
 # EXTREMES  
 ### EXTREME_LANGUAGE  
-:no_entry: EXTREME_LANGUAGE **missing**:  
-1. Assign the language code (i.e. 'en', 'de') as new repository secret at https://github.com/tapio-22-Digitale-Methoden-News/chineseExtremes/settings/secrets/actions  
-   * Name:  **EXTREME_LANGUAGE**   
-   * Value: **Your language code here**   
+:white_check_mark: EXTREME_LANGUAGE key exists (zh)  
 ### EXTREME_GH_TOKEN  
-:no_entry: EXTREME_GH_TOKEN **missing**:  
-1. Assign the API key as new organization secret at https://github.com/organizations/tapio-22-Digitale-Methoden-News/settings/secrets/actions/new  
-   * Name:  **EXTREME_GH_TOKEN**   
-   * Value: **Your key here**   
+:white_check_mark: EXTREME_GH_TOKEN exists  
+:white_check_mark: EXTREME_GH_TOKEN working  
 # BASICS  
 ### Github Organization  
 :white_check_mark: Github Organization exists  
