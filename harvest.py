@@ -429,7 +429,7 @@ def countSingleCharsInQuote(keyword, quote, case=True):
     for keyw in keywords:
       countAll += 1
       if(keyw in quote):
-         += 1
+        countFound += 1
     if(countAll>0):
       return countFound/countAll
     return 0
