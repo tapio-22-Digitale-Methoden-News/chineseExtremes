@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'7299cf5708',extremes,Cold Wave,#a7e9fa,wmo,营口市冰冻,2025-12-11T03:46:00+00:00,China,0.7179746018105713,0,2,zh,EAS,Asia
 '0d837b62da',extremes,Cold Wave,#a7e9fa,wmo,锦州城结冰,2025-12-12T03:45:00+00:00,China,0.7172115398190063,0,2,zh,EAS,Asia
 '4afa081488',extremes,Cold Wave,#a7e9fa,wmo,平邑县结冰,2025-12-12T03:45:00+00:00,China,0.716948892859278,0,2,zh,EAS,Asia
 'b7a493b3cf',extremes,Wildfire,#d60d2b,wmo,野火英德,2025-11-25T03:37:00+00:00,China,0.7165760989225801,0,2,zh,EAS,Asia
