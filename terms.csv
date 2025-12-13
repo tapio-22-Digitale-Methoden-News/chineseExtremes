@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c685705bbd',extremes,Earthquake,#870007,usgs,中国地震,2025-12-07T03:46:00+00:00,China,0.7738440369818157,1,3,zh,ECA,Asia
 'f7493e0a77',extremes,Tropical Cyclone,#4f4f4f,wmo,台风中国,2025-11-30T03:46:00+00:00,China,0.7690991102737357,1,3,zh,EAS,Asia
 'e59c52c0b9',extremes,Wildfire,#d60d2b,wmo,清新区山火,2025-11-25T03:37:00+00:00,China,0.7258898264355568,0,2,zh,EAS,Asia
 '1dba7ca69f',extremes,Cold Wave,#a7e9fa,wmo,长清地区结冰,2025-12-01T04:02:00+00:00,China,0.7187649312684061,0,2,zh,EAS,Asia
