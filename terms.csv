@@ -5,6 +5,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0d837b62da',extremes,Cold Wave,#a7e9fa,wmo,锦州城结冰,2025-12-12T03:45:00+00:00,China,0.7172115398190063,0,2,zh,EAS,Asia
 '4afa081488',extremes,Cold Wave,#a7e9fa,wmo,平邑县结冰,2025-12-12T03:45:00+00:00,China,0.716948892859278,0,2,zh,EAS,Asia
 'b7a493b3cf',extremes,Wildfire,#d60d2b,wmo,野火英德,2025-11-25T03:37:00+00:00,China,0.7165760989225801,0,2,zh,EAS,Asia
+'f7493e0a77',extremes,Tropical Cyclone,#4f4f4f,wmo,台风中国,2025-11-30T03:46:00+00:00,China,0.7146161754455014,3,3,zh,EAS,Asia
 '7e1dfa7301',extremes,Cold Wave,#a7e9fa,wmo,伊川县结冰,2025-12-11T03:46:00+00:00,China,0.7140979685572618,0,2,zh,EAS,Asia
 'c463e52219',extremes,Wildfire,#d60d2b,wmo,東源縣山火,2025-11-25T03:37:00+00:00,China,0.7129096202806099,0,2,zh,EAS,Asia
 'bd2d0ccf65',extremes,Cold Wave,#a7e9fa,wmo,寒潮福康,2025-12-10T03:45:00+00:00,China,0.7106786067286407,0,2,zh,EAS,Asia
@@ -15,7 +16,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '92839b511b',extremes,Cold Wave,#a7e9fa,wmo,铜仁市冰冻,2025-12-11T03:46:00+00:00,China,0.7037908444031403,0,2,zh,EAS,Asia
 'e39961b1b4',extremes,Wildfire,#d60d2b,wmo,顺德区山火,2025-11-25T03:37:00+00:00,China,0.702930470717099,0,2,zh,EAS,Asia
 '9b3a7ce82b',extremes,Cold Wave,#a7e9fa,wmo,结冰的额尔古纳市,2025-12-08T03:44:00+00:00,China,0.7018191517774394,0,2,zh,EAS,Asia
-'f7493e0a77',extremes,Tropical Cyclone,#4f4f4f,wmo,台风中国,2025-11-30T03:46:00+00:00,China,0.6905087855508572,2,3,zh,EAS,Asia
 '33cc9b24b0',extremes,Cold Wave,#a7e9fa,wmo, 巩留县寒潮,2025-12-10T03:45:00+00:00,China,0.6323424576474708,1,1,zh,EAS,Asia
 '71747ed39a',extremes,Earthquake,#870007,usgs,图姆苏克地震,2025-12-05T03:40:00+00:00,China,0.6301151120175933,1,1,zh,ECA,Asia
 '5e3a5a7072',extremes,Cold Wave,#a7e9fa,wmo,寒潮新源县,2025-12-10T03:45:00+00:00,China,0.6269660088680145,1,1,zh,EAS,Asia
