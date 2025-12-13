@@ -13,6 +13,7 @@ import aiohttp
 import asyncio
 import requests
 from urllib.parse import urlparse
+import urllib
 import json
 import time
 import smtplib
@@ -190,6 +191,12 @@ def translateData(data):
        data['de'] = lt.getTranslatorByLanguage(sourceLanguage,'de').translate(anyText)
        data['en'] = lt.getTranslatorByLanguage(sourceLanguage,'en').translate(anyText)
        data['la'] = lt.getTranslatorByLanguage(sourceLanguage,'la').translate(anyText)
+
+       if(''==data['de']):
+         print(['translation to de failed: ', anyText])
+       if(''==data['en']):
+         print(['translation to en failed: ', anyText])
+
    return(data) 
 
 
@@ -674,7 +681,7 @@ def inqRandomNews(maxCount=1):
         # https://newsapi.org/docs/endpoints/everything
         url = ('https://newsapi.org/v2/everything?'+
             #"q='"+keyWord+"'&"
-            "q="+keyWord+"&"
+            "q="+urllib.parse.quote(keyWord)+"&"
             'pageSize='+str(pageSize)+'&'
             'language='+language+'&'
             'page='+str(currPage)+'&'
