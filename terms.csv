@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'575ec472b2',extremes,Cold Wave,#a7e9fa,wmo,奇台縣結冰,2025-12-12T03:45:00+00:00,China,0.7427255409451675,0,1,zh,EAS,Asia
 '1992637918',extremes,Cold Wave,#a7e9fa,wmo,額敏縣冰凍,2025-12-11T03:46:00+00:00,China,0.7354643702385708,0,1,zh,EAS,Asia
 'c685705bbd',extremes,Earthquake,#870007,usgs,中国地震,2025-12-07T03:46:00+00:00,China,0.7334561782673767,0,1,zh,ECA,Asia
 '0dbfb0c2b4',extremes,Cold Wave,#a7e9fa,wmo,寒潮中国,2025-12-09T03:41:00+00:00,China,0.7264245633507326,0,1,zh,EAS,Asia
