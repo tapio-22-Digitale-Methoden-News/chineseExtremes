@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'c463e52219',extremes,Wildfire,#d60d2b,wmo,東源縣山火,2025-11-25T03:37:00+00:00,China,0.6655272839027406,2,2,zh,EAS,Asia
 '9628a4dee0',extremes,Wildfire,#d60d2b,wmo,高明区山火,2025-11-25T03:37:00+00:00,China,0.6411792315618422,1,2,zh,EAS,Asia
-'71747ed39a',extremes,Earthquake,#870007,usgs,图姆苏克地震,2025-12-05T03:40:00+00:00,China,0.6301151120175933,1,1,zh,ECA,Asia
-'c463e52219',extremes,Wildfire,#d60d2b,wmo,東源縣山火,2025-11-25T03:37:00+00:00,China,0.6059732222385183,1,1,zh,EAS,Asia
 'b491d98282',extremes,Cold Wave,#a7e9fa,wmo,冰冻曹县,2025-12-12T03:45:00+00:00,China,0.6034941702403491,1,1,zh,EAS,Asia
 'e9f923a82b',extremes,Cold Wave,#a7e9fa,wmo,霍爾果斯市寒潮,2025-12-11T03:46:00+00:00,China,0.5989038898346855,1,1,zh,EAS,Asia
 'e39961b1b4',extremes,Wildfire,#d60d2b,wmo,顺德区山火,2025-11-25T03:37:00+00:00,China,0.5974910951095342,1,1,zh,EAS,Asia
