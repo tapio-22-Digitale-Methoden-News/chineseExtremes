@@ -228,6 +228,23 @@ def storeCollection():
         df = pd.DataFrame.from_dict(collectedNews[dateFile], orient='index', columns=cols)
         df.index = df['url'].apply( lambda x: hashlib.sha256(x.encode()).hexdigest()[:32])  
         df = removeDuplicates(df)
+
+        for index, column in df.iterrows():
+          lng = column['language']
+          if(not lng):
+            lng = 'auto'
+          txt = str(column['title']) + '. ' + str(column['description'])
+          try:
+            print(['inside repair: ', lng, column['de'], txt])
+            if(not column['de'] or pd.isna(column['de'])):
+              df.loc[index,'de'] = GoogleTranslator(source=lng, target='de').translate(text=txt)
+            if(not column['en'] or pd.isna(column['en'])):
+              df.loc[index,'en'] = GoogleTranslator(source=lng, target='en').translate(text=txt)
+            if(not column['la'] or pd.isna(column['la'])):
+              df.loc[index,'la'] = GoogleTranslator(source=lng, target='la').translate(text=txt)
+          except Exception as X:
+            print(["translation went wrong: ",  column]) 
+      
         #df.to_csv(DATA_PATH / dateFile, index=True) 
         if(not os.path.exists(DATA_PATH / 'cxsv')):
             os.mkdir(DATA_PATH / 'cxsv')
@@ -492,7 +509,7 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
              foundKeywords.append(keyword) 
              foundColumns.append(column2) 
              found = True
-             max(valid,0.7)
+             valid = max(valid,0.7)
       # add seldom keywords twice if
       if(not seldomDF.empty):
        keywordsSeldomLangDF = seldomDF[seldomDF['language']==language]
@@ -503,13 +520,14 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
              foundKeywords.append(keyword) 
              foundColumns.append(column2) 
              found = True
+             valid = max(valid,0.65) 
       if(not found):
         for index2, column2 in termsLangDF.iterrows(): 
            allFound = checkKeywordInQuote(keyword, fullQuote, case=True)
            if(allFound):
              foundKeywords.append(keyword) 
              found = True
-             max(valid,0.6) 
+             valid = max(valid,0.6) 
       if(not found):
         for index2, column2 in termsLangDF.iterrows(): 
            allFound = checkKeywordInQuote(keyword, fullQuote, case=True, anyKey=True)
@@ -517,16 +535,21 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
              foundKeywords.append(keyword) 
              foundColumns.append(column2) 
              found = True
-             max(valid,0.2) 
+             valid = max(valid,0.2) 
       if(language in ['zh','ja']):
        if(not found):
          for index2, column2 in termsLangDF.iterrows(): 
            numFound = countSingleCharsInQuote(keyword, searchQuote+fullQuote, case=True)
-           if(numFound>0):
+           if(numFound>valid):
+             valid = max(valid,numFound) 
+             foundKeywords = [keyword]
+             foundColumns = [column2]
+             found = True
+           elif(numFound==valid):  
              foundKeywords.append(keyword) 
              foundColumns.append(column2) 
              found = True
-             max(valid,numFound) 
+             valid = max(valid,numFound) 
 
       data['valid'] = valid
       if(valid>0.15):
