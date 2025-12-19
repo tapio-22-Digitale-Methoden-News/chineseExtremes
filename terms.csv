@@ -1,5 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'1bd470d857',extremes,Cold Wave,#a7e9fa,wmo,冰冻中国,2025-12-10T03:45:00+00:00,China,0.7426714478136197,0,1,zh,EAS,Asia
+'71747ed39a',extremes,Earthquake,#870007,usgs,图姆苏克地震,2025-12-05T03:40:00+00:00,China,0.7413118788442273,0,1,zh,ECA,Asia
 '1992637918',extremes,Cold Wave,#a7e9fa,wmo,额敏县冰冻,2025-12-11T03:46:00+00:00,China,0.7354643702385708,0,1,zh,EAS,Asia
+'0dbfb0c2b4',extremes,Cold Wave,#a7e9fa,wmo,寒潮中國,2025-12-09T03:41:00+00:00,China,0.7264245633507326,0,1,zh,EAS,Asia
 '1dba7ca69f',extremes,Cold Wave,#a7e9fa,wmo,长清地区结冰,2025-12-01T04:02:00+00:00,China,0.7187649312684061,0,1,zh,EAS,Asia
 '7299cf5708',extremes,Cold Wave,#a7e9fa,wmo,营口市冰冻,2025-12-11T03:46:00+00:00,China,0.7179746018105713,0,1,zh,EAS,Asia
 '0d837b62da',extremes,Cold Wave,#a7e9fa,wmo,锦州城结冰,2025-12-12T03:45:00+00:00,China,0.7172115398190063,0,1,zh,EAS,Asia
@@ -13,6 +16,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '30450bcb7c',extremes,Cold Wave,#a7e9fa,wmo,额敏县寒潮,2025-12-09T03:41:00+00:00,China,0.6979380120845536,0,1,zh,EAS,Asia
 'cbba9d373b',extremes,Earthquake,#870007,usgs,陽隆地震,2025-11-29T03:34:00+00:00,China,0.6971337339353626,0,1,zh,ECA,Asia
 'f201b9f5a6',extremes,Cold Wave,#a7e9fa,wmo,尼勒克縣結冰,2025-12-11T03:46:00+00:00,China,0.6945983452119963,0,1,zh,EAS,Asia
+'31eca0f274',extremes,Earthquake,#870007,usgs,吐魯番地震,2025-12-14T03:49:00+00:00,China,0.6937816804528574,0,1,zh,ECA,Asia
+'cae5de84e7',extremes,Cold Wave,#a7e9fa,wmo,單縣結冰,2025-12-11T03:46:00+00:00,China,0.693438179325085,0,1,zh,EAS,Asia
+'9ecab15eda',extremes,Cold Wave,#a7e9fa,wmo,定陶地区严寒,2025-12-12T03:45:00+00:00,China,0.6901571307563287,0,1,zh,EAS,Asia
 '424da40e62',extremes,Wildfire,#d60d2b,wmo,吉安县野火,2025-11-27T03:34:00+00:00,China,0.6845719896486389,1,1,zh,EAS,Asia
 'c685705bbd',extremes,Earthquake,#870007,usgs,中国地震,2025-12-07T03:46:00+00:00,China,0.6647530828909066,1,2,zh,ECA,Asia
 'fe7870f943',extremes,Wildfire,#d60d2b,wmo,井冈山市山火,2025-12-02T03:41:00+00:00,China,0.6336747897557083,1,1,zh,EAS,Asia
