@@ -1,14 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '7e1dfa7301',extremes,Cold Wave,#a7e9fa,wmo,伊川县结冰,2025-12-11T03:46:00+00:00,China,0.7140979685572618,0,1,zh,EAS,Asia
 'e9f923a82b',extremes,Cold Wave,#a7e9fa,wmo,霍尔果斯市寒潮,2025-12-11T03:46:00+00:00,China,0.7045928115702182,0,1,zh,EAS,Asia
-'92839b511b',extremes,Cold Wave,#a7e9fa,wmo,铜仁市冰冻,2025-12-11T03:46:00+00:00,China,0.7037908444031403,0,1,zh,EAS,Asia
 '30450bcb7c',extremes,Cold Wave,#a7e9fa,wmo,額敏縣寒潮,2025-12-09T03:41:00+00:00,China,0.6979380120845536,0,1,zh,EAS,Asia
 '31eca0f274',extremes,Earthquake,#870007,usgs,吐魯番地震,2025-12-14T03:49:00+00:00,China,0.6937816804528574,0,1,zh,ECA,Asia
 'cae5de84e7',extremes,Cold Wave,#a7e9fa,wmo,单县结冰,2025-12-11T03:46:00+00:00,China,0.693438179325085,0,1,zh,EAS,Asia
-'bbced37b82',extremes,Cold Wave,#a7e9fa,wmo,鄒平地區結冰,2025-12-12T03:45:00+00:00,China,0.6931635750045209,0,1,zh,EAS,Asia
 'fe30aa1c0d',extremes,Cold Wave,#a7e9fa,wmo,精河縣結冰,2025-12-11T03:46:00+00:00,China,0.6929119009943059,0,1,zh,EAS,Asia
 'a46fd5270a',extremes,Cold Wave,#a7e9fa,wmo,阿拉山口結冰,2025-12-11T03:46:00+00:00,China,0.6921077529850248,0,1,zh,EAS,Asia
-'9ecab15eda',extremes,Cold Wave,#a7e9fa,wmo,定陶地区严寒,2025-12-12T03:45:00+00:00,China,0.6901571307563287,0,1,zh,EAS,Asia
 '1b0c3eb7bd',extremes,Cold Wave,#a7e9fa,wmo,德克萨斯县结冰,2025-12-09T03:41:00+00:00,China,0.6891616811954001,0,1,zh,EAS,Asia
 'ba4425a186',extremes,Cold Wave,#a7e9fa,wmo,安丘寒潮,2025-12-11T03:46:00+00:00,China,0.6881467046364886,0,1,zh,EAS,Asia
 'c2f2295f92',extremes,Cold Wave,#a7e9fa,wmo,蒙阴县寒潮,2025-12-11T03:46:00+00:00,China,0.6859916457768742,0,1,zh,EAS,Asia
@@ -63,6 +60,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2dbf107382',extremes,Cold Wave,#a7e9fa,wmo,聊城寒潮,2025-11-30T03:46:00+00:00,China,0.5968303155253135,1,1,zh,EAS,Asia
 '1ed9ae779c',extremes,Cold Wave,#a7e9fa,wmo,武昌市寒潮,2025-12-07T03:47:00+00:00,China,0.5941468593892835,1,1,zh,EAS,Asia
 'f201b9f5a6',extremes,Cold Wave,#a7e9fa,wmo,尼勒克縣結冰,2025-12-11T03:46:00+00:00,China,0.5904085934301968,1,1,zh,EAS,Asia
+'bbced37b82',extremes,Cold Wave,#a7e9fa,wmo,鄒平地區結冰,2025-12-12T03:45:00+00:00,China,0.5891890387538428,1,1,zh,EAS,Asia
+'9ecab15eda',extremes,Cold Wave,#a7e9fa,wmo,定陶地区严寒,2025-12-12T03:45:00+00:00,China,0.5867835761428793,1,1,zh,EAS,Asia
 'f7493e0a77',extremes,Tropical Cyclone,#4f4f4f,wmo,台风中国,2025-11-30T03:46:00+00:00,China,0.5679562384571141,7,3,zh,EAS,Asia
 '9b3a7ce82b',extremes,Cold Wave,#a7e9fa,wmo,结冰的额尔古纳市,2025-12-08T03:44:00+00:00,China,0.5073643926592,2,1,zh,EAS,Asia
 '3e8758f0bb',extremes,Cold Wave,#a7e9fa,wmo,寒潮尼勒克縣,2025-12-09T03:41:00+00:00,China,0.4998781130081771,2,1,zh,EAS,Asia
