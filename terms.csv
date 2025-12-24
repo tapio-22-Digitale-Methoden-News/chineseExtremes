@@ -1,11 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'92839b511b',extremes,Cold Wave,#a7e9fa,wmo,铜仁市冰冻,2025-12-11T03:46:00+00:00,China,0.7037908444031403,0,1,zh,EAS,Asia
 '30450bcb7c',extremes,Cold Wave,#a7e9fa,wmo,額敏縣寒潮,2025-12-09T03:41:00+00:00,China,0.6979380120845536,0,1,zh,EAS,Asia
+'31eca0f274',extremes,Earthquake,#870007,usgs,吐鲁番地震,2025-12-14T03:49:00+00:00,China,0.6937816804528574,0,1,zh,ECA,Asia
 'cae5de84e7',extremes,Cold Wave,#a7e9fa,wmo,单县结冰,2025-12-11T03:46:00+00:00,China,0.693438179325085,0,1,zh,EAS,Asia
 'fe30aa1c0d',extremes,Cold Wave,#a7e9fa,wmo,精河縣結冰,2025-12-11T03:46:00+00:00,China,0.6929119009943059,0,1,zh,EAS,Asia
 'a46fd5270a',extremes,Cold Wave,#a7e9fa,wmo,阿拉山口結冰,2025-12-11T03:46:00+00:00,China,0.6921077529850248,0,1,zh,EAS,Asia
 '1b0c3eb7bd',extremes,Cold Wave,#a7e9fa,wmo,德克萨斯县结冰,2025-12-09T03:41:00+00:00,China,0.6891616811954001,0,1,zh,EAS,Asia
 'ba4425a186',extremes,Cold Wave,#a7e9fa,wmo,安丘寒潮,2025-12-11T03:46:00+00:00,China,0.6881467046364886,0,1,zh,EAS,Asia
 'c2f2295f92',extremes,Cold Wave,#a7e9fa,wmo,蒙阴县寒潮,2025-12-11T03:46:00+00:00,China,0.6859916457768742,0,1,zh,EAS,Asia
+'41ad3caddd',extremes,Cold Wave,#a7e9fa,wmo,寒潮格尔木,2025-12-11T03:46:00+00:00,China,0.6857164467721754,0,1,zh,EAS,Asia
 '900d13c2ab',extremes,Cold Wave,#a7e9fa,wmo,寒潮 雨城市,2025-12-11T03:46:00+00:00,China,0.685395767502346,0,1,zh,EAS,Asia
 '424da40e62',extremes,Wildfire,#d60d2b,wmo,吉安县野火,2025-11-27T03:34:00+00:00,China,0.6845719896486389,1,1,zh,EAS,Asia
 '945f3e0b60',extremes,Cold Wave,#a7e9fa,wmo,霍州市寒潮,2025-12-12T03:45:00+00:00,China,0.6816249634464497,0,1,zh,EAS,Asia
@@ -36,6 +39,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f37e69ed8a',extremes,Cold Wave,#a7e9fa,wmo,邹城寒潮,2025-12-11T03:46:00+00:00,China,0.6643977119345845,0,1,zh,EAS,Asia
 '3d0ff33de6',extremes,Cold Wave,#a7e9fa,wmo,民勤县冰冻,2025-12-12T03:45:00+00:00,China,0.6641308868727632,0,1,zh,EAS,Asia
 '0f71f1acff',extremes,Cold Wave,#a7e9fa,wmo,新泰市冰冻,2025-12-11T03:46:00+00:00,China,0.6633941113415186,0,1,zh,EAS,Asia
+'5cef0ac212',extremes,Wildfire,#d60d2b,wmo,陽山縣山火,2025-12-15T03:54:00+00:00,China,0.6617719563848303,0,1,zh,EAS,Asia
+'ee1102d11a',extremes,Cold Wave,#a7e9fa,wmo,寒潮 吳堡縣,2025-12-11T03:46:00+00:00,China,0.6612774852652207,0,1,zh,EAS,Asia
+'c6051c16dc',extremes,Wildfire,#d60d2b,wmo,深圳山火,2025-12-19T03:46:00+00:00,China,0.6608481061391676,0,1,zh,EAS,Asia
+'8188916d8f',extremes,Cold Wave,#a7e9fa,wmo,冰冻夏县,2025-12-12T03:45:00+00:00,China,0.6603713195886003,0,1,zh,EAS,Asia
+'b55870fa29',extremes,Wildfire,#d60d2b,wmo,惠東縣山火,2025-12-13T03:38:00+00:00,China,0.6601948440413864,0,1,zh,EAS,Asia
+'55def9243d',extremes,Cold Wave,#a7e9fa,wmo,莒南縣冰凍,2025-12-11T03:46:00+00:00,China,0.660064234742159,0,1,zh,EAS,Asia
+'6e23b91b5f',extremes,Cold Wave,#a7e9fa,wmo,平度市冰冻,2025-12-01T04:02:00+00:00,China,0.6590347987871739,0,1,zh,EAS,Asia
 '0ea3de86e9',extremes,Wildfire,#d60d2b,wmo,野火中国,2025-12-05T03:41:00+00:00,China,0.640339322471006,1,2,zh,EAS,Asia
 '1dba7ca69f',extremes,Cold Wave,#a7e9fa,wmo,长清地区结冰,2025-12-01T04:02:00+00:00,China,0.6340825197599634,1,2,zh,EAS,Asia
 'fe7870f943',extremes,Wildfire,#d60d2b,wmo,井冈山市山火,2025-12-02T03:41:00+00:00,China,0.6336747897557083,1,1,zh,EAS,Asia
