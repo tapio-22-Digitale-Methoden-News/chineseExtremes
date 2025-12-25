@@ -13,10 +13,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9340cc40dd',extremes,Cold Wave,#a7e9fa,wmo,周村区寒潮,2025-12-11T03:46:00+00:00,China,0.677477112649468,0,1,zh,EAS,Asia
 'dbaffef1b2',extremes,Wildfire,#d60d2b,wmo,清远市山火,2025-12-01T04:02:00+00:00,China,0.6758866707241976,0,1,zh,EAS,Asia
 '28ad239c9a',extremes,Cold Wave,#a7e9fa,wmo,米脂县结冰,2025-12-11T03:46:00+00:00,China,0.6746172169503515,0,1,zh,EAS,Asia
-'ff9d015a10',extremes,Cold Wave,#a7e9fa,wmo,白剑潭区寒潮,2025-12-10T03:45:00+00:00,China,0.6732933572871947,0,1,zh,EAS,Asia
 '3bb69bde0e',extremes,Cold Wave,#a7e9fa,wmo,烏魯木齊市寒潮,2025-12-11T03:46:00+00:00,China,0.6713920208793439,0,1,zh,EAS,Asia
 '6480b1bf92',extremes,Cold Wave,#a7e9fa,wmo,冰冻安定地区,2025-12-11T03:46:00+00:00,China,0.6701164927719744,0,1,zh,EAS,Asia
-'a31fe30224',extremes,Cold Wave,#a7e9fa,wmo,冰冻静乐县,2025-12-12T03:45:00+00:00,China,0.6684950824772159,0,1,zh,EAS,Asia
 '008dd597dd',extremes,Wildfire,#d60d2b,wmo,吴川市野火,2025-12-06T03:32:00+00:00,China,0.6680912464943887,0,1,zh,EAS,Asia
 'c90367c610',extremes,Cold Wave,#a7e9fa,wmo,鞍山市冰冻,2025-12-10T03:45:00+00:00,China,0.6678121425654082,0,1,zh,EAS,Asia
 'd99418b388',extremes,Cold Wave,#a7e9fa,wmo,周至縣寒潮,2025-12-12T03:45:00+00:00,China,0.6671984345148785,0,1,zh,EAS,Asia
@@ -85,6 +83,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6be55d0cfc',extremes,Wildfire,#d60d2b,wmo,徐闻县山火,2025-12-02T03:41:00+00:00,China,0.5747832887735123,1,1,zh,EAS,Asia
 'c685705bbd',extremes,Earthquake,#870007,usgs,中国地震,2025-12-07T03:46:00+00:00,China,0.5745371350027252,2,3,zh,ECA,Asia
 '4ae293c030',extremes,Cold Wave,#a7e9fa,wmo,凌城区寒潮,2025-12-11T03:46:00+00:00,China,0.5744552215062677,1,1,zh,EAS,Asia
+'a31fe30224',extremes,Cold Wave,#a7e9fa,wmo,冰冻静乐县,2025-12-12T03:45:00+00:00,China,0.5683708351056335,1,1,zh,EAS,Asia
 'f7493e0a77',extremes,Tropical Cyclone,#4f4f4f,wmo,台风中国,2025-11-30T03:46:00+00:00,China,0.5679562384571141,7,3,zh,EAS,Asia
 '9b3a7ce82b',extremes,Cold Wave,#a7e9fa,wmo,结冰的额尔古纳市,2025-12-08T03:44:00+00:00,China,0.5073643926592,2,1,zh,EAS,Asia
 '3e8758f0bb',extremes,Cold Wave,#a7e9fa,wmo,寒潮尼勒克縣,2025-12-09T03:41:00+00:00,China,0.4998781130081771,2,1,zh,EAS,Asia
