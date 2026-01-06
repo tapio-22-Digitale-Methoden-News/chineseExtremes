@@ -36,7 +36,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '71747ed39a',extremes,Earthquake,#870007,usgs,圖姆蘇克地震,2025-12-05T03:40:00+00:00,China,0.6302651120175933,1,1,zh,ECA,Asia
 '5bb87daf8b',extremes,Cold Wave,#a7e9fa,wmo,西丰县结冰,2025-12-12T03:45:00+00:00,China,0.6301287960682294,0,1,zh,EAS,Asia
 '6f414c22b8',extremes,Cold Wave,#a7e9fa,wmo,卓尼县寒潮,2025-12-11T03:46:00+00:00,China,0.6287846615542889,0,1,zh,EAS,Asia
-'a0c7ef0ee4',extremes,Cold Wave,#a7e9fa,wmo,寒潮伯樂,2025-12-12T03:45:00+00:00,China,0.6284329378347379,0,1,zh,EAS,Asia
 '104303fdbd',extremes,Cold Wave,#a7e9fa,wmo,夷陵区寒潮,2025-12-12T03:45:00+00:00,China,0.6275797740933334,0,1,zh,EAS,Asia
 '0dbfb0c2b4',extremes,Cold Wave,#a7e9fa,wmo,寒潮中國,2025-12-09T03:41:00+00:00,China,0.6271304996173535,1,2,zh,EAS,Asia
 'bbd60c1442',extremes,Wildfire,#d60d2b,wmo,乐昌市野火,2025-12-16T03:47:00+00:00,China,0.6270299893378061,0,1,zh,EAS,Asia
