@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'f7493e0a77',extremes,Tropical Cyclone,#4f4f4f,wmo,台风中国,2025-11-30T03:46:00+00:00,China,0.6827346789100992,1,2,zh,EAS,Asia
 '1997509009',extremes,Wildfire,#d60d2b,wmo,增城區山火,2025-12-13T03:38:00+00:00,China,0.6520839592583866,1,2,zh,EAS,Asia
-'074fc74265',extremes,Cold Wave,#a7e9fa,wmo,大日县冰冻,2025-12-12T03:45:00+00:00,China,0.65102274467979,0,1,zh,EAS,Asia
 '45074dd419',extremes,Cold Wave,#a7e9fa,wmo,寒潮 開陽縣,2025-12-12T03:45:00+00:00,China,0.6493736908029247,0,1,zh,EAS,Asia
 'a19f94ed85',extremes,Cold Wave,#a7e9fa,wmo,冰凍古仙,2025-12-12T03:45:00+00:00,China,0.6489120729327207,0,1,zh,EAS,Asia
 '3e48d5ac7c',extremes,Cold Wave,#a7e9fa,wmo,靖宇县冰冻,2025-12-11T03:46:00+00:00,China,0.6485286925157157,0,1,zh,EAS,Asia
