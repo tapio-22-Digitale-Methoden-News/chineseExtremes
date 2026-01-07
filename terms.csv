@@ -1,4 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'4880385bef',extremes,Wildfire,#d60d2b,wmo,松陽縣山火,2025-12-15T03:54:00+00:00,China,0.7422535250528127,0,1,zh,EAS,Asia
+'f7493e0a77',extremes,Tropical Cyclone,#4f4f4f,wmo,台风中国,2025-11-30T03:46:00+00:00,China,0.7278683703755179,0,1,zh,EAS,Asia
 '1997509009',extremes,Wildfire,#d60d2b,wmo,增城區山火,2025-12-13T03:38:00+00:00,China,0.6520839592583866,1,2,zh,EAS,Asia
 '074fc74265',extremes,Cold Wave,#a7e9fa,wmo,大日县冰冻,2025-12-12T03:45:00+00:00,China,0.65102274467979,0,1,zh,EAS,Asia
 '45074dd419',extremes,Cold Wave,#a7e9fa,wmo,寒潮 開陽縣,2025-12-12T03:45:00+00:00,China,0.6493736908029247,0,1,zh,EAS,Asia
@@ -21,6 +23,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b70a5d953c',extremes,Cold Wave,#a7e9fa,wmo,白雲區寒潮,2025-12-12T03:45:00+00:00,China,0.6382568151649626,0,1,zh,EAS,Asia
 'f3d35b7837',extremes,Wildfire,#d60d2b,wmo,龍川縣山火,2025-12-15T03:54:00+00:00,China,0.6380273447831732,0,1,zh,EAS,Asia
 '6be40dfbba',extremes,Cold Wave,#a7e9fa,wmo,寒潮东乡族自治县,2025-12-12T03:45:00+00:00,China,0.6378686235984821,0,1,zh,EAS,Asia
+'1adc7027b2',extremes,Cold Wave,#a7e9fa,wmo,孝南区结冰,2025-12-12T03:45:00+00:00,China,0.6369678187554368,0,1,zh,EAS,Asia
 'ad41085b03',extremes,Wildfire,#d60d2b,wmo,翁源县山火,2025-12-16T03:47:00+00:00,China,0.635124025799666,0,1,zh,EAS,Asia
 '4029a537dd',extremes,Wildfire,#d60d2b,wmo,斗门区山火,2025-12-10T03:45:00+00:00,China,0.6349158054058363,0,1,zh,EAS,Asia
 '1dba7ca69f',extremes,Cold Wave,#a7e9fa,wmo,长清地区结冰,2025-12-01T04:02:00+00:00,China,0.6340825197599634,1,2,zh,EAS,Asia
@@ -150,6 +153,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '419292dd5b',extremes,Cold Wave,#a7e9fa,wmo,瑞昌市冰凍,2025-12-14T03:49:00+00:00,China,0.5814962774721676,0,1,zh,EAS,Asia
 '1b8ae6f2c0',extremes,Cold Wave,#a7e9fa,wmo,海鹽縣寒潮,2025-12-12T03:45:00+00:00,China,0.5813989048338978,0,1,zh,EAS,Asia
 '91e0488172',extremes,Cold Wave,#a7e9fa,wmo,禮泉縣結冰,2025-12-12T03:45:00+00:00,China,0.5812685386829166,0,1,zh,EAS,Asia
+'2fef58f993',extremes,Fog,#d60d2b,wmo,霧 淮濱縣,2025-12-18T03:44:00+00:00,China,0.5809593883966224,0,1,zh,EAS,Asia
 '5f8c87b23d',extremes,Fog,#d60d2b,wmo,雾新乐城,2025-12-18T03:44:00+00:00,China,0.5807203622517624,0,1,zh,EAS,Asia
 '945f3e0b60',extremes,Cold Wave,#a7e9fa,wmo,霍州市寒潮,2025-12-12T03:45:00+00:00,China,0.5795312339294822,1,1,zh,EAS,Asia
 'dd364da8da',extremes,Cold Wave,#a7e9fa,wmo,冰冻阿尔山,2025-12-08T03:44:00+00:00,China,0.5788393127206779,1,1,zh,EAS,Asia
