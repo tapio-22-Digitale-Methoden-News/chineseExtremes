@@ -149,9 +149,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '419292dd5b',extremes,Cold Wave,#a7e9fa,wmo,瑞昌市冰凍,2025-12-14T03:49:00+00:00,China,0.5814962774721676,0,1,zh,EAS,Asia
 '1b8ae6f2c0',extremes,Cold Wave,#a7e9fa,wmo,海鹽縣寒潮,2025-12-12T03:45:00+00:00,China,0.5813989048338978,0,1,zh,EAS,Asia
 '91e0488172',extremes,Cold Wave,#a7e9fa,wmo,禮泉縣結冰,2025-12-12T03:45:00+00:00,China,0.5812685386829166,0,1,zh,EAS,Asia
+'0d6e043d1a',extremes,Cold Wave,#a7e9fa,wmo,泸西县结冰,2025-12-13T03:38:00+00:00,China,0.5812407349443672,0,1,zh,EAS,Asia
 '2fef58f993',extremes,Fog,#d60d2b,wmo,霧 淮濱縣,2025-12-18T03:44:00+00:00,China,0.5809593883966224,0,1,zh,EAS,Asia
 '5f8c87b23d',extremes,Fog,#d60d2b,wmo,雾新乐城,2025-12-18T03:44:00+00:00,China,0.5807203622517624,0,1,zh,EAS,Asia
+'666590c5fb',extremes,Fog,#d60d2b,wmo,霧赤水,2025-12-14T03:49:00+00:00,China,0.5801651381137679,0,1,zh,EAS,Asia
 '9b06fe6245',extremes,Drought,#edc291,edo,圣诞岛干旱,2025-12-15T03:54:00+00:00,Christmas Island,0.5798073323164781,0,1,zh,SIO,Oceania
+'fe9b848c24',extremes,Fog,#d60d2b,wmo,霧 遂川縣,2025-12-15T03:54:00+00:00,China,0.5797239640397736,0,1,zh,EAS,Asia
 '945f3e0b60',extremes,Cold Wave,#a7e9fa,wmo,霍州市寒潮,2025-12-12T03:45:00+00:00,China,0.5795312339294822,1,1,zh,EAS,Asia
 'dd364da8da',extremes,Cold Wave,#a7e9fa,wmo,冰冻阿尔山,2025-12-08T03:44:00+00:00,China,0.5788393127206779,1,1,zh,EAS,Asia
 '381a9d6907',extremes,Cold Wave,#a7e9fa,wmo,寒潮尖扎县,2025-12-12T03:45:00+00:00,China,0.5784528141299988,1,1,zh,EAS,Asia
