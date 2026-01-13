@@ -30,7 +30,7 @@ termsFields = ["index","module", "topic", "color", "feed", "term", "created", "c
 topicsDict = {}
 
 # MOVE TO myparameters.py (no secrets only)
-MAX_IMPORTS = 10
+MAX_IMPORTS = 6
 
 TARGET_LANGUAGE = os.getenv('EXTREME_LANGUAGE')
 if(TARGET_LANGUAGE == 'xx'): 
@@ -83,6 +83,9 @@ def importTerms(maxImports=10, targetLanguage='de'):
 
     topicsDF['ratio'] *= topicsDF['country'].apply(
       lambda x: max(0.5,countriesForLanguage[x]) if (x in countriesForLanguage) else 0.4 
+    )
+    topicsDF['ratio'] += topicsDF['feed'].apply(
+      lambda x: 0.11 if (x == 'random') else 0.0
     )
     topicsDF = topicsDF.sort_values(by=['ratio'], ascending=False) 
     topicsDF['pages'] = 1
