@@ -78,6 +78,7 @@ newsDf['description'] = newsDf['description'].fillna('')
 ##newsDf['quote'] = newsDf['quote'].fillna('')
 #newsDf['text'] = newsDf['title'] + ' ' + newsDf['description'] 
 ## newsDf = newsDf[newsDf['valid']>0.5]
+newsDf['en'] = newsDf['en'].fillna('')
 print(newsDf)  
 print(list(newsDf.columns.values))
 newsDfValid = newsDf[newsDf['valid']>0.5]
