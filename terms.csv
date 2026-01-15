@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'6628268bda',extremes,Earthquake,#870007,usgs,庫爾勒地震,2026-01-15T10:56:00+00:00,China,0.7913783331578237,0,1,zh,ECA,Asia
-'40a849aef3',extremes,Earthquake,#870007,usgs,昭通地震,2026-01-15T12:13:00+00:00,China,0.7907889480396547,0,1,zh,EAS,Asia
+'40a849aef3',extremes,Earthquake,#870007,usgs,昭通地震,2026-01-15T12:13:00+00:00,China,0.7803635679765636,1,2,zh,EAS,Asia
 '40a84ece07',extremes,Storm,#b3b2b1,wmo,風暴 孟村回族自治縣,2026-01-15T10:56:00+00:00,China,0.7721935447255135,0,1,zh,EAS,Asia
 '91cb77b937',extremes,Storm,#b3b2b1,wmo,风暴 壶关县,2026-01-15T10:56:00+00:00,China,0.7721897121159459,0,1,zh,EAS,Asia
 'ee82dd8cd9',extremes,Storm,#b3b2b1,wmo,风暴潮哈巴河县,2026-01-15T10:56:00+00:00,China,0.7721896475092822,0,1,zh,EAS,Asia
