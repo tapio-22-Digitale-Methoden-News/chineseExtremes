@@ -1,4 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'568378a997',extremes,Storm,#b3b2b1,wmo,风暴潮 惠农区,2026-01-15T10:56:00+00:00,China,0.7721936893577239,0,1,zh,EAS,Asia
+'40a84ece07',extremes,Storm,#b3b2b1,wmo,風暴 孟村回族自治縣,2026-01-15T10:56:00+00:00,China,0.7721935447255135,0,1,zh,EAS,Asia
+'91cb77b937',extremes,Storm,#b3b2b1,wmo,风暴 壶关县,2026-01-15T10:56:00+00:00,China,0.7721897121159459,0,1,zh,EAS,Asia
+'c42aeb42e1',extremes,Storm,#b3b2b1,wmo,風暴祿曲縣,2026-01-15T10:56:00+00:00,China,0.7721884958766073,0,1,zh,EAS,Asia
 'fe7870f943',extremes,Wildfire,#d60d2b,wmo,井冈山市山火,2025-12-02T03:41:00+00:00,China,0.7454997526537746,0,1,zh,EAS,Asia
 '1992637918',extremes,Cold Wave,#a7e9fa,wmo,額敏縣冰凍,2025-12-11T03:46:00+00:00,China,0.7354643702385708,0,1,zh,EAS,Asia
 '27f74cdd1d',extremes,Cold Wave,#a7e9fa,wmo,乌恰县结冰,2025-12-12T03:45:00+00:00,China,0.725514001838956,0,1,zh,EAS,Asia
