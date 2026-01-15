@@ -198,3 +198,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f37e69ed8a',extremes,Cold Wave,#a7e9fa,wmo,邹城寒潮,2025-12-11T03:46:00+00:00,China,0.4800273468727372,2,1,zh,EAS,Asia
 'fe822dbf60',extremes,Cold Wave,#a7e9fa,wmo,礼泉县寒潮,2025-12-11T03:46:00+00:00,China,0.4689513004127206,2,1,zh,EAS,Asia
 '104303fdbd',extremes,Cold Wave,#a7e9fa,wmo,夷陵区寒潮,2025-12-12T03:45:00+00:00,China,0.4534263867824334,2,1,zh,EAS,Asia
+'633ed59c63',extremes,Iceberg,#d60d2b,random,北极海冰,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,zh,,
+'0053afc92f',extremes,Volcano,#b83202,random,火山泥漿,2026-01-15T10:20:00+00:00,,0.2562914317228042,0,1,zh,,
