@@ -41,11 +41,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6480b1bf92',extremes,Cold Wave,#a7e9fa,wmo,冰冻安定地区,2025-12-11T03:46:00+00:00,China,0.6204991088561782,1,1,zh,EAS,Asia
 'daeed3cc17',extremes,Wildfire,#d60d2b,wmo,信宜市山火,2025-12-06T03:32:00+00:00,China,0.6202333669718039,1,2,zh,EAS,Asia
 '404b4cbbcd',extremes,Cold Wave,#a7e9fa,wmo,當陽市結冰,2025-12-12T03:45:00+00:00,China,0.6175669810584077,1,1,zh,EAS,Asia
-'50fd65e341',extremes,Cold Wave,#a7e9fa,wmo,寒潮森哈萨克自治县,2025-12-12T03:45:00+00:00,China,0.6126413901022292,0,1,zh,EAS,Asia
 '14c754a899',extremes,Cold Wave,#a7e9fa,wmo,冷潮福泉,2025-12-12T03:45:00+00:00,China,0.6124865099267454,0,1,zh,EAS,Asia
 'b55870fa29',extremes,Wildfire,#d60d2b,wmo,惠東縣山火,2025-12-13T03:38:00+00:00,China,0.6116156624351785,1,1,zh,EAS,Asia
 '7299cf5708',extremes,Cold Wave,#a7e9fa,wmo,营口市冰冻,2025-12-11T03:46:00+00:00,China,0.6107284565389856,1,1,zh,EAS,Asia
-'ef6d99bcee',extremes,Cold Wave,#a7e9fa,wmo,寒潮 宜城区,2025-12-11T03:46:00+00:00,China,0.6104575714980031,0,1,zh,EAS,Asia
 '0d837b62da',extremes,Cold Wave,#a7e9fa,wmo,锦州城结冰,2025-12-12T03:45:00+00:00,China,0.6097798238461554,1,1,zh,EAS,Asia
 '4afa081488',extremes,Cold Wave,#a7e9fa,wmo,平邑縣結冰,2025-12-12T03:45:00+00:00,China,0.6094065589303863,1,1,zh,EAS,Asia
 '2fddc927a5',extremes,Cold Wave,#a7e9fa,wmo,福海县结冰,2025-12-11T03:46:00+00:00,China,0.6094030194317704,0,1,zh,EAS,Asia
@@ -180,6 +178,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '71c2f41be7',extremes,Cold Wave,#a7e9fa,wmo,湘潭县结冰,2025-12-12T03:45:00+00:00,China,0.5263790843918221,1,1,zh,EAS,Asia
 'af6f76498a',extremes,Wildfire,#d60d2b,wmo,龙门县山火,2025-12-13T03:38:00+00:00,China,0.5257157008194618,1,1,zh,EAS,Asia
 '4ffea55201',extremes,Cold Wave,#a7e9fa,wmo,崇陽縣寒潮,2025-12-12T03:45:00+00:00,China,0.5234824075954965,1,1,zh,EAS,Asia
+'50fd65e341',extremes,Cold Wave,#a7e9fa,wmo,寒潮森哈萨克自治县,2025-12-12T03:45:00+00:00,China,0.5207451815868948,1,1,zh,EAS,Asia
 '53925c25bd',extremes,Cold Wave,#a7e9fa,wmo,离石区严寒,2025-12-12T03:45:00+00:00,China,0.5191364916659011,1,1,zh,EAS,Asia
 '9c3eae1f14',extremes,Cold Wave,#a7e9fa,wmo,太仓市冰冻,2025-12-13T03:38:00+00:00,China,0.5171548715796246,1,1,zh,EAS,Asia
 'a919d38fe4',extremes,Cold Wave,#a7e9fa,wmo,黄州地区结冰,2025-12-12T03:45:00+00:00,China,0.5144772388375191,1,1,zh,EAS,Asia
