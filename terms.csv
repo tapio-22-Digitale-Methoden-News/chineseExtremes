@@ -1,8 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'2f245982ab',extremes,Cold Wave,#a7e9fa,wmo,寒潮郊区,2026-01-15T10:56:00+00:00,China,0.8065016335769317,1,2,zh,EAS,Asia
 '585e678b13',extremes,Earthquake,#870007,usgs,西林地震热,2026-01-15T10:56:00+00:00,China,0.7855785550103018,0,1,zh,ESB,Asia
 '40a849aef3',extremes,Earthquake,#870007,usgs,昭通地震,2026-01-15T12:13:00+00:00,China,0.7803635679765636,1,2,zh,EAS,Asia
-'925fe10d70',extremes,Cold Wave,#a7e9fa,wmo,锦州市寒潮,2026-01-15T10:56:00+00:00,China,0.7721791035160289,0,1,zh,EAS,Asia
-'2f245982ab',extremes,Cold Wave,#a7e9fa,wmo,寒潮郊区,2026-01-15T10:56:00+00:00,China,0.7721783747963903,0,1,zh,EAS,Asia
 '9e68f3f4c6',extremes,Snow&Ice,#d60d2b,wmo,冰冻寿宁县,2026-01-15T10:56:00+00:00,China,0.7721777504647725,0,1,zh,EAS,Asia
 '3e4f14dbb8',extremes,Storm,#b3b2b1,wmo,风暴潮 福海县,2026-01-15T10:56:00+00:00,China,0.7721775613892596,0,1,zh,EAS,Asia
 'e56b3ec344',extremes,Snow&Ice,#d60d2b,wmo,霜乃曼,2026-01-15T10:56:00+00:00,China,0.7721774421662908,0,1,zh,EAS,Asia
