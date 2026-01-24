@@ -4,9 +4,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2f245982ab',extremes,Cold Wave,#a7e9fa,wmo,寒潮郊区,2026-01-15T10:56:00+00:00,China,0.8065016335769317,1,2,zh,EAS,Asia
 '585e678b13',extremes,Earthquake,#870007,usgs,西林地震热,2026-01-15T10:56:00+00:00,China,0.7855785550103018,0,1,zh,ESB,Asia
 '40a849aef3',extremes,Earthquake,#870007,usgs,昭通地震,2026-01-15T12:13:00+00:00,China,0.7803635679765636,1,2,zh,EAS,Asia
-'7b7143b71f',extremes,Snow&Ice,#d60d2b,wmo,冰冻珲春,2026-01-15T10:56:00+00:00,China,0.7721635256917004,0,1,zh,EAS,Asia
 'ae173edad6',extremes,Wildfire,#d60d2b,wmo,香格里拉市野火,2026-01-15T10:56:00+00:00,China,0.7718379848262225,0,1,zh,EAS,Asia
-'5cb1318740',extremes,Fog,#d60d2b,wmo,雾指导县,2026-01-15T12:14:00+00:00,China,0.7717841098282842,0,1,zh,EAS,Asia
 '79f816f7b3',extremes,Wildfire,#d60d2b,wmo,石峰区山火,2026-01-15T10:56:00+00:00,China,0.7717840788036031,0,1,zh,EAS,Asia
 'b715b5d93c',extremes,Cold Wave,#a7e9fa,wmo,阿勒泰市寒潮,2026-01-15T12:14:00+00:00,China,0.7717791469059209,0,1,zh,EAS,Asia
 '0ea3de86e9',extremes,Wildfire,#d60d2b,wmo,野火中国,2026-01-15T10:56:00+00:00,China,0.7717632352564014,0,1,zh,EAS,Asia
@@ -48,6 +46,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '30502900e7',extremes,Snow&Ice,#d60d2b,wmo,冻结梅河口,2026-01-15T10:56:00+00:00,China,0.6563319054181073,1,1,zh,EAS,Asia
 'afba8305d3',extremes,Snow&Ice,#d60d2b,wmo,冰冻长白朝鲜族自治县,2026-01-15T10:56:00+00:00,China,0.6563240673323887,1,1,zh,EAS,Asia
 'f94711bbbf',extremes,Fog,#d60d2b,wmo,雾万山渠,2026-01-15T10:56:00+00:00,China,0.6561696868421565,1,1,zh,EAS,Asia
+'5cb1318740',extremes,Fog,#d60d2b,wmo,雾指导县,2026-01-15T12:14:00+00:00,China,0.6561665083540416,1,1,zh,EAS,Asia
 '005315f555',extremes,Wildfire,#d60d2b,wmo,维西傈僳族自治县山火,2026-01-15T12:14:00+00:00,China,0.6560571174844885,1,1,zh,EAS,Asia
 '4196612fd2',extremes,Wildfire,#d60d2b,wmo,宁蒗彝族自治县山火,2026-01-15T10:56:00+00:00,China,0.6560285902670049,1,1,zh,EAS,Asia
 '1e8121b0e7',extremes,Cold Wave,#a7e9fa,wmo,來安縣冰凍,2025-12-12T03:45:00+00:00,China,0.6550891539610254,0,1,zh,EAS,Asia
