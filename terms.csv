@@ -6,10 +6,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bb0ad1c34d',extremes,Fog,#d60d2b,wmo,武当区雾,2026-01-15T12:14:00+00:00,China,0.8061368569168167,1,2,zh,EAS,Asia
 '585e678b13',extremes,Earthquake,#870007,usgs,西林地震热,2026-01-15T10:56:00+00:00,China,0.7855785550103018,0,1,zh,ESB,Asia
 '40a849aef3',extremes,Earthquake,#870007,usgs,昭通地震,2026-01-15T12:13:00+00:00,China,0.7803635679765636,1,2,zh,EAS,Asia
+'ca4eea6aff',extremes,Fog,#d60d2b,wmo,雾开元,2026-01-15T12:14:00+00:00,China,0.7736990687662288,1,3,zh,EAS,Asia
 'ae173edad6',extremes,Wildfire,#d60d2b,wmo,香格里拉市野火,2026-01-15T10:56:00+00:00,China,0.7718379848262225,0,1,zh,EAS,Asia
 '79f816f7b3',extremes,Wildfire,#d60d2b,wmo,石峰区山火,2026-01-15T10:56:00+00:00,China,0.7717840788036031,0,1,zh,EAS,Asia
 '0ea3de86e9',extremes,Wildfire,#d60d2b,wmo,野火中国,2026-01-15T10:56:00+00:00,China,0.7717632352564014,0,1,zh,EAS,Asia
-'ca4eea6aff',extremes,Fog,#d60d2b,wmo,雾开元,2026-01-15T12:14:00+00:00,China,0.7717043456073281,0,1,zh,EAS,Asia
 'cfc1f1c267',extremes,Fog,#d60d2b,wmo,雾凯里,2026-01-15T12:14:00+00:00,China,0.7716940488995936,0,1,zh,EAS,Asia
 'e3df734644',extremes,Cold Wave,#a7e9fa,wmo,冰冻的铁岭市,2026-01-15T12:14:00+00:00,China,0.7716939236034033,0,1,zh,EAS,Asia
 '7646ce87ec',extremes,Thunderstorm,#53785a,wmo,中国冰雹,2026-01-15T12:14:00+00:00,China,0.7716455276139087,0,1,zh,EAS,Asia
@@ -18,7 +18,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '52ff5cfd32',extremes,Cold Wave,#a7e9fa,wmo,冰凍阿魯科爾沁旗,2026-01-15T12:14:00+00:00,China,0.7715776124258752,0,1,zh,EAS,Asia
 '568378a997',extremes,Storm,#b3b2b1,wmo,風暴潮 惠農區,2026-01-15T10:56:00+00:00,China,0.7694646959540654,1,2,zh,EAS,Asia
 '356b975314',extremes,Snow&Ice,#d60d2b,wmo,冰通化城,2026-01-15T10:56:00+00:00,China,0.7476704370282637,1,3,zh,EAS,Asia
-'1992637918',extremes,Cold Wave,#a7e9fa,wmo,額敏縣冰凍,2025-12-11T03:46:00+00:00,China,0.7354643702385708,0,1,zh,EAS,Asia
 '88f2d4b487',extremes,Fog,#d60d2b,wmo,雾气释放区域,2026-01-15T10:56:00+00:00,China,0.7312651128551281,1,2,zh,EAS,Asia
 '27f74cdd1d',extremes,Cold Wave,#a7e9fa,wmo,乌恰县结冰,2025-12-12T03:45:00+00:00,China,0.725514001838956,0,1,zh,EAS,Asia
 '1bd470d857',extremes,Cold Wave,#a7e9fa,wmo,冰凍中國,2026-01-15T10:56:00+00:00,China,0.7124276629180702,1,2,zh,EAS,Asia
@@ -66,11 +65,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '491d605047',extremes,Fog,#d60d2b,wmo,霧鳳崗,2026-01-15T10:56:00+00:00,China,0.6559861062145318,1,1,zh,EAS,Asia
 '51b25db5d5',extremes,Fog,#d60d2b,wmo,乳山市雾,2026-01-15T10:56:00+00:00,China,0.655976789798677,1,1,zh,EAS,Asia
 'e256eee1b4',extremes,Fog,#d60d2b,wmo,碧江区雾,2026-01-15T10:56:00+00:00,China,0.6559506911587274,1,1,zh,EAS,Asia
-'1e8121b0e7',extremes,Cold Wave,#a7e9fa,wmo,來安縣冰凍,2025-12-12T03:45:00+00:00,China,0.6550891539610254,0,1,zh,EAS,Asia
 '0cfb65b58d',extremes,Fog,#d60d2b,wmo,雾中国,2025-12-07T03:47:00+00:00,China,0.6446052593717291,1,3,zh,EAS,Asia
 '63f70691d5',extremes,Wildfire,#d60d2b,wmo,仁化县山火,2025-12-16T03:47:00+00:00,China,0.6417288330489821,0,1,zh,EAS,Asia
-'4880385bef',extremes,Wildfire,#d60d2b,wmo,松陽縣山火,2025-12-15T03:54:00+00:00,China,0.6309154962948909,1,1,zh,EAS,Asia
-'0dbfb0c2b4',extremes,Cold Wave,#a7e9fa,wmo,寒潮中國,2025-12-09T03:41:00+00:00,China,0.6271304996173535,1,2,zh,EAS,Asia
 'eddbb73521',extremes,Cold Wave,#a7e9fa,wmo,信阳市结冰,2025-12-12T03:45:00+00:00,China,0.625279830408169,1,2,zh,EAS,Asia
 'c7db2f2363',extremes,Cold Wave,#a7e9fa,wmo,中阳县结冰,2025-12-12T03:45:00+00:00,China,0.6223810449450025,1,2,zh,EAS,Asia
 '2f3c0fc977',extremes,Wildfire,#d60d2b,wmo,四会市山火,2025-12-13T03:38:00+00:00,China,0.6019483042932859,1,2,zh,EAS,Asia
@@ -79,21 +75,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c6051c16dc',extremes,Wildfire,#d60d2b,wmo,深圳山火,2025-12-19T03:46:00+00:00,China,0.5984895820364742,1,2,zh,EAS,Asia
 'b7a493b3cf',extremes,Wildfire,#d60d2b,wmo,野火英德,2025-12-15T03:54:00+00:00,China,0.5968337512032087,1,2,zh,EAS,Asia
 '9d7dfe19b1',extremes,Cold Wave,#a7e9fa,wmo,陇南市冰冻,2025-12-15T03:54:00+00:00,China,0.5896348326533224,0,1,zh,EAS,Asia
-'19d1ad920f',extremes,Cold Wave,#a7e9fa,wmo,莲花县结冰,2025-12-14T03:49:00+00:00,China,0.5871127577928157,0,1,zh,EAS,Asia
-'3625acc305',extremes,Snow&Ice,#d60d2b,wmo,雪崩 朝阳区,2025-12-14T03:49:00+00:00,China,0.5866919554022088,0,1,zh,EAS,Asia
-'8bd7ebfa0b',extremes,Snow&Ice,#d60d2b,wmo,雪崩中国,2025-12-14T03:49:00+00:00,China,0.5836002631094322,0,1,zh,EAS,Asia
 'ff21a6d6ab',extremes,Fog,#d60d2b,wmo,石首市霧,2025-12-18T03:44:00+00:00,China,0.5824671180549281,0,1,zh,EAS,Asia
 '74b85d416a',extremes,Fog,#d60d2b,wmo,炎陵縣霧,2025-12-18T03:44:00+00:00,China,0.5822841330363167,0,1,zh,EAS,Asia
 '3ec9e8ceee',extremes,Fog,#d60d2b,wmo,青神县雾,2025-12-18T03:44:00+00:00,China,0.5819399015327691,0,1,zh,EAS,Asia
 'f10b62f49a',extremes,Snow&Ice,#d60d2b,wmo,米東區冰雪,2025-12-18T03:44:00+00:00,China,0.5817330616297632,0,1,zh,EAS,Asia
-'419292dd5b',extremes,Cold Wave,#a7e9fa,wmo,瑞昌市冰凍,2025-12-14T03:49:00+00:00,China,0.5814962774721676,0,1,zh,EAS,Asia
 '2fef58f993',extremes,Fog,#d60d2b,wmo,霧 淮濱縣,2025-12-18T03:44:00+00:00,China,0.5809593883966224,0,1,zh,EAS,Asia
 '5f8c87b23d',extremes,Fog,#d60d2b,wmo,雾新乐城,2025-12-18T03:44:00+00:00,China,0.5807203622517624,0,1,zh,EAS,Asia
-'666590c5fb',extremes,Fog,#d60d2b,wmo,霧赤水,2025-12-14T03:49:00+00:00,China,0.5801651381137679,0,1,zh,EAS,Asia
 'f2ff140d8a',extremes,Snow&Ice,#d60d2b,wmo,雪伊宁市,2025-12-18T03:44:00+00:00,China,0.5798725226528376,0,1,zh,EAS,Asia
 '9b06fe6245',extremes,Drought,#edc291,edo,圣诞岛干旱,2025-12-15T03:54:00+00:00,Christmas Island,0.5798073323164781,0,1,zh,SIO,Oceania
 'fe9b848c24',extremes,Fog,#d60d2b,wmo,霧 遂川縣,2025-12-15T03:54:00+00:00,China,0.5797239640397736,0,1,zh,EAS,Asia
-'c685705bbd',extremes,Earthquake,#870007,usgs,中国地震,2025-12-07T03:46:00+00:00,China,0.5745371350027252,2,3,zh,ECA,Asia
 '8ce87ff75a',extremes,Cold Wave,#a7e9fa,wmo,相城市结冰,2025-12-12T03:45:00+00:00,China,0.5553206737577302,1,2,zh,EAS,Asia
 '4fefb07c63',extremes,Wildfire,#d60d2b,wmo,山火 汕尾市管辖,2025-12-19T03:46:00+00:00,China,0.5387709207859934,1,1,zh,EAS,Asia
 '066ed457ed',extremes,Earthquake,#870007,usgs,北马里亚纳群岛地震,2025-12-19T03:45:00+00:00,Northern Mariana Islands,0.507848334159909,1,1,zh,NPO,Pacific Ocean
