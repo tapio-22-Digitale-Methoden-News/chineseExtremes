@@ -12,7 +12,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ae173edad6',extremes,Wildfire,#d60d2b,wmo,香格里拉市野火,2026-01-15T10:56:00+00:00,China,0.7718379848262225,0,1,zh,EAS,Asia
 '79f816f7b3',extremes,Wildfire,#d60d2b,wmo,石峰区山火,2026-01-15T10:56:00+00:00,China,0.7717840788036031,0,1,zh,EAS,Asia
 '0ea3de86e9',extremes,Wildfire,#d60d2b,wmo,野火中国,2026-01-15T10:56:00+00:00,China,0.7717632352564014,0,1,zh,EAS,Asia
-'7646ce87ec',extremes,Thunderstorm,#53785a,wmo,中国冰雹,2026-01-15T12:14:00+00:00,China,0.7716455276139087,0,1,zh,EAS,Asia
 '6d40963829',extremes,Cold Wave,#a7e9fa,wmo,营口市寒潮,2026-01-15T12:14:00+00:00,China,0.7716299725139033,0,1,zh,EAS,Asia
 'eb545deb41',extremes,Cold Wave,#a7e9fa,wmo,朝阳市冰冻,2026-01-15T12:14:00+00:00,China,0.7715965400904967,0,1,zh,EAS,Asia
 '52ff5cfd32',extremes,Cold Wave,#a7e9fa,wmo,冰凍阿魯科爾沁旗,2026-01-15T12:14:00+00:00,China,0.7715776124258752,0,1,zh,EAS,Asia
@@ -64,6 +63,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b715b5d93c',extremes,Cold Wave,#a7e9fa,wmo,阿勒泰市寒潮,2026-01-15T12:14:00+00:00,China,0.6561622898700327,1,1,zh,EAS,Asia
 'e3df734644',extremes,Cold Wave,#a7e9fa,wmo,冰冻的铁岭市,2026-01-15T12:14:00+00:00,China,0.6560898500628928,1,1,zh,EAS,Asia
 '005315f555',extremes,Wildfire,#d60d2b,wmo,维西傈僳族自治县山火,2026-01-15T12:14:00+00:00,China,0.6560571174844885,1,1,zh,EAS,Asia
+'7646ce87ec',extremes,Thunderstorm,#53785a,wmo,中国冰雹,2026-01-15T12:14:00+00:00,China,0.6560487134718224,1,1,zh,EAS,Asia
 '4196612fd2',extremes,Wildfire,#d60d2b,wmo,宁蒗彝族自治县山火,2026-01-15T10:56:00+00:00,China,0.6560285902670049,1,1,zh,EAS,Asia
 '2ac12fddba',extremes,Cold Wave,#a7e9fa,wmo,布尔津县冰冻,2026-01-15T12:14:00+00:00,China,0.6559981039970053,1,1,zh,EAS,Asia
 'd1e2d6c7ba',extremes,Wildfire,#d60d2b,wmo,茶陵县山火,2026-01-15T12:14:00+00:00,China,0.6559937991177008,1,1,zh,EAS,Asia
