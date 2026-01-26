@@ -10,6 +10,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '79f816f7b3',extremes,Wildfire,#d60d2b,wmo,石峰区山火,2026-01-15T10:56:00+00:00,China,0.7717840788036031,0,1,zh,EAS,Asia
 '0ea3de86e9',extremes,Wildfire,#d60d2b,wmo,野火中国,2026-01-15T10:56:00+00:00,China,0.7717632352564014,0,1,zh,EAS,Asia
 'ca4eea6aff',extremes,Fog,#d60d2b,wmo,雾开元,2026-01-15T12:14:00+00:00,China,0.7717043456073281,0,1,zh,EAS,Asia
+'cfc1f1c267',extremes,Fog,#d60d2b,wmo,雾凯里,2026-01-15T12:14:00+00:00,China,0.7716940488995936,0,1,zh,EAS,Asia
+'e3df734644',extremes,Cold Wave,#a7e9fa,wmo,冰冻的铁岭市,2026-01-15T12:14:00+00:00,China,0.7716939236034033,0,1,zh,EAS,Asia
+'7646ce87ec',extremes,Thunderstorm,#53785a,wmo,中国冰雹,2026-01-15T12:14:00+00:00,China,0.7716455276139087,0,1,zh,EAS,Asia
+'6d40963829',extremes,Cold Wave,#a7e9fa,wmo,营口市寒潮,2026-01-15T12:14:00+00:00,China,0.7716299725139033,0,1,zh,EAS,Asia
+'eb545deb41',extremes,Cold Wave,#a7e9fa,wmo,朝阳市冰冻,2026-01-15T12:14:00+00:00,China,0.7715965400904967,0,1,zh,EAS,Asia
+'52ff5cfd32',extremes,Cold Wave,#a7e9fa,wmo,冰凍阿魯科爾沁旗,2026-01-15T12:14:00+00:00,China,0.7715776124258752,0,1,zh,EAS,Asia
 '568378a997',extremes,Storm,#b3b2b1,wmo,風暴潮 惠農區,2026-01-15T10:56:00+00:00,China,0.7694646959540654,1,2,zh,EAS,Asia
 '356b975314',extremes,Snow&Ice,#d60d2b,wmo,冰通化城,2026-01-15T10:56:00+00:00,China,0.7476704370282637,1,3,zh,EAS,Asia
 '1992637918',extremes,Cold Wave,#a7e9fa,wmo,額敏縣冰凍,2025-12-11T03:46:00+00:00,China,0.7354643702385708,0,1,zh,EAS,Asia
