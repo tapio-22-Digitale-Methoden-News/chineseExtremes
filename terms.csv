@@ -13,6 +13,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'edbb4f5549',extremes,Cold Wave,#a7e9fa,wmo,寒潮 寧城縣,2026-01-15T10:56:00+00:00,China,0.7715260634466566,0,1,zh,EAS,Asia
 '3b3c85cac2',extremes,Cold Wave,#a7e9fa,wmo,冰冻福康,2026-01-15T12:14:00+00:00,China,0.7715195035276539,0,1,zh,EAS,Asia
 '06f5d145a0',extremes,Cold Wave,#a7e9fa,wmo,伊寧市冰凍,2026-01-15T12:14:00+00:00,China,0.7715174146078738,0,1,zh,EAS,Asia
+'29727e1a91',extremes,Cold Wave,#a7e9fa,wmo,伊宁县冰冻,2026-01-15T12:14:00+00:00,China,0.7715055477339138,0,1,zh,EAS,Asia
+'3e8758f0bb',extremes,Cold Wave,#a7e9fa,wmo,寒潮尼勒克縣,2026-01-15T12:14:00+00:00,China,0.7714924010157832,0,1,zh,EAS,Asia
+'3239875b1e',extremes,Cold Wave,#a7e9fa,wmo,头屯河区寒潮,2026-01-15T12:14:00+00:00,China,0.7714829680285124,0,1,zh,EAS,Asia
+'9e535aa597',extremes,Storm,#b3b2b1,wmo,风暴吉木乃县,2026-01-15T12:14:00+00:00,China,0.7714771651980119,0,1,zh,EAS,Asia
+'5ccc8c4bb7',extremes,Fog,#d60d2b,wmo,吉木萨尔县雾,2026-01-15T10:56:00+00:00,China,0.7714767620908183,0,1,zh,EAS,Asia
+'8956e2836c',extremes,Cold Wave,#a7e9fa,wmo,昌吉回族自治州严寒,2026-01-15T12:14:00+00:00,China,0.7714728744593327,0,1,zh,EAS,Asia
 '568378a997',extremes,Storm,#b3b2b1,wmo,風暴潮 惠農區,2026-01-15T10:56:00+00:00,China,0.7694646959540654,1,2,zh,EAS,Asia
 '356b975314',extremes,Snow&Ice,#d60d2b,wmo,冰通化城,2026-01-15T10:56:00+00:00,China,0.7476704370282637,1,3,zh,EAS,Asia
 '1900134e0c',extremes,Fog,#d60d2b,wmo,霧竹山縣,2026-01-15T12:14:00+00:00,China,0.7358963472827824,2,2,zh,EAS,Asia
