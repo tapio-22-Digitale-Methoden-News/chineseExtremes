@@ -1,9 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'138435a743',extremes,Storm,#b3b2b1,wmo,风暴潮 大方县,2026-01-15T10:56:00+00:00,China,0.8066429011677723,1,2,zh,EAS,Asia
-'55a29976cb',extremes,Snow&Ice,#d60d2b,wmo,冰凍正安縣,2026-01-15T10:56:00+00:00,China,0.8066232180784387,1,2,zh,EAS,Asia
-'bb0ad1c34d',extremes,Fog,#d60d2b,wmo,武当区雾,2026-01-15T12:14:00+00:00,China,0.8061368569168167,1,2,zh,EAS,Asia
-'9dad574dec',extremes,Fog,#d60d2b,wmo,台江縣霧,2026-01-15T10:56:00+00:00,China,0.8059850003631641,1,2,zh,EAS,Asia
-'c685705bbd',extremes,Earthquake,#870007,usgs,中国地震,2026-01-15T10:56:00+00:00,China,0.7822181707173028,1,3,zh,EAS,Asia
+'c685705bbd',extremes,Earthquake,#870007,usgs,中国地震,2026-01-15T10:56:00+00:00,China,0.8156365101097074,2,3,zh,EAS,Asia
 '40a849aef3',extremes,Earthquake,#870007,usgs,昭通地震,2026-01-15T12:13:00+00:00,China,0.7803635679765636,1,2,zh,EAS,Asia
 'ca4eea6aff',extremes,Fog,#d60d2b,wmo,雾开元,2026-01-15T12:14:00+00:00,China,0.7736990687662288,1,3,zh,EAS,Asia
 '568378a997',extremes,Storm,#b3b2b1,wmo,風暴潮 惠農區,2026-01-15T10:56:00+00:00,China,0.7694646959540654,1,2,zh,EAS,Asia
@@ -19,7 +15,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b70a5d953c',extremes,Cold Wave,#a7e9fa,wmo,白雲區寒潮,2025-12-12T03:45:00+00:00,China,0.6926683078902182,1,2,zh,EAS,Asia
 '6d40963829',extremes,Cold Wave,#a7e9fa,wmo,营口市寒潮,2026-01-15T12:14:00+00:00,China,0.6866355516368179,1,1,zh,EAS,Asia
 '585e678b13',extremes,Earthquake,#870007,usgs,西林地震热,2026-01-15T10:56:00+00:00,China,0.6857585734254231,1,1,zh,ESB,Asia
+'138435a743',extremes,Storm,#b3b2b1,wmo,风暴潮 大方县,2026-01-15T10:56:00+00:00,China,0.6856464959926064,2,1,zh,EAS,Asia
+'55a29976cb',extremes,Snow&Ice,#d60d2b,wmo,冰凍正安縣,2026-01-15T10:56:00+00:00,China,0.685629765366673,2,1,zh,EAS,Asia
 '2f245982ab',extremes,Cold Wave,#a7e9fa,wmo,寒潮郊区,2026-01-15T10:56:00+00:00,China,0.685526403540392,2,1,zh,EAS,Asia
+'bb0ad1c34d',extremes,Fog,#d60d2b,wmo,武当区雾,2026-01-15T12:14:00+00:00,China,0.6852163433792942,2,1,zh,EAS,Asia
+'9dad574dec',extremes,Fog,#d60d2b,wmo,台江縣霧,2026-01-15T10:56:00+00:00,China,0.6850872803086895,2,1,zh,EAS,Asia
 '6628268bda',extremes,Earthquake,#870007,usgs,库尔勒地震,2026-01-15T10:56:00+00:00,China,0.6728215981841501,1,1,zh,ECA,Asia
 'ae173edad6',extremes,Wildfire,#d60d2b,wmo,香格里拉市野火,2026-01-15T10:56:00+00:00,China,0.668312512102289,1,1,zh,EAS,Asia
 '4fb3daafb9',extremes,Snow&Ice,#d60d2b,wmo,松山区冰雪,2026-01-15T10:56:00+00:00,China,0.656944655353729,1,1,zh,EAS,Asia
