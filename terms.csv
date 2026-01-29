@@ -2,17 +2,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '138435a743',extremes,Storm,#b3b2b1,wmo,风暴潮 大方县,2026-01-15T10:56:00+00:00,China,0.8066429011677723,1,2,zh,EAS,Asia
 '55a29976cb',extremes,Snow&Ice,#d60d2b,wmo,冰凍正安縣,2026-01-15T10:56:00+00:00,China,0.8066232180784387,1,2,zh,EAS,Asia
 'bb0ad1c34d',extremes,Fog,#d60d2b,wmo,武当区雾,2026-01-15T12:14:00+00:00,China,0.8061368569168167,1,2,zh,EAS,Asia
+'9dad574dec',extremes,Fog,#d60d2b,wmo,台江縣霧,2026-01-15T10:56:00+00:00,China,0.8059850003631641,1,2,zh,EAS,Asia
 'c685705bbd',extremes,Earthquake,#870007,usgs,中国地震,2026-01-15T10:56:00+00:00,China,0.7822181707173028,1,3,zh,EAS,Asia
 '40a849aef3',extremes,Earthquake,#870007,usgs,昭通地震,2026-01-15T12:13:00+00:00,China,0.7803635679765636,1,2,zh,EAS,Asia
 'ca4eea6aff',extremes,Fog,#d60d2b,wmo,雾开元,2026-01-15T12:14:00+00:00,China,0.7736990687662288,1,3,zh,EAS,Asia
-'3239875b1e',extremes,Cold Wave,#a7e9fa,wmo,头屯河区寒潮,2026-01-15T12:14:00+00:00,China,0.7714829680285124,0,1,zh,EAS,Asia
-'9e535aa597',extremes,Storm,#b3b2b1,wmo,风暴吉木乃县,2026-01-15T12:14:00+00:00,China,0.7714771651980119,0,1,zh,EAS,Asia
-'5ccc8c4bb7',extremes,Fog,#d60d2b,wmo,吉木萨尔县雾,2026-01-15T10:56:00+00:00,China,0.7714767620908183,0,1,zh,EAS,Asia
-'8956e2836c',extremes,Cold Wave,#a7e9fa,wmo,昌吉回族自治州严寒,2026-01-15T12:14:00+00:00,China,0.7714728744593327,0,1,zh,EAS,Asia
-'b176f2f0a9',extremes,Fog,#d60d2b,wmo,荆州区雾,2026-01-15T12:14:00+00:00,China,0.7714615465110528,0,1,zh,EAS,Asia
-'f8457a8cab',extremes,Fog,#d60d2b,wmo,德江县雾,2026-01-15T12:14:00+00:00,China,0.7714169600534314,0,1,zh,EAS,Asia
-'9865c83284',extremes,Fog,#d60d2b,wmo,赫章縣霧,2026-01-15T10:56:00+00:00,China,0.7714165660321807,0,1,zh,EAS,Asia
-'9dad574dec',extremes,Fog,#d60d2b,wmo,台江縣霧,2026-01-15T10:56:00+00:00,China,0.7713940827801932,0,1,zh,EAS,Asia
 '568378a997',extremes,Storm,#b3b2b1,wmo,風暴潮 惠農區,2026-01-15T10:56:00+00:00,China,0.7694646959540654,1,2,zh,EAS,Asia
 '356b975314',extremes,Snow&Ice,#d60d2b,wmo,冰通化城,2026-01-15T10:56:00+00:00,China,0.7476704370282637,1,3,zh,EAS,Asia
 '1900134e0c',extremes,Fog,#d60d2b,wmo,霧竹山縣,2026-01-15T12:14:00+00:00,China,0.7358963472827824,2,2,zh,EAS,Asia
@@ -92,10 +85,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3b3c85cac2',extremes,Cold Wave,#a7e9fa,wmo,冰冻福康,2026-01-15T12:14:00+00:00,China,0.6557915779985057,1,1,zh,EAS,Asia
 '29727e1a91',extremes,Cold Wave,#a7e9fa,wmo,伊宁县冰冻,2026-01-15T12:14:00+00:00,China,0.6557797155738266,1,1,zh,EAS,Asia
 '3e8758f0bb',extremes,Cold Wave,#a7e9fa,wmo,寒潮尼勒克縣,2026-01-15T12:14:00+00:00,China,0.6557685408634157,1,1,zh,EAS,Asia
+'3239875b1e',extremes,Cold Wave,#a7e9fa,wmo,头屯河区寒潮,2026-01-15T12:14:00+00:00,China,0.6557605228242355,1,1,zh,EAS,Asia
+'9e535aa597',extremes,Storm,#b3b2b1,wmo,风暴吉木乃县,2026-01-15T12:14:00+00:00,China,0.6557555904183101,1,1,zh,EAS,Asia
+'5ccc8c4bb7',extremes,Fog,#d60d2b,wmo,吉木萨尔县雾,2026-01-15T10:56:00+00:00,China,0.6557552477771955,1,1,zh,EAS,Asia
+'8956e2836c',extremes,Cold Wave,#a7e9fa,wmo,昌吉回族自治州严寒,2026-01-15T12:14:00+00:00,China,0.6557519432904327,1,1,zh,EAS,Asia
+'b176f2f0a9',extremes,Fog,#d60d2b,wmo,荆州区雾,2026-01-15T12:14:00+00:00,China,0.6557423145343949,1,1,zh,EAS,Asia
+'f8457a8cab',extremes,Fog,#d60d2b,wmo,德江县雾,2026-01-15T12:14:00+00:00,China,0.6557044160454166,1,1,zh,EAS,Asia
+'9865c83284',extremes,Fog,#d60d2b,wmo,赫章縣霧,2026-01-15T10:56:00+00:00,China,0.6557040811273536,1,1,zh,EAS,Asia
 '0cfb65b58d',extremes,Fog,#d60d2b,wmo,雾中国,2025-12-07T03:47:00+00:00,China,0.6446052593717291,1,3,zh,EAS,Asia
-'63f70691d5',extremes,Wildfire,#d60d2b,wmo,仁化县山火,2025-12-16T03:47:00+00:00,China,0.6417288330489821,0,1,zh,EAS,Asia
-'eddbb73521',extremes,Cold Wave,#a7e9fa,wmo,信阳市结冰,2025-12-12T03:45:00+00:00,China,0.625279830408169,1,2,zh,EAS,Asia
-'2f3c0fc977',extremes,Wildfire,#d60d2b,wmo,四会市山火,2025-12-13T03:38:00+00:00,China,0.6019483042932859,1,2,zh,EAS,Asia
 'c6051c16dc',extremes,Wildfire,#d60d2b,wmo,深圳山火,2025-12-19T03:46:00+00:00,China,0.5984895820364742,1,2,zh,EAS,Asia
 'b7a493b3cf',extremes,Wildfire,#d60d2b,wmo,野火英德,2025-12-15T03:54:00+00:00,China,0.5968337512032087,1,2,zh,EAS,Asia
 'ff21a6d6ab',extremes,Fog,#d60d2b,wmo,石首市霧,2025-12-18T03:44:00+00:00,China,0.5824671180549281,0,1,zh,EAS,Asia
