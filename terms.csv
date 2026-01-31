@@ -1,10 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8182b1f37a',extremes,Snow&Ice,#d60d2b,wmo,雪中國,2026-01-15T10:56:00+00:00,China,0.8232613992228341,2,3,zh,EAS,Asia
 'ec3ab8be8d',extremes,Storm,#b3b2b1,wmo,風暴中國,2026-01-15T10:56:00+00:00,China,0.8015814764380418,1,3,zh,EAS,Asia
-'8182b1f37a',extremes,Snow&Ice,#d60d2b,wmo,雪中國,2026-01-15T10:56:00+00:00,China,0.7969359156632274,1,3,zh,EAS,Asia
 'ff2f852c68',extremes,Storm,#b3b2b1,wmo,中國風暴潮,2026-01-15T10:56:00+00:00,China,0.7879075532412991,1,3,zh,EAS,Asia
 '40a849aef3',extremes,Earthquake,#870007,usgs,昭通地震,2026-01-15T12:13:00+00:00,China,0.7803635679765636,1,2,zh,EAS,Asia
 'ca4eea6aff',extremes,Fog,#d60d2b,wmo,雾开元,2026-01-15T12:14:00+00:00,China,0.7736990687662288,1,3,zh,EAS,Asia
-'74d69ec15e',extremes,Fog,#d60d2b,wmo,湄潭县雾,2026-01-15T10:56:00+00:00,China,0.7712836308127121,0,1,zh,EAS,Asia
 'ff21a6d6ab',extremes,Fog,#d60d2b,wmo,石首市雾,2026-01-15T12:14:00+00:00,China,0.771279444575018,0,1,zh,EAS,Asia
 'd693e4bc72',extremes,Fog,#d60d2b,wmo,七星關區霧,2026-01-15T10:56:00+00:00,China,0.7712434677627672,0,1,zh,EAS,Asia
 '568378a997',extremes,Storm,#b3b2b1,wmo,風暴潮 惠農區,2026-01-15T10:56:00+00:00,China,0.7694646959540654,1,2,zh,EAS,Asia
@@ -105,6 +104,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9865c83284',extremes,Fog,#d60d2b,wmo,赫章縣霧,2026-01-15T10:56:00+00:00,China,0.6557040811273536,1,1,zh,EAS,Asia
 '9be5bc9932',extremes,Fog,#d60d2b,wmo,遵義市霧,2026-01-15T10:56:00+00:00,China,0.6556424198519208,1,1,zh,EAS,Asia
 'd4f0e45c92',extremes,Snow&Ice,#d60d2b,wmo,冰霜中國,2026-01-15T10:56:00+00:00,China,0.65562508445532,1,1,zh,EAS,Asia
+'74d69ec15e',extremes,Fog,#d60d2b,wmo,湄潭县雾,2026-01-15T10:56:00+00:00,China,0.6555910861908053,1,1,zh,EAS,Asia
 'c6051c16dc',extremes,Wildfire,#d60d2b,wmo,深圳山火,2025-12-19T03:46:00+00:00,China,0.5984895820364742,1,2,zh,EAS,Asia
 '633ed59c63',extremes,Iceberg,#d60d2b,random,北极海冰,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,zh,,
 '0053afc92f',extremes,Volcano,#b83202,random,火山泥漿,2026-01-15T10:20:00+00:00,,0.2562914317228042,0,1,zh,,
