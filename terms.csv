@@ -4,9 +4,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ff2f852c68',extremes,Storm,#b3b2b1,wmo,中國風暴潮,2026-01-15T10:56:00+00:00,China,0.7879075532412991,1,3,zh,EAS,Asia
 '40a849aef3',extremes,Earthquake,#870007,usgs,昭通地震,2026-01-15T12:13:00+00:00,China,0.7803635679765636,1,2,zh,EAS,Asia
 'ca4eea6aff',extremes,Fog,#d60d2b,wmo,雾开元,2026-01-15T12:14:00+00:00,China,0.7736990687662288,1,3,zh,EAS,Asia
-'c36e737474',extremes,Snow&Ice,#d60d2b,wmo,雪綿竹城,2026-01-15T12:14:00+00:00,China,0.7710718195394962,0,1,zh,EAS,Asia
-'bfa90a8366',extremes,Storm,#b3b2b1,wmo,風暴順縣,2026-01-15T12:14:00+00:00,China,0.7710658861808662,0,1,zh,EAS,Asia
-'6c20774c45',extremes,Storm,#b3b2b1,wmo,奉贤风暴潮,2026-01-15T12:14:00+00:00,China,0.7710544896421353,0,1,zh,EAS,Asia
 '568378a997',extremes,Storm,#b3b2b1,wmo,風暴潮 惠農區,2026-01-15T10:56:00+00:00,China,0.7694646959540654,1,2,zh,EAS,Asia
 '721017e7ba',extremes,Storm,#b3b2b1,wmo,風暴成安縣,2026-01-15T12:14:00+00:00,China,0.7619269378253748,1,2,zh,EAS,Asia
 '1694bf74d2',extremes,Storm,#b3b2b1,wmo,清鎮風暴潮,2026-01-15T12:14:00+00:00,China,0.7563528522166121,1,2,zh,EAS,Asia
@@ -49,13 +46,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eeb2c35800',extremes,Cold Wave,#a7e9fa,wmo,阿勒泰市冰凍,2026-01-15T10:56:00+00:00,China,0.6563522958243295,1,1,zh,EAS,Asia
 '9e68f3f4c6',extremes,Snow&Ice,#d60d2b,wmo,冰冻寿宁县,2026-01-15T10:56:00+00:00,China,0.6563510878950567,1,1,zh,EAS,Asia
 '3e4f14dbb8',extremes,Storm,#b3b2b1,wmo,风暴潮 福海县,2026-01-15T10:56:00+00:00,China,0.6563509271808706,1,1,zh,EAS,Asia
-'ce5a76d4cf',extremes,Snow&Ice,#d60d2b,wmo,屏南县霜,2026-01-15T10:56:00+00:00,China,0.656348254095744,1,1,zh,EAS,Asia
-'86e8e1751d',extremes,Snow&Ice,#d60d2b,wmo,雪冬乌珠穆沁,2026-01-15T10:56:00+00:00,China,0.6563461749855192,1,1,zh,EAS,Asia
-'358f78dceb',extremes,Storm,#b3b2b1,wmo,風暴潮 順縣,2026-01-15T10:56:00+00:00,China,0.6563436812428494,1,1,zh,EAS,Asia
 '7b7143b71f',extremes,Snow&Ice,#d60d2b,wmo,冰冻珲春,2026-01-15T10:56:00+00:00,China,0.6563389968379454,1,1,zh,EAS,Asia
-'0ce787de25',extremes,Snow&Ice,#d60d2b,wmo,阿鲁科尔沁旗雪,2026-01-15T10:56:00+00:00,China,0.6563347673861172,1,1,zh,EAS,Asia
 '30502900e7',extremes,Snow&Ice,#d60d2b,wmo,冻结梅河口,2026-01-15T10:56:00+00:00,China,0.6563319054181073,1,1,zh,EAS,Asia
-'afba8305d3',extremes,Snow&Ice,#d60d2b,wmo,冰冻长白朝鲜族自治县,2026-01-15T10:56:00+00:00,China,0.6563240673323887,1,1,zh,EAS,Asia
 'f94711bbbf',extremes,Fog,#d60d2b,wmo,雾万山渠,2026-01-15T10:56:00+00:00,China,0.6561696868421565,1,1,zh,EAS,Asia
 '5cb1318740',extremes,Fog,#d60d2b,wmo,雾指导县,2026-01-15T12:14:00+00:00,China,0.6561665083540416,1,1,zh,EAS,Asia
 'b715b5d93c',extremes,Cold Wave,#a7e9fa,wmo,阿勒泰市寒潮,2026-01-15T12:14:00+00:00,China,0.6561622898700327,1,1,zh,EAS,Asia
@@ -111,6 +103,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fbee8085da',extremes,Storm,#b3b2b1,wmo,风暴盘锦市,2026-01-15T10:56:00+00:00,China,0.6554511122807117,1,1,zh,EAS,Asia
 '0749862372',extremes,Storm,#b3b2b1,wmo,陽谷縣風暴潮,2026-01-15T12:14:00+00:00,China,0.6554380617301483,1,1,zh,EAS,Asia
 '45c169ea66',extremes,Snow&Ice,#d60d2b,wmo,冰漳平城,2026-01-15T12:14:00+00:00,China,0.655435411001024,1,1,zh,EAS,Asia
+'c36e737474',extremes,Snow&Ice,#d60d2b,wmo,雪綿竹城,2026-01-15T12:14:00+00:00,China,0.6554110466085717,1,1,zh,EAS,Asia
+'bfa90a8366',extremes,Storm,#b3b2b1,wmo,風暴順縣,2026-01-15T12:14:00+00:00,China,0.6554060032537363,1,1,zh,EAS,Asia
+'6c20774c45',extremes,Storm,#b3b2b1,wmo,奉贤风暴潮,2026-01-15T12:14:00+00:00,China,0.655396316195815,1,1,zh,EAS,Asia
 'd693e4bc72',extremes,Fog,#d60d2b,wmo,七星關區霧,2026-01-15T10:56:00+00:00,China,0.6212284609585993,2,1,zh,EAS,Asia
 'c6051c16dc',extremes,Wildfire,#d60d2b,wmo,深圳山火,2025-12-19T03:46:00+00:00,China,0.5984895820364742,1,2,zh,EAS,Asia
 '6628268bda',extremes,Earthquake,#870007,usgs,库尔勒地震,2026-01-15T10:56:00+00:00,China,0.5718983584565276,2,1,zh,ECA,Asia
@@ -125,5 +120,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '925fe10d70',extremes,Cold Wave,#a7e9fa,wmo,锦州市寒潮,2026-01-15T10:56:00+00:00,China,0.5578994022903309,2,1,zh,EAS,Asia
 '1a09f25a5d',extremes,Snow&Ice,#d60d2b,wmo,霍城县雪,2026-01-15T10:56:00+00:00,China,0.5578990399054296,2,1,zh,EAS,Asia
 'e56b3ec344',extremes,Snow&Ice,#d60d2b,wmo,霜乃曼,2026-01-15T10:56:00+00:00,China,0.5578982019651451,2,1,zh,EAS,Asia
+'ce5a76d4cf',extremes,Snow&Ice,#d60d2b,wmo,屏南县霜,2026-01-15T10:56:00+00:00,China,0.5578960159813824,2,1,zh,EAS,Asia
+'86e8e1751d',extremes,Snow&Ice,#d60d2b,wmo,雪冬乌珠穆沁,2026-01-15T10:56:00+00:00,China,0.5578942487376913,2,1,zh,EAS,Asia
+'358f78dceb',extremes,Storm,#b3b2b1,wmo,風暴潮 順縣,2026-01-15T10:56:00+00:00,China,0.5578921290564219,2,1,zh,EAS,Asia
+'0ce787de25',extremes,Snow&Ice,#d60d2b,wmo,阿鲁科尔沁旗雪,2026-01-15T10:56:00+00:00,China,0.5578845522781996,2,1,zh,EAS,Asia
+'afba8305d3',extremes,Snow&Ice,#d60d2b,wmo,冰冻长白朝鲜族自治县,2026-01-15T10:56:00+00:00,China,0.5578754572325304,2,1,zh,EAS,Asia
 '633ed59c63',extremes,Iceberg,#d60d2b,random,北极海冰,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,zh,,
 '0053afc92f',extremes,Volcano,#b83202,random,火山泥漿,2026-01-15T10:20:00+00:00,,0.2562914317228042,0,1,zh,,
