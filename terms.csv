@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8182b1f37a',extremes,Snow&Ice,#d60d2b,wmo,雪中國,2026-01-15T10:56:00+00:00,China,0.8232613992228341,2,3,zh,EAS,Asia
+'8182b1f37a',extremes,Snow&Ice,#d60d2b,wmo,雪中國,2026-01-15T10:56:00+00:00,China,0.8274560920666817,3,3,zh,EAS,Asia
 'ec3ab8be8d',extremes,Storm,#b3b2b1,wmo,風暴中國,2026-01-15T10:56:00+00:00,China,0.8015814764380418,1,3,zh,EAS,Asia
 'ff2f852c68',extremes,Storm,#b3b2b1,wmo,中國風暴潮,2026-01-15T10:56:00+00:00,China,0.7879075532412991,1,3,zh,EAS,Asia
 '40a849aef3',extremes,Earthquake,#870007,usgs,昭通地震,2026-01-15T12:13:00+00:00,China,0.7803635679765636,1,2,zh,EAS,Asia
