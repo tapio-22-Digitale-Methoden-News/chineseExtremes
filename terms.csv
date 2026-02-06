@@ -5,8 +5,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ecf31aa02a',extremes,Storm,#b3b2b1,wmo,风暴丹东市,2026-01-15T12:14:00+00:00,China,0.7571743201747873,1,2,zh,EAS,Asia
 '0b71f4e66a',extremes,Snow&Ice,#d60d2b,wmo,雪沙灣城,2026-01-15T12:14:00+00:00,China,0.7567199239949038,1,2,zh,EAS,Asia
 '1694bf74d2',extremes,Storm,#b3b2b1,wmo,清鎮風暴潮,2026-01-15T12:14:00+00:00,China,0.7563528522166121,1,2,zh,EAS,Asia
-'1663378840',extremes,Wildfire,#d60d2b,wmo,永平縣山火,2026-01-24T03:48:00+00:00,China,0.7526133634154324,0,1,zh,EAS,Asia
-'86c5eacad8',extremes,Wildfire,#d60d2b,wmo,通海县山火,2026-01-23T04:03:00+00:00,China,0.7511099807510053,0,1,zh,EAS,Asia
 '174d5902a1',extremes,Wildfire,#d60d2b,wmo,弥渡县山火,2026-01-27T03:58:00+00:00,China,0.7504871071806756,0,1,zh,EAS,Asia
 '356b975314',extremes,Snow&Ice,#d60d2b,wmo,冰通化城,2026-01-15T10:56:00+00:00,China,0.7476704370282637,1,3,zh,EAS,Asia
 '0cfb65b58d',extremes,Fog,#d60d2b,wmo,雾中国,2026-01-15T10:56:00+00:00,China,0.7446477886467101,1,3,zh,EAS,Asia
@@ -23,6 +21,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0ea3de86e9',extremes,Wildfire,#d60d2b,wmo,野火中国,2026-01-15T10:56:00+00:00,China,0.7264242299679412,1,2,zh,EAS,Asia
 '254c45d2fa',extremes,Wildfire,#d60d2b,wmo,野火老城,2026-01-15T10:56:00+00:00,China,0.7221946183604819,1,1,zh,EAS,Asia
 '8adb3e34c7',extremes,Storm,#b3b2b1,wmo,風暴潮港區,2026-01-15T12:14:00+00:00,China,0.719687375226364,1,1,zh,EAS,Asia
+'86c5eacad8',extremes,Wildfire,#d60d2b,wmo,通海县山火,2026-01-23T04:03:00+00:00,China,0.7140435436383544,1,2,zh,EAS,Asia
 '1bd470d857',extremes,Cold Wave,#a7e9fa,wmo,冰凍中國,2026-01-15T10:56:00+00:00,China,0.7124276629180702,1,2,zh,EAS,Asia
 '71684b4804',extremes,Snow&Ice,#d60d2b,wmo,冰中国,2026-01-15T10:56:00+00:00,China,0.7106183627144327,1,2,zh,EAS,Asia
 '8182b1f37a',extremes,Snow&Ice,#d60d2b,wmo,雪中國,2026-01-15T10:56:00+00:00,China,0.7006429374045411,5,3,zh,EAS,Asia
@@ -110,6 +109,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6c20774c45',extremes,Storm,#b3b2b1,wmo,奉贤风暴潮,2026-01-15T12:14:00+00:00,China,0.655396316195815,1,1,zh,EAS,Asia
 '170464d0f0',extremes,Storm,#b3b2b1,wmo,風暴潮 寧蒗彝族自治縣,2026-01-15T12:14:00+00:00,China,0.655371047031142,1,1,zh,EAS,Asia
 '2233ed419f',extremes,Storm,#b3b2b1,wmo,風暴潮 高唐縣,2026-01-15T12:14:00+00:00,China,0.6553687472553033,1,1,zh,EAS,Asia
+'1663378840',extremes,Wildfire,#d60d2b,wmo,永平縣山火,2026-01-24T03:48:00+00:00,China,0.6397213589031175,1,1,zh,EAS,Asia
 '27038d2177',extremes,Wildfire,#d60d2b,wmo,宾川县山火,2026-01-24T03:48:00+00:00,China,0.6386266414634552,1,1,zh,EAS,Asia
 '5032c3d748',extremes,Wildfire,#d60d2b,wmo,野火红塔,2026-01-23T04:03:00+00:00,China,0.6384949633251567,1,1,zh,EAS,Asia
 'd693e4bc72',extremes,Fog,#d60d2b,wmo,七星關區霧,2026-01-15T10:56:00+00:00,China,0.6212284609585993,2,1,zh,EAS,Asia
