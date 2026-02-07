@@ -136,5 +136,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e256eee1b4',extremes,Fog,#d60d2b,wmo,碧江区雾,2026-01-15T10:56:00+00:00,China,0.5575580874849183,2,1,zh,EAS,Asia
 'eb545deb41',extremes,Cold Wave,#a7e9fa,wmo,朝阳市冰冻,2026-01-15T12:14:00+00:00,China,0.5574785002153838,2,1,zh,EAS,Asia
 '86fa895145',extremes,Cold Wave,#a7e9fa,wmo,梅河口结冰,2026-01-15T12:14:00+00:00,China,0.5574583006537137,2,1,zh,EAS,Asia
-'633ed59c63',extremes,Iceberg,#d60d2b,random,北极海冰,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,zh,,
+'633ed59c63',extremes,Iceberg,#d60d2b,random,北极海冰,2026-01-15T10:20:00+00:00,,0.2693048567680758,1,1,zh,,
 '0053afc92f',extremes,Volcano,#b83202,random,火山泥漿,2026-01-15T10:20:00+00:00,,0.2562914317228042,0,1,zh,,
