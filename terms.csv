@@ -79,7 +79,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b176f2f0a9',extremes,Fog,#d60d2b,wmo,荆州区雾,2026-01-15T12:14:00+00:00,China,0.6557423145343949,1,1,zh,EAS,Asia
 '3e6b2f000f',extremes,Fog,#d60d2b,wmo,西豐縣霧,2026-01-15T10:56:00+00:00,China,0.6557082487740736,1,1,zh,EAS,Asia
 '9865c83284',extremes,Fog,#d60d2b,wmo,赫章縣霧,2026-01-15T10:56:00+00:00,China,0.6557040811273536,1,1,zh,EAS,Asia
-'15f168eb16',extremes,Snow&Ice,#d60d2b,wmo,冰凍林西縣,2026-01-15T10:56:00+00:00,China,0.6556148010596324,1,1,zh,EAS,Asia
 '04d74608af',extremes,Fog,#d60d2b,wmo,黔西市霧,2026-01-15T12:14:00+00:00,China,0.6556141598317248,1,1,zh,EAS,Asia
 '74d69ec15e',extremes,Fog,#d60d2b,wmo,湄潭县雾,2026-01-15T10:56:00+00:00,China,0.6555910861908053,1,1,zh,EAS,Asia
 'c5c00d12ce',extremes,Storm,#b3b2b1,wmo,风暴潮 大武口区,2026-01-15T12:14:00+00:00,China,0.6555802335847705,1,1,zh,EAS,Asia
@@ -161,6 +160,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ef717623de',extremes,Cold Wave,#a7e9fa,wmo,章丘市结冰,2026-01-15T12:14:00+00:00,China,0.5574467644618851,2,1,zh,EAS,Asia
 'b8ea2ab1c6',extremes,Wildfire,#d60d2b,wmo,芦松区山火,2026-01-15T10:56:00+00:00,China,0.557443451265201,2,1,zh,EAS,Asia
 '3b3c85cac2',extremes,Cold Wave,#a7e9fa,wmo,冰冻福康,2026-01-15T12:14:00+00:00,China,0.5574228412987299,2,1,zh,EAS,Asia
+'15f168eb16',extremes,Snow&Ice,#d60d2b,wmo,冰凍林西縣,2026-01-15T10:56:00+00:00,China,0.5574225959006875,2,1,zh,EAS,Asia
 '3e8758f0bb',extremes,Cold Wave,#a7e9fa,wmo,寒潮尼勒克縣,2026-01-15T12:14:00+00:00,China,0.5574032597339034,2,1,zh,EAS,Asia
 '3239875b1e',extremes,Cold Wave,#a7e9fa,wmo,头屯河区寒潮,2026-01-15T12:14:00+00:00,China,0.5573964444006001,2,1,zh,EAS,Asia
 'a531a8ab65',extremes,Fog,#d60d2b,wmo,霧忠賢,2026-01-15T12:14:00+00:00,China,0.5573697173057675,2,1,zh,EAS,Asia
