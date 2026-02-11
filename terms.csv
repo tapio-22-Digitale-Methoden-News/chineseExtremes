@@ -22,6 +22,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5d979ecdd5',extremes,Wildfire,#d60d2b,wmo,瑞麗山火,2026-02-04T04:21:00+00:00,China,0.7250259018832289,1,2,zh,EAS,Asia
 '8182b1f37a',extremes,Snow&Ice,#d60d2b,wmo,雪中國,2026-01-15T10:56:00+00:00,China,0.7232301295211327,6,3,zh,EAS,Asia
 '254c45d2fa',extremes,Wildfire,#d60d2b,wmo,野火老城,2026-01-15T10:56:00+00:00,China,0.7221946183604819,1,1,zh,EAS,Asia
+'3ebb00dffe',extremes,Wildfire,#d60d2b,wmo,盈江縣山火,2026-02-04T04:21:00+00:00,China,0.719605803242468,0,1,zh,EAS,Asia
+'ebf3ec85b1',extremes,Wildfire,#d60d2b,wmo,景洪市山火,2026-02-05T04:27:00+00:00,China,0.7151072427884174,0,1,zh,EAS,Asia
 '1bd470d857',extremes,Cold Wave,#a7e9fa,wmo,冰凍中國,2026-01-15T10:56:00+00:00,China,0.7124276629180702,1,2,zh,EAS,Asia
 '71684b4804',extremes,Snow&Ice,#d60d2b,wmo,冰中国,2026-01-15T10:56:00+00:00,China,0.7106183627144327,1,2,zh,EAS,Asia
 'd4f0e45c92',extremes,Snow&Ice,#d60d2b,wmo,冰霜中國,2026-01-15T10:56:00+00:00,China,0.707581351787022,2,2,zh,EAS,Asia
