@@ -6,7 +6,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '356b975314',extremes,Snow&Ice,#d60d2b,wmo,冰通化城,2026-01-15T10:56:00+00:00,China,0.7476704370282637,1,3,zh,EAS,Asia
 'c685705bbd',extremes,Earthquake,#870007,usgs,中国地震,2026-01-15T10:56:00+00:00,China,0.7437420685932513,3,3,zh,EAS,Asia
 '40a849aef3',extremes,Earthquake,#870007,usgs,昭通地震,2026-01-15T12:13:00+00:00,China,0.739209122780079,2,2,zh,EAS,Asia
-'ae8ec0cd04',extremes,Wildfire,#d60d2b,wmo,云龙县山火,2026-02-13T04:34:00+00:00,China,0.7389367766781041,0,1,zh,EAS,Asia
 'e491f0133a',extremes,Wildfire,#d60d2b,wmo,施甸县山火,2026-01-29T04:19:00+00:00,China,0.7388536479507261,0,1,zh,EAS,Asia
 '6b6e3b7c81',extremes,Wildfire,#d60d2b,wmo,野火宣威市,2026-01-27T03:58:00+00:00,China,0.7365387095328579,1,2,zh,EAS,Asia
 '1900134e0c',extremes,Fog,#d60d2b,wmo,霧竹山縣,2026-01-15T12:14:00+00:00,China,0.7358963472827824,2,2,zh,EAS,Asia
@@ -110,6 +109,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a58551d5bb',extremes,Cold Wave,#a7e9fa,wmo,阜新市冰凍,2026-02-11T04:41:00+00:00,China,0.6290856458111524,1,1,zh,EAS,Asia
 'b6c7bff70b',extremes,Wildfire,#d60d2b,wmo,福贡县山火,2026-02-10T04:43:00+00:00,China,0.6286087292764575,1,1,zh,EAS,Asia
 '8b678f68d9',extremes,Wildfire,#d60d2b,wmo,梁河縣山火,2026-02-07T04:19:00+00:00,China,0.6285744801172545,1,1,zh,EAS,Asia
+'ae8ec0cd04',extremes,Wildfire,#d60d2b,wmo,云龙县山火,2026-02-13T04:34:00+00:00,China,0.6283962901763884,1,1,zh,EAS,Asia
 '4566a9b09f',extremes,Storm,#b3b2b1,wmo,风暴 广平县,2026-01-15T12:14:00+00:00,China,0.6276454627344263,2,1,zh,EAS,Asia
 'e7c015237c',extremes,Wildfire,#d60d2b,wmo,野火龙阳,2026-01-31T04:16:00+00:00,China,0.626868056718189,2,1,zh,EAS,Asia
 'a930a8e86c',extremes,Wildfire,#d60d2b,wmo,龙陵县山火,2026-01-28T03:56:00+00:00,China,0.6267046043634616,1,1,zh,EAS,Asia
