@@ -14,8 +14,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '88f2d4b487',extremes,Fog,#d60d2b,wmo,雾气释放区域,2026-01-15T10:56:00+00:00,China,0.7312651128551281,1,2,zh,EAS,Asia
 '15128fcbb5',extremes,Wildfire,#d60d2b,wmo,野火游仙,2026-01-15T10:56:00+00:00,China,0.7311174243144722,1,2,zh,EAS,Asia
 '1da75240ab',extremes,Wildfire,#d60d2b,wmo,山火天元区,2026-01-15T10:56:00+00:00,China,0.7289564900526836,1,2,zh,EAS,Asia
+'71302c866a',extremes,Cold Wave,#a7e9fa,wmo,方正縣寒潮,2026-02-14T04:21:00+00:00,China,0.7268732456695465,0,1,zh,EAS,Asia
 '0ea3de86e9',extremes,Wildfire,#d60d2b,wmo,野火中国,2026-01-15T10:56:00+00:00,China,0.7264242299679412,1,2,zh,EAS,Asia
 '8182b1f37a',extremes,Snow&Ice,#d60d2b,wmo,雪中國,2026-01-15T10:56:00+00:00,China,0.7232301295211327,6,3,zh,EAS,Asia
+'7f4c9c7b53',extremes,Cold Wave,#a7e9fa,wmo,鞍山市寒潮,2026-02-15T04:35:00+00:00,China,0.7143941043859904,0,1,zh,EAS,Asia
 '1bd470d857',extremes,Cold Wave,#a7e9fa,wmo,冰凍中國,2026-01-15T10:56:00+00:00,China,0.7124276629180702,1,2,zh,EAS,Asia
 '71684b4804',extremes,Snow&Ice,#d60d2b,wmo,冰中国,2026-01-15T10:56:00+00:00,China,0.7106183627144327,1,2,zh,EAS,Asia
 'f94711bbbf',extremes,Fog,#d60d2b,wmo,雾万山渠,2026-01-15T10:56:00+00:00,China,0.7078942488158331,2,2,zh,EAS,Asia
