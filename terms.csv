@@ -21,7 +21,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f94711bbbf',extremes,Fog,#d60d2b,wmo,雾万山渠,2026-01-15T10:56:00+00:00,China,0.7078942488158331,2,2,zh,EAS,Asia
 'd4f0e45c92',extremes,Snow&Ice,#d60d2b,wmo,冰霜中國,2026-01-15T10:56:00+00:00,China,0.707581351787022,2,2,zh,EAS,Asia
 '4512837dc7',extremes,Wildfire,#d60d2b,wmo,大理市野火,2026-01-25T04:06:00+00:00,China,0.6992092662710278,1,2,zh,EAS,Asia
-'6d40963829',extremes,Cold Wave,#a7e9fa,wmo,营口市寒潮,2026-01-15T12:14:00+00:00,China,0.6866355516368179,1,1,zh,EAS,Asia
 '585e678b13',extremes,Earthquake,#870007,usgs,西林地震热,2026-01-15T10:56:00+00:00,China,0.6857585734254231,1,1,zh,ESB,Asia
 '138435a743',extremes,Storm,#b3b2b1,wmo,风暴潮 大方县,2026-01-15T10:56:00+00:00,China,0.6856464959926064,2,1,zh,EAS,Asia
 '55a29976cb',extremes,Snow&Ice,#d60d2b,wmo,冰凍正安縣,2026-01-15T10:56:00+00:00,China,0.685629765366673,2,1,zh,EAS,Asia
@@ -110,6 +109,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '83354d3f6e',extremes,Wildfire,#d60d2b,wmo,山火师宗县,2026-01-30T04:21:00+00:00,China,0.6233982019529652,1,1,zh,EAS,Asia
 'c829a1bbd4',extremes,Cold Wave,#a7e9fa,wmo,寒潮达尔汗克,2026-02-04T04:21:00+00:00,China,0.6232240071432202,1,1,zh,EAS,Asia
 '59045903cf',extremes,Cold Wave,#a7e9fa,wmo,抚顺市寒潮,2026-02-14T04:21:00+00:00,China,0.6231784156024169,1,1,zh,EAS,Asia
+'6d40963829',extremes,Cold Wave,#a7e9fa,wmo,营口市寒潮,2026-01-15T12:14:00+00:00,China,0.6217402788912951,2,1,zh,EAS,Asia
 '60b84c9141',extremes,Cold Wave,#a7e9fa,wmo,冰冻土默右旗,2026-01-30T04:21:00+00:00,China,0.6217105610994549,1,1,zh,EAS,Asia
 'd693e4bc72',extremes,Fog,#d60d2b,wmo,七星關區霧,2026-01-15T10:56:00+00:00,China,0.6212284609585993,2,1,zh,EAS,Asia
 'f4aa91b292',extremes,Snow&Ice,#d60d2b,wmo,冰凍中國,2026-01-15T12:14:00+00:00,China,0.6211491376484065,2,2,zh,EAS,Asia
