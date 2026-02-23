@@ -1,925 +1,1026 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Chinese,Chinese,NORP,,,en,27.9666666666667
-first,first,ORDINAL,,,en,27.626262626262655
-2025,2025,CARDINAL,,,en,12.92499999999998
-two,two,CARDINAL,,,en,10.889393939393926
-today,today,DATE,,,en,10.844444444444441
-winter,winter,DATE,,,en,10.38181818181818
-one,one,CARDINAL,,,en,9.378354978354976
-three,three,CARDINAL,,,en,9.33611111111111
-2026,2026,DATE,,,en,8.18333333333333
+first,first,ORDINAL,,,en,32.022294372294404
+Chinese,Chinese,NORP,,,en,29.316666666666702
+today,today,DATE,,,en,18.019047619047623
+2025,2025,CARDINAL,,,en,13.918650793650773
+two,two,CARDINAL,,,en,12.38383838383837
+winter,winter,DATE,,,en,11.867532467532463
+three,three,CARDINAL,,,en,10.13611111111111
+one,one,CARDINAL,,,en,9.978354978354975
+2026,2026,DATE,,,en,8.583333333333329
+Today,Today,DATE,,,en,8.174999999999995
+1,1,CARDINAL,,,en,7.248412698412696
 second,second,ORDINAL,,,en,6.954545454545452
-Today,Today,DATE,,,en,6.9361111111111065
-1,1,CARDINAL,,,en,6.170634920634919
-this year,this year,DATE,,,en,5.367929292929293
+12,12,CARDINAL,,,en,6.255555555555556
+this year,this year,DATE,,,en,5.967929292929293
+the Spring Festival,the Spring Festival,EVENT,,,en,5.425000000000001
+Japanese,Japanese,NORP,,,en,5.400000000000001
+American,American,NORP,,,en,5.225000000000001
+tomorrow,tomorrow,DATE,,,en,5.0888888888888895
 17,17,CARDINAL,,,en,5.048484848484846
-Japanese,Japanese,NORP,,,en,4.800000000000001
+9th,9th,ORDINAL,,,en,4.822222222222222
+10,10,CARDINAL,,,en,4.816666666666668
+3,3,CARDINAL,,,en,4.791666666666668
 four,four,CARDINAL,,,en,4.7666666666666675
+2,2,CARDINAL,,,en,4.76111111111111
 annual,annual,DATE,,,en,4.733333333333334
 Christmas,Christmas,DATE,,,en,4.685714285714286
-American,American,NORP,,,en,4.625000000000001
-2,2,CARDINAL,,,en,4.461111111111111
-3,3,CARDINAL,,,en,3.991666666666669
+around 10 degrees,around 10 degrees,QUANTITY,,,en,4.666666666666667
+7th,7th,ORDINAL,,,en,4.252380952380952
+British,British,NORP,,,en,4.100000000000001
+Spring Festival,Spring Festival,EVENT,,,en,3.9000000000000004
+the evening,the evening,TIME,,,en,3.855555555555556
 New Year,New Year,EVENT,,,en,3.850000000000001
-the Spring Festival,the Spring Festival,EVENT,,,en,3.725000000000001
-British,British,NORP,,,en,3.600000000000001
+the Lunar New Year,the Lunar New Year,EVENT,,,en,3.8000000000000007
+8,8,CARDINAL,,,en,3.7361111111111116
+5,5,CARDINAL,,,en,3.6500000000000004
+10 degrees,10 degrees,QUANTITY,,,en,3.622222222222222
 15,15,CARDINAL,,,en,3.5428571428571436
+third,third,ORDINAL,,,en,3.5000000000000013
+6,6,CARDINAL,,,en,3.350000000000001
 eight,eight,CARDINAL,,,en,3.35
+4,4,CARDINAL,,,en,3.344444444444445
+this morning,this morning,TIME,,,en,3.322222222222223
 year,year,DATE,,,en,3.300000000000002
-the Lunar New Year,the Lunar New Year,EVENT,,,en,3.2000000000000006
-third,third,ORDINAL,,,en,3.100000000000001
+8th,8th,DATE,,,en,3.2888888888888888
+the early morning,the early morning,TIME,,,en,3.2333333333333334
+7,7,CARDINAL,,,en,3.220634920634921
+five,five,CARDINAL,,,en,3.1357142857142866
 Italian,Italian,NORP,,,en,3.1
-10,10,CARDINAL,,,en,3.0666666666666678
-Spring Festival,Spring Festival,EVENT,,,en,3.0
 ten,ten,CARDINAL,,,en,3.0
+6 degrees,6 degrees,QUANTITY,,,en,2.9555555555555557
 Taiwanese,Taiwanese,NORP,,,en,2.9000000000000012
-5,5,CARDINAL,,,en,2.9000000000000004
 2001,2001,DATE,,,en,2.9000000000000004
-8,8,CARDINAL,,,en,2.891666666666667
 next year,next year,DATE,,,en,2.8500000000000005
 36,36,CARDINAL,,,en,2.800000000000001
 December 9,December 9,DATE,,,en,2.8000000000000007
-the evening,the evening,TIME,,,en,2.8000000000000007
+last year,last year,DATE,,,en,2.7833333333333337
+21,21,CARDINAL,,,en,2.7777777777777777
+monthly,monthly,DATE,,,en,2.7773809523809527
+100,100,CARDINAL,,,en,2.7750000000000004
 2024,2024,DATE,,,en,2.766666666666667
+New Year's Eve,New Year's Eve,EVENT,,,en,2.744444444444445
+only 8.4 degrees,only 8.4 degrees,QUANTITY,,,en,2.688888888888889
+2021,2021,DATE,,,en,2.672222222222223
+daily,daily,DATE,,,en,2.655555555555556
+Korean,Korean,NORP,,,en,2.6500000000000012
+European,European,NORP,,,en,2.6250000000000004
 Friday,Friday,DATE,,,en,2.6000000000000014
-last year,last year,DATE,,,en,2.5333333333333337
-100,100,CARDINAL,,,en,2.5250000000000004
-December 8,December 8,DATE,,,en,2.500000000000001
+11,11,CARDINAL,,,en,2.511111111111111
 Ultra,Ultra,NORP,,,en,2.500000000000001
+December 8,December 8,DATE,,,en,2.500000000000001
 the Year of the,the Year of the,DATE,,,en,2.5000000000000004
 more than 1 million,more than 1 million,CARDINAL,,,en,2.5
-2021,2021,DATE,,,en,2.4500000000000006
+Tuesday,Tuesday,DATE,,,en,2.466666666666667
+yesterday,yesterday,DATE,,,en,2.4444444444444446
 this week,this week,DATE,,,en,2.4285714285714293
-five,five,CARDINAL,,,en,2.400000000000001
 2014,2014,DATE,,,en,2.4000000000000004
 billions of dollars,billions of dollars,MONEY,,,en,2.4
 November,November,DATE,,,en,2.3916666666666675
-monthly,monthly,DATE,,,en,2.391666666666667
-European,European,NORP,,,en,2.3750000000000004
-6,6,CARDINAL,,,en,2.3666666666666676
-7,7,CARDINAL,,,en,2.3428571428571434
-daily,daily,DATE,,,en,2.3333333333333335
+One,One,CARDINAL,,,en,2.3166666666666673
 |,|,CARDINAL,,,en,2.3000000000000007
 the New Year,the New Year,EVENT,,,en,2.3000000000000003
 2022,2022,DATE,,,en,2.3000000000000003
 that day,that day,DATE,,,en,2.3000000000000003
-7th,7th,ORDINAL,,,en,2.3
+Last Night,Last Night,TIME,,,en,2.272222222222223
 December,December,DATE,,,en,2.2428571428571438
-Tuesday,Tuesday,DATE,,,en,2.216666666666667
+next week,next week,DATE,,,en,2.233333333333334
 36Kr,36Kr,CARDINAL,,,en,2.200000000000001
+recent years,recent years,DATE,,,en,2.2000000000000006
 the 25th,the 25th,DATE,,,en,2.2
-New Year's Eve,New Year's Eve,EVENT,,,en,2.2
+the past year,the past year,DATE,,,en,2.2
 Model 3,Model 3,PRODUCT,,,en,2.1999999999999997
-half,half,CARDINAL,,,en,2.166666666666667
+90,90,CARDINAL,,,en,2.188888888888889
+six,six,CARDINAL,,,en,2.1857142857142864
+60%,60%,PERCENT,,,en,2.1714285714285713
 South Korean,South Korean,NORP,,,en,2.166666666666667
+half,half,CARDINAL,,,en,2.166666666666667
 Winter,Winter,DATE,0.1742063492063492,1.1694444444444445,en,2.1666666666666665
 2023,2023,DATE,,,en,2.1333333333333337
-Korean,Korean,NORP,,,en,2.100000000000001
 year-end,year-end,DATE,,,en,2.1000000000000005
 20,20,CARDINAL,,,en,2.1
+6th,6th,ORDINAL,,,en,2.0833333333333335
 more than half,more than half,CARDINAL,,,en,2.081818181818182
-Last Night,Last Night,TIME,,,en,2.072222222222223
-One,One,CARDINAL,,,en,2.0666666666666673
+the day,the day,DATE,,,en,2.0666666666666673
+Sunday,Sunday,DATE,,,en,2.05
 Monday,Monday,DATE,,,en,2.0357142857142856
 8:01,8:01,CARDINAL,,,en,2.000000000000001
 thousands,thousands,CARDINAL,,,en,2.0000000000000004
-yesterday,yesterday,DATE,,,en,2.0000000000000004
-early 2026,early 2026,DATE,,,en,2.0
 the beginning of the year,the beginning of the year,DATE,,,en,2.0
 nearly 10%,nearly 10%,PERCENT,,,en,2.0
+early 2026,early 2026,DATE,,,en,2.0
 seven,seven,CARDINAL,,,en,1.992857142857143
+tonight,tonight,TIME,,,en,1.9833333333333334
 night,night,TIME,,,en,1.9500000000000006
-Sunday,Sunday,DATE,,,en,1.95
+Australian,Australian,NORP,,,en,1.9500000000000002
 the 26th,the 26th,DATE,,,en,1.9333333333333331
 dozens,dozens,CARDINAL,,,en,1.925
-4,4,CARDINAL,,,en,1.9000000000000008
-six,six,CARDINAL,,,en,1.9000000000000006
-next week,next week,DATE,,,en,1.9000000000000004
 English,English,NORP,,,en,1.9000000000000004
 tens of millions of yuan,tens of millions of yuan,MONEY,,,en,1.9000000000000004
-the early morning,the early morning,TIME,,,en,1.9000000000000004
+January,January,DATE,,,en,1.863636363636364
 9,9,CARDINAL,,,en,1.8500000000000003
+the next day,the next day,DATE,,,en,1.85
+the 17th,the 17th,DATE,,,en,1.85
+the afternoon,the afternoon,TIME,,,en,1.8444444444444443
+a year ago,a year ago,DATE,,,en,1.8444444444444443
 German,German,NORP,,,en,1.8333333333333335
-2nm,2nm,QUANTITY,,,en,1.8000000000000007
+the year,the year,DATE,,,en,1.8000000000000007
 December 10,December 10,DATE,,,en,1.8000000000000007
-12,12,CARDINAL,,,en,1.8000000000000003
-November 18,November 18,DATE,,,en,1.8
+2nm,2nm,QUANTITY,,,en,1.8000000000000007
+tens of millions,tens of millions,MONEY,,,en,1.8000000000000003
+noon,noon,TIME,,,en,1.8000000000000003
 311,311,CARDINAL,,,en,1.8
-7.5,7.5,CARDINAL,,,en,1.8
+November 18,November 18,DATE,,,en,1.8
 92%,92%,PERCENT,,,en,1.8
+7.5,7.5,CARDINAL,,,en,1.8
 under winter,under winter,DATE,,,en,1.8
 14,14,CARDINAL,,,en,1.7818181818181822
 the 24th,the 24th,DATE,,,en,1.781818181818182
+Three,Three,CARDINAL,,,en,1.7500000000000004
 Android,Android,PRODUCT,,,en,1.7500000000000004
-6th,6th,ORDINAL,,,en,1.75
-435 yuan,435 yuan,MONEY,,,en,1.75
 3060,3060,CARDINAL,,,en,1.75
+435 yuan,435 yuan,MONEY,,,en,1.75
+French,French,NORP,,,en,1.75
+fifth,fifth,ORDINAL,,,en,1.744444444444445
 one year,one year,DATE,,,en,1.7250000000000005
-the year,the year,DATE,,,en,1.7000000000000006
-recent years,recent years,DATE,,,en,1.7000000000000006
+12306,12306,CARDINAL,,,en,1.7250000000000005
+Two,Two,CARDINAL,,,en,1.717857142857143
 798,798,CARDINAL,,,en,1.7000000000000006
 the end of the year,the end of the year,DATE,,,en,1.7000000000000004
-million,million,CARDINAL,,,en,1.7000000000000002
-tens of millions,tens of millions,MONEY,,,en,1.7000000000000002
 January 19,January 19,DATE,,,en,1.7000000000000002
+million,million,CARDINAL,,,en,1.7000000000000002
 two years,two years,DATE,,,en,1.7000000000000002
-this morning,this morning,TIME,,,en,1.7000000000000002
-29th,29th,DATE,,,en,1.7
 eastern,eastern,NORP,,,en,1.7
-nearly half,nearly half,CARDINAL,,,en,1.666666666666667
+29th,29th,DATE,,,en,1.7
 500,500,CARDINAL,,,en,1.666666666666667
+nearly half,nearly half,CARDINAL,,,en,1.666666666666667
 eight years,eight years,DATE,,,en,1.6666666666666665
-January,January,DATE,,,en,1.663636363636364
+This Morning,This Morning,TIME,,,en,1.6611111111111114
 22,22,CARDINAL,,,en,1.65
 13,13,CARDINAL,,,en,1.65
 January 8,January 8,DATE,,,en,1.625
-2028,2028,DATE,,,en,1.6000000000000005
 20%,20%,PERCENT,,,en,1.6000000000000005
+2028,2028,DATE,,,en,1.6000000000000005
 five years,five years,DATE,,,en,1.6000000000000005
-the past year,the past year,DATE,,,en,1.6
+many years,many years,DATE,,,en,1.6000000000000003
 2016,2016,DATE,,,en,1.6
 the Year of the Horse,the Year of the Horse,EVENT,,,en,1.6
 4th,4th,ORDINAL,,,en,1.6
-100th,100th,ORDINAL,,,en,1.6
-60%,60%,PERCENT,,,en,1.6
+February 28th,February 28th,DATE,,,en,1.6
 38,38,CARDINAL,,,en,1.6
+100th,100th,ORDINAL,,,en,1.6
 ten years,ten years,DATE,,,en,1.5857142857142859
-This Morning,This Morning,TIME,,,en,1.5611111111111113
+the evening of the 6th to the 7th,the evening of the 6th to the 7th,TIME,,,en,1.5555555555555556
+6:34 this morning,6:34 this morning,TIME,,,en,1.5555555555555556
+the early morning of the 8th to the 9th,the early morning of the 8th to the 9th,TIME,,,en,1.5555555555555556
+This morning,This morning,TIME,,,en,1.5555555555555556
 December 1,December 1,DATE,,,en,1.5500000000000003
 Thursday,Thursday,DATE,,,en,1.55
-12306,12306,CARDINAL,,,en,1.5250000000000004
 New Year's,New Year's,EVENT,,,en,1.5250000000000004
 this day,this day,DATE,,,en,1.5250000000000001
 summer,summer,DATE,,,en,1.525
 the New Year's Day,the New Year's Day,EVENT,,,en,1.5151515151515151
-Three,Three,CARDINAL,,,en,1.5000000000000004
+26th,26th,ORDINAL,,,en,1.5000000000000004
 every day,every day,DATE,,,en,1.5000000000000004
 over 100 million yuan,over 100 million yuan,MONEY,,,en,1.5000000000000004
-December 5,December 5,DATE,,,en,1.5000000000000004
 80,80,CARDINAL,,,en,1.5000000000000004
-26th,26th,ORDINAL,,,en,1.5000000000000004
+December 5,December 5,DATE,,,en,1.5000000000000004
 3C,3C,CARDINAL,,,en,1.5000000000000002
-fourth,fourth,ORDINAL,,,en,1.5000000000000002
-| 36,| 36,DATE,,,en,1.5000000000000002
-2nd,2nd,ORDINAL,,,en,1.5000000000000002
-the morning,the morning,TIME,,,en,1.5000000000000002
-January 15,January 15,DATE,,,en,1.5000000000000002
 2015,2015,DATE,,,en,1.5000000000000002
+the morning,the morning,TIME,,,en,1.5000000000000002
+2nd,2nd,ORDINAL,,,en,1.5000000000000002
+January 15,January 15,DATE,,,en,1.5000000000000002
+| 36,| 36,DATE,,,en,1.5000000000000002
+fourth,fourth,ORDINAL,,,en,1.5000000000000002
+36th,36th,ORDINAL,,,en,1.5
 27th,27th,ORDINAL,,,en,1.5
-1 million,1 million,CARDINAL,,,en,1.5
-2699 yuan,2699 yuan,MONEY,,,en,1.5
+previous years,previous years,DATE,,,en,1.5
 684,684,CARDINAL,,,en,1.5
-the 2015 academic year,the 2015 academic year,DATE,,,en,1.5
-25%,25%,PERCENT,,,en,1.5
 The Taichung Industrial Expo,The Taichung Industrial Expo,EVENT,,,en,1.5
-January 6,January 6,DATE,,,en,1.5
-at least 30,at least 30,CARDINAL,,,en,1.5
-nearly 100 million yuan,nearly 100 million yuan,MONEY,,,en,1.5
+the 2015 academic year,the 2015 academic year,DATE,,,en,1.5
+April,April,DATE,,,en,1.5
+2699 yuan,2699 yuan,MONEY,,,en,1.5
 above $6,above $6,MONEY,,,en,1.5
 33,33,CARDINAL,,,en,1.5
-previous years,previous years,DATE,,,en,1.5
+nearly 100 million yuan,nearly 100 million yuan,MONEY,,,en,1.5
+1 million,1 million,CARDINAL,,,en,1.5
+the Winter Olympics,the Winter Olympics,EVENT,,,en,1.5
+January 6,January 6,DATE,,,en,1.5
+25%,25%,PERCENT,,,en,1.5
+at least 30,at least 30,CARDINAL,,,en,1.5
 2019,2019,DATE,,,en,1.4916666666666667
+25,25,CARDINAL,,,en,1.4857142857142858
 20th,20th,ORDINAL,,,en,1.4727272727272729
-Two,Two,CARDINAL,,,en,1.467857142857143
 overnight,overnight,TIME,,,en,1.4666666666666666
+the new year,the new year,DATE,,,en,1.4500000000000002
+recent days,recent days,DATE,,,en,1.45
+the Chinese New Year,the Chinese New Year,EVENT,,,en,1.4444444444444444
+10 degrees Celsius,10 degrees Celsius,QUANTITY,,,en,1.4444444444444444
+7.1 degrees,7.1 degrees,QUANTITY,,,en,1.4444444444444444
+morning,morning,TIME,,,en,1.4333333333333333
 next month,next month,DATE,,,en,1.4333333333333333
 GPU,GPU,PRODUCT,,,en,1.4285714285714284
+the past five years,the past five years,DATE,,,en,1.4222222222222225
+January 22,January 22,DATE,,,en,1.4222222222222225
 December 26,December 26,DATE,,,en,1.4166666666666665
 1x,1x,CARDINAL,,,en,1.4000000000000004
-many years,many years,DATE,,,en,1.4000000000000004
-11th,11th,ORDINAL,,,en,1.4000000000000004
-11,11,CARDINAL,,,en,1.4000000000000004
+Galaxy S26,Galaxy S26,PRODUCT,,,en,1.4000000000000004
 March this year,March this year,DATE,,,en,1.4000000000000004
-the day,the day,DATE,,,en,1.4000000000000004
+11th,11th,ORDINAL,,,en,1.4000000000000004
 Pokémon,Pokémon,PRODUCT,,,en,1.4000000000000004
 NT$1.25 trillion,NT$1.25 trillion,FAC,,,en,1.4000000000000004
 Exynos 2600,Exynos 2600,PRODUCT,,,en,1.4000000000000004
-Galaxy S26,Galaxy S26,PRODUCT,,,en,1.4000000000000004
 70%,70%,PERCENT,,,en,1.4000000000000004
 nearly 40%,nearly 40%,PERCENT,,,en,1.4000000000000004
-This year,This year,DATE,,,en,1.4000000000000001
+the 27th,the 27th,DATE,,,en,1.4000000000000001
 January 11,January 11,DATE,,,en,1.4000000000000001
 New Year’s Eve,New Year’s Eve,EVENT,,,en,1.4000000000000001
+This year,This year,DATE,,,en,1.4000000000000001
 "500,000 yuan","500,000 yuan",MONEY,,,en,1.4000000000000001
-the 27th,the 27th,DATE,,,en,1.4000000000000001
-Leica,Leica,WORK_OF_ART,,,en,1.4
-Onmyoji,Onmyoji,WORK_OF_ART,,,en,1.4
-12%,12%,PERCENT,,,en,1.4
-the 29th,the 29th,DATE,,,en,1.4
 10 meters,10 meters,QUANTITY,,,en,1.4
-6 consecutive days,6 consecutive days,DATE,,,en,1.4
-tomorrow,tomorrow,DATE,,,en,1.4
+Onmyoji,Onmyoji,WORK_OF_ART,,,en,1.4
 8 degrees,8 degrees,QUANTITY,,,en,1.4
-Tanaka Suite,Tanaka Suite,WORK_OF_ART,,,en,1.4
-thanksgiving,thanksgiving,DATE,,,en,1.4
-the afternoon,the afternoon,TIME,,,en,1.4
-a year ago,a year ago,DATE,,,en,1.4
 156,156,CARDINAL,,,en,1.4
 57,57,CARDINAL,,,en,1.4
+Yongle,Yongle,WORK_OF_ART,,,en,1.4
+6 consecutive days,6 consecutive days,DATE,,,en,1.4
+Tanaka Suite,Tanaka Suite,WORK_OF_ART,,,en,1.4
+the 29th,the 29th,DATE,,,en,1.4
+Leica,Leica,WORK_OF_ART,,,en,1.4
+thanksgiving,thanksgiving,DATE,,,en,1.4
+around 10 degrees or,around 10 degrees or,QUANTITY,,,en,1.4
+12%,12%,PERCENT,,,en,1.4
+31,31,CARDINAL,,,en,1.3968253968253967
 trillion-dollar,trillion-dollar,MONEY,,,en,1.3666666666666665
 December 2025,December 2025,DATE,,,en,1.35
 "2,699","2,699",CARDINAL,,,en,1.35
-100 million,100 million,CARDINAL,,,en,1.3250000000000002
-January 21,January 21,DATE,,,en,1.3250000000000002
+Wednesday,Wednesday,DATE,,,en,1.3333333333333333
+early morning,early morning,TIME,,,en,1.3333333333333333
+a few days,a few days,DATE,,,en,1.3333333333333333
+the 8th,the 8th,DATE,,,en,1.3333333333333333
 Musk,Musk,PRODUCT,,,en,1.3250000000000002
+January 21,January 21,DATE,,,en,1.3250000000000002
+100 million,100 million,CARDINAL,,,en,1.3250000000000002
 February,February,DATE,,,en,1.3111111111111113
-Samsung Galaxy Z,Samsung Galaxy Z,PRODUCT,,,en,1.3000000000000003
-November 27th to 28th,November 27th to 28th,DATE,,,en,1.3000000000000003
-June this year,June this year,DATE,,,en,1.3000000000000003
-"10,000 yuan","10,000 yuan",MONEY,,,en,1.3000000000000003
-last Friday,last Friday,DATE,,,en,1.3000000000000003
-2027,2027,DATE,,,en,1.3000000000000003
-half a year,half a year,DATE,,,en,1.3000000000000003
-50,50,CARDINAL,,,en,1.3000000000000003
-New Year’s,New Year’s,EVENT,,,en,1.3000000000000003
-5 years,5 years,DATE,,,en,1.3000000000000003
-polish,polish,NORP,,,en,1.3000000000000003
-Pixel 10,Pixel 10,PRODUCT,,,en,1.3000000000000003
-Russian,Russian,NORP,,,en,1.3000000000000003
-December 12,December 12,DATE,,,en,1.3000000000000003
-90,90,CARDINAL,,,en,1.3000000000000003
 December 19,December 19,DATE,,,en,1.3000000000000003
-the Transmission Space,the Transmission Space,FAC,,,en,1.3000000000000003
-Series,Series,EVENT,,,en,1.3000000000000003
-November 27-28,November 27-28,DATE,,,en,1.3000000000000003
-Galaxy Z TriFold,Galaxy Z TriFold,PRODUCT,,,en,1.3000000000000003
-Daily Rental,Daily Rental,WORK_OF_ART,,,en,1.3000000000000003
+November 27th to 28th,November 27th to 28th,DATE,,,en,1.3000000000000003
 US$1 billion,US$1 billion,MONEY,,,en,1.3000000000000003
-ByteDance,ByteDance,WORK_OF_ART,,,en,1.3000000000000003
-fifth,fifth,ORDINAL,,,en,1.3000000000000003
+Pixel 10,Pixel 10,PRODUCT,,,en,1.3000000000000003
+220km,220km,QUANTITY,,,en,1.3000000000000003
+northerners,northerners,NORP,,,en,1.3000000000000003
+nova 15,nova 15,PRODUCT,,,en,1.3000000000000003
+half a year,half a year,DATE,,,en,1.3000000000000003
+Daily Rental,Daily Rental,WORK_OF_ART,,,en,1.3000000000000003
+10%,10%,PERCENT,,,en,1.3000000000000003
+the same day,the same day,DATE,,,en,1.3000000000000003
+last Friday,last Friday,DATE,,,en,1.3000000000000003
 30,30,CARDINAL,,,en,1.3000000000000003
-Batman,Batman,WORK_OF_ART,,,en,1.3000000000000003
-the weekend,the weekend,DATE,,,en,1.3000000000000003
+ByteDance,ByteDance,WORK_OF_ART,,,en,1.3000000000000003
+Samsung Galaxy Z,Samsung Galaxy Z,PRODUCT,,,en,1.3000000000000003
 "2,000","2,000",CARDINAL,,,en,1.3000000000000003
 the end of last year,the end of last year,DATE,,,en,1.3000000000000003
-10%,10%,PERCENT,,,en,1.3000000000000003
-noon,noon,TIME,,,en,1.3000000000000003
-220km,220km,QUANTITY,,,en,1.3000000000000003
+Series,Series,EVENT,,,en,1.3000000000000003
+Russian,Russian,NORP,,,en,1.3000000000000003
 World of Warcraft,World of Warcraft,WORK_OF_ART,,,en,1.3000000000000003
-nova 15,nova 15,PRODUCT,,,en,1.3000000000000003
-100%,100%,PERCENT,,,en,1.3
+5 years,5 years,DATE,,,en,1.3000000000000003
+the Transmission Space,the Transmission Space,FAC,,,en,1.3000000000000003
+Batman,Batman,WORK_OF_ART,,,en,1.3000000000000003
+June this year,June this year,DATE,,,en,1.3000000000000003
+50,50,CARDINAL,,,en,1.3000000000000003
+the weekend,the weekend,DATE,,,en,1.3000000000000003
+2027,2027,DATE,,,en,1.3000000000000003
+"10,000 yuan","10,000 yuan",MONEY,,,en,1.3000000000000003
+December 12,December 12,DATE,,,en,1.3000000000000003
+New Year’s,New Year’s,EVENT,,,en,1.3000000000000003
+one million,one million,CARDINAL,,,en,1.3000000000000003
+November 27-28,November 27-28,DATE,,,en,1.3000000000000003
+Galaxy Z TriFold,Galaxy Z TriFold,PRODUCT,,,en,1.3000000000000003
+polish,polish,NORP,,,en,1.3000000000000003
 9:01,9:01,CARDINAL,,,en,1.3
-December 29,December 29,DATE,,,en,1.3
-last week,last week,DATE,,,en,1.3
 30th,30th,ORDINAL,,,en,1.3
+December 29,December 29,DATE,,,en,1.3
+100%,100%,PERCENT,,,en,1.3
+several hours,several hours,TIME,,,en,1.3
+last week,last week,DATE,,,en,1.3
 the past two days,the past two days,DATE,,,en,1.2857142857142856
 minus 45 degrees Celsius,minus 45 degrees Celsius,QUANTITY,,,en,1.2857142857142856
 Americans,Americans,NORP,,,en,1.281818181818182
 more than 100,more than 100,CARDINAL,,,en,1.281818181818182
-Four,Four,CARDINAL,,,en,1.2666666666666666
 zero,zero,CARDINAL,,,en,1.2666666666666666
-tonight,tonight,TIME,,,en,1.25
-1 million yuan,1 million yuan,MONEY,,,en,1.25
-the century,the century,DATE,,,en,1.25
-First,First,ORDINAL,,,en,1.25
+Four,Four,CARDINAL,,,en,1.2666666666666666
 the Dongfeng Landing Field,the Dongfeng Landing Field,FAC,,,en,1.25
-the Sydney Metro,the Sydney Metro,FAC,,,en,1.25
-75%,75%,PERCENT,,,en,1.25
-"the ""Gale Wind Ultra","the ""Gale Wind Ultra",PRODUCT,,,en,1.25
-2699,2699,CARDINAL,,,en,1.25
 December 3,December 3,DATE,,,en,1.25
+every year,every year,DATE,,,en,1.25
+First,First,ORDINAL,,,en,1.25
+the Wenchang Space Launch Site,the Wenchang Space Launch Site,FAC,,,en,1.25
+the Sydney Metro,the Sydney Metro,FAC,,,en,1.25
+18th,18th,ORDINAL,,,en,1.25
+30s,30s,DATE,,,en,1.25
+2032,2032,DATE,,,en,1.25
+2699,2699,CARDINAL,,,en,1.25
 Latin American,Latin American,NORP,,,en,1.25
+"the ""Gale Wind Ultra","the ""Gale Wind Ultra",PRODUCT,,,en,1.25
+the century,the century,DATE,,,en,1.25
 112%,112%,PERCENT,,,en,1.25
+Lunar New Year,Lunar New Year,EVENT,,,en,1.25
+evening,evening,TIME,,,en,1.25
+Six,Six,CARDINAL,,,en,1.25
+At least 12,At least 12,CARDINAL,,,en,1.25
+75%,75%,PERCENT,,,en,1.25
+the Long March 10,the Long March 10,DATE,,,en,1.25
+1 million yuan,1 million yuan,MONEY,,,en,1.25
+17th,17th,DATE,,,en,1.25
 H200,H200,PRODUCT,,,en,1.2428571428571429
 1 billion,1 billion,CARDINAL,,,en,1.225
-Starship,Starship,PRODUCT,,,en,1.2000000000000002
-the next five years,the next five years,DATE,,,en,1.2000000000000002
-the new year,the new year,DATE,,,en,1.2000000000000002
-November 28,November 28,DATE,,,en,1.2000000000000002
-100 million yuan,100 million yuan,MONEY,,,en,1.2000000000000002
-WISE2025 King of Business Conference,WISE2025 King of Business Conference,FAC,,,en,1.2000000000000002
-as low as $169,as low as $169,MONEY,,,en,1.2000000000000002
-November this year,November this year,DATE,,,en,1.2000000000000002
-FunctionGemma,FunctionGemma,PRODUCT,,,en,1.2000000000000002
-the age of 16,the age of 16,DATE,,,en,1.2000000000000002
-"6,600","6,600",MONEY,,,en,1.2000000000000002
-Surfshark VPN,Surfshark VPN,PRODUCT,,,en,1.2000000000000002
-US$40 billion,US$40 billion,MONEY,,,en,1.2000000000000002
-Australian,Australian,NORP,,,en,1.2000000000000002
-30 hours,30 hours,TIME,,,en,1.2000000000000002
-November 27,November 27,DATE,,,en,1.2000000000000002
-1.25 trillion,1.25 trillion,CARDINAL,,,en,1.2000000000000002
-January 5,January 5,DATE,,,en,1.2000000000000002
-the past five years,the past five years,DATE,,,en,1.2000000000000002
-November 30,November 30,DATE,,,en,1.2000000000000002
-year-on-year,year-on-year,DATE,,,en,1.2000000000000002
-Samsung Galaxy Book,Samsung Galaxy Book,PRODUCT,,,en,1.2000000000000002
-the International Space Station,the International Space Station,FAC,,,en,1.2000000000000002
-a single day,a single day,DATE,,,en,1.2000000000000002
-16,16,CARDINAL,,,en,1.2000000000000002
->,>,CARDINAL,,,en,1.2000000000000002
-3D,3D,CARDINAL,,,en,1.2000000000000002
-G,G,PRODUCT,,,en,1.2000000000000002
-February this year,February this year,DATE,,,en,1.2000000000000002
-the years,the years,DATE,,,en,1.2000000000000002
-$25 million,$25 million,MONEY,,,en,1.2000000000000002
-Baolan,Baolan,WORK_OF_ART,,,en,1.2000000000000002
-November 2025,November 2025,DATE,,,en,1.2000000000000002
-Honda,Honda,PRODUCT,,,en,1.2000000000000002
-less than RMB,less than RMB,MONEY,,,en,1.2000000000000002
-the first day,the first day,DATE,,,en,1.2000000000000002
 Business King Conference,Business King Conference,EVENT,,,en,1.2000000000000002
-US$650 million,US$650 million,MONEY,,,en,1.2000000000000002
-the past decade,the past decade,DATE,,,en,1.2000000000000002
-tens of thousands,tens of thousands,CARDINAL,,,en,1.2000000000000002
-M8,M8,CARDINAL,,,en,1.2000000000000002
-Android 16,Android 16,LAW,,,en,1.2000000000000002
-$1.6 billion,$1.6 billion,MONEY,,,en,1.2000000000000002
-16s,16s,DATE,,,en,1.2000000000000002
-January to November,January to November,DATE,,,en,1.2000000000000002
-"more than 8,000","more than 8,000",CARDINAL,,,en,1.2000000000000002
-this month,this month,DATE,,,en,1.2000000000000002
-the past two years,the past two years,DATE,,,en,1.2000000000000002
-9th,9th,ORDINAL,,,en,1.2000000000000002
-November 24,November 24,DATE,,,en,1.2000000000000002
-2020,2020,DATE,,,en,1.2000000000000002
-888,888,MONEY,,,en,1.2000000000000002
-Sino-Japanese,Sino-Japanese,NORP,,,en,1.2000000000000002
-December 2,December 2,DATE,,,en,1.2000000000000002
-CES 2026,CES 2026,EVENT,,,en,1.2000000000000002
-GT,GT,WORK_OF_ART,,,en,1.2000000000000002
-30%,30%,PERCENT,,,en,1.2000000000000002
-December 11,December 11,DATE,,,en,1.2000000000000002
-10 million yuan,10 million yuan,MONEY,,,en,1.2000000000000002
-November 13,November 13,DATE,,,en,1.2000000000000002
-LINLEE,LINLEE,WORK_OF_ART,,,en,1.2000000000000002
-PhD,PhD,WORK_OF_ART,,,en,1.2000000000000002
 28 hours,28 hours,TIME,,,en,1.2000000000000002
+2020,2020,DATE,,,en,1.2000000000000002
+November 13,November 13,DATE,,,en,1.2000000000000002
+10 million yuan,10 million yuan,MONEY,,,en,1.2000000000000002
+this month,this month,DATE,,,en,1.2000000000000002
+$25 million,$25 million,MONEY,,,en,1.2000000000000002
+16,16,CARDINAL,,,en,1.2000000000000002
+GT,GT,WORK_OF_ART,,,en,1.2000000000000002
+Starship,Starship,PRODUCT,,,en,1.2000000000000002
+the years,the years,DATE,,,en,1.2000000000000002
+November 30,November 30,DATE,,,en,1.2000000000000002
+the next five years,the next five years,DATE,,,en,1.2000000000000002
+CES 2026,CES 2026,EVENT,,,en,1.2000000000000002
+November 28,November 28,DATE,,,en,1.2000000000000002
+December 11,December 11,DATE,,,en,1.2000000000000002
+January 5,January 5,DATE,,,en,1.2000000000000002
+the age of 16,the age of 16,DATE,,,en,1.2000000000000002
+the past two years,the past two years,DATE,,,en,1.2000000000000002
+M8,M8,CARDINAL,,,en,1.2000000000000002
+February this year,February this year,DATE,,,en,1.2000000000000002
+June 2025,June 2025,DATE,,,en,1.2000000000000002
+November this year,November this year,DATE,,,en,1.2000000000000002
+>,>,CARDINAL,,,en,1.2000000000000002
+year-on-year,year-on-year,DATE,,,en,1.2000000000000002
+US$650 million,US$650 million,MONEY,,,en,1.2000000000000002
+the Spring Festival Gala,the Spring Festival Gala,EVENT,,,en,1.2000000000000002
+30%,30%,PERCENT,,,en,1.2000000000000002
 4.7 million,4.7 million,CARDINAL,,,en,1.2000000000000002
-Vision 2030,Vision 2030,LAW,,,en,1.2
-Leica Edition,Leica Edition,PRODUCT,,,en,1.2
-60cm,60cm,QUANTITY,,,en,1.2
-2026 Spring Festival,2026 Spring Festival,EVENT,,,en,1.2
-about one-third,about one-third,CARDINAL,,,en,1.2
-January 14,January 14,DATE,,,en,1.2
-Second,Second,ORDINAL,,,en,1.2
-February 6,February 6,DATE,,,en,1.2
-25,25,CARDINAL,,,en,1.2
-"20,000","20,000",CARDINAL,,,en,1.2
-recent days,recent days,DATE,,,en,1.2
-15%,15%,PERCENT,,,en,1.2
-January 9,January 9,DATE,,,en,1.2
-2 billion yuan,2 billion yuan,MONEY,,,en,1.2
+as low as $169,as low as $169,MONEY,,,en,1.2000000000000002
+November 24,November 24,DATE,,,en,1.2000000000000002
+Android 16,Android 16,LAW,,,en,1.2000000000000002
+G,G,PRODUCT,,,en,1.2000000000000002
+the International Space Station,the International Space Station,FAC,,,en,1.2000000000000002
+Samsung Galaxy Book,Samsung Galaxy Book,PRODUCT,,,en,1.2000000000000002
+30 hours,30 hours,TIME,,,en,1.2000000000000002
+FunctionGemma,FunctionGemma,PRODUCT,,,en,1.2000000000000002
+less than RMB,less than RMB,MONEY,,,en,1.2000000000000002
+LINLEE,LINLEE,WORK_OF_ART,,,en,1.2000000000000002
+January to November,January to November,DATE,,,en,1.2000000000000002
+"6,600","6,600",MONEY,,,en,1.2000000000000002
+November 2025,November 2025,DATE,,,en,1.2000000000000002
+Baolan,Baolan,WORK_OF_ART,,,en,1.2000000000000002
+a single day,a single day,DATE,,,en,1.2000000000000002
+tens of thousands,tens of thousands,CARDINAL,,,en,1.2000000000000002
+3D,3D,CARDINAL,,,en,1.2000000000000002
+888,888,MONEY,,,en,1.2000000000000002
+Surfshark VPN,Surfshark VPN,PRODUCT,,,en,1.2000000000000002
+16s,16s,DATE,,,en,1.2000000000000002
+PhD,PhD,WORK_OF_ART,,,en,1.2000000000000002
+December 2,December 2,DATE,,,en,1.2000000000000002
+Honda,Honda,PRODUCT,,,en,1.2000000000000002
+the past decade,the past decade,DATE,,,en,1.2000000000000002
+WISE2025 King of Business Conference,WISE2025 King of Business Conference,FAC,,,en,1.2000000000000002
+Sino-Japanese,Sino-Japanese,NORP,,,en,1.2000000000000002
+100 million yuan,100 million yuan,MONEY,,,en,1.2000000000000002
+"more than 8,000","more than 8,000",CARDINAL,,,en,1.2000000000000002
+$1.6 billion,$1.6 billion,MONEY,,,en,1.2000000000000002
+the first day,the first day,DATE,,,en,1.2000000000000002
+November 27,November 27,DATE,,,en,1.2000000000000002
+US$40 billion,US$40 billion,MONEY,,,en,1.2000000000000002
+1.25 trillion,1.25 trillion,CARDINAL,,,en,1.2000000000000002
 weekends,weekends,DATE,,,en,1.2
-1931,1931,DATE,,,en,1.2
-hundreds,hundreds,CARDINAL,,,en,1.2
-8 hours,8 hours,TIME,,,en,1.2
 January 4,January 4,DATE,,,en,1.2
+the New Year's,the New Year's,EVENT,,,en,1.2
 two months,two months,DATE,,,en,1.2
-Arabic,Arabic,NORP,,,en,1.2
-Robotaxi,Robotaxi,PRODUCT,,,en,1.2
-February 27,February 27,DATE,,,en,1.2
-Disneyland,Disneyland,FAC,,,en,1.2
-"800,000 yuan","800,000 yuan",MONEY,,,en,1.2
 as low as 0.40%,as low as 0.40%,PERCENT,,,en,1.2
+Disneyland,Disneyland,FAC,,,en,1.2
+"200,000 yuan","200,000 yuan",MONEY,,,en,1.2
+August last year,August last year,DATE,,,en,1.2
+"20,000","20,000",CARDINAL,,,en,1.2
+hundreds,hundreds,CARDINAL,,,en,1.2
 the Ao Tai Line,the Ao Tai Line,EVENT,,,en,1.2
 2 years,2 years,DATE,,,en,1.2
+Vision 2030,Vision 2030,LAW,,,en,1.2
+January 9,January 9,DATE,,,en,1.2
+"800,000 yuan","800,000 yuan",MONEY,,,en,1.2
+2 billion yuan,2 billion yuan,MONEY,,,en,1.2
+February 6,February 6,DATE,,,en,1.2
+15%,15%,PERCENT,,,en,1.2
+60cm,60cm,QUANTITY,,,en,1.2
+February 27,February 27,DATE,,,en,1.2
 Model,Model,PRODUCT,,,en,1.2
-August last year,August last year,DATE,,,en,1.2
-"200,000 yuan","200,000 yuan",MONEY,,,en,1.2
-2004,2004,DATE,,,en,1.1818181818181819
+8 hours,8 hours,TIME,,,en,1.2
+January 14,January 14,DATE,,,en,1.2
+about one-third,about one-third,CARDINAL,,,en,1.2
+Leica Edition,Leica Edition,PRODUCT,,,en,1.2
+Second,Second,ORDINAL,,,en,1.2
+2026 Spring Festival,2026 Spring Festival,EVENT,,,en,1.2
+Arabic,Arabic,NORP,,,en,1.2
+Robotaxi,Robotaxi,PRODUCT,,,en,1.2
+1931,1931,DATE,,,en,1.2
 North American,North American,NORP,,,en,1.1818181818181819
+2004,2004,DATE,,,en,1.1818181818181819
 18,18,CARDINAL,,,en,1.1818181818181819
+30 yuan,30 yuan,MONEY,,,en,1.1666666666666665
+700,700,CARDINAL,,,en,1.1666666666666665
+more than ten years,more than ten years,DATE,,,en,1.1666666666666665
+0 degrees Celsius,0 degrees Celsius,QUANTITY,,,en,1.1666666666666665
+Han Shui Han,Han Shui Han,WORK_OF_ART,,,en,1.1666666666666665
+3.2.3,3.2.3,CARDINAL,,,en,1.1666666666666665
+Five,Five,CARDINAL,,,en,1.1666666666666665
+99,99,MONEY,,,en,1.1666666666666665
 January 12,January 12,DATE,,,en,1.1666666666666665
 "8,000","8,000",CARDINAL,,,en,1.1666666666666665
-more than ten years,more than ten years,DATE,,,en,1.1666666666666665
-700,700,CARDINAL,,,en,1.1666666666666665
-Han Shui Han,Han Shui Han,WORK_OF_ART,,,en,1.1666666666666665
-Five,Five,CARDINAL,,,en,1.1666666666666665
-0 degrees Celsius,0 degrees Celsius,QUANTITY,,,en,1.1666666666666665
-99,99,MONEY,,,en,1.1666666666666665
-3.2.3,3.2.3,CARDINAL,,,en,1.1666666666666665
-30 yuan,30 yuan,MONEY,,,en,1.1666666666666665
 more than US$50 million,more than US$50 million,MONEY,,,en,1.1428571428571428
 more than $50 million,more than $50 million,MONEY,,,en,1.1428571428571428
-two-year-old,two-year-old,DATE,,,en,1.125
-200%,200%,PERCENT,,,en,1.125
 more than 50,more than 50,CARDINAL,,,en,1.125
+200%,200%,PERCENT,,,en,1.125
 Brazilian,Brazilian,NORP,,,en,1.125
-31,31,CARDINAL,,,en,1.1111111111111112
-nearly 300 million yuan,nearly 300 million yuan,MONEY,,,en,1.1
-May this year,May this year,DATE,,,en,1.1
-the Year of the Horse series,the Year of the Horse series,DATE,,,en,1.1
-Detroit:,Detroit:,WORK_OF_ART,,,en,1.1
-one week,one week,DATE,,,en,1.1
-6GHz,6GHz,CARDINAL,,,en,1.1
-weekly,weekly,DATE,,,en,1.1
-Dream Dimension,Dream Dimension,WORK_OF_ART,,,en,1.1
-August,August,DATE,,,en,1.1
-US$200 million,US$200 million,MONEY,,,en,1.1
-December 28,December 28,DATE,,,en,1.1
-Nano Banana Pro,Nano Banana Pro,PRODUCT,,,en,1.1
-Super Hero Dispatch Center,Super Hero Dispatch Center,WORK_OF_ART,,,en,1.1
-the second half of 2025,the second half of 2025,DATE,,,en,1.1
-December 7,December 7,DATE,,,en,1.1
-97%,97%,PERCENT,,,en,1.1
-"HK$1,320","HK$1,320",FAC,,,en,1.1
-2025︱WD,2025︱WD,CARDINAL,,,en,1.1
-Yushi Space,Yushi Space,WORK_OF_ART,,,en,1.1
-1999,1999,DATE,,,en,1.1
-US$830 billion,US$830 billion,MONEY,,,en,1.1
-10.29%,10.29%,PERCENT,,,en,1.1
-"70,084","70,084",CARDINAL,,,en,1.1
-31st,31st,DATE,,,en,1.1
-this weekend,this weekend,DATE,,,en,1.1
-Shadow Torch City,Shadow Torch City,WORK_OF_ART,,,en,1.1
-a few days later,a few days later,DATE,,,en,1.1
-January 10,January 10,DATE,,,en,1.1
-M4,M4,CARDINAL,,,en,1.1
-Black Friday,Black Friday,EVENT,,,en,1.1
-Animal Punk,Animal Punk,WORK_OF_ART,,,en,1.1
-Austrian,Austrian,NORP,,,en,1.1
-8 million,8 million,CARDINAL,,,en,1.1
-sixth,sixth,ORDINAL,,,en,1.1
-March 3,March 3,DATE,,,en,1.1
-100 days,100 days,DATE,,,en,1.1
-OPPO K15 Turbo,OPPO K15 Turbo,PRODUCT,,,en,1.1
-only 8 months,only 8 months,DATE,,,en,1.1
-5090,5090,CARDINAL,,,en,1.1
-day,day,DATE,,,en,1.1
-15 seconds,15 seconds,TIME,,,en,1.1
-US$82.7 billion,US$82.7 billion,MONEY,,,en,1.1
-2.4748 million yuan,2.4748 million yuan,MONEY,,,en,1.1
-24th,24th,ORDINAL,,,en,1.1
-this afternoon,this afternoon,TIME,,,en,1.1
-December 6,December 6,DATE,,,en,1.1
-Jia Private Selection,Jia Private Selection,WORK_OF_ART,,,en,1.1
-8:00 1,8:00 1,DATE,,,en,1.1
-December 17,December 17,DATE,,,en,1.1
-2025｜M4,2025｜M4,CARDINAL,,,en,1.1
-25km/h,25km/h,QUANTITY,,,en,1.1
-99.9%,99.9%,PERCENT,,,en,1.1
-0,0,CARDINAL,,,en,1.1
-L3,L3,PRODUCT,,,en,1.1
-the first year,the first year,DATE,,,en,1.1
-"1,000","1,000",CARDINAL,,,en,1.1
-Schematic,Schematic,PRODUCT,,,en,1.1
-$15 billion,$15 billion,MONEY,,,en,1.1
-last month,last month,DATE,,,en,1.1
-two weeks,two weeks,DATE,,,en,1.1
-"5,000","5,000",MONEY,,,en,1.1
-only 300,only 300,CARDINAL,,,en,1.1
-4.20,4.20,CARDINAL,,,en,1.1
-1988,1988,DATE,,,en,1.1
-only 10,only 10,CARDINAL,,,en,1.1
-The Burial of Florian,The Burial of Florian,WORK_OF_ART,,,en,1.1
-October,October,DATE,,,en,1.1
-95%,95%,PERCENT,,,en,1.1
-one million,one million,CARDINAL,,,en,1.1
-"83,800 yuan","83,800 yuan",MONEY,,,en,1.1
-December 25,December 25,DATE,,,en,1.1
-90%,90%,PERCENT,,,en,1.1
-January 20,January 20,DATE,,,en,1.1
-the past three years,the past three years,DATE,,,en,1.1
-November 19,November 19,DATE,,,en,1.1
-this winter,this winter,DATE,,,en,1.1
-21%,21%,PERCENT,,,en,1.1
+two-year-old,two-year-old,DATE,,,en,1.125
 January next year,January next year,DATE,,,en,1.1
-Fridays,Fridays,DATE,,,en,1.1
-Qwen-Image-2.0,Qwen-Image-2.0,PRODUCT,0.25227272727272726,0.584659090909091,en,1.1
-15 and a half years,15 and a half years,DATE,,,en,1.1
-Southeast Asian,Southeast Asian,NORP,,,en,1.1
-New Year’s Gift,New Year’s Gift,EVENT,,,en,1.1
-Pixel,Pixel,PRODUCT,,,en,1.1
-"2,000 meters","2,000 meters",QUANTITY,,,en,1.1
-9a,9a,PRODUCT,,,en,1.1
-14 days,14 days,DATE,,,en,1.1
-the last day,the last day,DATE,,,en,1.1
-5410,5410,PRODUCT,,,en,1.1
-2.7 billion,2.7 billion,CARDINAL,,,en,1.1
-"nearly $2,000","nearly $2,000",MONEY,,,en,1.1
-Tongxiang,Tongxiang,PRODUCT,0.175,0.625,en,1.1
-July,July,DATE,,,en,1.1
-third-quarter,third-quarter,DATE,,,en,1.1
-June 2025,June 2025,DATE,,,en,1.1
-2040,2040,DATE,,,en,1.1
-Weekly Shonen Champion,Weekly Shonen Champion,WORK_OF_ART,,,en,1.1
-more than 70,more than 70,CARDINAL,,,en,1.1
-its third quarter,its third quarter,DATE,,,en,1.1
-the second half,the second half,DATE,,,en,1.1
-League of Legends,League of Legends,WORK_OF_ART,,,en,1.1
-the next few days,the next few days,DATE,,,en,1.1
-close to 30%,close to 30%,PERCENT,,,en,1.1
-one day,one day,DATE,,,en,1.1
-just one,just one,CARDINAL,,,en,1.1
-AI Talented Girl,AI Talented Girl,WORK_OF_ART,,,en,1.1
-3 days,3 days,DATE,,,en,1.1
-Pikachu,Pikachu,PRODUCT,,,en,1.1
-June 4th,June 4th,DATE,,,en,1.1
-Intelligent Cube,Intelligent Cube,WORK_OF_ART,,,en,1.1
-Sailor Moon,Sailor Moon,WORK_OF_ART,,,en,1.1
-two years ago,two years ago,DATE,,,en,1.1
-3DS,3DS,DATE,,,en,1.1
-Vacheron Constantin,Vacheron Constantin,PRODUCT,,,en,1.1
-the 28th,the 28th,DATE,,,en,1.1
-ExpertBook,ExpertBook,PRODUCT,,,en,1.1
-42%,42%,PERCENT,,,en,1.1
-the end of November,the end of November,DATE,,,en,1.1
-"January 1, 2026","January 1, 2026",DATE,,,en,1.1
-December 20,December 20,DATE,,,en,1.1
-7%,7%,PERCENT,,,en,1.1
-Samsung Galaxy,Samsung Galaxy,PRODUCT,,,en,1.1
-1998,1998,DATE,,,en,1.1
-2025｜Garmin,2025｜Garmin,CARDINAL,,,en,1.1
-January 30,January 30,DATE,,,en,1.1
-November 25,November 25,DATE,,,en,1.1
-Indonesian,Indonesian,NORP,,,en,1.1
-"about 500,000","about 500,000",CARDINAL,,,en,1.1
-last night,last night,TIME,,,en,1.1
-25th,25th,ORDINAL,,,en,1.1
-Dongda Road,Dongda Road,FAC,,,en,1.1
-January 29th,January 29th,DATE,,,en,1.1
-27.5%,27.5%,PERCENT,,,en,1.1
-Canadian,Canadian,NORP,,,en,1.1
-Chinese Inventory 2025,Chinese Inventory 2025,EVENT,,,en,1.1
-15th,15th,ORDINAL,,,en,1.1
-10 Spring Festival,10 Spring Festival,EVENT,,,en,1.1
-at least 50,at least 50,CARDINAL,,,en,1.1
-Indian,Indian,NORP,,,en,1.1
-Death Stranding,Death Stranding,WORK_OF_ART,,,en,1.1
-2008,2008,DATE,,,en,1.1
-the second season,the second season,DATE,,,en,1.1
-three years,three years,DATE,,,en,1.1
-three-fold,three-fold,CARDINAL,,,en,1.1
-"Copyright Maniacs"" Embrace AI","Copyright Maniacs"" Embrace AI",WORK_OF_ART,,,en,1.1
-more than 200,more than 200,CARDINAL,,,en,1.1
-Asian,Asian,NORP,,,en,1.1
-the 17th,the 17th,DATE,,,en,1.1
-the past 10 years,the past 10 years,DATE,,,en,1.1
-Canglang Floating Light,Canglang Floating Light,WORK_OF_ART,,,en,1.1
-2026 Xpeng G9,2026 Xpeng G9,PRODUCT,,,en,1.1
-hourly,hourly,TIME,,,en,1.1
+a few days later,a few days later,DATE,,,en,1.1
 Starlight Shining YA Christmas Night,Starlight Shining YA Christmas Night,WORK_OF_ART,,,en,1.1
-Mingjian,Mingjian,NORP,,,en,1.1
+Hundreds,Hundreds,CARDINAL,,,en,1.1
+0,0,CARDINAL,,,en,1.1
+Chinese Inventory 2025,Chinese Inventory 2025,EVENT,,,en,1.1
 4.4 million,4.4 million,CARDINAL,,,en,1.1
-the AutoNavi Street Sweeping List,the AutoNavi Street Sweeping List,PRODUCT,,,en,1.1
+2008,2008,DATE,,,en,1.1
+Canadian,Canadian,NORP,,,en,1.1
+Asian,Asian,NORP,,,en,1.1
+May this year,May this year,DATE,,,en,1.1
+two years ago,two years ago,DATE,,,en,1.1
+Schematic,Schematic,PRODUCT,,,en,1.1
+last month,last month,DATE,,,en,1.1
+Shadow Torch City,Shadow Torch City,WORK_OF_ART,,,en,1.1
+Super Hero Dispatch Center,Super Hero Dispatch Center,WORK_OF_ART,,,en,1.1
+Taipei 101 Building,Taipei 101 Building,FAC,,,en,1.1
+this weekend,this weekend,DATE,,,en,1.1
+90%,90%,PERCENT,,,en,1.1
+"70,084","70,084",CARDINAL,,,en,1.1
 US$260 million,US$260 million,MONEY,,,en,1.1
-2023-2024,2023-2024,DATE,,,en,1.1
-"4,500","4,500",CARDINAL,,,en,1.1
-several hours,several hours,TIME,,,en,1.1
-"the ""Rukukamachi Hakkaisan Ski Resort""","the ""Rukukamachi Hakkaisan Ski Resort""",FAC,,,en,1.1
-33.7 million,33.7 million,CARDINAL,,,en,1.1
-Xbox Series,Xbox Series,EVENT,,,en,1.1
-June 2024,June 2024,DATE,,,en,1.1
-2011,2011,DATE,,,en,1.1
-75mm-100mm,75mm-100mm,QUANTITY,,,en,1.1
-X4,X4,CARDINAL,,,en,1.1
-January 22,January 22,DATE,,,en,1.1
-9.9 yuan,9.9 yuan,MONEY,,,en,1.1
-a year,a year,DATE,,,en,1.1
-the Galaxy S25 Plus,the Galaxy S25 Plus,PRODUCT,,,en,1.1
-2018,2018,DATE,,,en,1.1
-20 minutes,20 minutes,TIME,,,en,1.1
-many thousand,many thousand,CARDINAL,,,en,1.1
-the next eight years,the next eight years,DATE,,,en,1.1
-70,70,CARDINAL,,,en,1.1
-April,April,DATE,,,en,1.1
-morning,morning,TIME,,,en,1.1
-seven days,seven days,DATE,,,en,1.1
-New Chitose Airport,New Chitose Airport,FAC,,,en,1.1
-4.2 million yuan,4.2 million yuan,MONEY,,,en,1.1
-the next day,the next day,DATE,,,en,1.1
-CES 2026.<ol><li,CES 2026.<ol><li,PRODUCT,,,en,1.1
-OTA,OTA,PRODUCT,,,en,1.1
-"4,000","4,000",MONEY,,,en,1.1
-January 7,January 7,DATE,,,en,1.1
-the past few years,the past few years,DATE,,,en,1.1
-58,58,CARDINAL,,,en,1.1
-Seven,Seven,CARDINAL,,,en,1.1
-2025｜LG gram,2025｜LG gram,QUANTITY,,,en,1.1
-Household,Household,WORK_OF_ART,,,en,1.1
-X2,X2,CARDINAL,,,en,1.1
-Season 2,Season 2,DATE,,,en,1.1
-ten-year,ten-year,DATE,,,en,1.1
-A year ago,A year ago,DATE,,,en,1.1
-46 million,46 million,CARDINAL,,,en,1.1
-Noyun Drive,Noyun Drive,WORK_OF_ART,,,en,1.1
+2.4748 million yuan,2.4748 million yuan,MONEY,,,en,1.1
+November 19,November 19,DATE,,,en,1.1
+the second season,the second season,DATE,,,en,1.1
+5410,5410,PRODUCT,,,en,1.1
+Roblox,Roblox,PRODUCT,,,en,1.1
 January 1 this year,January 1 this year,DATE,,,en,1.1
-the end of 2024,the end of 2024,DATE,,,en,1.1
+over 100 million,over 100 million,CARDINAL,,,en,1.1
+weekly,weekly,DATE,,,en,1.1
+a year,a year,DATE,,,en,1.1
+Tongxiang,Tongxiang,PRODUCT,0.175,0.625,en,1.1
+"about 500,000","about 500,000",CARDINAL,,,en,1.1
+99.9%,99.9%,PERCENT,,,en,1.1
+25km/h,25km/h,QUANTITY,,,en,1.1
+July,July,DATE,,,en,1.1
+2040,2040,DATE,,,en,1.1
+Little Orange Book,Little Orange Book,EVENT,,,en,1.1
+November 2024,November 2024,DATE,,,en,1.1
+Southeast Asian,Southeast Asian,NORP,,,en,1.1
+three years,three years,DATE,,,en,1.1
 2029,2029,DATE,,,en,1.1
+Jia Private Selection,Jia Private Selection,WORK_OF_ART,,,en,1.1
+December 6,December 6,DATE,,,en,1.1
+LEICA APO,LEICA APO,PRODUCT,,,en,1.1
+2.7 billion,2.7 billion,CARDINAL,,,en,1.1
+"the ""Rukukamachi Hakkaisan Ski Resort""","the ""Rukukamachi Hakkaisan Ski Resort""",FAC,,,en,1.1
+October,October,DATE,,,en,1.1
+US$82.7 billion,US$82.7 billion,MONEY,,,en,1.1
+15th,15th,ORDINAL,,,en,1.1
+Death Stranding,Death Stranding,WORK_OF_ART,,,en,1.1
+10.29%,10.29%,PERCENT,,,en,1.1
+8:00 1,8:00 1,DATE,,,en,1.1
+June 4th,June 4th,DATE,,,en,1.1
+Mingjian,Mingjian,NORP,,,en,1.1
+2023-2024,2023-2024,DATE,,,en,1.1
+August,August,DATE,,,en,1.1
+January 20,January 20,DATE,,,en,1.1
+US$200 million,US$200 million,MONEY,,,en,1.1
+IT Morning Post,IT Morning Post,WORK_OF_ART,,,en,1.1
+14 days,14 days,DATE,,,en,1.1
 "2,800 yuan","2,800 yuan",MONEY,,,en,1.1
-November 26,November 26,DATE,,,en,1.1
+the past few years,the past few years,DATE,,,en,1.1
+Yushi Space,Yushi Space,WORK_OF_ART,,,en,1.1
+the next few days,the next few days,DATE,,,en,1.1
+Xbox Series,Xbox Series,EVENT,,,en,1.1
+just one,just one,CARDINAL,,,en,1.1
+the last day,the last day,DATE,,,en,1.1
+the 22nd,the 22nd,DATE,,,en,1.1
+95%,95%,PERCENT,,,en,1.1
+this afternoon,this afternoon,TIME,,,en,1.1
+Yilan,Yilan,NORP,0.2229545454545454,0.47318181818181804,en,1.1
+nearly 300 million yuan,nearly 300 million yuan,MONEY,,,en,1.1
+OTA,OTA,PRODUCT,,,en,1.1
+one week,one week,DATE,,,en,1.1
+the Galaxy S25 Plus,the Galaxy S25 Plus,PRODUCT,,,en,1.1
+58,58,CARDINAL,,,en,1.1
+46 million,46 million,CARDINAL,,,en,1.1
+"January 1, 2026","January 1, 2026",DATE,,,en,1.1
+hourly,hourly,TIME,,,en,1.1
+2025｜Garmin,2025｜Garmin,CARDINAL,,,en,1.1
+"nearly $2,000","nearly $2,000",MONEY,,,en,1.1
+only 300,only 300,CARDINAL,,,en,1.1
+"4,000","4,000",MONEY,,,en,1.1
+Pikachu,Pikachu,PRODUCT,,,en,1.1
+the past three years,the past three years,DATE,,,en,1.1
+"83,800 yuan","83,800 yuan",MONEY,,,en,1.1
+the second half of 2025,the second half of 2025,DATE,,,en,1.1
+24th,24th,ORDINAL,,,en,1.1
+a few days ago,a few days ago,DATE,,,en,1.1
+only 10,only 10,CARDINAL,,,en,1.1
+15 seconds,15 seconds,TIME,,,en,1.1
+The Burial of Florian,The Burial of Florian,WORK_OF_ART,,,en,1.1
+"1,000","1,000",CARDINAL,,,en,1.1
+4.20,4.20,CARDINAL,,,en,1.1
+November 25,November 25,DATE,,,en,1.1
+4.2 million yuan,4.2 million yuan,MONEY,,,en,1.1
+Nano Banana Pro,Nano Banana Pro,PRODUCT,,,en,1.1
+the AutoNavi Street Sweeping List,the AutoNavi Street Sweeping List,PRODUCT,,,en,1.1
+97%,97%,PERCENT,,,en,1.1
+15 and a half years,15 and a half years,DATE,,,en,1.1
+two weeks,two weeks,DATE,,,en,1.1
+more than 20,more than 20,CARDINAL,,,en,1.1
+only 8 months,only 8 months,DATE,,,en,1.1
+3DS,3DS,DATE,,,en,1.1
+Animal Punk,Animal Punk,WORK_OF_ART,,,en,1.1
+Vacheron Constantin,Vacheron Constantin,PRODUCT,,,en,1.1
+day,day,DATE,,,en,1.1
+8 million,8 million,CARDINAL,,,en,1.1
+"2,000 meters","2,000 meters",QUANTITY,,,en,1.1
+many thousand,many thousand,CARDINAL,,,en,1.1
+Intelligent Cube,Intelligent Cube,WORK_OF_ART,,,en,1.1
+January 7,January 7,DATE,,,en,1.1
+CES 2026.<ol><li,CES 2026.<ol><li,PRODUCT,,,en,1.1
+December 7,December 7,DATE,,,en,1.1
+1988,1988,DATE,,,en,1.1
+New Chitose Airport,New Chitose Airport,FAC,,,en,1.1
+up to 38%,up to 38%,PERCENT,,,en,1.1
+Weekly Shonen Champion,Weekly Shonen Champion,WORK_OF_ART,,,en,1.1
+21%,21%,PERCENT,,,en,1.1
+100 days,100 days,DATE,,,en,1.1
 This month,This month,DATE,,,en,1.1
 Black and White Chef,Black and White Chef,WORK_OF_ART,,,en,1.1
-December 4,December 4,DATE,,,en,1.1
-Little Orange Book,Little Orange Book,EVENT,,,en,1.1
-Blocks A and F,Blocks A and F,WORK_OF_ART,,,en,1.1
-the next week,the next week,DATE,,,en,1.1
-more than 150,more than 150,CARDINAL,,,en,1.1
-120,120,CARDINAL,,,en,1.1
-Wanda Plaza,Wanda Plaza,FAC,,,en,1.1
+Austrian,Austrian,NORP,,,en,1.1
+this winter,this winter,DATE,,,en,1.1
+2026 Xpeng G9,2026 Xpeng G9,PRODUCT,,,en,1.1
+the end of November,the end of November,DATE,,,en,1.1
+9a,9a,PRODUCT,,,en,1.1
 Odyssey,Odyssey,PRODUCT,,,en,1.1
+the next eight years,the next eight years,DATE,,,en,1.1
+Pixel,Pixel,PRODUCT,,,en,1.1
 e-sports,e-sports,PRODUCT,,,en,1.1
-2D,2D,CARDINAL,,,en,1.1
-Roblox,Roblox,PRODUCT,,,en,1.1
-January 3,January 3,DATE,,,en,1.1
-Taipei 101 Building,Taipei 101 Building,FAC,,,en,1.1
-LEICA APO,LEICA APO,PRODUCT,,,en,1.1
+"5,000","5,000",MONEY,,,en,1.1
+January 30,January 30,DATE,,,en,1.1
+the 28th,the 28th,DATE,,,en,1.1
+5090,5090,CARDINAL,,,en,1.1
+9.9 yuan,9.9 yuan,MONEY,,,en,1.1
+Noyun Drive,Noyun Drive,WORK_OF_ART,,,en,1.1
+third-quarter,third-quarter,DATE,,,en,1.1
+ten-year,ten-year,DATE,,,en,1.1
+Qwen-Image-2.0,Qwen-Image-2.0,PRODUCT,0.25227272727272726,0.584659090909091,en,1.1
+33.7 million,33.7 million,CARDINAL,,,en,1.1
+"4,500","4,500",CARDINAL,,,en,1.1
+10 Spring Festival,10 Spring Festival,EVENT,,,en,1.1
+3 days,3 days,DATE,,,en,1.1
+the holidays,the holidays,DATE,,,en,1.1
+31st,31st,DATE,,,en,1.1
+ExpertBook,ExpertBook,PRODUCT,,,en,1.1
+360,360,CARDINAL,,,en,1.1
+December 17,December 17,DATE,,,en,1.1
+its third quarter,its third quarter,DATE,,,en,1.1
+the past 2025,the past 2025,DATE,,,en,1.1
+December 25,December 25,DATE,,,en,1.1
 a single month,a single month,DATE,,,en,1.1
-Yilan,Yilan,NORP,0.7431818181818182,1.5772727272727272,en,1.1
-up to 38%,up to 38%,PERCENT,,,en,1.1
-1989,1989,DATE,,,en,1.0
-"127,800 yuan","127,800 yuan",MONEY,,,en,1.0
-Fireworks Shop,Fireworks Shop,WORK_OF_ART,,,en,1.0
-Nintendo,Nintendo,FAC,0.0,0.0,en,1.0
-"99,800 to","99,800 to",MONEY,,,en,1.0
-162,162,CARDINAL,,,en,1.0
-the decades,the decades,DATE,,,en,1.0
-the Year,the Year,DATE,,,en,1.0
-996 million,996 million,CARDINAL,,,en,1.0
-2006,2006,DATE,,,en,1.0
-35 years later,35 years later,DATE,,,en,1.0
-Malaysian,Malaysian,NORP,,,en,1.0
-Sweeping List,Sweeping List,WORK_OF_ART,,,en,1.0
-Grock,Grock,WORK_OF_ART,,,en,1.0
-1600km,1600km,QUANTITY,,,en,1.0
-"more than 123,536 kilometers","more than 123,536 kilometers",QUANTITY,,,en,1.0
-Flying Street View,Flying Street View,WORK_OF_ART,,,en,1.0
-the Ile-de-France region,the Ile-de-France region,FAC,,,en,1.0
-100 kilometers,100 kilometers,QUANTITY,,,en,1.0
-between 200 and 350 US dollars,between 200 and 350 US dollars,CARDINAL,,,en,1.0
-the Street Sweeping Ranking,the Street Sweeping Ranking,FAC,,,en,1.0
-Xpeng G7,Xpeng G7,PRODUCT,,,en,1.0
-KK Park,KK Park,FAC,,,en,1.0
-Track 1.5,Track 1.5,WORK_OF_ART,,,en,1.0
-3.5 billion euros,3.5 billion euros,MONEY,,,en,1.0
-$1 billion,$1 billion,MONEY,,,en,1.0
-660 million,660 million,CARDINAL,,,en,1.0
-Sino-US,Sino-US,NORP,,,en,1.0
-635,635,CARDINAL,,,en,1.0
-"January 8, 2026","January 8, 2026",DATE,,,en,1.0
-Track 2,Track 2,WORK_OF_ART,,,en,1.0
-nearly 1000%,nearly 1000%,PERCENT,,,en,1.0
-"January 6, 2026 12:34","January 6, 2026 12:34",DATE,,,en,1.0
-573 hours,573 hours,TIME,,,en,1.0
-the “Chinese Language Inventory 2025”,the “Chinese Language Inventory 2025”,EVENT,,,en,1.0
-"only more than 1,000 yuan","only more than 1,000 yuan",MONEY,,,en,1.0
-Dead Me,Dead Me,WORK_OF_ART,,,en,1.0
-"January 7, 2026","January 7, 2026",DATE,,,en,1.0
-the worst year,the worst year,DATE,,,en,1.0
-Chinese Language Inventory,Chinese Language Inventory,EVENT,,,en,1.0
-450 US dollars,450 US dollars,MONEY,,,en,1.0
-every two weeks,every two weeks,DATE,,,en,1.0
-Hundreds,Hundreds,CARDINAL,,,en,1.0
+the past 10 years,the past 10 years,DATE,,,en,1.1
+$15 billion,$15 billion,MONEY,,,en,1.1
+The Spring Festival,The Spring Festival,EVENT,,,en,1.1
+more than 150,more than 150,CARDINAL,,,en,1.1
+more than 200,more than 200,CARDINAL,,,en,1.1
+"Copyright Maniacs"" Embrace AI","Copyright Maniacs"" Embrace AI",WORK_OF_ART,,,en,1.1
+OPPO K15 Turbo,OPPO K15 Turbo,PRODUCT,,,en,1.1
+New Year’s Gift,New Year’s Gift,EVENT,,,en,1.1
+three-fold,three-fold,CARDINAL,,,en,1.1
+the first year,the first year,DATE,,,en,1.1
+2025｜M4,2025｜M4,CARDINAL,,,en,1.1
+Seven,Seven,CARDINAL,,,en,1.1
+120,120,CARDINAL,,,en,1.1
+Black Friday,Black Friday,EVENT,,,en,1.1
+US$830 billion,US$830 billion,MONEY,,,en,1.1
+2018,2018,DATE,,,en,1.1
+sixth,sixth,ORDINAL,,,en,1.1
+March 3,March 3,DATE,,,en,1.1
+AI Talented Girl,AI Talented Girl,WORK_OF_ART,,,en,1.1
+January 3,January 3,DATE,,,en,1.1
+20 minutes,20 minutes,TIME,,,en,1.1
+L3,L3,PRODUCT,,,en,1.1
+25th,25th,ORDINAL,,,en,1.1
+January 29th,January 29th,DATE,,,en,1.1
+7%,7%,PERCENT,,,en,1.1
+the end of 2024,the end of 2024,DATE,,,en,1.1
+Sailor Moon,Sailor Moon,WORK_OF_ART,,,en,1.1
+2011,2011,DATE,,,en,1.1
+M4,M4,CARDINAL,,,en,1.1
+1999,1999,DATE,,,en,1.1
+the second half,the second half,DATE,,,en,1.1
+more than 70,more than 70,CARDINAL,,,en,1.1
+January 10,January 10,DATE,,,en,1.1
+2005,2005,DATE,,,en,1.1
+February 2,February 2,DATE,,,en,1.1
+2025︱WD,2025︱WD,CARDINAL,,,en,1.1
+"HK$1,320","HK$1,320",FAC,,,en,1.1
+Dream Dimension,Dream Dimension,WORK_OF_ART,,,en,1.1
+Indonesian,Indonesian,NORP,,,en,1.1
+at least 50,at least 50,CARDINAL,,,en,1.1
+Wanda Plaza,Wanda Plaza,FAC,,,en,1.1
+close to 30%,close to 30%,PERCENT,,,en,1.1
+Blocks A and F,Blocks A and F,WORK_OF_ART,,,en,1.1
+X4,X4,CARDINAL,,,en,1.1
+December 4,December 4,DATE,,,en,1.1
+one day,one day,DATE,,,en,1.1
+6GHz,6GHz,CARDINAL,,,en,1.1
+last night,last night,TIME,,,en,1.1
+League of Legends,League of Legends,WORK_OF_ART,,,en,1.1
+December 28,December 28,DATE,,,en,1.1
+the next week,the next week,DATE,,,en,1.1
+June 2024,June 2024,DATE,,,en,1.1
+27.5%,27.5%,PERCENT,,,en,1.1
+Canglang Floating Light,Canglang Floating Light,WORK_OF_ART,,,en,1.1
+Indian,Indian,NORP,,,en,1.1
+the Year of the Horse series,the Year of the Horse series,DATE,,,en,1.1
+1998,1998,DATE,,,en,1.1
+X2,X2,CARDINAL,,,en,1.1
+November 26,November 26,DATE,,,en,1.1
+2D,2D,CARDINAL,,,en,1.1
+70,70,CARDINAL,,,en,1.1
+Household,Household,WORK_OF_ART,,,en,1.1
+Dongda Road,Dongda Road,FAC,,,en,1.1
+2025｜LG gram,2025｜LG gram,QUANTITY,,,en,1.1
+75mm-100mm,75mm-100mm,QUANTITY,,,en,1.1
+December 20,December 20,DATE,,,en,1.1
+hundreds of kilograms,hundreds of kilograms,QUANTITY,,,en,1.1
+The Lunar New Year,The Lunar New Year,EVENT,,,en,1.1
+A year ago,A year ago,DATE,,,en,1.1
+Fridays,Fridays,DATE,,,en,1.1
+42%,42%,PERCENT,,,en,1.1
+Season 2,Season 2,DATE,,,en,1.1
+Samsung Galaxy,Samsung Galaxy,PRODUCT,,,en,1.1
+Detroit:,Detroit:,WORK_OF_ART,,,en,1.1
+seven days,seven days,DATE,,,en,1.1
+last November,last November,DATE,,,en,1.0
+As low as 10%,As low as 10%,PERCENT,,,en,1.0
+11 years,11 years,DATE,,,en,1.0
+Instant Rewards,Instant Rewards,WORK_OF_ART,,,en,1.0
+"1,900","1,900",CARDINAL,,,en,1.0
+nearly 1 billion,nearly 1 billion,MONEY,,,en,1.0
+151,151,CARDINAL,,,en,1.0
+Opening Multiple Rewards,Opening Multiple Rewards,WORK_OF_ART,,,en,1.0
+more than 195.37 million yuan,more than 195.37 million yuan,MONEY,,,en,1.0
+Limited Edition Gift Box,Limited Edition Gift Box,EVENT,,,en,1.0
+"more than 3,000 yuan","more than 3,000 yuan",MONEY,,,en,1.0
+"11:07
+FT","11:07
+FT",QUANTITY,,,en,1.0
+Up to 10%,Up to 10%,PERCENT,,,en,1.0
+"the ""General Requirements for Electric Propulsion Systems of Electric Aircraft""","the ""General Requirements for Electric Propulsion Systems of Electric Aircraft""",LAW,,,en,1.0
+8 kilograms,8 kilograms,QUANTITY,,,en,1.0
+2026｜Anker,2026｜Anker,CARDINAL,,,en,1.0
+Murder and Impunity in Rural Para,Murder and Impunity in Rural Para,WORK_OF_ART,,,en,1.0
+400,400,CARDINAL,,,en,1.0
+nearly 700 square meters,nearly 700 square meters,QUANTITY,,,en,1.0
+2025 year-on-year,2025 year-on-year,DATE,,,en,1.0
+1 hour,1 hour,TIME,,,en,1.0
+Nioh 3,Nioh 3,WORK_OF_ART,,,en,1.0
+Nioh 2,Nioh 2,PRODUCT,,,en,1.0
+6 years,6 years,DATE,,,en,1.0
+Nioh,Nioh,WORK_OF_ART,,,en,1.0
+88%,88%,PERCENT,,,en,1.0
+the “New Year Garden Party”,the “New Year Garden Party”,EVENT,,,en,1.0
+"the ""New Year Garden Party""","the ""New Year Garden Party""",EVENT,,,en,1.0
+Lancôme,Lancôme,NORP,0.04545454545454545,0.34040404040404043,en,1.0
+early years,early years,DATE,,,en,1.0
+Weekends,Weekends,DATE,,,en,1.0
+2026.1.17,2026.1.17,CARDINAL,,,en,1.0
+Night Black,Night Black,WORK_OF_ART,,,en,1.0
+Sky White,Sky White,WORK_OF_ART,,,en,1.0
+Halo Pink,Halo Pink,WORK_OF_ART,,,en,1.0
+the Z11 Turbo,the Z11 Turbo,PRODUCT,,,en,1.0
+Generation Z,Generation Z,PRODUCT,,,en,1.0
+January last year,January last year,DATE,,,en,1.0
+September last year,September last year,DATE,,,en,1.0
+EMU,EMU,PRODUCT,,,en,1.0
+Seven years,Seven years,DATE,,,en,1.0
+Technology Spring Festival Gala,Technology Spring Festival Gala,EVENT,,,en,1.0
+December 30,December 30,DATE,,,en,1.0
+the Xuhui West Bund International Convention and Exhibition Center,the Xuhui West Bund International Convention and Exhibition Center,FAC,,,en,1.0
 the more than four hours,the more than four hours,TIME,,,en,1.0
+just two hours,just two hours,TIME,,,en,1.0
+"300-1,000 yuan","300-1,000 yuan",MONEY,,,en,1.0
+Yesterday (15th,Yesterday (15th,DATE,,,en,1.0
+about 5 million,about 5 million,CARDINAL,,,en,1.0
+February 1,February 1,DATE,,,en,1.0
+the early hours,the early hours,TIME,,,en,1.0
+Head Photo | Visual China,Head Photo | Visual China,WORK_OF_ART,,,en,1.0
+This day,This day,DATE,,,en,1.0
+4 hours,4 hours,TIME,,,en,1.0
+Snapdragon 8,Snapdragon 8,PRODUCT,,,en,1.0
+60%</li></ol,60%</li></ol,CARDINAL,,,en,1.0
+200,200,CARDINAL,,,en,1.0
+Pura X2,Pura X2,LAW,,,en,1.0
+as high as US$5.6 billion,as high as US$5.6 billion,MONEY,,,en,1.0
+207,207,CARDINAL,,,en,1.0
+Perfect Companion,Perfect Companion,WORK_OF_ART,,,en,1.0
+Track 1.5,Track 1.5,WORK_OF_ART,,,en,1.0
+Track 2,Track 2,WORK_OF_ART,,,en,1.0
+the worst year,the worst year,DATE,,,en,1.0
+573 hours,573 hours,TIME,,,en,1.0
+I Am Legend,I Am Legend,WORK_OF_ART,,,en,1.0
+NT$ 80,NT$ 80,MONEY,,,en,1.0
 the previous year,the previous year,DATE,,,en,1.0
-Iranian,Iranian,NORP,,,en,1.0
-the first quarter of 2023,the first quarter of 2023,DATE,,,en,1.0
-2.92%,2.92%,PERCENT,,,en,1.0
-the Galaxy Book 6,the Galaxy Book 6,PRODUCT,,,en,1.0
-January 13,January 13,DATE,,,en,1.0
-"2,050","2,050",CARDINAL,,,en,1.0
-134,134,CARDINAL,,,en,1.0
-the sixth quarter,the sixth quarter,DATE,,,en,1.0
-650,650,MONEY,,,en,1.0
-Eevee,Eevee,PRODUCT,,,en,1.0
-"December 30, 2025","December 30, 2025",DATE,,,en,1.0
-Huawei,Huawei,WORK_OF_ART,,,en,1.0
-US$120 million,US$120 million,MONEY,,,en,1.0
-March last year,March last year,DATE,,,en,1.0
-Earlier this year,Earlier this year,DATE,,,en,1.0
-more than half a century,more than half a century,DATE,,,en,1.0
-19.88%,19.88%,PERCENT,,,en,1.0
-the first quarter of 2026,the first quarter of 2026,DATE,,,en,1.0
-Apple Creator Studio,Apple Creator Studio,WORK_OF_ART,,,en,1.0
-the second half of this year,the second half of this year,DATE,,,en,1.0
-Over 100,Over 100,CARDINAL,,,en,1.0
+Piaget,Piaget,PRODUCT,,,en,1.0
+the Lunar Calendar,the Lunar Calendar,DATE,,,en,1.0
+The years,The years,DATE,,,en,1.0
+The Lunar Calendar,The Lunar Calendar,DATE,,,en,1.0
+2012,2012,DATE,,,en,1.0
+approximately RMB 40 billion,approximately RMB 40 billion,MONEY,,,en,1.0
+"January 6, 2026 12:34","January 6, 2026 12:34",DATE,,,en,1.0
+More than 40 million,More than 40 million,CARDINAL,,,en,1.0
+48%,48%,PERCENT,,,en,1.0
+the second quarter of 2026,the second quarter of 2026,DATE,,,en,1.0
+Yole Technology,Yole Technology,WORK_OF_ART,,,en,1.0
+Nantian,Nantian,NORP,,,en,1.0
+5th,5th,ORDINAL,,,en,1.0
+01,01,DATE,,,en,1.0
+11%,11%,PERCENT,,,en,1.0
+US$122 billion,US$122 billion,MONEY,,,en,1.0
+three-day,three-day,DATE,,,en,1.0
+1.74,1.74,CARDINAL,,,en,1.0
+1.59,1.59,CARDINAL,,,en,1.0
+1.56,1.56,CARDINAL,,,en,1.0
+36%,36%,PERCENT,,,en,1.0
+40 million,40 million,CARDINAL,,,en,1.0
+June last year,June last year,DATE,,,en,1.0
+AI Practitioners Conference,AI Practitioners Conference,EVENT,,,en,1.0
+less than half,less than half,CARDINAL,,,en,1.0
+DotAI,DotAI,PRODUCT,,,en,1.0
+m²,m²,PRODUCT,,,en,1.0
+8:55 this morning,8:55 this morning,TIME,,,en,1.0
+"1,699 yuan","1,699 yuan",MONEY,,,en,1.0
+"2,700 meters","2,700 meters",QUANTITY,,,en,1.0
+1699 yuan,1699 yuan,MONEY,,,en,1.0
+201,201,CARDINAL,,,en,1.0
+"the ""Korean Restriction Order","the ""Korean Restriction Order",LAW,,,en,1.0
+Arc Raiders,Arc Raiders,WORK_OF_ART,,,en,1.0
+the same period before,the same period before,DATE,,,en,1.0
+more than 22%,more than 22%,PERCENT,,,en,1.0
+Detroit: Become Human,Detroit: Become Human,WORK_OF_ART,,,en,1.0
+"the ""Korean Restriction Order""","the ""Korean Restriction Order""",EVENT,,,en,1.0
+around 10 a.m.,around 10 a.m.,TIME,,,en,1.0
+more than 100 yuan,more than 100 yuan,MONEY,,,en,1.0
+Three feet,Three feet,QUANTITY,,,en,1.0
+70 yuan,70 yuan,MONEY,,,en,1.0
+only 40%,only 40%,PERCENT,,,en,1.0
+tens of yuan,tens of yuan,MONEY,,,en,1.0
+"January 6 to 9, 2026","January 6 to 9, 2026",DATE,,,en,1.0
+Intelligent Emergence,Intelligent Emergence,WORK_OF_ART,,,en,1.0
+zero degrees,zero degrees,QUANTITY,,,en,1.0
+10 years,10 years,DATE,,,en,1.0
+US$876.3 million,US$876.3 million,MONEY,,,en,1.0
+30 to 40 yuan,30 to 40 yuan,MONEY,,,en,1.0
+nearly 1000%,nearly 1000%,PERCENT,,,en,1.0
+every two weeks,every two weeks,DATE,,,en,1.0
+"127,800 yuan","127,800 yuan",MONEY,,,en,1.0
+"99,800 to","99,800 to",MONEY,,,en,1.0
+100 kilometers,100 kilometers,QUANTITY,,,en,1.0
+1600km,1600km,QUANTITY,,,en,1.0
+Transformers,Transformers,WORK_OF_ART,,,en,1.0
+"119,800 yuan","119,800 yuan",MONEY,,,en,1.0
+last year's,last year's,DATE,,,en,1.0
+late 2024,late 2024,DATE,,,en,1.0
+2999,2999,CARDINAL,,,en,1.0
+10:08 on January 9,10:08 on January 9,TIME,,,en,1.0
+"approximately 214,000","approximately 214,000",CARDINAL,,,en,1.0
+@爱博迪的ICECREAM,@爱博迪的ICECREAM,CARDINAL,,,en,1.0
+about NT$2.5 billion to NT$3 billion,about NT$2.5 billion to NT$3 billion,MONEY,,,en,1.0
+"close to 50,000 yuan","close to 50,000 yuan",MONEY,,,en,1.0
+250,250,CARDINAL,,,en,1.0
+up to 99.99%,up to 99.99%,PERCENT,,,en,1.0
+25L,25L,CARDINAL,,,en,1.0
+about 20,about 20,CARDINAL,,,en,1.0
+only 86 grams,only 86 grams,QUANTITY,,,en,1.0
+Magic Atom,Magic Atom,PRODUCT,,,en,1.0
+"the ""North Hall","the ""North Hall",FAC,,,en,1.0
+the first quarter,the first quarter,DATE,,,en,1.0
+early October 2025,early October 2025,DATE,,,en,1.0
+10 million,10 million,CARDINAL,,,en,1.0
+Sino-Singapore,Sino-Singapore,NORP,,,en,1.0
+ALDI Caviar Essence,ALDI Caviar Essence,WORK_OF_ART,,,en,1.0
+6.7 degrees,6.7 degrees,QUANTITY,,,en,1.0
+"the ""urinal scandal""","the ""urinal scandal""",WORK_OF_ART,,,en,1.0
+"2,999","2,999",CARDINAL,,,en,1.0
+"below 3,000 meters","below 3,000 meters",QUANTITY,,,en,1.0
+512,512,CARDINAL,,,en,1.0
+2009,2009,DATE,,,en,1.0
+10:08 today,10:08 today,TIME,,,en,1.0
+10:34,10:34,CARDINAL,,,en,1.0
+"January 9, 2026","January 9, 2026",DATE,,,en,1.0
+Arab,Arab,NORP,,,en,1.0
+more than ten,more than ten,CARDINAL,,,en,1.0
+Saudi,Saudi,NORP,,,en,1.0
+December 11th,December 11th,EVENT,,,en,1.0
+Snow King,Snow King,WORK_OF_ART,,,en,1.0
+"December 31, 2025","December 31, 2025",DATE,,,en,1.0
+50 billion,50 billion,CARDINAL,,,en,1.0
+June 2021,June 2021,DATE,,,en,1.0
+Afeela Prototype 2026,Afeela Prototype 2026,FAC,,,en,1.0
+Smart Emergence,Smart Emergence,WORK_OF_ART,,,en,1.0
+"2,299 yuan","2,299 yuan",MONEY,,,en,1.0
+100 billion Hong Kong dollars,100 billion Hong Kong dollars,MONEY,,,en,1.0
+"about 6,000 yuan","about 6,000 yuan",MONEY,,,en,1.0
+"about RMB 6,000","about RMB 6,000",MONEY,,,en,1.0
+ROG XREAL R1,ROG XREAL R1,PRODUCT,,,en,1.0
+Switch 2,Switch 2,LAW,,,en,1.0
+Afeela 1,Afeela 1,PRODUCT,,,en,1.0
+January 7th and 8th,January 7th and 8th,DATE,,,en,1.0
+trillions,trillions,CARDINAL,,,en,1.0
+New Year Gift 2026 | Trendy Transparent Style,New Year Gift 2026 | Trendy Transparent Style,EVENT,,,en,1.0
+US$100,US$100,MONEY,,,en,1.0
+G6,G6,PRODUCT,,,en,1.0
+"429,445","429,445",CARDINAL,,,en,1.0
+430,430,CARDINAL,,,en,1.0
+"3,150","3,150",CARDINAL,,,en,1.0
+"""Enlightenment 2.0""","""Enlightenment 2.0""",WORK_OF_ART,,,en,1.0
+Enlightenment 2.0,Enlightenment 2.0,WORK_OF_ART,,,en,1.0
+five-year-old,five-year-old,DATE,,,en,1.0
+635,635,CARDINAL,,,en,1.0
+1 to 2 hours,1 to 2 hours,TIME,,,en,1.0
+at least five,at least five,CARDINAL,,,en,1.0
+longer year,longer year,DATE,,,en,1.0
+Visually Impaired Grandma,Visually Impaired Grandma,WORK_OF_ART,,,en,1.0
 the eve of CES 2026,the eve of CES 2026,DATE,,,en,1.0
+Visually Impaired Granny,Visually Impaired Granny,WORK_OF_ART,,,en,1.0
+between the end of November and December last year,between the end of November and December last year,DATE,,,en,1.0
 110%,110%,PERCENT,,,en,1.0
-"at least about 5,000","at least about 5,000",CARDINAL,,,en,1.0
+About 40 to 50,About 40 to 50,CARDINAL,,,en,1.0
+4pm,4pm,TIME,,,en,1.0
+at least 126,at least 126,CARDINAL,,,en,1.0
+134,134,CARDINAL,,,en,1.0
+another in the evening,another in the evening,TIME,,,en,1.0
+the JR Hakodate Line,the JR Hakodate Line,FAC,,,en,1.0
+Over 100,Over 100,CARDINAL,,,en,1.0
 Ten,Ten,CARDINAL,,,en,1.0
+only about 12 mm,only about 12 mm,QUANTITY,,,en,1.0
 Z Flip,Z Flip,PRODUCT,,,en,1.0
+about 750 grams,about 750 grams,QUANTITY,,,en,1.0
+the second half of this year,the second half of this year,DATE,,,en,1.0
 the Samsung Galaxy Z Flip 8,the Samsung Galaxy Z Flip 8,PRODUCT,,,en,1.0
+95 years old,95 years old,DATE,,,en,1.0
+"120,000","120,000",CARDINAL,,,en,1.0
+at least 11 million,at least 11 million,CARDINAL,,,en,1.0
+68%,68%,PERCENT,,,en,1.0
+752.4 million euros,752.4 million euros,MONEY,,,en,1.0
+1.13 billion,1.13 billion,CARDINAL,,,en,1.0
+the Galaxy Book 6,the Galaxy Book 6,PRODUCT,,,en,1.0
+AirPods,AirPods,PRODUCT,,,en,1.0
+"nearly $40,000","nearly $40,000",MONEY,,,en,1.0
+"more than $79,000","more than $79,000",MONEY,,,en,1.0
+the first quarter of 2026,the first quarter of 2026,DATE,,,en,1.0
+"250,000","250,000",CARDINAL,,,en,1.0
+the fourth quarter of last year,the fourth quarter of last year,DATE,,,en,1.0
+"at least about 5,000","at least about 5,000",CARDINAL,,,en,1.0
+"20,237","20,237",CARDINAL,,,en,1.0
+"only more than 20,000","only more than 20,000",CARDINAL,,,en,1.0
+Overview</li><li,Overview</li><li,PRODUCT,,,en,1.0
 "about 5,000","about 5,000",CARDINAL,,,en,1.0
 this season,this season,DATE,,,en,1.0
+Rovar X3,Rovar X3,LAW,,,en,1.0
+40 centimeters,40 centimeters,QUANTITY,,,en,1.0
+15 kilograms,15 kilograms,QUANTITY,,,en,1.0
 Galaxy Z Flip 8,Galaxy Z Flip 8,PRODUCT,,,en,1.0
-January 2 to January 5,January 2 to January 5,DATE,,,en,1.0
-"up to 38,000 yen","up to 38,000 yen",MONEY,,,en,1.0
-"December 26, 2025","December 26, 2025",DATE,,,en,1.0
-Anker Innovation,Anker Innovation,WORK_OF_ART,,,en,1.0
-"the ""General Requirements for Electric Propulsion Systems of Electric Aircraft""","the ""General Requirements for Electric Propulsion Systems of Electric Aircraft""",LAW,,,en,1.0
-half an hour,half an hour,TIME,,,en,1.0
-Swedish,Swedish,NORP,,,en,1.0
-19:30 on January 19,19:30 on January 19,TIME,,,en,1.0
-less than half,less than half,CARDINAL,,,en,1.0
-three months,three months,DATE,,,en,1.0
-January 16,January 16,DATE,,,en,1.0
-1 to 2 hours,1 to 2 hours,TIME,,,en,1.0
-their early years,their early years,DATE,,,en,1.0
-8.9%,8.9%,PERCENT,,,en,1.0
-5.2%,5.2%,PERCENT,,,en,1.0
-the Taichung International Convention and Exhibition Center,the Taichung International Convention and Exhibition Center,EVENT,,,en,1.0
-1 billion |,1 billion |,MONEY,,,en,1.0
-at least five,at least five,CARDINAL,,,en,1.0
-Light Orange,Light Orange,PRODUCT,,,en,1.0
-2025 year-on-year,2025 year-on-year,DATE,,,en,1.0
+Apple Creator Studio,Apple Creator Studio,WORK_OF_ART,,,en,1.0
+KK Park,KK Park,FAC,,,en,1.0
+January 13,January 13,DATE,,,en,1.0
 Fairy Purple,Fairy Purple,WORK_OF_ART,,,en,1.0
+Iranian,Iranian,NORP,,,en,1.0
+Grock,Grock,WORK_OF_ART,,,en,1.0
+Malaysian,Malaysian,NORP,,,en,1.0
+the Street Sweeping Ranking,the Street Sweeping Ranking,FAC,,,en,1.0
+35 years later,35 years later,DATE,,,en,1.0
+the decades,the decades,DATE,,,en,1.0
+162,162,CARDINAL,,,en,1.0
+1989,1989,DATE,,,en,1.0
+996 million,996 million,CARDINAL,,,en,1.0
+Fireworks Shop,Fireworks Shop,WORK_OF_ART,,,en,1.0
+Xpeng G7,Xpeng G7,PRODUCT,,,en,1.0
+"January 8, 2026","January 8, 2026",DATE,,,en,1.0
+Sino-US,Sino-US,NORP,,,en,1.0
+Dead Me,Dead Me,WORK_OF_ART,,,en,1.0
+"more than 123,536 kilometers","more than 123,536 kilometers",QUANTITY,,,en,1.0
+"only more than 1,000 yuan","only more than 1,000 yuan",MONEY,,,en,1.0
+5 to 6 hours,5 to 6 hours,TIME,,,en,1.0
+$1 billion,$1 billion,MONEY,,,en,1.0
+660 million,660 million,CARDINAL,,,en,1.0
+Light Orange,Light Orange,PRODUCT,,,en,1.0
+Sweeping List,Sweeping List,WORK_OF_ART,,,en,1.0
+"January 7, 2026","January 7, 2026",DATE,,,en,1.0
+"2,050","2,050",CARDINAL,,,en,1.0
 at least two,at least two,CARDINAL,,,en,1.0
-under 7,under 7,DATE,,,en,1.0
-8 kilograms,8 kilograms,QUANTITY,,,en,1.0
-"20,000 US dollars","20,000 US dollars",MONEY,,,en,1.0
+650,650,MONEY,,,en,1.0
+the Ile-de-France region,the Ile-de-France region,FAC,,,en,1.0
+Eevee,Eevee,PRODUCT,,,en,1.0
+March last year,March last year,DATE,,,en,1.0
+more than half a century,more than half a century,DATE,,,en,1.0
+billions,billions,CARDINAL,,,en,1.0
+several billions,several billions,CARDINAL,,,en,1.0
+19:30 on January 19,19:30 on January 19,TIME,,,en,1.0
+739 yuan,739 yuan,MONEY,,,en,1.0
 "Wahaha""
 ","Wahaha""
 ",WORK_OF_ART,,,en,1.0
-billions,billions,CARDINAL,,,en,1.0
-minus 40 degrees Fahrenheit,minus 40 degrees Fahrenheit,QUANTITY,,,en,1.0
-a few years,a few years,DATE,,,en,1.0
-several billions,several billions,CARDINAL,,,en,1.0
-"more than 3,000 yuan","more than 3,000 yuan",MONEY,,,en,1.0
-739 yuan,739 yuan,MONEY,,,en,1.0
-11 years,11 years,DATE,,,en,1.0
-WTF Technology,WTF Technology,WORK_OF_ART,,,en,1.0
-only about 12 mm,only about 12 mm,QUANTITY,,,en,1.0
-the end of 2017,the end of 2017,DATE,,,en,1.0
-That year,That year,DATE,,,en,1.0
-about 750 grams,about 750 grams,QUANTITY,,,en,1.0
 Xiaotianzhang,Xiaotianzhang,WORK_OF_ART,,,en,1.0
 the 16th to the 19th,the 16th to the 19th,DATE,,,en,1.0
-5 to 6 hours,5 to 6 hours,TIME,,,en,1.0
-last year's,last year's,DATE,,,en,1.0
-five-year-old,five-year-old,DATE,,,en,1.0
-"120,000","120,000",CARDINAL,,,en,1.0
-"2,999","2,999",CARDINAL,,,en,1.0
-512,512,CARDINAL,,,en,1.0
-Douliu Circle New Year's Day Party,Douliu Circle New Year's Day Party,EVENT,,,en,1.0
-10:08 today,10:08 today,TIME,,,en,1.0
-Intelligent Emergence,Intelligent Emergence,WORK_OF_ART,,,en,1.0
-about 20,about 20,CARDINAL,,,en,1.0
-Magic Atom,Magic Atom,PRODUCT,,,en,1.0
-115 years,115 years,DATE,,,en,1.0
-115,115,CARDINAL,,,en,1.0
-more than ten,more than ten,CARDINAL,,,en,1.0
-"the ""North Hall","the ""North Hall",FAC,,,en,1.0
-Douliu Circle,Douliu Circle,FAC,,,en,1.0
-the evening of the 2nd,the evening of the 2nd,TIME,,,en,1.0
-about 15 degrees at night,about 15 degrees at night,QUANTITY,,,en,1.0
-the past 2025,the past 2025,DATE,,,en,1.0
-"January 6 to 9, 2026","January 6 to 9, 2026",DATE,,,en,1.0
-"the ""urinal scandal""","the ""urinal scandal""",WORK_OF_ART,,,en,1.0
-Republican,Republican,NORP,,,en,1.0
-"December 31, 2025","December 31, 2025",DATE,,,en,1.0
-Enlightenment 2.0,Enlightenment 2.0,WORK_OF_ART,,,en,1.0
-trillions,trillions,CARDINAL,,,en,1.0
-201,201,CARDINAL,,,en,1.0
-June 2021,June 2021,DATE,,,en,1.0
-50 billion,50 billion,CARDINAL,,,en,1.0
-"US$5,000","US$5,000",MONEY,,,en,1.0
-"the ""Korean Restriction Order","the ""Korean Restriction Order",LAW,,,en,1.0
-Three feet,Three feet,QUANTITY,,,en,1.0
-January 2026,January 2026,DATE,,,en,1.0
-September last year,September last year,DATE,,,en,1.0
-Sino-Singapore,Sino-Singapore,NORP,,,en,1.0
-September,September,DATE,,,en,1.0
-six-month,six-month,DATE,,,en,1.0
-"the ""Korean Restriction Order""","the ""Korean Restriction Order""",EVENT,,,en,1.0
-nearly 700 square meters,nearly 700 square meters,QUANTITY,,,en,1.0
-4 hours,4 hours,TIME,,,en,1.0
-Snow King,Snow King,WORK_OF_ART,,,en,1.0
-10 million,10 million,CARDINAL,,,en,1.0
-Technology Spring Festival Gala,Technology Spring Festival Gala,EVENT,,,en,1.0
-"300-1,000 yuan","300-1,000 yuan",MONEY,,,en,1.0
-6.7 degrees,6.7 degrees,QUANTITY,,,en,1.0
-the 8th,the 8th,DATE,,,en,1.0
-December 30,December 30,DATE,,,en,1.0
-ALDI Caviar Essence,ALDI Caviar Essence,WORK_OF_ART,,,en,1.0
-early October 2025,early October 2025,DATE,,,en,1.0
-Seven years,Seven years,DATE,,,en,1.0
-the first quarter,the first quarter,DATE,,,en,1.0
-"3,150","3,150",CARDINAL,,,en,1.0
-430,430,CARDINAL,,,en,1.0
-just two hours,just two hours,TIME,,,en,1.0
-"429,445","429,445",CARDINAL,,,en,1.0
-the Xuhui West Bund International Convention and Exhibition Center,the Xuhui West Bund International Convention and Exhibition Center,FAC,,,en,1.0
-"below 3,000 meters","below 3,000 meters",QUANTITY,,,en,1.0
-his six years,his six years,DATE,,,en,1.0
-the New Year's Day Gala,the New Year's Day Gala,EVENT,,,en,1.0
-Head Photo | Visual China,Head Photo | Visual China,WORK_OF_ART,,,en,1.0
-December 11th,December 11th,EVENT,,,en,1.0
-another in the afternoon,another in the afternoon,TIME,,,en,1.0
-Smart Emergence,Smart Emergence,WORK_OF_ART,,,en,1.0
-The Central Meteorological Observatory,The Central Meteorological Observatory,FAC,,,en,1.0
-Saudi,Saudi,NORP,,,en,1.0
-Arab,Arab,NORP,,,en,1.0
-ROG XREAL R1,ROG XREAL R1,PRODUCT,,,en,1.0
-New Year Gift 2026 | Trendy Transparent Style,New Year Gift 2026 | Trendy Transparent Style,EVENT,,,en,1.0
-"January 9, 2026","January 9, 2026",DATE,,,en,1.0
-about 5 million,about 5 million,CARDINAL,,,en,1.0
-10:34,10:34,CARDINAL,,,en,1.0
-the next 10 days,the next 10 days,DATE,,,en,1.0
-3 degrees Celsius,3 degrees Celsius,QUANTITY,,,en,1.0
-2009,2009,DATE,,,en,1.0
-January last year,January last year,DATE,,,en,1.0
-2005,2005,DATE,,,en,1.0
-"119,800 yuan","119,800 yuan",MONEY,,,en,1.0
-"""Enlightenment 2.0""","""Enlightenment 2.0""",WORK_OF_ART,,,en,1.0
-up to 99.99%,up to 99.99%,PERCENT,,,en,1.0
-Yole Technology,Yole Technology,WORK_OF_ART,,,en,1.0
-9.6 degrees this morning,9.6 degrees this morning,QUANTITY,,,en,1.0
-25L,25L,CARDINAL,,,en,1.0
-m²,m²,PRODUCT,,,en,1.0
-"1,699 yuan","1,699 yuan",MONEY,,,en,1.0
-8th,8th,DATE,,,en,1.0
-1699 yuan,1699 yuan,MONEY,,,en,1.0
-"approximately 214,000","approximately 214,000",CARDINAL,,,en,1.0
-the whole week,the whole week,DATE,,,en,1.0
-Arc Raiders,Arc Raiders,WORK_OF_ART,,,en,1.0
-the same period before,the same period before,DATE,,,en,1.0
-about NT$2.5 billion to NT$3 billion,about NT$2.5 billion to NT$3 billion,MONEY,,,en,1.0
-the second quarter of 2026,the second quarter of 2026,DATE,,,en,1.0
-more than 22%,more than 22%,PERCENT,,,en,1.0
-late 2024,late 2024,DATE,,,en,1.0
-the winter,the winter,DATE,,,en,1.0
-5th,5th,ORDINAL,,,en,1.0
-Transformers,Transformers,WORK_OF_ART,,,en,1.0
-More than 40 million,More than 40 million,CARDINAL,,,en,1.0
-2999,2999,CARDINAL,,,en,1.0
-10:08 on January 9,10:08 on January 9,TIME,,,en,1.0
-the past 20 years,the past 20 years,DATE,,,en,1.0
-40 million,40 million,CARDINAL,,,en,1.0
-FSDV14.2,FSDV14.2,PRODUCT,,,en,1.0
-2 days,2 days,DATE,,,en,1.0
-G6,G6,PRODUCT,,,en,1.0
-1.56,1.56,CARDINAL,,,en,1.0
-20 hours,20 hours,TIME,,,en,1.0
-only 9.6 degrees,only 9.6 degrees,QUANTITY,,,en,1.0
-1.59,1.59,CARDINAL,,,en,1.0
-1.74,1.74,CARDINAL,,,en,1.0
-@爱博迪的ICECREAM,@爱博迪的ICECREAM,CARDINAL,,,en,1.0
-Detroit: Become Human,Detroit: Become Human,WORK_OF_ART,,,en,1.0
-1/3,1/3,CARDINAL,,,en,1.0
-Pura X2,Pura X2,LAW,,,en,1.0
-8:55 this morning,8:55 this morning,TIME,,,en,1.0
-afternoon,afternoon,TIME,,,en,1.0
-10 years,10 years,DATE,,,en,1.0
-zero degrees,zero degrees,QUANTITY,,,en,1.0
-Taipei Station,Taipei Station,FAC,,,en,1.0
-Switch 2,Switch 2,LAW,,,en,1.0
-16.7 degrees,16.7 degrees,QUANTITY,,,en,1.0
-Afeela 1,Afeela 1,PRODUCT,,,en,1.0
-30 to 40 yuan,30 to 40 yuan,MONEY,,,en,1.0
-Afeela Prototype 2026,Afeela Prototype 2026,FAC,,,en,1.0
-7:40 in the morning,7:40 in the morning,TIME,,,en,1.0
-12.5 degrees,12.5 degrees,QUANTITY,,,en,1.0
-"2,700 meters","2,700 meters",QUANTITY,,,en,1.0
-January 7th and 8th,January 7th and 8th,DATE,,,en,1.0
-US$100,US$100,MONEY,,,en,1.0
-Generation Z,Generation Z,PRODUCT,,,en,1.0
-"about RMB 6,000","about RMB 6,000",MONEY,,,en,1.0
-next Tuesday,next Tuesday,DATE,,,en,1.0
-only 40%,only 40%,PERCENT,,,en,1.0
-early years,early years,DATE,,,en,1.0
-"close to 50,000 yuan","close to 50,000 yuan",MONEY,,,en,1.0
-1/6,1/6,CARDINAL,,,en,1.0
-around 10 a.m.,around 10 a.m.,TIME,,,en,1.0
-more than 100 yuan,more than 100 yuan,MONEY,,,en,1.0
-70 yuan,70 yuan,MONEY,,,en,1.0
-tens of yuan,tens of yuan,MONEY,,,en,1.0
-"about 6,000 yuan","about 6,000 yuan",MONEY,,,en,1.0
-only 86 grams,only 86 grams,QUANTITY,,,en,1.0
-88%,88%,PERCENT,,,en,1.0
-"2,299 yuan","2,299 yuan",MONEY,,,en,1.0
-100 billion Hong Kong dollars,100 billion Hong Kong dollars,MONEY,,,en,1.0
-16:00,16:00,TIME,,,en,1.0
-250,250,CARDINAL,,,en,1.0
-at least 11 million,at least 11 million,CARDINAL,,,en,1.0
+the Taichung International Convention and Exhibition Center,the Taichung International Convention and Exhibition Center,EVENT,,,en,1.0
+under 7,under 7,DATE,,,en,1.0
+January 16,January 16,DATE,,,en,1.0
+Flying Street View,Flying Street View,WORK_OF_ART,,,en,1.0
 "More than 16,000","More than 16,000",CARDINAL,,,en,1.0
-the JR Hakodate Line,the JR Hakodate Line,FAC,,,en,1.0
-at least 25,at least 25,CARDINAL,,,en,1.0
-1447,1447,DATE,,,en,1.0
-1444,1444,DATE,,,en,1.0
-1455,1455,DATE,,,en,1.0
-1466,1466,DATE,,,en,1.0
-US$165 billion,US$165 billion,MONEY,,,en,1.0
-20% to 15%,20% to 15%,PERCENT,,,en,1.0
-53,53,MONEY,,,en,1.0
-1990,1990,DATE,,,en,1.0
-about 70%,about 70%,PERCENT,,,en,1.0
-2002,2002,DATE,,,en,1.0
-US$6,US$6,MONEY,,,en,1.0
-about 20%,about 20%,PERCENT,,,en,1.0
-about two-thirds,about two-thirds,CARDINAL,,,en,1.0
-"820,000","820,000",CARDINAL,,,en,1.0
-December 2022,December 2022,DATE,,,en,1.0
-mid-January this year,mid-January this year,DATE,,,en,1.0
-US$26.0668 million,US$26.0668 million,MONEY,,,en,1.0
-"more than 4,100","more than 4,100",CARDINAL,,,en,1.0
-"more than 2,700","more than 2,700",CARDINAL,,,en,1.0
-more than two years,more than two years,DATE,,,en,1.0
-924,924,CARDINAL,,,en,1.0
-about 160 million,about 160 million,CARDINAL,,,en,1.0
-Persian,Persian,NORP,,,en,1.0
-Anti-American,Anti-American,NORP,,,en,1.0
-Lincoln,Lincoln,PRODUCT,,,en,1.0
-1409,1409,CARDINAL,,,en,1.0
-the evening of the 26th,the evening of the 26th,TIME,,,en,1.0
-600,600,CARDINAL,,,en,1.0
-Family Rent,Family Rent,WORK_OF_ART,,,en,1.0
-1 yuan,1 yuan,MONEY,,,en,1.0
+the past few days,the past few days,DATE,,,en,1.0
+"February 14, 2026","February 14, 2026",DATE,,,en,1.0
+February 19,February 19,DATE,,,en,1.0
+the 1st,the 1st,DATE,,,en,1.0
+ten days,ten days,DATE,,,en,1.0
+spring,spring,DATE,,,en,1.0
+the third day to the sixth day,the third day to the sixth day,DATE,,,en,1.0
+Shishan Line,Shishan Line,FAC,,,en,1.0
+Leofoo Village Theme Park,Leofoo Village Theme Park,FAC,,,en,1.0
+Rail Hsinchu Station,Rail Hsinchu Station,FAC,,,en,1.0
+Tourist Line 2,Tourist Line 2,EVENT,,,en,1.0
+Classic Edition,Classic Edition,WORK_OF_ART,,,en,1.0
+"""Darkest Night","""Darkest Night",WORK_OF_ART,,,en,1.0
+Article 1,Article 1,LAW,,,en,1.0
+Chapter 1 General Provisions,Chapter 1 General Provisions,LAW,,,en,1.0
+"January 31, 2026","January 31, 2026",DATE,,,en,1.0
+"March 2, 2026","March 2, 2026",DATE,,,en,1.0
+"the ""Cybercrime Prevention and Control Law (Draft for Comments","the ""Cybercrime Prevention and Control Law (Draft for Comments",LAW,,,en,1.0
+10:30 every night,10:30 every night,TIME,,,en,1.0
+three-hour,three-hour,TIME,,,en,1.0
+January 29,January 29,DATE,,,en,1.0
+three hours,three hours,TIME,,,en,1.0
+more than 12%,more than 12%,PERCENT,,,en,1.0
+T2,T2,CARDINAL,,,en,1.0
+January 31,January 31,DATE,,,en,1.0
+the 31st,the 31st,DATE,,,en,1.0
+the Civic Square,the Civic Square,FAC,,,en,1.0
+Shifen Plaza,Shifen Plaza,FAC,,,en,1.0
+Dragon Horse Spirit,Dragon Horse Spirit,WORK_OF_ART,,,en,1.0
+Horse Galloping towards Success,Horse Galloping towards Success,WORK_OF_ART,,,en,1.0
+Tourist Line 1,Tourist Line 1,EVENT,,,en,1.0
+the third day of the lunar month,the third day of the lunar month,DATE,,,en,1.0
+between the afternoon of tomorrow,between the afternoon of tomorrow,TIME,,,en,1.0
+February 22,February 22,DATE,,,en,1.0
+The new year,The new year,DATE,,,en,1.0
+one month,one month,DATE,,,en,1.0
+the twelfth lunar month,the twelfth lunar month,DATE,,,en,1.0
+the coming year,the coming year,DATE,,,en,1.0
+1.11 trillion yuan,1.11 trillion yuan,MONEY,,,en,1.0
+up to US$1.25 trillion,up to US$1.25 trillion,MONEY,,,en,1.0
+SpaceX,SpaceX,PRODUCT,,,en,1.0
+"Wednesday, February 4, 2026 ·","Wednesday, February 4, 2026 ·",DATE,,,en,1.0
+19,19,CARDINAL,,,en,1.0
+0204,0204,CARDINAL,,,en,1.0
+2026 Year,2026 Year,DATE,,,en,1.0
+"Tuesday, February 3, 2026","Tuesday, February 3, 2026",DATE,,,en,1.0
+0203,0203,PRODUCT,,,en,1.0
+Leader in Entertainment,Leader in Entertainment,WORK_OF_ART,,,en,1.0
+more than 5%,more than 5%,PERCENT,,,en,1.0
+Financial Cold Eyes,Financial Cold Eyes,WORK_OF_ART,,,en,1.0
+two days later,two days later,DATE,,,en,1.0
+"August 8, 2019","August 8, 2019",DATE,,,en,1.0
+more than 3 million,more than 3 million,CARDINAL,,,en,1.0
+2 billion,2 billion,CARDINAL,,,en,1.0
+10:30 on that day,10:30 on that day,TIME,,,en,1.0
+160 million,160 million,CARDINAL,,,en,1.0
+6-hour,6-hour,TIME,,,en,1.0
+2026 barrels,2026 barrels,QUANTITY,,,en,1.0
+1 gram,1 gram,QUANTITY,,,en,1.0
+8),8),CARDINAL,,,en,1.0
+the sixth day of the lunar month,the sixth day of the lunar month,DATE,,,en,1.0
+Polar Ultramarathon Athlete,Polar Ultramarathon Athlete,WORK_OF_ART,,,en,1.0
+Pingxi Sky Lantern Festival,Pingxi Sky Lantern Festival,EVENT,,,en,1.0
+the 30th of the 2026,the 30th of the 2026,DATE,,,en,1.0
+the New Taipei City Citizen Plaza,the New Taipei City Citizen Plaza,FAC,,,en,1.0
 another more than 2 billion yuan,another more than 2 billion yuan,MONEY,,,en,1.0
 Shenzhen Railway,Shenzhen Railway,FAC,,,en,1.0
 Jierui,Jierui,WORK_OF_ART,,,en,1.0
 Kumamoto Castle,Kumamoto Castle,FAC,,,en,1.0
 World Dinner Table,World Dinner Table,WORK_OF_ART,,,en,1.0
+8:30 to 17:30,8:30 to 17:30,TIME,,,en,1.0
+"a ""Spring Festival Holiday Diversion Page","a ""Spring Festival Holiday Diversion Page",EVENT,,,en,1.0
+nine consecutive days,nine consecutive days,DATE,,,en,1.0
 December 18 last year,December 18 last year,DATE,,,en,1.0
 tens of meters,tens of meters,QUANTITY,,,en,1.0
 the 1970s,the 1970s,DATE,,,en,1.0
@@ -939,41 +1040,286 @@ Daily Rental Family,Daily Rental Family,WORK_OF_ART,,,en,1.0
 "more than 500,000","more than 500,000",CARDINAL,,,en,1.0
 280 million yuan,280 million yuan,MONEY,,,en,1.0
 Arctic Oscillation Index,Arctic Oscillation Index,PRODUCT,,,en,1.0
-a few minutes,a few minutes,TIME,,,en,1.0
-evening,evening,TIME,,,en,1.0
+1 yuan,1 yuan,MONEY,,,en,1.0
+January 2,January 2,DATE,,,en,1.0
 Hema,Hema,PRODUCT,,,en,1.0
-NT$ 90,NT$ 90,MONEY,,,en,1.0
-this milestone,this milestone,DATE,,,en,1.0
+28,28,CARDINAL,,,en,1.0
+Three Year,Three Year,DATE,,,en,1.0
+At least 85,At least 85,CARDINAL,,,en,1.0
+a day,a day,DATE,,,en,1.0
+Daily Blizzard,Daily Blizzard,WORK_OF_ART,,,en,1.0
+Snowpiercer,Snowpiercer,WORK_OF_ART,,,en,1.0
+those years doing now,those years doing now,DATE,,,en,1.0
+Fu 2,Fu 2,LAW,,,en,1.0
+15 million yuan,15 million yuan,MONEY,,,en,1.0
+canola,canola,PRODUCT,,,en,1.0
+Menzteler olive,Menzteler olive,WORK_OF_ART,,,en,1.0
+15 million,15 million,CARDINAL,,,en,1.0
+32,32,CARDINAL,,,en,1.0
+three to two,three to two,CARDINAL,,,en,1.0
+Iberian,Iberian,NORP,,,en,1.0
+between 18-35 years old,between 18-35 years old,DATE,,,en,1.0
+458,458,CARDINAL,,,en,1.0
+Small Survey on Young People's Pain Points in Taking Photos,Small Survey on Young People's Pain Points in Taking Photos,WORK_OF_ART,,,en,1.0
+Godly Horse and Dragon Congratulations,Godly Horse and Dragon Congratulations,WORK_OF_ART,,,en,1.0
+Lucky Horse and Good Fortune,Lucky Horse and Good Fortune,WORK_OF_ART,,,en,1.0
+Fu En,Fu En,WORK_OF_ART,,,en,1.0
+Funn,Funn,WORK_OF_ART,,,en,1.0
+the past two months,the past two months,DATE,,,en,1.0
+almost below zero,almost below zero,CARDINAL,,,en,1.0
+Software Stack,Software Stack,PRODUCT,,,en,1.0
+NVIDIA,NVIDIA,WORK_OF_ART,,,en,1.0
+National Highway 1,National Highway 1,FAC,,,en,1.0
+Tainan Railway Station,Tainan Railway Station,FAC,,,en,1.0
+tomorrow afternoon,tomorrow afternoon,TIME,,,en,1.0
+999,999,MONEY,,,en,1.0
+More than half,More than half,CARDINAL,,,en,1.0
+early in the morning,early in the morning,TIME,,,en,1.0
+Olympics,Olympics,EVENT,,,en,1.0
+38 years,38 years,DATE,,,en,1.0
+this Spring Festival Gala,this Spring Festival Gala,EVENT,,,en,1.0
+"the ""Spring Festival Gala","the ""Spring Festival Gala",EVENT,,,en,1.0
+2026 Spring Festival Gala,2026 Spring Festival Gala,EVENT,,,en,1.0
+Israeli,Israeli,NORP,,,en,1.0
+the New Year's Eve,the New Year's Eve,EVENT,,,en,1.0
+Xiaoxueshan Radar Station,Xiaoxueshan Radar Station,FAC,,,en,1.0
+the 15th of the Lunar New Year's Eve,the 15th of the Lunar New Year's Eve,DATE,,,en,1.0
+6:30 pm to 7:30 am,6:30 pm to 7:30 am,TIME,,,en,1.0
+Snowpa Park,Snowpa Park,FAC,,,en,1.0
+Flying Life 3,Flying Life 3,WORK_OF_ART,,,en,1.0
+a year later,a year later,DATE,,,en,1.0
+over 9.5 billion yuan,over 9.5 billion yuan,MONEY,,,en,1.0
+Nezha:,Nezha:,WORK_OF_ART,,,en,1.0
+the 2025 Spring Festival,the 2025 Spring Festival,EVENT,,,en,1.0
+longest Spring Festival,longest Spring Festival,EVENT,,,en,1.0
+nine-day,nine-day,DATE,,,en,1.0
+"February 15, 2026","February 15, 2026",DATE,,,en,1.0
+Our Academy,Our Academy,WORK_OF_ART,,,en,1.0
+February 12,February 12,DATE,,,en,1.0
+iOS 26,iOS 26,PRODUCT,,,en,1.0
+26.3,26.3,CARDINAL,,,en,1.0
+The Long March 10,The Long March 10,DATE,,,en,1.0
+"February 12, 2026","February 12, 2026",DATE,,,en,1.0
+"381,000","381,000",CARDINAL,,,en,1.0
+96,96,CARDINAL,,,en,1.0
+2 minutes,2 minutes,TIME,,,en,1.0
+2026/02/08 19:00,2026/02/08 19:00,TIME,,,en,1.0
+22.85 seconds,22.85 seconds,TIME,,,en,1.0
+thousands of years,thousands of years,DATE,,,en,1.0
+2026?</li></ol,2026?</li></ol,CARDINAL,,,en,1.0
+all night,all night,TIME,,,en,1.0
+around 12 o'clock in the morning,around 12 o'clock in the morning,TIME,,,en,1.0
+the whole year,the whole year,DATE,,,en,1.0
+the first half of the year,the first half of the year,DATE,,,en,1.0
+the year before the first month,the year before the first month,DATE,,,en,1.0
+Polish,Polish,NORP,,,en,1.0
+the Hautes-Alpes province,the Hautes-Alpes province,FAC,,,en,1.0
+La Grave,La Grave,FAC,,,en,1.0
+47 seconds,47 seconds,TIME,,,en,1.0
+05 seconds,05 seconds,TIME,,,en,1.0
+1 minute,1 minute,TIME,,,en,1.0
+63rd,63rd,ORDINAL,,,en,1.0
+the Winter Olympics alpine,the Winter Olympics alpine,EVENT,,,en,1.0
+the Beijing Winter Olympics,the Beijing Winter Olympics,EVENT,,,en,1.0
+Four years ago,Four years ago,DATE,,,en,1.0
+at least three,at least three,CARDINAL,,,en,1.0
+approximately NT$86.7 billion,approximately NT$86.7 billion,MONEY,,,en,1.0
+​​the Sierra Nevada Mountains,​​the Sierra Nevada Mountains,FAC,,,en,1.0
+the Sierra Nevada Mountains,the Sierra Nevada Mountains,FAC,,,en,1.0
+2/17,2/17,CARDINAL,,,en,1.0
+Pole,Pole,PRODUCT,,,en,1.0
+at least 3,at least 3,CARDINAL,,,en,1.0
+Chinese New Year Guide for Coping with Relatives,Chinese New Year Guide for Coping with Relatives,EVENT,,,en,1.0
+the 2026 Chinese New Year,the 2026 Chinese New Year,EVENT,,,en,1.0
+Ukrainian,Ukrainian,NORP,,,en,1.0
+Apple iOS 26.3,Apple iOS 26.3,PRODUCT,,,en,1.0
+March 10,March 10,DATE,,,en,1.0
+2030,2030,DATE,,,en,1.0
+12:20,12:20,TIME,,,en,1.0
+5:23 in the morning,5:23 in the morning,TIME,,,en,1.0
+around 10 degrees or below,around 10 degrees or below,QUANTITY,,,en,1.0
+early this morning,early this morning,TIME,,,en,1.0
+tonight to tomorrow,tonight to tomorrow,TIME,,,en,1.0
+6 degrees Celsius,6 degrees Celsius,QUANTITY,,,en,1.0
+the eve of the Lunar New Year,the eve of the Lunar New Year,DATE,,,en,1.0
+333,333,CARDINAL,,,en,1.0
+330,330,CARDINAL,,,en,1.0
+Shimen,Shimen,NORP,,,en,1.0
+around 6 degrees,around 6 degrees,QUANTITY,,,en,1.0
+8.4 degrees,8.4 degrees,QUANTITY,,,en,1.0
+2/11,2/11,CARDINAL,,,en,1.0
+Special Low Temperature Report,Special Low Temperature Report,WORK_OF_ART,,,en,1.0
+below 10 degrees,below 10 degrees,QUANTITY,,,en,1.0
+"NT$73,000","NT$73,000",CARDINAL,,,en,1.0
+112,112,CARDINAL,,,en,1.0
+more than 700,more than 700,CARDINAL,,,en,1.0
+Hanshen Intercontinental Shopping Plaza,Hanshen Intercontinental Shopping Plaza,FAC,,,en,1.0
+6:27 this morning,6:27 this morning,TIME,,,en,1.0
+10 degrees tonight,10 degrees tonight,QUANTITY,,,en,1.0
+Sunday to Monday morning,Sunday to Monday morning,DATE,,,en,1.0
+Good Luck Box with Money Now,Good Luck Box with Money Now,WORK_OF_ART,,,en,1.0
+Spring Festival Project,Spring Festival Project,EVENT,,,en,1.0
+"The ""New Year Auspicious Snow Welcomes Fortune""","The ""New Year Auspicious Snow Welcomes Fortune""",EVENT,,,en,1.0
+2/14-2/22,2/14-2/22,CARDINAL,,,en,1.0
+the first nine-day,the first nine-day,DATE,,,en,1.0
+the afternoon of tomorrow (7th,the afternoon of tomorrow (7th,TIME,,,en,1.0
+about 10 degrees,about 10 degrees,QUANTITY,,,en,1.0
+about 6 degrees,about 6 degrees,QUANTITY,,,en,1.0
+the Matsu Station,the Matsu Station,FAC,,,en,1.0
+2k,2k,CARDINAL,,,en,1.0
+"February 11, 2026","February 11, 2026",DATE,,,en,1.0
+more than one,more than one,CARDINAL,,,en,1.0
+Southerners,Southerners,NORP,,,en,1.0
+thousands of kilograms,thousands of kilograms,QUANTITY,,,en,1.0
+Northerners,Northerners,NORP,,,en,1.0
+"more than 10,000 yuan","more than 10,000 yuan",MONEY,,,en,1.0
+21:00 on the evening,21:00 on the evening,TIME,,,en,1.0
+15 days,15 days,DATE,,,en,1.0
+24:00 on the 23rd,24:00 on the 23rd,TIME,,,en,1.0
+February 9,February 9,DATE,,,en,1.0
+22:00,22:00,TIME,,,en,1.0
+The 115th year,The 115th year,DATE,,,en,1.0
+1k,1k,CARDINAL,,,en,1.0
+5.4 degrees,5.4 degrees,QUANTITY,,,en,1.0
+February 10,February 10,DATE,,,en,1.0
+New Year Cleaning,New Year Cleaning,EVENT,,,en,1.0
+2026｜First,2026｜First,CARDINAL,,,en,1.0
+Xianxiang,Xianxiang,WORK_OF_ART,,,en,1.0
+Just two years ago,Just two years ago,DATE,,,en,1.0
+Argentinian,Argentinian,NORP,,,en,1.0
+daytime,daytime,TIME,,,en,1.0
+13 degrees,13 degrees,QUANTITY,,,en,1.0
+12 degrees,12 degrees,QUANTITY,,,en,1.0
+0:00 a.m.,0:00 a.m.,TIME,,,en,1.0
+the Zhongliao Station,the Zhongliao Station,FAC,,,en,1.0
+6:16 this morning,6:16 this morning,TIME,,,en,1.0
+Family Rent,Family Rent,WORK_OF_ART,,,en,1.0
+the evening of the 26th,the evening of the 26th,TIME,,,en,1.0
+at least 25,at least 25,CARDINAL,,,en,1.0
+469 yuan,469 yuan,MONEY,,,en,1.0
+8 o'clock,8 o'clock,TIME,,,en,1.0
+minus 44.6 degrees Celsius,minus 44.6 degrees Celsius,QUANTITY,,,en,1.0
+"approximately 800,000","approximately 800,000",CARDINAL,,,en,1.0
+3 billion euros,3 billion euros,MONEY,,,en,1.0
+"6,000 euros","6,000 euros",MONEY,,,en,1.0
+"1,500 euros to","1,500 euros to",MONEY,,,en,1.0
+17:30,17:30,TIME,,,en,1.0
+Leilei,Leilei,WORK_OF_ART,,,en,1.0
+1.5 million,1.5 million,CARDINAL,,,en,1.0
+Hangzhou Xincheng Road,Hangzhou Xincheng Road,FAC,,,en,1.0
+more than 23 million yuan,more than 23 million yuan,MONEY,,,en,1.0
+"December 10, 2025","December 10, 2025",DATE,,,en,1.0
+0.5 to 1 km,0.5 to 1 km,QUANTITY,,,en,1.0
+about 5,about 5,CARDINAL,,,en,1.0
+Capsicum,Capsicum,NORP,,,en,1.0
+a record high last year,a record high last year,DATE,,,en,1.0
+2688mm,2688mm,QUANTITY,,,en,1.0
+1474mm,1474mm,QUANTITY,,,en,1.0
+1806mm,1806mm,QUANTITY,,,en,1.0
+4678mm,4678mm,QUANTITY,,,en,1.0
+"120,900-143,900 yuan","120,900-143,900 yuan",MONEY,,,en,1.0
+"Jan. 6, 2026","Jan. 6, 2026",DATE,,,en,1.0
+"217,000","217,000",CARDINAL,,,en,1.0
+"254,800","254,800",CARDINAL,,,en,1.0
+"only about 174,000 yuan","only about 174,000 yuan",MONEY,,,en,1.0
+"approximately 198,000 yuan","approximately 198,000 yuan",MONEY,,,en,1.0
+41.99 million won,41.99 million won,MONEY,,,en,1.0
+435 Yuan,435 Yuan,MONEY,,,en,1.0
+60 years,60 years,DATE,,,en,1.0
+1409,1409,CARDINAL,,,en,1.0
+the 19th and 20th,the 19th and 20th,DATE,,,en,1.0
+"60,000 to 8 million","60,000 to 8 million",MONEY,,,en,1.0
+more than 24 million yuan,more than 24 million yuan,MONEY,,,en,1.0
+"more than 360,000","more than 360,000",CARDINAL,,,en,1.0
+As of the afternoon,As of the afternoon,TIME,,,en,1.0
+"the ""Lenovo AI Factory""","the ""Lenovo AI Factory""",LAW,,,en,1.0
+East Japan,East Japan,NORP,,,en,1.0
+3.11,3.11,CARDINAL,,,en,1.0
+Kashiwazaki-Kariwa Nuclear Power Plant,Kashiwazaki-Kariwa Nuclear Power Plant,FAC,,,en,1.0
+the Kashiwazaki-Kariwa Nuclear Power Plant,the Kashiwazaki-Kariwa Nuclear Power Plant,FAC,,,en,1.0
+810 billion yuan,810 billion yuan,MONEY,,,en,1.0
+US$50 million,US$50 million,MONEY,,,en,1.0
+"February 6 to 22, 2015","February 6 to 22, 2015",DATE,,,en,1.0
+This Winter Olympics,This Winter Olympics,EVENT,,,en,1.0
+less than 2 years,less than 2 years,DATE,,,en,1.0
+The Winter Olympics,The Winter Olympics,EVENT,,,en,1.0
+9 Winter Olympics,9 Winter Olympics,EVENT,,,en,1.0
+116,116,CARDINAL,,,en,1.0
+the Milan Winter Olympics,the Milan Winter Olympics,EVENT,,,en,1.0
+Winter Olympics,Winter Olympics,EVENT,,,en,1.0
+Milan Winter Olympics,Milan Winter Olympics,EVENT,,,en,1.0
+Olympics》The,Olympics》The,NORP,,,en,1.0
+four-day,four-day,DATE,,,en,1.0
+the Hsinchu County Stadium,the Hsinchu County Stadium,FAC,,,en,1.0
+the Zhubei Tianhou Temple,the Zhubei Tianhou Temple,FAC,,,en,1.0
+the 21st,the 21st,DATE,,,en,1.0
+minus 40 degrees,minus 40 degrees,QUANTITY,,,en,1.0
+Siberian,Siberian,NORP,,,en,1.0
+Koreans,Koreans,NORP,,,en,1.0
+"174,000","174,000",CARDINAL,,,en,1.0
+the first season,the first season,DATE,,,en,1.0
+16th,16th,ORDINAL,,,en,1.0
+the end of 2015,the end of 2015,DATE,,,en,1.0
+Response Three,Response Three,WORK_OF_ART,,,en,1.0
+January 18,January 18,DATE,,,en,1.0
+billion-dollar,billion-dollar,MONEY,,,en,1.0
+no less than 30%,no less than 30%,PERCENT,,,en,1.0
+83 billion,83 billion,MONEY,,,en,1.0
+Two-year-old,Two-year-old,DATE,,,en,1.0
+CNY Spring Festival,CNY Spring Festival,EVENT,,,en,1.0
+another year’s,another year’s,DATE,,,en,1.0
+110 billion,110 billion,CARDINAL,,,en,1.0
+87,87,CARDINAL,,,en,1.0
+more than 8.3 billion yuan,more than 8.3 billion yuan,MONEY,,,en,1.0
+at least 8,at least 8,CARDINAL,,,en,1.0
+just one week,just one week,DATE,,,en,1.0
+more than HK$50 billion,more than HK$50 billion,MONEY,,,en,1.0
+100 billion,100 billion,CARDINAL,,,en,1.0
+Czech,Czech,NORP,,,en,1.0
+Ultraman,Ultraman,FAC,0.0,0.2727272727272727,en,1.0
+April 27,April 27,DATE,,,en,1.0
+only one month,only one month,DATE,,,en,1.0
+the next few weeks,the next few weeks,DATE,,,en,1.0
+January 17th,January 17th,DATE,,,en,1.0
+the beginning of 2026,the beginning of 2026,DATE,,,en,1.0
+just two months,just two months,DATE,,,en,1.0
+about US$100 million,about US$100 million,MONEY,,,en,1.0
+$100 million,$100 million,MONEY,,,en,1.0
+January 17,January 17,DATE,,,en,1.0
+2026 to 2027,2026 to 2027,DATE,,,en,1.0
+This week,This week,DATE,,,en,1.0
+Early last year,Early last year,DATE,,,en,1.0
+Sphere venues.,Sphere venues.,WORK_OF_ART,,,en,1.0
+Fully Buried,Fully Buried,WORK_OF_ART,,,en,1.0
+The second season,The second season,DATE,,,en,1.0
+month,month,DATE,,,en,1.0
+1.62,1.62,CARDINAL,,,en,1.0
+1.71,1.71,CARDINAL,,,en,1.0
+1.81,1.81,CARDINAL,,,en,1.0
+251kW,251kW,CARDINAL,,,en,1.0
+210kW,210kW,CARDINAL,,,en,1.0
+over 5 meters,over 5 meters,QUANTITY,,,en,1.0
+"January 20, 2026","January 20, 2026",DATE,,,en,1.0
+7999 yuan,7999 yuan,MONEY,,,en,1.0
+Magic 8 RSR,Magic 8 RSR,PRODUCT,,,en,1.0
+"the ""National Security Law""","the ""National Security Law""",LAW,,,en,1.0
+nearly 2 hours,nearly 2 hours,TIME,,,en,1.0
+Tensor G4,Tensor G4,PRODUCT,,,en,1.0
+Tensor G5,Tensor G5,PRODUCT,,,en,1.0
+Pixel 10a,Pixel 10a,PRODUCT,,,en,1.0
+256,256,CARDINAL,,,en,1.0
+128,128,CARDINAL,,,en,1.0
+March 5,March 5,DATE,,,en,1.0
+55%,55%,PERCENT,,,en,1.0
+HK$198</li></ol,HK$198</li></ol,CARDINAL,,,en,1.0
+"January 19, 2026","January 19, 2026",DATE,,,en,1.0
+20 billion,20 billion,CARDINAL,,,en,1.0
+4 months,4 months,DATE,,,en,1.0
+June of that year,June of that year,DATE,,,en,1.0
+just a few days,just a few days,DATE,,,en,1.0
+"291,000 yuan","291,000 yuan",MONEY,,,en,1.0
+21st,21st,DATE,,,en,1.0
 less than a year,less than a year,DATE,,,en,1.0
-880ppm,880ppm,DATE,,,en,1.0
-more than 90,more than 90,CARDINAL,,,en,1.0
-more than 1 billion,more than 1 billion,MONEY,,,en,1.0
-Star People Valentine’s Day Limited,Star People Valentine’s Day Limited,WORK_OF_ART,,,en,1.0
-3 million,3 million,CARDINAL,,,en,1.0
-"12,306","12,306",CARDINAL,,,en,1.0
-only 700,only 700,CARDINAL,,,en,1.0
-the Guanwu Line,the Guanwu Line,FAC,,,en,1.0
-one hour,one hour,TIME,,,en,1.0
-nine,nine,CARDINAL,,,en,1.0
-January 23,January 23,DATE,,,en,1.0
-January 26,January 26,DATE,,,en,1.0
-2013,2013,DATE,,,en,1.0
-74.2 billion yuan,74.2 billion yuan,MONEY,,,en,1.0
-60 billion yuan,60 billion yuan,MONEY,,,en,1.0
-23rd,23rd,DATE,,,en,1.0
-Bingwu,Bingwu,NORP,,,en,1.0
-Maotai Year of the Horse,Maotai Year of the Horse,WORK_OF_ART,,,en,1.0
-the second year,the second year,DATE,,,en,1.0
-2.1 billion,2.1 billion,CARDINAL,,,en,1.0
-above</li,above</li,MONEY,,,en,1.0
-"up to 1,000 yuan","up to 1,000 yuan",MONEY,,,en,1.0
-7.14 million,7.14 million,CARDINAL,,,en,1.0
-4%,4%,PERCENT,,,en,1.0
-The Escape of the New Life,The Escape of the New Life,WORK_OF_ART,,,en,1.0
-the Bangor Airport,the Bangor Airport,FAC,,,en,1.0
-Moneyball,Moneyball,WORK_OF_ART,,,en,1.0
-"more than 4,000","more than 4,000",CARDINAL,,,en,1.0
-"more than 10,800","more than 10,800",CARDINAL,,,en,1.0
 "more than 100,000","more than 100,000",CARDINAL,,,en,1.0
 "at least 330,000","at least 330,000",CARDINAL,,,en,1.0
 15:00 EDT,15:00 EDT,TIME,,,en,1.0
@@ -997,282 +1343,59 @@ the Hengchong International Ski Resort,the Hengchong International Ski Resort,EV
 at least 18,at least 18,CARDINAL,,,en,1.0
 nearly 230 million,nearly 230 million,CARDINAL,,,en,1.0
 Fern,Fern,WORK_OF_ART,,,en,1.0
-January 2,January 2,DATE,,,en,1.0
-Iberian,Iberian,NORP,,,en,1.0
-another in the evening,another in the evening,TIME,,,en,1.0
-New Year Cleaning,New Year Cleaning,EVENT,,,en,1.0
-Xianxiang,Xianxiang,WORK_OF_ART,,,en,1.0
-Just two years ago,Just two years ago,DATE,,,en,1.0
-Argentinian,Argentinian,NORP,,,en,1.0
-Sunday to Monday morning,Sunday to Monday morning,DATE,,,en,1.0
-Good Luck Box with Money Now,Good Luck Box with Money Now,WORK_OF_ART,,,en,1.0
-Spring Festival Project,Spring Festival Project,EVENT,,,en,1.0
-"The ""New Year Auspicious Snow Welcomes Fortune""","The ""New Year Auspicious Snow Welcomes Fortune""",EVENT,,,en,1.0
-2/14-2/22,2/14-2/22,CARDINAL,,,en,1.0
-the first nine-day,the first nine-day,DATE,,,en,1.0
-Lunar New Year,Lunar New Year,EVENT,,,en,1.0
-The new year,The new year,DATE,,,en,1.0
-one month,one month,DATE,,,en,1.0
-the twelfth lunar month,the twelfth lunar month,DATE,,,en,1.0
-the coming year,the coming year,DATE,,,en,1.0
-1.11 trillion yuan,1.11 trillion yuan,MONEY,,,en,1.0
-up to US$1.25 trillion,up to US$1.25 trillion,MONEY,,,en,1.0
-SpaceX,SpaceX,PRODUCT,,,en,1.0
-"Wednesday, February 4, 2026 ·","Wednesday, February 4, 2026 ·",DATE,,,en,1.0
-19,19,CARDINAL,,,en,1.0
-0204,0204,CARDINAL,,,en,1.0
-Leader in Entertainment,Leader in Entertainment,WORK_OF_ART,,,en,1.0
-The Lunar New Year,The Lunar New Year,EVENT,,,en,1.0
-more than 5%,more than 5%,PERCENT,,,en,1.0
-Financial Cold Eyes,Financial Cold Eyes,WORK_OF_ART,,,en,1.0
-two days later,two days later,DATE,,,en,1.0
-2026｜First,2026｜First,CARDINAL,,,en,1.0
-February 10,February 10,DATE,,,en,1.0
-more than 3 million,more than 3 million,CARDINAL,,,en,1.0
-1k,1k,CARDINAL,,,en,1.0
-a year later,a year later,DATE,,,en,1.0
-over 9.5 billion yuan,over 9.5 billion yuan,MONEY,,,en,1.0
-Nezha:,Nezha:,WORK_OF_ART,,,en,1.0
-the 2025 Spring Festival,the 2025 Spring Festival,EVENT,,,en,1.0
-longest Spring Festival,longest Spring Festival,EVENT,,,en,1.0
-nine-day,nine-day,DATE,,,en,1.0
-February 12,February 12,DATE,,,en,1.0
-iOS 26,iOS 26,PRODUCT,,,en,1.0
-26.3,26.3,CARDINAL,,,en,1.0
-the Wenchang Space Launch Site,the Wenchang Space Launch Site,FAC,,,en,1.0
-the Long March 10,the Long March 10,DATE,,,en,1.0
-The Long March 10,The Long March 10,DATE,,,en,1.0
-"February 12, 2026","February 12, 2026",DATE,,,en,1.0
-IT Morning Post,IT Morning Post,WORK_OF_ART,,,en,1.0
-"381,000","381,000",CARDINAL,,,en,1.0
-Apple iOS 26.3,Apple iOS 26.3,PRODUCT,,,en,1.0
-March 10,March 10,DATE,,,en,1.0
-"more than 10,000 yuan","more than 10,000 yuan",MONEY,,,en,1.0
-21:00 on the evening,21:00 on the evening,TIME,,,en,1.0
-15 days,15 days,DATE,,,en,1.0
-24:00 on the 23rd,24:00 on the 23rd,TIME,,,en,1.0
-February 9,February 9,DATE,,,en,1.0
-22:00,22:00,TIME,,,en,1.0
-The 115th year,The 115th year,DATE,,,en,1.0
-2k,2k,CARDINAL,,,en,1.0
-"August 8, 2019","August 8, 2019",DATE,,,en,1.0
-2 billion,2 billion,CARDINAL,,,en,1.0
-National Highway 1,National Highway 1,FAC,,,en,1.0
-the New Taipei City Citizen Plaza,the New Taipei City Citizen Plaza,FAC,,,en,1.0
-At least 85,At least 85,CARDINAL,,,en,1.0
-a day,a day,DATE,,,en,1.0
-Daily Blizzard,Daily Blizzard,WORK_OF_ART,,,en,1.0
-Snowpiercer,Snowpiercer,WORK_OF_ART,,,en,1.0
-those years doing now,those years doing now,DATE,,,en,1.0
-Fu 2,Fu 2,LAW,,,en,1.0
-15 million yuan,15 million yuan,MONEY,,,en,1.0
-canola,canola,PRODUCT,,,en,1.0
-Menzteler olive,Menzteler olive,WORK_OF_ART,,,en,1.0
-15 million,15 million,CARDINAL,,,en,1.0
-32,32,CARDINAL,,,en,1.0
-28,28,CARDINAL,,,en,1.0
-three to two,three to two,CARDINAL,,,en,1.0
-between 18-35 years old,between 18-35 years old,DATE,,,en,1.0
-458,458,CARDINAL,,,en,1.0
-Small Survey on Young People's Pain Points in Taking Photos,Small Survey on Young People's Pain Points in Taking Photos,WORK_OF_ART,,,en,1.0
-The Spring Festival,The Spring Festival,EVENT,,,en,1.0
-Godly Horse and Dragon Congratulations,Godly Horse and Dragon Congratulations,WORK_OF_ART,,,en,1.0
-Lucky Horse and Good Fortune,Lucky Horse and Good Fortune,WORK_OF_ART,,,en,1.0
-Fu En,Fu En,WORK_OF_ART,,,en,1.0
-Funn,Funn,WORK_OF_ART,,,en,1.0
-the past two months,the past two months,DATE,,,en,1.0
-almost below zero,almost below zero,CARDINAL,,,en,1.0
-Software Stack,Software Stack,PRODUCT,,,en,1.0
-NVIDIA,NVIDIA,WORK_OF_ART,,,en,1.0
-Three Year,Three Year,DATE,,,en,1.0
-the 30th of the 2026,the 30th of the 2026,DATE,,,en,1.0
-10:30 on that day,10:30 on that day,TIME,,,en,1.0
-Pingxi Sky Lantern Festival,Pingxi Sky Lantern Festival,EVENT,,,en,1.0
-February 2,February 2,DATE,,,en,1.0
-160 million,160 million,CARDINAL,,,en,1.0
-6-hour,6-hour,TIME,,,en,1.0
-2026 barrels,2026 barrels,QUANTITY,,,en,1.0
-1 gram,1 gram,QUANTITY,,,en,1.0
-Classic Edition,Classic Edition,WORK_OF_ART,,,en,1.0
-"""Darkest Night","""Darkest Night",WORK_OF_ART,,,en,1.0
-Article 1,Article 1,LAW,,,en,1.0
-Chapter 1 General Provisions,Chapter 1 General Provisions,LAW,,,en,1.0
-"January 31, 2026","January 31, 2026",DATE,,,en,1.0
-"March 2, 2026","March 2, 2026",DATE,,,en,1.0
-"the ""Cybercrime Prevention and Control Law (Draft for Comments","the ""Cybercrime Prevention and Control Law (Draft for Comments",LAW,,,en,1.0
-10:30 every night,10:30 every night,TIME,,,en,1.0
-three-hour,three-hour,TIME,,,en,1.0
-January 29,January 29,DATE,,,en,1.0
-three hours,three hours,TIME,,,en,1.0
-more than 12%,more than 12%,PERCENT,,,en,1.0
-T2,T2,CARDINAL,,,en,1.0
-January 31,January 31,DATE,,,en,1.0
-the 31st,the 31st,DATE,,,en,1.0
-the Civic Square,the Civic Square,FAC,,,en,1.0
-Shifen Plaza,Shifen Plaza,FAC,,,en,1.0
-Dragon Horse Spirit,Dragon Horse Spirit,WORK_OF_ART,,,en,1.0
-Horse Galloping towards Success,Horse Galloping towards Success,WORK_OF_ART,,,en,1.0
-Polar Ultramarathon Athlete,Polar Ultramarathon Athlete,WORK_OF_ART,,,en,1.0
-products</li,products</li,FAC,,,en,1.0
-"10,747","10,747",CARDINAL,,,en,1.0
-Year of the Horse Moutai,Year of the Horse Moutai,WORK_OF_ART,,,en,1.0
-January 17,January 17,DATE,,,en,1.0
-"February 14, 2026","February 14, 2026",DATE,,,en,1.0
-EMU,EMU,PRODUCT,,,en,1.0
-February 1,February 1,DATE,,,en,1.0
-the early hours,the early hours,TIME,,,en,1.0
-This day,This day,DATE,,,en,1.0
-Yesterday (15th,Yesterday (15th,DATE,,,en,1.0
-Nioh 3,Nioh 3,WORK_OF_ART,,,en,1.0
-Nioh 2,Nioh 2,PRODUCT,,,en,1.0
-6 years,6 years,DATE,,,en,1.0
-Nioh,Nioh,WORK_OF_ART,,,en,1.0
-the “New Year Garden Party”,the “New Year Garden Party”,EVENT,,,en,1.0
-"the ""New Year Garden Party""","the ""New Year Garden Party""",EVENT,,,en,1.0
-Lancôme,Lancôme,NORP,0.04545454545454545,0.34040404040404043,en,1.0
-the Chinese New Year,the Chinese New Year,EVENT,,,en,1.0
-Weekends,Weekends,DATE,,,en,1.0
-2026.1.17,2026.1.17,CARDINAL,,,en,1.0
-Night Black,Night Black,WORK_OF_ART,,,en,1.0
-Sky White,Sky White,WORK_OF_ART,,,en,1.0
-Halo Pink,Halo Pink,WORK_OF_ART,,,en,1.0
-the Z11 Turbo,the Z11 Turbo,PRODUCT,,,en,1.0
-Snapdragon 8,Snapdragon 8,PRODUCT,,,en,1.0
-1 hour,1 hour,TIME,,,en,1.0
-60%</li></ol,60%</li></ol,CARDINAL,,,en,1.0
-Nantian,Nantian,NORP,,,en,1.0
-01,01,DATE,,,en,1.0
-999,999,MONEY,,,en,1.0
-$100 million,$100 million,MONEY,,,en,1.0
-48%,48%,PERCENT,,,en,1.0
-about US$100 million,about US$100 million,MONEY,,,en,1.0
-50 million,50 million,CARDINAL,,,en,1.0
-Response Three,Response Three,WORK_OF_ART,,,en,1.0
-January 18,January 18,DATE,,,en,1.0
-billion-dollar,billion-dollar,MONEY,,,en,1.0
-no less than 30%,no less than 30%,PERCENT,,,en,1.0
-83 billion,83 billion,MONEY,,,en,1.0
-Two-year-old,Two-year-old,DATE,,,en,1.0
-CNY Spring Festival,CNY Spring Festival,EVENT,,,en,1.0
-another year’s,another year’s,DATE,,,en,1.0
-110 billion,110 billion,CARDINAL,,,en,1.0
-87,87,CARDINAL,,,en,1.0
-more than 8.3 billion yuan,more than 8.3 billion yuan,MONEY,,,en,1.0
-at least 8,at least 8,CARDINAL,,,en,1.0
-just one week,just one week,DATE,,,en,1.0
-more than HK$50 billion,more than HK$50 billion,MONEY,,,en,1.0
-100 billion,100 billion,CARDINAL,,,en,1.0
-Czech,Czech,NORP,,,en,1.0
-17th,17th,DATE,,,en,1.0
-Ultraman,Ultraman,FAC,0.0,0.2727272727272727,en,1.0
-April 27,April 27,DATE,,,en,1.0
-only one month,only one month,DATE,,,en,1.0
-the next few weeks,the next few weeks,DATE,,,en,1.0
-January 17th,January 17th,DATE,,,en,1.0
-the beginning of 2026,the beginning of 2026,DATE,,,en,1.0
-just two months,just two months,DATE,,,en,1.0
-11%,11%,PERCENT,,,en,1.0
-US$122 billion,US$122 billion,MONEY,,,en,1.0
-PPU,PPU,PRODUCT,,,en,1.0
-151,151,CARDINAL,,,en,1.0
-DotAI,DotAI,PRODUCT,,,en,1.0
-US$876.3 million,US$876.3 million,MONEY,,,en,1.0
-752.4 million euros,752.4 million euros,MONEY,,,en,1.0
-1.13 billion,1.13 billion,CARDINAL,,,en,1.0
-AirPods,AirPods,PRODUCT,,,en,1.0
-"nearly $40,000","nearly $40,000",MONEY,,,en,1.0
-"more than $79,000","more than $79,000",MONEY,,,en,1.0
-"250,000","250,000",CARDINAL,,,en,1.0
-68%,68%,PERCENT,,,en,1.0
-the fourth quarter of last year,the fourth quarter of last year,DATE,,,en,1.0
-"20,237","20,237",CARDINAL,,,en,1.0
-"only more than 20,000","only more than 20,000",CARDINAL,,,en,1.0
-Overview</li><li,Overview</li><li,PRODUCT,,,en,1.0
-Rovar X3,Rovar X3,LAW,,,en,1.0
-40 centimeters,40 centimeters,QUANTITY,,,en,1.0
-15 kilograms,15 kilograms,QUANTITY,,,en,1.0
-95 years old,95 years old,DATE,,,en,1.0
-longer year,longer year,DATE,,,en,1.0
-Visually Impaired Grandma,Visually Impaired Grandma,WORK_OF_ART,,,en,1.0
-Visually Impaired Granny,Visually Impaired Granny,WORK_OF_ART,,,en,1.0
-between the end of November and December last year,between the end of November and December last year,DATE,,,en,1.0
-About 40 to 50,About 40 to 50,CARDINAL,,,en,1.0
-4pm,4pm,TIME,,,en,1.0
-at least 126,at least 126,CARDINAL,,,en,1.0
-30s,30s,DATE,,,en,1.0
-AI Practitioners Conference,AI Practitioners Conference,EVENT,,,en,1.0
-more than 195.37 million yuan,more than 195.37 million yuan,MONEY,,,en,1.0
-36%,36%,PERCENT,,,en,1.0
-2026｜Anker,2026｜Anker,CARDINAL,,,en,1.0
-June last year,June last year,DATE,,,en,1.0
-three-day,three-day,DATE,,,en,1.0
-approximately RMB 40 billion,approximately RMB 40 billion,MONEY,,,en,1.0
-as high as US$5.6 billion,as high as US$5.6 billion,MONEY,,,en,1.0
-207,207,CARDINAL,,,en,1.0
-Perfect Companion,Perfect Companion,WORK_OF_ART,,,en,1.0
-I Am Legend,I Am Legend,WORK_OF_ART,,,en,1.0
-NT$ 80,NT$ 80,MONEY,,,en,1.0
-Piaget,Piaget,PRODUCT,,,en,1.0
-the Lunar Calendar,the Lunar Calendar,DATE,,,en,1.0
-The years,The years,DATE,,,en,1.0
-The Lunar Calendar,The Lunar Calendar,DATE,,,en,1.0
-2012,2012,DATE,,,en,1.0
-200,200,CARDINAL,,,en,1.0
-"1,900","1,900",CARDINAL,,,en,1.0
-nearly 1 billion,nearly 1 billion,MONEY,,,en,1.0
-Limited Edition Gift Box,Limited Edition Gift Box,EVENT,,,en,1.0
-400,400,CARDINAL,,,en,1.0
-Instant Rewards,Instant Rewards,WORK_OF_ART,,,en,1.0
-Opening Multiple Rewards,Opening Multiple Rewards,WORK_OF_ART,,,en,1.0
-Up to 10%,Up to 10%,PERCENT,,,en,1.0
-As low as 10%,As low as 10%,PERCENT,,,en,1.0
-last November,last November,DATE,,,en,1.0
-"11:07
-FT","11:07
-FT",QUANTITY,,,en,1.0
-Murder and Impunity in Rural Para,Murder and Impunity in Rural Para,WORK_OF_ART,,,en,1.0
-2026 to 2027,2026 to 2027,DATE,,,en,1.0
-This week,This week,DATE,,,en,1.0
-Early last year,Early last year,DATE,,,en,1.0
-more than 24 million yuan,more than 24 million yuan,MONEY,,,en,1.0
-As of the afternoon,As of the afternoon,TIME,,,en,1.0
-"the ""Lenovo AI Factory""","the ""Lenovo AI Factory""",LAW,,,en,1.0
-East Japan,East Japan,NORP,,,en,1.0
-3.11,3.11,CARDINAL,,,en,1.0
-Kashiwazaki-Kariwa Nuclear Power Plant,Kashiwazaki-Kariwa Nuclear Power Plant,FAC,,,en,1.0
-the Kashiwazaki-Kariwa Nuclear Power Plant,the Kashiwazaki-Kariwa Nuclear Power Plant,FAC,,,en,1.0
-810 billion yuan,810 billion yuan,MONEY,,,en,1.0
-US$50 million,US$50 million,MONEY,,,en,1.0
-"February 6 to 22, 2015","February 6 to 22, 2015",DATE,,,en,1.0
-This Winter Olympics,This Winter Olympics,EVENT,,,en,1.0
-the Winter Olympics,the Winter Olympics,EVENT,,,en,1.0
-less than 2 years,less than 2 years,DATE,,,en,1.0
-The Winter Olympics,The Winter Olympics,EVENT,,,en,1.0
-9 Winter Olympics,9 Winter Olympics,EVENT,,,en,1.0
-116,116,CARDINAL,,,en,1.0
-the Milan Winter Olympics,the Milan Winter Olympics,EVENT,,,en,1.0
-Winter Olympics,Winter Olympics,EVENT,,,en,1.0
-Milan Winter Olympics,Milan Winter Olympics,EVENT,,,en,1.0
-Olympics》The,Olympics》The,NORP,,,en,1.0
-minus 40 degrees,minus 40 degrees,QUANTITY,,,en,1.0
-Siberian,Siberian,NORP,,,en,1.0
-the 19th and 20th,the 19th and 20th,DATE,,,en,1.0
-60 years,60 years,DATE,,,en,1.0
-469 yuan,469 yuan,MONEY,,,en,1.0
-435 Yuan,435 Yuan,MONEY,,,en,1.0
-"more than 360,000","more than 360,000",CARDINAL,,,en,1.0
-"60,000 to 8 million","60,000 to 8 million",MONEY,,,en,1.0
-nearly 2 hours,nearly 2 hours,TIME,,,en,1.0
-just a few days,just a few days,DATE,,,en,1.0
-8 years ago,8 years ago,DATE,,,en,1.0
-the National Park Law,the National Park Law,LAW,,,en,1.0
-Article 13,Article 13,LAW,,,en,1.0
-the snow season,the snow season,DATE,,,en,1.0
-the 22nd,the 22nd,DATE,,,en,1.0
-the morning of the 22nd,the morning of the 22nd,TIME,,,en,1.0
-the New Year's,the New Year's,EVENT,,,en,1.0
+Moneyball,Moneyball,WORK_OF_ART,,,en,1.0
+The Escape of the New Life,The Escape of the New Life,WORK_OF_ART,,,en,1.0
+NT$ 90,NT$ 90,MONEY,,,en,1.0
+4%,4%,PERCENT,,,en,1.0
+"more than 10,800","more than 10,800",CARDINAL,,,en,1.0
+"more than 4,000","more than 4,000",CARDINAL,,,en,1.0
+the Bangor Airport,the Bangor Airport,FAC,,,en,1.0
+about two-thirds,about two-thirds,CARDINAL,,,en,1.0
+1447,1447,DATE,,,en,1.0
+1444,1444,DATE,,,en,1.0
+1455,1455,DATE,,,en,1.0
+1466,1466,DATE,,,en,1.0
+US$165 billion,US$165 billion,MONEY,,,en,1.0
+20% to 15%,20% to 15%,PERCENT,,,en,1.0
+53,53,MONEY,,,en,1.0
+1990,1990,DATE,,,en,1.0
+about 70%,about 70%,PERCENT,,,en,1.0
+2002,2002,DATE,,,en,1.0
+US$6,US$6,MONEY,,,en,1.0
+about 20%,about 20%,PERCENT,,,en,1.0
+"820,000","820,000",CARDINAL,,,en,1.0
+600,600,CARDINAL,,,en,1.0
+December 2022,December 2022,DATE,,,en,1.0
+mid-January this year,mid-January this year,DATE,,,en,1.0
+US$26.0668 million,US$26.0668 million,MONEY,,,en,1.0
+"more than 4,100","more than 4,100",CARDINAL,,,en,1.0
+"more than 2,700","more than 2,700",CARDINAL,,,en,1.0
+more than two years,more than two years,DATE,,,en,1.0
+924,924,CARDINAL,,,en,1.0
+about 160 million,about 160 million,CARDINAL,,,en,1.0
+Persian,Persian,NORP,,,en,1.0
+Anti-American,Anti-American,NORP,,,en,1.0
+Lincoln,Lincoln,PRODUCT,,,en,1.0
+a few minutes,a few minutes,TIME,,,en,1.0
+this milestone,this milestone,DATE,,,en,1.0
+880ppm,880ppm,DATE,,,en,1.0
+August 23,August 23,DATE,,,en,1.0
+more than 90,more than 90,CARDINAL,,,en,1.0
 a Galaxy S25,a Galaxy S25,PRODUCT,,,en,1.0
 The Galaxy S25 Plus,The Galaxy S25 Plus,WORK_OF_ART,,,en,1.0
+Eight Vertical and Eight Horizontal,Eight Vertical and Eight Horizontal,WORK_OF_ART,,,en,1.0
+350 kilometers per hour,350 kilometers per hour,QUANTITY,,,en,1.0
+"1,198 kilometers","1,198 kilometers",QUANTITY,,,en,1.0
+11.63 million,11.63 million,CARDINAL,,,en,1.0
+4.86 million,4.86 million,CARDINAL,,,en,1.0
+39.36 million,39.36 million,CARDINAL,,,en,1.0
+"January 22, 2021","January 22, 2021",DATE,,,en,1.0
+more than 39 million,more than 39 million,CARDINAL,,,en,1.0
+January 20 to 8 a.m.,January 20 to 8 a.m.,DATE,,,en,1.0
+8 a.m.,8 a.m.,TIME,,,en,1.0
+the 48 hours,the 48 hours,TIME,,,en,1.0
+about 10 degrees Celsius,about 10 degrees Celsius,QUANTITY,,,en,1.0
+48 hours,48 hours,TIME,,,en,1.0
 nearly 2 million,nearly 2 million,CARDINAL,,,en,1.0
 January 20 last year,January 20 last year,DATE,,,en,1.0
 Shuibei Market,Shuibei Market,FAC,,,en,1.0
@@ -1281,116 +1404,49 @@ WeChat account</li,WeChat account</li,PRODUCT,,,en,1.0
 as early as 2018,as early as 2018,DATE,,,en,1.0
 Fart Falling into the Ocean,Fart Falling into the Ocean,WORK_OF_ART,,,en,1.0
 the 800 meters,the 800 meters,QUANTITY,,,en,1.0
-the past few days,the past few days,DATE,,,en,1.0
 twenty years,twenty years,DATE,,,en,1.0
 thirty years,thirty years,DATE,,,en,1.0
 1958,1958,DATE,,,en,1.0
 Artillery War,Artillery War,EVENT,,,en,1.0
-August 23,August 23,DATE,,,en,1.0
-21st,21st,DATE,,,en,1.0
-"291,000 yuan","291,000 yuan",MONEY,,,en,1.0
-8 o'clock,8 o'clock,TIME,,,en,1.0
-minus 44.6 degrees Celsius,minus 44.6 degrees Celsius,QUANTITY,,,en,1.0
-"approximately 800,000","approximately 800,000",CARDINAL,,,en,1.0
-3 billion euros,3 billion euros,MONEY,,,en,1.0
-The second season,The second season,DATE,,,en,1.0
-month,month,DATE,,,en,1.0
-1.62,1.62,CARDINAL,,,en,1.0
-1.71,1.71,CARDINAL,,,en,1.0
-1.81,1.81,CARDINAL,,,en,1.0
-251kW,251kW,CARDINAL,,,en,1.0
-210kW,210kW,CARDINAL,,,en,1.0
-over 5 meters,over 5 meters,QUANTITY,,,en,1.0
-"January 20, 2026","January 20, 2026",DATE,,,en,1.0
-7999 yuan,7999 yuan,MONEY,,,en,1.0
-Magic 8 RSR,Magic 8 RSR,PRODUCT,,,en,1.0
-Sphere venues.,Sphere venues.,WORK_OF_ART,,,en,1.0
-"the ""National Security Law""","the ""National Security Law""",LAW,,,en,1.0
-Tensor G4,Tensor G4,PRODUCT,,,en,1.0
-Tensor G5,Tensor G5,PRODUCT,,,en,1.0
-Pixel 10a,Pixel 10a,PRODUCT,,,en,1.0
-256,256,CARDINAL,,,en,1.0
-128,128,CARDINAL,,,en,1.0
-March 5,March 5,DATE,,,en,1.0
-55%,55%,PERCENT,,,en,1.0
-HK$198</li></ol,HK$198</li></ol,CARDINAL,,,en,1.0
-"January 19, 2026","January 19, 2026",DATE,,,en,1.0
-20 billion,20 billion,CARDINAL,,,en,1.0
-4 months,4 months,DATE,,,en,1.0
-June of that year,June of that year,DATE,,,en,1.0
-Fully Buried,Fully Buried,WORK_OF_ART,,,en,1.0
-16th,16th,ORDINAL,,,en,1.0
-the first season,the first season,DATE,,,en,1.0
-a record high last year,a record high last year,DATE,,,en,1.0
-"6,000 euros","6,000 euros",MONEY,,,en,1.0
-"1,500 euros to","1,500 euros to",MONEY,,,en,1.0
-17:30,17:30,TIME,,,en,1.0
-Leilei,Leilei,WORK_OF_ART,,,en,1.0
-1.5 million,1.5 million,CARDINAL,,,en,1.0
-Hangzhou Xincheng Road,Hangzhou Xincheng Road,FAC,,,en,1.0
-more than 23 million yuan,more than 23 million yuan,MONEY,,,en,1.0
-"December 10, 2025","December 10, 2025",DATE,,,en,1.0
-0.5 to 1 km,0.5 to 1 km,QUANTITY,,,en,1.0
-about 5,about 5,CARDINAL,,,en,1.0
-Capsicum,Capsicum,NORP,,,en,1.0
-2688mm,2688mm,QUANTITY,,,en,1.0
-"174,000","174,000",CARDINAL,,,en,1.0
-1474mm,1474mm,QUANTITY,,,en,1.0
-1806mm,1806mm,QUANTITY,,,en,1.0
-4678mm,4678mm,QUANTITY,,,en,1.0
-"120,900-143,900 yuan","120,900-143,900 yuan",MONEY,,,en,1.0
-"Jan. 6, 2026","Jan. 6, 2026",DATE,,,en,1.0
-"217,000","217,000",CARDINAL,,,en,1.0
-"254,800","254,800",CARDINAL,,,en,1.0
-"only about 174,000 yuan","only about 174,000 yuan",MONEY,,,en,1.0
-"approximately 198,000 yuan","approximately 198,000 yuan",MONEY,,,en,1.0
-41.99 million won,41.99 million won,MONEY,,,en,1.0
-Koreans,Koreans,NORP,,,en,1.0
-the end of 2015,the end of 2015,DATE,,,en,1.0
-AI Night God,AI Night God,WORK_OF_ART,,,en,1.0
-more than 20,more than 20,CARDINAL,,,en,1.0
-"more than US$2,000","more than US$2,000",MONEY,,,en,1.0
-"1,599 euros","1,599 euros",MONEY,,,en,1.0
-the age of 20,the age of 20,DATE,,,en,1.0
-the age of 13,the age of 13,DATE,,,en,1.0
-32 years old,32 years old,DATE,,,en,1.0
-more than 996,more than 996,CARDINAL,,,en,1.0
-40 years,40 years,DATE,,,en,1.0
-Undercurrent See the World,Undercurrent See the World,WORK_OF_ART,,,en,1.0
-nearly 10 million yuan,nearly 10 million yuan,MONEY,,,en,1.0
-the first two years,the first two years,DATE,,,en,1.0
-more than US$2.2 million,more than US$2.2 million,MONEY,,,en,1.0
-first-month,first-month,DATE,,,en,1.0
-TRON,TRON,PRODUCT,,,en,1.0
-as early as 2027,as early as 2027,DATE,,,en,1.0
-just a few months,just a few months,DATE,,,en,1.0
-the summer of 2025,the summer of 2025,DATE,,,en,1.0
-"85,000","85,000",CARDINAL,,,en,1.0
-Avengers 4: Endgame,Avengers 4: Endgame,WORK_OF_ART,,,en,1.0
-single-day,single-day,DATE,,,en,1.0
-Nezha 2,Nezha 2,WORK_OF_ART,,,en,1.0
-4.2 billion yuan,4.2 billion yuan,MONEY,,,en,1.0
-Zootopia 2,Zootopia 2,WORK_OF_ART,,,en,1.0
-nearly ten years ago,nearly ten years ago,DATE,,,en,1.0
-Genshin Impact,Genshin Impact,WORK_OF_ART,,,en,1.0
-Idealists,Idealists,NORP,,,en,1.0
-"1,599","1,599",CARDINAL,,,en,1.0
-$6.25 billion,$6.25 billion,MONEY,,,en,1.0
-1206,1206,CARDINAL,,,en,1.0
-30 years,30 years,DATE,,,en,1.0
-US$800 billion,US$800 billion,MONEY,,,en,1.0
-We Chiayi Style,We Chiayi Style,WORK_OF_ART,,,en,1.0
-more than 45,more than 45,CARDINAL,,,en,1.0
-"the ""Chiayi City Selection"" exhibition area","the ""Chiayi City Selection"" exhibition area",EVENT,,,en,1.0
-Chiayi City Selection,Chiayi City Selection,WORK_OF_ART,,,en,1.0
-320,320,CARDINAL,,,en,1.0
-25 kilometers per hour,25 kilometers per hour,QUANTITY,,,en,1.0
-Huawei Mate 40,Huawei Mate 40,PRODUCT,,,en,1.0
+the morning of the 22nd,the morning of the 22nd,TIME,,,en,1.0
+the snow season,the snow season,DATE,,,en,1.0
+Article 13,Article 13,LAW,,,en,1.0
+60 billion yuan,60 billion yuan,MONEY,,,en,1.0
+more than 1 billion,more than 1 billion,MONEY,,,en,1.0
+Star People Valentine’s Day Limited,Star People Valentine’s Day Limited,WORK_OF_ART,,,en,1.0
+3 million,3 million,CARDINAL,,,en,1.0
+"12,306","12,306",CARDINAL,,,en,1.0
+only 700,only 700,CARDINAL,,,en,1.0
+the Guanwu Line,the Guanwu Line,FAC,,,en,1.0
+one hour,one hour,TIME,,,en,1.0
+nine,nine,CARDINAL,,,en,1.0
+January 23,January 23,DATE,,,en,1.0
+January 26,January 26,DATE,,,en,1.0
+2013,2013,DATE,,,en,1.0
+74.2 billion yuan,74.2 billion yuan,MONEY,,,en,1.0
+23rd,23rd,DATE,,,en,1.0
+the National Park Law,the National Park Law,LAW,,,en,1.0
+Bingwu,Bingwu,NORP,,,en,1.0
+Maotai Year of the Horse,Maotai Year of the Horse,WORK_OF_ART,,,en,1.0
+the second year,the second year,DATE,,,en,1.0
+2.1 billion,2.1 billion,CARDINAL,,,en,1.0
+above</li,above</li,MONEY,,,en,1.0
+"up to 1,000 yuan","up to 1,000 yuan",MONEY,,,en,1.0
+7.14 million,7.14 million,CARDINAL,,,en,1.0
+products</li,products</li,FAC,,,en,1.0
+"10,747","10,747",CARDINAL,,,en,1.0
+Year of the Horse Moutai,Year of the Horse Moutai,WORK_OF_ART,,,en,1.0
+PPU,PPU,PRODUCT,,,en,1.0
+8 years ago,8 years ago,DATE,,,en,1.0
+his six years,his six years,DATE,,,en,1.0
+C1-Ultra,C1-Ultra,NORP,,,en,1.0
+3 degrees Celsius,3 degrees Celsius,QUANTITY,,,en,1.0
+Top Five Original Emoticons,Top Five Original Emoticons,WORK_OF_ART,,,en,1.0
 "410,000","410,000",CARDINAL,,,en,1.0
 "3,999 yuan","3,999 yuan",MONEY,,,en,1.0
 WISE2025,WISE2025,FAC,,,en,1.0
+30 years,30 years,DATE,,,en,1.0
 the International Day for Persons with Disabilities,the International Day for Persons with Disabilities,EVENT,,,en,1.0
-the end of November this year,the end of November this year,DATE,,,en,1.0
 the Digital Markets Act,the Digital Markets Act,LAW,,,en,1.0
 6-10,6-10,CARDINAL,,,en,1.0
 30%-70%,30%-70%,PERCENT,,,en,1.0
@@ -1398,53 +1454,53 @@ DeepSeek Impact,DeepSeek Impact,WORK_OF_ART,,,en,1.0
 V3.2 marks,V3.2 marks,MONEY,,,en,1.0
 Cat Bug Kapo,Cat Bug Kapo,WORK_OF_ART,,,en,1.0
 Mutant Chihuahua,Mutant Chihuahua,WORK_OF_ART,,,en,1.0
-Top Five Original Emoticons,Top Five Original Emoticons,WORK_OF_ART,,,en,1.0
 Top Ten Original Stickers,Top Ten Original Stickers,WORK_OF_ART,,,en,1.0
+nearly 10 million yuan,nearly 10 million yuan,MONEY,,,en,1.0
 recent months,recent months,DATE,,,en,1.0
 Mustang Dark Horse,Mustang Dark Horse,WORK_OF_ART,,,en,1.0
-"as many as 2,128","as many as 2,128",CARDINAL,,,en,1.0
-approximately 33.7 million,approximately 33.7 million,MONEY,,,en,1.0
-"November 18, 2025","November 18, 2025",DATE,,,en,1.0
-500 yuan,500 yuan,MONEY,,,en,1.0
-570 million yuan,570 million yuan,MONEY,,,en,1.0
-a nearly hour-long,a nearly hour-long,TIME,,,en,1.0
-the “AI Action Plan”,the “AI Action Plan”,LAW,,,en,1.0
-July this year,July this year,DATE,,,en,1.0
-four years,four years,DATE,,,en,1.0
-$500 billion,$500 billion,MONEY,,,en,1.0
-Three years,Three years,DATE,,,en,1.0
-October 2020,October 2020,DATE,,,en,1.0
-June,June,DATE,,,en,1.0
-May,May,DATE,,,en,1.0
-"3,000 yuan","3,000 yuan",MONEY,,,en,1.0
-"1,500 yuan","1,500 yuan",MONEY,,,en,1.0
-51.66 million,51.66 million,CARDINAL,,,en,1.0
-Vietnamese,Vietnamese,NORP,,,en,1.0
-the Environmental Impact Statement,the Environmental Impact Statement,LAW,,,en,1.0
-Cape Canaveral Space Force Station,Cape Canaveral Space Force Station,FAC,,,en,1.0
-Super Heavy,Super Heavy,WORK_OF_ART,,,en,1.0
-Thanksgiving,Thanksgiving,DATE,,,en,1.0
-About 46 million,About 46 million,CARDINAL,,,en,1.0
-Taiwan Shield,Taiwan Shield,WORK_OF_ART,,,en,1.0
-16 million yuan,16 million yuan,MONEY,,,en,1.0
-nine months,nine months,DATE,,,en,1.0
-38.7%,38.7%,PERCENT,,,en,1.0
-January this year,January this year,DATE,,,en,1.0
-a period of 3 years,a period of 3 years,DATE,,,en,1.0
-Singaporean,Singaporean,NORP,,,en,1.0
-“The Deer and the Cauldron”,“The Deer and the Cauldron”,WORK_OF_ART,,,en,1.0
+the end of November this year,the end of November this year,DATE,,,en,1.0
+$6.25 billion,$6.25 billion,MONEY,,,en,1.0
+as early as 2027,as early as 2027,DATE,,,en,1.0
+"1,599","1,599",CARDINAL,,,en,1.0
+"1,599 euros","1,599 euros",MONEY,,,en,1.0
+the age of 20,the age of 20,DATE,,,en,1.0
+the age of 13,the age of 13,DATE,,,en,1.0
+32 years old,32 years old,DATE,,,en,1.0
+more than 996,more than 996,CARDINAL,,,en,1.0
+40 years,40 years,DATE,,,en,1.0
+Huawei Mate 40,Huawei Mate 40,PRODUCT,,,en,1.0
+25 kilometers per hour,25 kilometers per hour,QUANTITY,,,en,1.0
+320,320,CARDINAL,,,en,1.0
+Chiayi City Selection,Chiayi City Selection,WORK_OF_ART,,,en,1.0
+Caesar,Caesar,WORK_OF_ART,,,en,1.0
+1996,1996,DATE,,,en,1.0
+2-3 years,2-3 years,DATE,,,en,1.0
+New Wisdom Report,New Wisdom Report,WORK_OF_ART,,,en,1.0
+2-hour,2-hour,TIME,,,en,1.0
+days,days,DATE,,,en,1.0
+only 0.5 degrees Celsius,only 0.5 degrees Celsius,QUANTITY,,,en,1.0
+Crystal Palace,Crystal Palace,FAC,,,en,1.0
+Nvidia,Nvidia,PRODUCT,,,en,1.0
+just half a month,just half a month,DATE,,,en,1.0
+only more than 1 million yuan,only more than 1 million yuan,MONEY,,,en,1.0
+67,67,CARDINAL,,,en,1.0
+March 28 next year,March 28 next year,DATE,,,en,1.0
+more than 4 hours,more than 4 hours,TIME,,,en,1.0
+| Car,| Car,PRODUCT,,,en,1.0
+1.1867 million yuan,1.1867 million yuan,MONEY,,,en,1.0
+60 seconds,60 seconds,TIME,,,en,1.0
+"Saturday, December 6, 2025","Saturday, December 6, 2025",DATE,,,en,1.0
+Taobao Flash Sale,Taobao Flash Sale,WORK_OF_ART,,,en,1.0
+1206,1206,CARDINAL,,,en,1.0
+approximately 5.66 trillion yuan,approximately 5.66 trillion yuan,MONEY,,,en,1.0
+US$800 billion,US$800 billion,MONEY,,,en,1.0
+We Chiayi Style,We Chiayi Style,WORK_OF_ART,,,en,1.0
+more than 45,more than 45,CARDINAL,,,en,1.0
+"the ""Chiayi City Selection"" exhibition area","the ""Chiayi City Selection"" exhibition area",EVENT,,,en,1.0
+Undercurrent See the World,Undercurrent See the World,WORK_OF_ART,,,en,1.0
+the first two years,the first two years,DATE,,,en,1.0
+May of this year,May of this year,DATE,,,en,1.0
 July 1,July 1,DATE,,,en,1.0
-"nearly 10,000 yuan","nearly 10,000 yuan",MONEY,,,en,1.0
-"more than 1,000","more than 1,000",CARDINAL,,,en,1.0
-the past November,the past November,DATE,,,en,1.0
-2.99 yuan,2.99 yuan,MONEY,,,en,1.0
-Gushan Temple,Gushan Temple,FAC,,,en,1.0
-Songbailing Songling Star Landscape Tower,Songbailing Songling Star Landscape Tower,FAC,,,en,1.0
-Chenluo Bee Park,Chenluo Bee Park,FAC,,,en,1.0
-Scarecrow Art Festival,Scarecrow Art Festival,EVENT,,,en,1.0
-Mazu Temple,Mazu Temple,FAC,,,en,1.0
-Tianzhong Railway Station,Tianzhong Railway Station,FAC,,,en,1.0
-Zhongxing Road,Zhongxing Road,FAC,,,en,1.0
 Rongzhonghua Road,Rongzhonghua Road,FAC,,,en,1.0
 this festive December,this festive December,DATE,,,en,1.0
 "Nanjing
@@ -1459,38 +1515,53 @@ more than 33 years ago,more than 33 years ago,DATE,,,en,1.0
 "July 30, 1992","July 30, 1992",DATE,,,en,1.0
 Cantonese,Cantonese,LANGUAGE,,,en,1.0
 Mandarin,Mandarin,LANGUAGE,,,en,1.0
-approximately 5.66 trillion yuan,approximately 5.66 trillion yuan,MONEY,,,en,1.0
-Taobao Flash Sale,Taobao Flash Sale,WORK_OF_ART,,,en,1.0
-over one million,over one million,CARDINAL,,,en,1.0
-all day,all day,DATE,,,en,1.0
-just three days,just three days,DATE,,,en,1.0
-November 21,November 21,DATE,,,en,1.0
-$84 billion,$84 billion,MONEY,,,en,1.0
-nearly seven,nearly seven,CARDINAL,,,en,1.0
-one trillion U.S. dollars,one trillion U.S. dollars,MONEY,,,en,1.0
-3 years,3 years,DATE,,,en,1.0
-30 years old,30 years old,DATE,,,en,1.0
-These days,These days,DATE,,,en,1.0
-less than 35 years old,less than 35 years old,DATE,,,en,1.0
-Two-thirds,Two-thirds,CARDINAL,,,en,1.0
-40%,40%,PERCENT,,,en,1.0
-the Hongguo Creators Conference,the Hongguo Creators Conference,EVENT,,,en,1.0
-more than 8 million,more than 8 million,CARDINAL,,,en,1.0
-10:30 a.m. to 6:30 p.m.,10:30 a.m. to 6:30 p.m.,TIME,,,en,1.0
-thousands of yuan,thousands of yuan,MONEY,,,en,1.0
-tens of thousands of yuan,tens of thousands of yuan,MONEY,,,en,1.0
-more than a dozen,more than a dozen,CARDINAL,,,en,1.0
-Taiyuan Wusu Airport,Taiyuan Wusu Airport,FAC,,,en,1.0
-a million,a million,CARDINAL,,,en,1.0
-1.75,1.75,CARDINAL,,,en,1.0
-1.85,1.85,CARDINAL,,,en,1.0
-1.94,1.94,CARDINAL,,,en,1.0
-thousand-yuan,thousand-yuan,MONEY,,,en,1.0
-108,108,CARDINAL,,,en,1.0
-7 million,7 million,CARDINAL,,,en,1.0
-just a few seconds,just a few seconds,TIME,,,en,1.0
-"Saturday, December 6, 2025","Saturday, December 6, 2025",DATE,,,en,1.0
-US$8 billion,US$8 billion,MONEY,,,en,1.0
+“The Deer and the Cauldron”,“The Deer and the Cauldron”,WORK_OF_ART,,,en,1.0
+more than US$2.2 million,more than US$2.2 million,MONEY,,,en,1.0
+Singaporean,Singaporean,NORP,,,en,1.0
+a period of 3 years,a period of 3 years,DATE,,,en,1.0
+570 million yuan,570 million yuan,MONEY,,,en,1.0
+a nearly hour-long,a nearly hour-long,TIME,,,en,1.0
+the “AI Action Plan”,the “AI Action Plan”,LAW,,,en,1.0
+July this year,July this year,DATE,,,en,1.0
+four years,four years,DATE,,,en,1.0
+$500 billion,$500 billion,MONEY,,,en,1.0
+Three years,Three years,DATE,,,en,1.0
+October 2020,October 2020,DATE,,,en,1.0
+June,June,DATE,,,en,1.0
+May,May,DATE,,,en,1.0
+Zhongxing Road,Zhongxing Road,FAC,,,en,1.0
+Tianzhong Railway Station,Tianzhong Railway Station,FAC,,,en,1.0
+Mazu Temple,Mazu Temple,FAC,,,en,1.0
+Scarecrow Art Festival,Scarecrow Art Festival,EVENT,,,en,1.0
+first-month,first-month,DATE,,,en,1.0
+"more than US$2,000","more than US$2,000",MONEY,,,en,1.0
+TRON,TRON,PRODUCT,,,en,1.0
+just a few months,just a few months,DATE,,,en,1.0
+the summer of 2025,the summer of 2025,DATE,,,en,1.0
+"85,000","85,000",CARDINAL,,,en,1.0
+Avengers 4: Endgame,Avengers 4: Endgame,WORK_OF_ART,,,en,1.0
+single-day,single-day,DATE,,,en,1.0
+Nezha 2,Nezha 2,WORK_OF_ART,,,en,1.0
+4.2 billion yuan,4.2 billion yuan,MONEY,,,en,1.0
+Zootopia 2,Zootopia 2,WORK_OF_ART,,,en,1.0
+nearly ten years ago,nearly ten years ago,DATE,,,en,1.0
+Genshin Impact,Genshin Impact,WORK_OF_ART,,,en,1.0
+Idealists,Idealists,NORP,,,en,1.0
+"as many as 2,128","as many as 2,128",CARDINAL,,,en,1.0
+approximately 33.7 million,approximately 33.7 million,MONEY,,,en,1.0
+"November 18, 2025","November 18, 2025",DATE,,,en,1.0
+51.66 million,51.66 million,CARDINAL,,,en,1.0
+"nearly 10,000 yuan","nearly 10,000 yuan",MONEY,,,en,1.0
+"more than 1,000","more than 1,000",CARDINAL,,,en,1.0
+the past November,the past November,DATE,,,en,1.0
+2.99 yuan,2.99 yuan,MONEY,,,en,1.0
+Gushan Temple,Gushan Temple,FAC,,,en,1.0
+Songbailing Songling Star Landscape Tower,Songbailing Songling Star Landscape Tower,FAC,,,en,1.0
+Chenluo Bee Park,Chenluo Bee Park,FAC,,,en,1.0
+two and a half hours,two and a half hours,DATE,,,en,1.0
+approximately US$82.7 billion,approximately US$82.7 billion,MONEY,,,en,1.0
+the next 10 days,the next 10 days,DATE,,,en,1.0
+US$330 million,US$330 million,MONEY,,,en,1.0
 two hours,two hours,TIME,,,en,1.0
 Can Build East Yufu,Can Build East Yufu,WORK_OF_ART,,,en,1.0
 the East Third Ring Road,the East Third Ring Road,FAC,0.0,0.45454545454545453,en,1.0
@@ -1502,9 +1573,9 @@ April this year,April this year,DATE,,,en,1.0
 Nextie,Nextie,NORP,,,en,1.0
 Qiji Innovation Roadshow Day,Qiji Innovation Roadshow Day,EVENT,,,en,1.0
 the afternoon of December 7,the afternoon of December 7,TIME,,,en,1.0
-US$330 million,US$330 million,MONEY,,,en,1.0
-Four years,Four years,DATE,,,en,1.0
+US$8 billion,US$8 billion,MONEY,,,en,1.0
 64,64,CARDINAL,,,en,1.0
+just three days,just three days,DATE,,,en,1.0
 the end of an era,the end of an era,DATE,,,en,1.0
 "38,434","38,434",CARDINAL,,,en,1.0
 13.2%,13.2%,PERCENT,,,en,1.0
@@ -1512,47 +1583,48 @@ the end of an era,the end of an era,DATE,,,en,1.0
 7.9%,7.9%,PERCENT,,,en,1.0
 "64,243","64,243",CARDINAL,,,en,1.0
 "63,545","63,545",CARDINAL,,,en,1.0
-November 2024,November 2024,DATE,,,en,1.0
 only 25th,only 25th,DATE,,,en,1.0
 ATEC2025,ATEC2025,NORP,,,en,1.0
-"​​2,300 square meters","​​2,300 square meters",QUANTITY,,,en,1.0
-Hogwarts Castle,Hogwarts Castle,FAC,,,en,1.0
-6 billion,6 billion,CARDINAL,,,en,1.0
-2-hour,2-hour,TIME,,,en,1.0
-Doubao,Doubao,NORP,0.3181818181818182,0.5397727272727273,en,1.0
-the 6th,the 6th,DATE,,,en,1.0
-Saturday,Saturday,DATE,,,en,1.0
+Four years,Four years,DATE,,,en,1.0
+just a few seconds,just a few seconds,TIME,,,en,1.0
+more than 8 million,more than 8 million,CARDINAL,,,en,1.0
+about 170,about 170,CARDINAL,,,en,1.0
+"62,100/","62,100/",CARDINAL,,,en,1.0
+"100,000","100,000",CARDINAL,,,en,1.0
+all year round,all year round,DATE,,,en,1.0
+| # Mirror News,| # Mirror News,MONEY,,,en,1.0
+the 2025 International Space Robot Conference,the 2025 International Space Robot Conference,FAC,,,en,1.0
+Astrobee,Astrobee,WORK_OF_ART,,,en,1.0
+Samsung Galaxy Z TriFold,Samsung Galaxy Z TriFold,PRODUCT,,,en,1.0
+"21,999 yuan
+","21,999 yuan
+",MONEY,,,en,1.0
+"19,999 yuan
+","19,999 yuan
+",MONEY,,,en,1.0
+10 a.m.,10 a.m.,TIME,,,en,1.0
+"19,999 yuan","19,999 yuan",MONEY,,,en,1.0
+Weekly Summary,Weekly Summary,WORK_OF_ART,,,en,1.0
+Galaxy S25,Galaxy S25,PRODUCT,,,en,1.0
+8.5,8.5,CARDINAL,,,en,1.0
+300 yuan,300 yuan,MONEY,,,en,1.0
+"Tuesday, December 9, 2025","Tuesday, December 9, 2025",DATE,,,en,1.0
+iPhone 17,iPhone 17,PRODUCT,,,en,1.0
+1209,1209,CARDINAL,,,en,1.0
+about 60,about 60,CARDINAL,,,en,1.0
+Musk responded</li,Musk responded</li,PRODUCT,,,en,1.0
+US$140 million,US$140 million,MONEY,,,en,1.0
+2 yuan</li,2 yuan</li,QUANTITY,,,en,1.0
+December 8th,December 8th,DATE,,,en,1.0
+1.7 billion,1.7 billion,CARDINAL,,,en,1.0
+8:01 Krypton｜Hema,8:01 Krypton｜Hema,TIME,,,en,1.0
+October last year,October last year,DATE,,,en,1.0
+about 18 months ago,about 18 months ago,DATE,,,en,1.0
+about 25%,about 25%,PERCENT,,,en,1.0
+7 million,7 million,CARDINAL,,,en,1.0
+November 21,November 21,DATE,,,en,1.0
 approximately 585.404 billion yuan,approximately 585.404 billion yuan,MONEY,,,en,1.0
-approximately US$82.7 billion,approximately US$82.7 billion,MONEY,,,en,1.0
-May of this year,May of this year,DATE,,,en,1.0
-two and a half hours,two and a half hours,DATE,,,en,1.0
-Caesar,Caesar,WORK_OF_ART,,,en,1.0
-1996,1996,DATE,,,en,1.0
-2-3 years,2-3 years,DATE,,,en,1.0
-New Wisdom Report,New Wisdom Report,WORK_OF_ART,,,en,1.0
-days,days,DATE,,,en,1.0
-Golden Water Park,Golden Water Park,FAC,,,en,1.0
-only 0.5 degrees Celsius,only 0.5 degrees Celsius,QUANTITY,,,en,1.0
-Crystal Palace,Crystal Palace,FAC,,,en,1.0
-Nvidia,Nvidia,PRODUCT,,,en,1.0
-just half a month,just half a month,DATE,,,en,1.0
-only more than 1 million yuan,only more than 1 million yuan,MONEY,,,en,1.0
-67,67,CARDINAL,,,en,1.0
-March 28 next year,March 28 next year,DATE,,,en,1.0
-more than 4 hours,more than 4 hours,TIME,,,en,1.0
-| Car,| Car,PRODUCT,,,en,1.0
-1.1867 million yuan,1.1867 million yuan,MONEY,,,en,1.0
-60 seconds,60 seconds,TIME,,,en,1.0
-"over 100 million yuan
- ","over 100 million yuan
- ",MONEY,,,en,1.0
-the past 40 years,the past 40 years,DATE,,,en,1.0
-30 million yuan,30 million yuan,MONEY,,,en,1.0
-Just yesterday,Just yesterday,DATE,,,en,1.0
-2300 square meters,2300 square meters,QUANTITY,,,en,1.0
-winter holidays,winter holidays,DATE,,,en,1.0
-autumn,autumn,DATE,,,en,1.0
-US$250 million,US$250 million,MONEY,,,en,1.0
+just two days ago,just two days ago,DATE,,,en,1.0
 US$9 billion,US$9 billion,MONEY,,,en,1.0
 the middle of the year,the middle of the year,DATE,,,en,1.0
 decades,decades,DATE,,,en,1.0
@@ -1565,32 +1637,76 @@ December 7th,December 7th,DATE,,,en,1.0
 1.9 million,1.9 million,CARDINAL,,,en,1.0
 5 million-dollar,5 million-dollar,MONEY,,,en,1.0
 April 10,April 10,DATE,,,en,1.0
-just two days ago,just two days ago,DATE,,,en,1.0
 3.0,3.0,CARDINAL,,,en,1.0
+$84 billion,$84 billion,MONEY,,,en,1.0
 12.11%,12.11%,PERCENT,,,en,1.0
 "12,193","12,193",MONEY,,,en,1.0
 "10,000","10,000",MONEY,,,en,1.0
 two-week,two-week,DATE,,,en,1.0
 Mystery Model,Mystery Model,WORK_OF_ART,,,en,1.0
-mid-2025,mid-2025,DATE,,,en,1.0
-WiFi,WiFi,PRODUCT,,,en,1.0
-"62,100/","62,100/",CARDINAL,,,en,1.0
-Garmin epix Pro,Garmin epix Pro,PRODUCT,,,en,1.0
+Just yesterday,Just yesterday,DATE,,,en,1.0
+30 million yuan,30 million yuan,MONEY,,,en,1.0
+the past 40 years,the past 40 years,DATE,,,en,1.0
+"over 100 million yuan
+ ","over 100 million yuan
+ ",MONEY,,,en,1.0
+Doubao,Doubao,NORP,0.3181818181818182,0.5397727272727273,en,1.0
+the 6th,the 6th,DATE,,,en,1.0
+Saturday,Saturday,DATE,,,en,1.0
+US$250 million,US$250 million,MONEY,,,en,1.0
+autumn,autumn,DATE,,,en,1.0
+winter holidays,winter holidays,DATE,,,en,1.0
+2300 square meters,2300 square meters,QUANTITY,,,en,1.0
+nearly seven,nearly seven,CARDINAL,,,en,1.0
+one trillion U.S. dollars,one trillion U.S. dollars,MONEY,,,en,1.0
+3 years,3 years,DATE,,,en,1.0
+30 years old,30 years old,DATE,,,en,1.0
+These days,These days,DATE,,,en,1.0
+less than 35 years old,less than 35 years old,DATE,,,en,1.0
+Two-thirds,Two-thirds,CARDINAL,,,en,1.0
+40%,40%,PERCENT,,,en,1.0
+all day,all day,DATE,,,en,1.0
+the Hongguo Creators Conference,the Hongguo Creators Conference,EVENT,,,en,1.0
+10:30 a.m. to 6:30 p.m.,10:30 a.m. to 6:30 p.m.,TIME,,,en,1.0
+thousands of yuan,thousands of yuan,MONEY,,,en,1.0
+tens of thousands of yuan,tens of thousands of yuan,MONEY,,,en,1.0
+more than a dozen,more than a dozen,CARDINAL,,,en,1.0
+Taiyuan Wusu Airport,Taiyuan Wusu Airport,FAC,,,en,1.0
+a million,a million,CARDINAL,,,en,1.0
+1.75,1.75,CARDINAL,,,en,1.0
+1.85,1.85,CARDINAL,,,en,1.0
+1.94,1.94,CARDINAL,,,en,1.0
+thousand-yuan,thousand-yuan,MONEY,,,en,1.0
+108,108,CARDINAL,,,en,1.0
+"​​2,300 square meters","​​2,300 square meters",QUANTITY,,,en,1.0
+Hogwarts Castle,Hogwarts Castle,FAC,,,en,1.0
+6 billion,6 billion,CARDINAL,,,en,1.0
+Golden Water Park,Golden Water Park,FAC,,,en,1.0
+"3,000 yuan","3,000 yuan",MONEY,,,en,1.0
+500 yuan,500 yuan,MONEY,,,en,1.0
+"1,500 yuan","1,500 yuan",MONEY,,,en,1.0
+At least 10,At least 10,CARDINAL,,,en,1.0
+2025｜Samsung,2025｜Samsung,CARDINAL,,,en,1.0
+World Toilet Day,World Toilet Day,DATE,,,en,1.0
+150,150,MONEY,,,en,1.0
+US$15 billion,US$15 billion,MONEY,,,en,1.0
+One gigawatt,One gigawatt,QUANTITY,,,en,1.0
+the same period last year,the same period last year,DATE,,,en,1.0
 The Most Helpful,The Most Helpful,WORK_OF_ART,,,en,1.0
 "134,900 yuan","134,900 yuan",MONEY,,,en,1.0
 "132,900 yuan","132,900 yuan",MONEY,,,en,1.0
 Huawei Mate,Huawei Mate,PRODUCT,,,en,1.0
 1119,1119,CARDINAL,,,en,1.0
 Taiwan Affairs Discussion,Taiwan Affairs Discussion,WORK_OF_ART,,,en,1.0
-At least 10,At least 10,CARDINAL,,,en,1.0
 Huawei Mate 80,Huawei Mate 80,PRODUCT,,,en,1.0
+more than 410 billion,more than 410 billion,MONEY,,,en,1.0
 "2035
  ","2035
  ",DATE,,,en,1.0
 mid-December,mid-December,DATE,,,en,1.0
 Gen 2,Gen 2,PRODUCT,,,en,1.0
+Garmin epix Pro,Garmin epix Pro,PRODUCT,,,en,1.0
 Diaoyutai,Diaoyutai,PRODUCT,,,en,1.0
-One gigawatt,One gigawatt,QUANTITY,,,en,1.0
 more than two,more than two,CARDINAL,,,en,1.0
 November 7,November 7,DATE,,,en,1.0
 Late last year,Late last year,DATE,,,en,1.0
@@ -1598,14 +1714,17 @@ Late last year,Late last year,DATE,,,en,1.0
 November 17,November 17,DATE,,,en,1.0
 January 1 next year,January 1 next year,DATE,,,en,1.0
 38%,38%,PERCENT,,,en,1.0
-| 36Kr Exclusive Interview,| 36Kr Exclusive Interview,DATE,,,en,1.0
-more than 410 billion,more than 410 billion,MONEY,,,en,1.0
-Last year,Last year,DATE,,,en,1.0
-more than 500 billion,more than 500 billion,MONEY,,,en,1.0
-the same period last year,the same period last year,DATE,,,en,1.0
-US$15 billion,US$15 billion,MONEY,,,en,1.0
+Galaxy,Galaxy,PRODUCT,,,en,1.0
+November 20,November 20,DATE,,,en,1.0
+the Forbes China U30 Pioneer Award,the Forbes China U30 Pioneer Award,WORK_OF_ART,,,en,1.0
+"more than 220,000","more than 220,000",CARDINAL,,,en,1.0
+one million to ten,one million to ten,CARDINAL,,,en,1.0
+10 years</li,10 years</li,MONEY,,,en,1.0
+single-quarter,single-quarter,DATE,,,en,1.0
+Q3,Q3,PRODUCT,,,en,1.0
+29 billion yuan,29 billion yuan,MONEY,,,en,1.0
 the first three quarters of this year,the first three quarters of this year,DATE,,,en,1.0
-Victoria Harbor,Victoria Harbor,FAC,,,en,1.0
+194%,194%,PERCENT,,,en,1.0
 19.9 billion yuan,19.9 billion yuan,MONEY,,,en,1.0
 16%,16%,PERCENT,,,en,1.0
 Q3 this year,Q3 this year,DATE,,,en,1.0
@@ -1617,23 +1736,19 @@ just ten days,just ten days,DATE,,,en,1.0
 October 22,October 22,DATE,,,en,1.0
 "220,000","220,000",CARDINAL,,,en,1.0
 32.2%,32.2%,PERCENT,,,en,1.0
+Victoria Harbor,Victoria Harbor,FAC,,,en,1.0
 374,374,CARDINAL,,,en,1.0
-150,150,MONEY,,,en,1.0
 nearly 60%,nearly 60%,PERCENT,,,en,1.0
 IELTS,IELTS,PRODUCT,,,en,1.0
 9 yuan,9 yuan,MONEY,,,en,1.0
 six or seven,six or seven,CARDINAL,,,en,1.0
 Bronco,Bronco,NORP,,,en,1.0
-"more than 220,000","more than 220,000",CARDINAL,,,en,1.0
-the Forbes China U30 Pioneer Award,the Forbes China U30 Pioneer Award,WORK_OF_ART,,,en,1.0
-November 20,November 20,DATE,,,en,1.0
-Galaxy,Galaxy,PRODUCT,,,en,1.0
-2025｜Samsung,2025｜Samsung,CARDINAL,,,en,1.0
-World Toilet Day,World Toilet Day,DATE,,,en,1.0
-"as many as 180,000","as many as 180,000",CARDINAL,,,en,1.0
-Wolf Warrior Diplomacy,Wolf Warrior Diplomacy,WORK_OF_ART,,,en,1.0
-3S,3S,CARDINAL,,,en,1.0
-November 12,November 12,DATE,,,en,1.0
+| 36Kr Exclusive Interview,| 36Kr Exclusive Interview,DATE,,,en,1.0
+Last year,Last year,DATE,,,en,1.0
+Vietnamese,Vietnamese,NORP,,,en,1.0
+Moments,Moments,WORK_OF_ART,,,en,1.0
+Silk Road,Silk Road,FAC,,,en,1.0
+every week,every week,DATE,,,en,1.0
 373,373,CARDINAL,,,en,1.0
 14.9%,14.9%,PERCENT,,,en,1.0
 299.1 billion yuan,299.1 billion yuan,MONEY,,,en,1.0
@@ -1644,9 +1759,9 @@ China Outdoor Sports Industry Conference,China Outdoor Sports Industry Conferenc
 3rd,3rd,ORDINAL,,,en,1.0
 October 24th to 28th,October 24th to 28th,DATE,,,en,1.0
 the end of October,the end of October,DATE,,,en,1.0
-Moments,Moments,WORK_OF_ART,,,en,1.0
+November 12,November 12,DATE,,,en,1.0
+more than 500 billion,more than 500 billion,MONEY,,,en,1.0
 27.8%,27.8%,PERCENT,,,en,1.0
-the 15th,the 15th,DATE,,,en,1.0
 1.286 billion yuan,1.286 billion yuan,MONEY,,,en,1.0
 36.1%,36.1%,PERCENT,,,en,1.0
 747 million yuan,747 million yuan,MONEY,,,en,1.0
@@ -1658,10 +1773,14 @@ the 15th,the 15th,DATE,,,en,1.0
 the third quarter,the third quarter,DATE,,,en,1.0
 2423,2423,CARDINAL,,,en,1.0
 November 10,November 10,DATE,,,en,1.0
-every week,every week,DATE,,,en,1.0
-Silk Road,Silk Road,FAC,,,en,1.0
 the Han Dynasty,the Han Dynasty,DATE,,,en,1.0
 "more than 80,000","more than 80,000",CARDINAL,,,en,1.0
+Han,Han,NORP,,,en,1.0
+"more than 30,000","more than 30,000",CARDINAL,,,en,1.0
+"as many as 180,000","as many as 180,000",CARDINAL,,,en,1.0
+Wolf Warrior Diplomacy,Wolf Warrior Diplomacy,WORK_OF_ART,,,en,1.0
+3S,3S,CARDINAL,,,en,1.0
+the 15th,the 15th,DATE,,,en,1.0
 the Tokyo Dome,the Tokyo Dome,FAC,,,en,1.0
 November 15,November 15,DATE,,,en,1.0
 its 6th day,its 6th day,DATE,,,en,1.0
@@ -1683,14 +1802,24 @@ more than 70%,more than 70%,PERCENT,,,en,1.0
 Three years later,Three years later,DATE,,,en,1.0
 November 2022,November 2022,DATE,,,en,1.0
 Pascal,Pascal,WORK_OF_ART,,,en,1.0
-"more than 30,000","more than 30,000",CARDINAL,,,en,1.0
-Han,Han,NORP,,,en,1.0
-194%,194%,PERCENT,,,en,1.0
-29 billion yuan,29 billion yuan,MONEY,,,en,1.0
-Nezha,Nezha,WORK_OF_ART,,,en,1.0
-Five years,Five years,DATE,,,en,1.0
+Annual,Annual,DATE,,,en,1.0
+5 billion,5 billion,CARDINAL,,,en,1.0
+three years | First,three years | First,DATE,,,en,1.0
 the next 10 years,the next 10 years,DATE,,,en,1.0
+the Beidawu Mountain Entrance,the Beidawu Mountain Entrance,FAC,,,en,1.0
+the Dawu Mountain Forest Education Service Center,the Dawu Mountain Forest Education Service Center,FAC,,,en,1.0
+mid-September,mid-September,DATE,,,en,1.0
+2026 to 2033,2026 to 2033,DATE,,,en,1.0
+"the ""Special Regulations on Strengthening Defense Resilience and Asymmetric Combat Power Plan Procurement""","the ""Special Regulations on Strengthening Defense Resilience and Asymmetric Combat Power Plan Procurement""",LAW,,,en,1.0
+Fire Ant,Fire Ant,WORK_OF_ART,,,en,1.0
+120W,120W,CARDINAL,,,en,1.0
+12:12 on,12:12 on,TIME,,,en,1.0
+early next year,early next year,DATE,,,en,1.0
+late this year,late this year,DATE,,,en,1.0
+more than US$700 million,more than US$700 million,MONEY,,,en,1.0
+approximately 60 million,approximately 60 million,CARDINAL,,,en,1.0
 98%,98%,PERCENT,,,en,1.0
+several hundred million yuan,several hundred million yuan,MONEY,,,en,1.0
 the Chengda-Wanzhou High-speed Railway,the Chengda-Wanzhou High-speed Railway,FAC,,,en,1.0
 the Qujiang Super Bridge,the Qujiang Super Bridge,FAC,,,en,1.0
 more than 100 million,more than 100 million,CARDINAL,,,en,1.0
@@ -1700,23 +1829,27 @@ Phippsaksla,Phippsaksla,WORK_OF_ART,,,en,1.0
 Mars rover,Mars rover,PRODUCT,,,en,1.0
 Perseverance,Perseverance,WORK_OF_ART,,,en,1.0
 Perseverance Mars rover,Perseverance Mars rover,PRODUCT,,,en,1.0
+Five years,Five years,DATE,,,en,1.0
 "the ""Taiwan Shield"" (T-Dome","the ""Taiwan Shield"" (T-Dome",FAC,,,en,1.0
-more than US$700 million,more than US$700 million,MONEY,,,en,1.0
 "November 25, 2025","November 25, 2025",DATE,,,en,1.0
-170 billion</li>,170 billion</li>,MONEY,,,en,1.0
-African,African,NORP,,,en,1.0
-the past 7,the past 7,DATE,,,en,1.0
-237%,237%,PERCENT,,,en,1.0
-design</li,design</li,PRODUCT,,,en,1.0
-40 billion U.S. dollars,40 billion U.S. dollars,MONEY,,,en,1.0
-1.25 trillion US dollars,1.25 trillion US dollars,MONEY,,,en,1.0
-about $12 billion,about $12 billion,MONEY,,,en,1.0
-63,63,CARDINAL,,,en,1.0
-January to October 2014,January to October 2014,DATE,,,en,1.0
-approximately 60 million,approximately 60 million,CARDINAL,,,en,1.0
-late this year,late this year,DATE,,,en,1.0
-Q3,Q3,PRODUCT,,,en,1.0
+the Steam Machine,the Steam Machine,PRODUCT,,,en,1.0
+"210,000","210,000",CARDINAL,,,en,1.0
+10 days,10 days,DATE,,,en,1.0
 September 16,September 16,DATE,,,en,1.0
+the Environmental Impact Statement,the Environmental Impact Statement,LAW,,,en,1.0
+Cape Canaveral Space Force Station,Cape Canaveral Space Force Station,FAC,,,en,1.0
+Super Heavy,Super Heavy,WORK_OF_ART,,,en,1.0
+Thanksgiving,Thanksgiving,DATE,,,en,1.0
+About 46 million,About 46 million,CARDINAL,,,en,1.0
+Taiwan Shield,Taiwan Shield,WORK_OF_ART,,,en,1.0
+16 million yuan,16 million yuan,MONEY,,,en,1.0
+nine months,nine months,DATE,,,en,1.0
+38.7%,38.7%,PERCENT,,,en,1.0
+January this year,January this year,DATE,,,en,1.0
+mid-2025,mid-2025,DATE,,,en,1.0
+over one million,over one million,CARDINAL,,,en,1.0
+WiFi,WiFi,PRODUCT,,,en,1.0
+Nezha,Nezha,WORK_OF_ART,,,en,1.0
 "92,800 yuan","92,800 yuan",MONEY,,,en,1.0
 1128,1128,CARDINAL,,,en,1.0
 days</li,days</li,FAC,,,en,1.0
@@ -1728,23 +1861,18 @@ about 10%,about 10%,PERCENT,,,en,1.0
 1.25 trillion yuan,1.25 trillion yuan,MONEY,,,en,1.0
 A few days ago,A few days ago,DATE,,,en,1.0
 The day before yesterday,The day before yesterday,DATE,,,en,1.0
-10 days,10 days,DATE,,,en,1.0
-early next year,early next year,DATE,,,en,1.0
-"210,000","210,000",CARDINAL,,,en,1.0
-the Steam Machine,the Steam Machine,PRODUCT,,,en,1.0
-the Beidawu Mountain Entrance,the Beidawu Mountain Entrance,FAC,,,en,1.0
-the Dawu Mountain Forest Education Service Center,the Dawu Mountain Forest Education Service Center,FAC,,,en,1.0
-mid-September,mid-September,DATE,,,en,1.0
-21,21,CARDINAL,,,en,1.0
-2026 to 2033,2026 to 2033,DATE,,,en,1.0
-"the ""Special Regulations on Strengthening Defense Resilience and Asymmetric Combat Power Plan Procurement""","the ""Special Regulations on Strengthening Defense Resilience and Asymmetric Combat Power Plan Procurement""",LAW,,,en,1.0
-Fire Ant,Fire Ant,WORK_OF_ART,,,en,1.0
-120W,120W,CARDINAL,,,en,1.0
-12:12 on,12:12 on,TIME,,,en,1.0
-October 2014,October 2014,DATE,,,en,1.0
-"November 30, 2022","November 30, 2022",DATE,,,en,1.0
-ByteDance Scholarship Award Ceremony,ByteDance Scholarship Award Ceremony,EVENT,,,en,1.0
-the next three years,the next three years,DATE,,,en,1.0
+170 billion</li>,170 billion</li>,MONEY,,,en,1.0
+African,African,NORP,,,en,1.0
+the past 7,the past 7,DATE,,,en,1.0
+Little Red Book,Little Red Book,WORK_OF_ART,,,en,1.0
+"September 12, 2023","September 12, 2023",DATE,,,en,1.0
+SEPTEMBER 12,SEPTEMBER 12,DATE,,,en,1.0
+4.5 trillion yuan,4.5 trillion yuan,MONEY,,,en,1.0
+approximately 2.31 trillion yuan,approximately 2.31 trillion yuan,MONEY,,,en,1.0
+Hasbro,Hasbro,WORK_OF_ART,,,en,1.0
+Age of the Primes,Age of the Primes,WORK_OF_ART,,,en,1.0
+Hasbro's Transformers Generations,Hasbro's Transformers Generations,PRODUCT,,,en,1.0
+the 1990s,the 1990s,DATE,,,en,1.0
 May 2025,May 2025,DATE,,,en,1.0
 "academicians</li>
  ","academicians</li>
@@ -1758,23 +1886,26 @@ HK$ 38.00,HK$ 38.00,MONEY,,,en,1.0
 200 yuan,200 yuan,MONEY,,,en,1.0
 more than 500,more than 500,CARDINAL,,,en,1.0
 4:30 pm,4:30 pm,TIME,,,en,1.0
+the next three years,the next three years,DATE,,,en,1.0
 more than 5 billion yuan,more than 5 billion yuan,MONEY,,,en,1.0
-Byte,Byte,NORP,,,en,1.0
 2.5 billion yuan,2.5 billion yuan,MONEY,,,en,1.0
 30% to 50%,30% to 50%,PERCENT,,,en,1.0
 1.6 billion yuan,1.6 billion yuan,MONEY,,,en,1.0
 more than 40%,more than 40%,PERCENT,,,en,1.0
-several hundred million yuan,several hundred million yuan,MONEY,,,en,1.0
-three years | First,three years | First,DATE,,,en,1.0
-5 billion,5 billion,CARDINAL,,,en,1.0
-Annual,Annual,DATE,,,en,1.0
-one million to ten,one million to ten,CARDINAL,,,en,1.0
-10 years</li,10 years</li,MONEY,,,en,1.0
-single-quarter,single-quarter,DATE,,,en,1.0
-the 1990s,the 1990s,DATE,,,en,1.0
-Hasbro's Transformers Generations,Hasbro's Transformers Generations,PRODUCT,,,en,1.0
-Age of the Primes,Age of the Primes,WORK_OF_ART,,,en,1.0
-Hasbro,Hasbro,WORK_OF_ART,,,en,1.0
+"Deco ""Crystal Island","Deco ""Crystal Island",FAC,,,en,1.0
+Rat,Rat,WORK_OF_ART,,,en,1.0
+237%,237%,PERCENT,,,en,1.0
+3.43 million</li,3.43 million</li,MONEY,,,en,1.0
+design</li,design</li,PRODUCT,,,en,1.0
+40 billion U.S. dollars,40 billion U.S. dollars,MONEY,,,en,1.0
+1.25 trillion US dollars,1.25 trillion US dollars,MONEY,,,en,1.0
+about $12 billion,about $12 billion,MONEY,,,en,1.0
+63,63,CARDINAL,,,en,1.0
+January to October 2014,January to October 2014,DATE,,,en,1.0
+October 2014,October 2014,DATE,,,en,1.0
+"November 30, 2022","November 30, 2022",DATE,,,en,1.0
+ByteDance Scholarship Award Ceremony,ByteDance Scholarship Award Ceremony,EVENT,,,en,1.0
+Byte,Byte,NORP,,,en,1.0
 April 2018,April 2018,DATE,,,en,1.0
 approximately 5.5%,approximately 5.5%,PERCENT,,,en,1.0
 400 million yuan,400 million yuan,MONEY,,,en,1.0
@@ -1792,191 +1923,12 @@ US$30 million,US$30 million,MONEY,,,en,1.0
 "only 48 seconds
  ","only 48 seconds
  ",TIME,,,en,1.0
-3.43 million</li,3.43 million</li,MONEY,,,en,1.0
-Rat,Rat,WORK_OF_ART,,,en,1.0
-Little Red Book,Little Red Book,WORK_OF_ART,,,en,1.0
-"Deco ""Crystal Island","Deco ""Crystal Island",FAC,,,en,1.0
-"September 12, 2023","September 12, 2023",DATE,,,en,1.0
-SEPTEMBER 12,SEPTEMBER 12,DATE,,,en,1.0
-4.5 trillion yuan,4.5 trillion yuan,MONEY,,,en,1.0
-approximately 2.31 trillion yuan,approximately 2.31 trillion yuan,MONEY,,,en,1.0
-about 170,about 170,CARDINAL,,,en,1.0
-"100,000","100,000",CARDINAL,,,en,1.0
-New Year Gift 2025｜Samsung,New Year Gift 2025｜Samsung,EVENT,,,en,1.0
-"about 800,000","about 800,000",CARDINAL,,,en,1.0
-25 billion,25 billion,CARDINAL,,,en,1.0
-2024.</li><li,2024.</li><li,CARDINAL,,,en,1.0
-the full year,the full year,DATE,,,en,1.0
-3 270M,3 270M,MONEY,,,en,1.0
-Nano Bananna Pro,Nano Bananna Pro,PRODUCT,,,en,1.0
-24,24,CARDINAL,,,en,1.0
-Today (21st,Today (21st,DATE,,,en,1.0
-the Day of Forgiveness,the Day of Forgiveness,DATE,,,en,1.0
-another year,another year,DATE,,,en,1.0
-Haitian,Haitian,NORP,,,en,1.0
-911,911,CARDINAL,,,en,1.0
-"about 125,000","about 125,000",CARDINAL,,,en,1.0
-This past Saturday,This past Saturday,DATE,,,en,1.0
-the 20th,the 20th,DATE,,,en,1.0
-"125,000","125,000",CARDINAL,,,en,1.0
-3x,3x,CARDINAL,,,en,1.0
-July 2026,July 2026,DATE,,,en,1.0
-Dutch,Dutch,NORP,,,en,1.0
-Gen5,Gen5,PRODUCT,,,en,1.0
-14:30 on December 26,14:30 on December 26,TIME,,,en,1.0
-the cold season,the cold season,DATE,,,en,1.0
-​​rocks,​​rocks,FAC,,,en,1.0
-the Ao-Tai Line,the Ao-Tai Line,EVENT,,,en,1.0
-300,300,CARDINAL,,,en,1.0
-118 million,118 million,MONEY,,,en,1.0
-700%,700%,PERCENT,,,en,1.0
-"9,988 yuan","9,988 yuan",MONEY,,,en,1.0
-"the ""Dazzling Double Star","the ""Dazzling Double Star",WORK_OF_ART,,,en,1.0
-"the ""Notice on Improving Kindergarten Fee Policies""</li>
- <li>Radioactive water leaked from a nuclear reactor in Japan</li>
- ","the ""Notice on Improving Kindergarten Fee Policies""</li>
- <li>Radioactive water leaked from a nuclear reactor in Japan</li>
- ",LAW,,,en,1.0
-75mm to 100mm,75mm to 100mm,QUANTITY,,,en,1.0
-6 2.75GHz,6 2.75GHz,CARDINAL,,,en,1.0
-3.25GHz,3.25GHz,CARDINAL,,,en,1.0
-C1-Ultra,C1-Ultra,NORP,,,en,1.0
-1 3.8GHz,1 3.8GHz,CARDINAL,,,en,1.0
-the Exynos 2600,the Exynos 2600,PRODUCT,,,en,1.0
-Waiao Train Station,Waiao Train Station,FAC,,,en,1.0
-Shuangshi Beach north,Shuangshi Beach north,FAC,,,en,1.0
-8.29mm,8.29mm,QUANTITY,,,en,1.0
-Pro,Pro,PRODUCT,,,en,1.0
-35,35,CARDINAL,,,en,1.0
-10 years ago,10 years ago,DATE,,,en,1.0
-7 years ago,7 years ago,DATE,,,en,1.0
-every eight minutes,every eight minutes,TIME,,,en,1.0
-8 minutes.<ol><li,8 minutes.<ol><li,CARDINAL,,,en,1.0
-the Science Museum,the Science Museum,FAC,,,en,1.0
-a Christmas,a Christmas,DATE,,,en,1.0
-the end of a year,the end of a year,DATE,,,en,1.0
-as high as 92%,as high as 92%,PERCENT,,,en,1.0
-"70,327","70,327",CARDINAL,,,en,1.0
-the remaining months,the remaining months,DATE,,,en,1.0
-Single-month,Single-month,DATE,,,en,1.0
-"536,000","536,000",CARDINAL,,,en,1.0
-"the ""Ao-Tai Line","the ""Ao-Tai Line",EVENT,,,en,1.0
-"the ""Guidelines for Enforcement of Advertising Cited Content (Draft for Comment)""...","the ""Guidelines for Enforcement of Advertising Cited Content (Draft for Comment)""...",LAW,,,en,1.0
-the same day,the same day,DATE,,,en,1.0
-Park Lane,Park Lane,FAC,,,en,1.0
-the same period,the same period,DATE,,,en,1.0
-30.3%,30.3%,PERCENT,,,en,1.0
-only 5.7%,only 5.7%,PERCENT,,,en,1.0
-January to October 2025,January to October 2025,DATE,,,en,1.0
-pre-Christmas,pre-Christmas,DATE,,,en,1.0
-1110,1110,CARDINAL,,,en,1.0
-December 18,December 18,DATE,,,en,1.0
-"2,140 yuan","2,140 yuan",MONEY,,,en,1.0
-up to,up to,MONEY,,,en,1.0
-Spring Festival Gala,Spring Festival Gala,EVENT,,,en,1.0
-billion-yen,billion-yen,MONEY,,,en,1.0
-“App Catalog”,“App Catalog”,WORK_OF_ART,,,en,1.0
-Socket Brother,Socket Brother,WORK_OF_ART,,,en,1.0
-App Catalog,App Catalog,WORK_OF_ART,,,en,1.0
-App Directory,App Directory,WORK_OF_ART,,,en,1.0
-Fanzigou Park,Fanzigou Park,FAC,,,en,1.0
-18th,18th,ORDINAL,,,en,1.0
-the Taipei City Millennium Lions Club,the Taipei City Millennium Lions Club,FAC,,,en,1.0
-Love +,Love +,WORK_OF_ART,,,en,1.0
-approximately $140 billion,approximately $140 billion,MONEY,,,en,1.0
-the beginning of 2023,the beginning of 2023,DATE,,,en,1.0
-1.6 million,1.6 million,CARDINAL,,,en,1.0
-at least two years,at least two years,DATE,,,en,1.0
-several years,several years,DATE,,,en,1.0
-five consecutive months,five consecutive months,DATE,,,en,1.0
-the Guangzhou Auto Show,the Guangzhou Auto Show,EVENT,,,en,1.0
-more than 2,more than 2,CARDINAL,,,en,1.0
-October 1 this year,October 1 this year,DATE,,,en,1.0
-35%,35%,PERCENT,,,en,1.0
-2026</li><li,2026</li><li,CARDINAL,,,en,1.0
-6.9%,6.9%,PERCENT,,,en,1.0
-half a month,half a month,DATE,,,en,1.0
-"more than 300,000 yuan","more than 300,000 yuan",MONEY,,,en,1.0
-9:1,9:1,CARDINAL,,,en,1.0
-the Christmas season,the Christmas season,DATE,,,en,1.0
-only two,only two,CARDINAL,,,en,1.0
-Samsung Galaxy S26,Samsung Galaxy S26,PRODUCT,,,en,1.0
-2nm GAA,2nm GAA,QUANTITY,,,en,1.0
-39%</li></ol,39%</li></ol,CARDINAL,,,en,1.0
-39%,39%,PERCENT,,,en,1.0
-May 2023,May 2023,DATE,,,en,1.0
-mind.<ol><li,mind.<ol><li,CARDINAL,,,en,1.0
-Christmas Gift 2025 |,Christmas Gift 2025 |,DATE,,,en,1.0
-a few days,a few days,DATE,,,en,1.0
-This Christmas,This Christmas,DATE,,,en,1.0
-"7,500","7,500",CARDINAL,,,en,1.0
-Dawn Raid,Dawn Raid,WORK_OF_ART,,,en,1.0
-Final Fantasy VII Remake INTERGRADE,Final Fantasy VII Remake INTERGRADE,WORK_OF_ART,,,en,1.0
-FF 7 Remake,FF 7 Remake,WORK_OF_ART,,,en,1.0
-2032,2032,DATE,,,en,1.0
-17 years,17 years,DATE,,,en,1.0
-November 14,November 14,DATE,,,en,1.0
-the end of 2023,the end of 2023,DATE,,,en,1.0
-"126,000","126,000",MONEY,,,en,1.0
-December 27,December 27,DATE,,,en,1.0
-more than 50%,more than 50%,PERCENT,,,en,1.0
-four years ago,four years ago,DATE,,,en,1.0
-2025 17:58,2025 17:58,QUANTITY,,,en,1.0
-the early morning and night,the early morning and night,TIME,,,en,1.0
-Early this morning,Early this morning,TIME,,,en,1.0
-the first three quarters of 2025,the first three quarters of 2025,DATE,,,en,1.0
-Nine,Nine,CARDINAL,,,en,1.0
-Nine Questions,Nine Questions,WORK_OF_ART,,,en,1.0
-Fairchild Semiconductor,Fairchild Semiconductor,WORK_OF_ART,,,en,1.0
-the beginning of this month,the beginning of this month,DATE,,,en,1.0
-"July 12, 2025","July 12, 2025",DATE,,,en,1.0
-1.17 million,1.17 million,CARDINAL,,,en,1.0
-Exynos Modem,Exynos Modem,PRODUCT,,,en,1.0
-nearly 1/3,nearly 1/3,CARDINAL,,,en,1.0
-Google Gemini,Google Gemini,PRODUCT,,,en,1.0
-nearly one-third,nearly one-third,CARDINAL,,,en,1.0
-11 meters,11 meters,QUANTITY,,,en,1.0
-42 meters,42 meters,QUANTITY,,,en,1.0
-Snow Dragon 2,Snow Dragon 2,WORK_OF_ART,,,en,1.0
-Zhongshan Station,Zhongshan Station,FAC,,,en,1.0
-early December,early December,DATE,,,en,1.0
-Leica Instant,Leica Instant,PRODUCT,,,en,1.0
-two months earlier,two months earlier,DATE,,,en,1.0
-earlier,earlier,DATE,,,en,1.0
-Power 2,Power 2,PRODUCT,,,en,1.0
-4nm,4nm,QUANTITY,,,en,1.0
-Horizon Robotics,Horizon Robotics,WORK_OF_ART,,,en,1.0
-35.9GWh,35.9GWh,CARDINAL,,,en,1.0
-Switch 2.<ol><li,Switch 2.<ol><li,PRODUCT,,,en,1.0
-New Year Gift,New Year Gift,EVENT,,,en,1.0
-"as low as $1,7xx
-","as low as $1,7xx
-",MONEY,,,en,1.0
-"as low as $1,7xx</li></ol>","as low as $1,7xx</li></ol>",MONEY,,,en,1.0
-"as low as $1,7xx","as low as $1,7xx",MONEY,,,en,1.0
-more than 20 years,more than 20 years,DATE,,,en,1.0
-Cattle Raising Manual,Cattle Raising Manual,WORK_OF_ART,,,en,1.0
-the Rich List,the Rich List,WORK_OF_ART,,,en,1.0
-Rebirth 90,Rebirth 90,WORK_OF_ART,,,en,1.0
-Smart Cube,Smart Cube,PRODUCT,,,en,1.0
-1983,1983,DATE,,,en,1.0
-seventh,seventh,ORDINAL,,,en,1.0
-25 years,25 years,DATE,,,en,1.0
-January to October this year,January to October this year,DATE,,,en,1.0
-ten years later,ten years later,DATE,,,en,1.0
-18650,18650,CARDINAL,,,en,1.0
-Dark Souls,Dark Souls,WORK_OF_ART,,,en,1.0
-Pokémon Crimson/Purple,Pokémon Crimson/Purple,PRODUCT,,,en,1.0
-G9,G9,PRODUCT,,,en,1.0
-"Pokémon"" G10","Pokémon"" G10",WORK_OF_ART,,,en,1.0
-10th,10th,ORDINAL,,,en,1.0
-G10,G10,WORK_OF_ART,,,en,1.0
-an additional 1 gram,an additional 1 gram,QUANTITY,,,en,1.0
-over 100 million,over 100 million,CARDINAL,,,en,1.0
-the spring of 2026,the spring of 2026,DATE,,,en,1.0
-Leica Edition Mobile,Leica Edition Mobile,PRODUCT,,,en,1.0
-0.1mm,0.1mm,QUANTITY,,,en,1.0
-Odyssey 3D,Odyssey 3D,PRODUCT,,,en,1.0
+Little Orange Books,Little Orange Books,WORK_OF_ART,,,en,1.0
+Little Red Books,Little Red Books,WORK_OF_ART,,,en,1.0
+73 days,73 days,DATE,,,en,1.0
+"December 17, 2025","December 17, 2025",DATE,,,en,1.0
+Stargate Matrix Reflecting,Stargate Matrix Reflecting,WORK_OF_ART,,,en,1.0
+less than 300 yuan,less than 300 yuan,MONEY,,,en,1.0
 Daily Economic News,Daily Economic News,WORK_OF_ART,,,en,1.0
 tens of billions,tens of billions,MONEY,,,en,1.0
 18 months,18 months,DATE,,,en,1.0
@@ -1987,10 +1939,9 @@ approximately 30%,approximately 30%,PERCENT,,,en,1.0
 "at least 100,000","at least 100,000",CARDINAL,,,en,1.0
 the Christmas holiday,the Christmas holiday,DATE,,,en,1.0
 From Water to Underwater:,From Water to Underwater:,WORK_OF_ART,,,en,1.0
-"December 17, 2025","December 17, 2025",DATE,,,en,1.0
+Odyssey 3D,Odyssey 3D,PRODUCT,,,en,1.0
+"9,988 yuan","9,988 yuan",MONEY,,,en,1.0
 the 2026 Odyssey e-sports,the 2026 Odyssey e-sports,EVENT,,,en,1.0
-Half a month ago,Half a month ago,DATE,,,en,1.0
-every year,every year,DATE,,,en,1.0
 "1,040Hz</li></ol","1,040Hz</li></ol",CARDINAL,,,en,1.0
 FreeClip 2,FreeClip 2,PRODUCT,,,en,1.0
 Qooah.com HUAWEI,Qooah.com HUAWEI,PRODUCT,,,en,1.0
@@ -2001,10 +1952,15 @@ six years,six years,DATE,,,en,1.0
 Trisolarans,Trisolarans,NORP,,,en,1.0
 adventists,adventists,NORP,,,en,1.0
 Horizon,Horizon,PRODUCT,,,en,1.0
-less than 300 yuan,less than 300 yuan,MONEY,,,en,1.0
-Stargate Matrix Reflecting,Stargate Matrix Reflecting,WORK_OF_ART,,,en,1.0
+Horizon Robotics,Horizon Robotics,WORK_OF_ART,,,en,1.0
 Tesseract,Tesseract,WORK_OF_ART,,,en,1.0
 Interstellar,Interstellar,WORK_OF_ART,,,en,1.0
+December 25th,December 25th,DATE,,,en,1.0
+4:55 a.m.,4:55 a.m.,TIME,,,en,1.0
+the spring of 2026,the spring of 2026,DATE,,,en,1.0
+Leica Edition Mobile,Leica Edition Mobile,PRODUCT,,,en,1.0
+0.1mm,0.1mm,QUANTITY,,,en,1.0
+Half a month ago,Half a month ago,DATE,,,en,1.0
 the next three to six months,the next three to six months,DATE,,,en,1.0
 "approximately 180,000 2022 Model 3","approximately 180,000 2022 Model 3",MONEY,,,en,1.0
 Tesla Model 3,Tesla Model 3,PRODUCT,,,en,1.0
@@ -2026,183 +1982,234 @@ This New Year,This New Year,DATE,,,en,1.0
 The Most Beautiful Encounter] 2026 New Year Chinese Style Virtual Concert,The Most Beautiful Encounter] 2026 New Year Chinese Style Virtual Concert,WORK_OF_ART,,,en,1.0
 New Year Concert],New Year Concert],EVENT,,,en,1.0
 10:00 a.m.,10:00 a.m.,TIME,,,en,1.0
-4:55 a.m.,4:55 a.m.,TIME,,,en,1.0
-December 25th,December 25th,DATE,,,en,1.0
-nearly 30%,nearly 30%,PERCENT,,,en,1.0
-More than two months,More than two months,DATE,,,en,1.0
-all year round,all year round,DATE,,,en,1.0
-March 2024,March 2024,DATE,,,en,1.0
-YouTube,YouTube,PRODUCT,,,en,1.0
-the 10th of this month,the 10th of this month,DATE,,,en,1.0
-Facebook and YouTube,Facebook and YouTube,WORK_OF_ART,,,en,1.0
-every six months,every six months,DATE,,,en,1.0
-Inkslan,Inkslan,PRODUCT,,,en,1.0
-114,114,CARDINAL,,,en,1.0
-two days ago,two days ago,DATE,,,en,1.0
-Commercial Insurance Catalog,Commercial Insurance Catalog,WORK_OF_ART,,,en,1.0
-Millions,Millions,CARDINAL,,,en,1.0
-Falun Gong,Falun Gong,FAC,,,en,1.0
-36th,36th,ORDINAL,,,en,1.0
-Innosec,Innosec,NORP,,,en,1.0
-Operation Gatekeeper,Operation Gatekeeper,WORK_OF_ART,,,en,1.0
-17:44,17:44,CARDINAL,,,en,1.0
-Two Heroes Battle,Two Heroes Battle,WORK_OF_ART,,,en,1.0
-30 kilometers per hour,30 kilometers per hour,QUANTITY,,,en,1.0
-10:39,10:39,TIME,,,en,1.0
-May 2010,May 2010,DATE,,,en,1.0
-41.1%,41.1%,PERCENT,,,en,1.0
-the 25th consecutive month,the 25th consecutive month,DATE,,,en,1.0
-US$64.05 billion,US$64.05 billion,MONEY,,,en,1.0
-56%,56%,PERCENT,,,en,1.0
-more than two consecutive years,more than two consecutive years,DATE,,,en,1.0
-one thousand meters,one thousand meters,QUANTITY,,,en,1.0
-August 2024,August 2024,DATE,,,en,1.0
-weekday,weekday,DATE,,,en,1.0
-the holidays,the holidays,DATE,,,en,1.0
-Jiazi Gravity,Jiazi Gravity,EVENT,,,en,1.0
+the end of 2023,the end of 2023,DATE,,,en,1.0
+November 14,November 14,DATE,,,en,1.0
+half a month,half a month,DATE,,,en,1.0
+3x,3x,CARDINAL,,,en,1.0
+3 270M,3 270M,MONEY,,,en,1.0
+Nano Bananna Pro,Nano Bananna Pro,PRODUCT,,,en,1.0
+24,24,CARDINAL,,,en,1.0
+Today (21st,Today (21st,DATE,,,en,1.0
+the Day of Forgiveness,the Day of Forgiveness,DATE,,,en,1.0
+another year,another year,DATE,,,en,1.0
+Haitian,Haitian,NORP,,,en,1.0
+911,911,CARDINAL,,,en,1.0
+"about 800,000","about 800,000",CARDINAL,,,en,1.0
+"about 125,000","about 125,000",CARDINAL,,,en,1.0
+the 20th,the 20th,DATE,,,en,1.0
+"125,000","125,000",CARDINAL,,,en,1.0
+July 2026,July 2026,DATE,,,en,1.0
+"the ""Notice on Improving Kindergarten Fee Policies""</li>
+ <li>Radioactive water leaked from a nuclear reactor in Japan</li>
+ ","the ""Notice on Improving Kindergarten Fee Policies""</li>
+ <li>Radioactive water leaked from a nuclear reactor in Japan</li>
+ ",LAW,,,en,1.0
+Dutch,Dutch,NORP,,,en,1.0
+Gen5,Gen5,PRODUCT,,,en,1.0
+14:30 on December 26,14:30 on December 26,TIME,,,en,1.0
+the cold season,the cold season,DATE,,,en,1.0
+​​rocks,​​rocks,FAC,,,en,1.0
+the Ao-Tai Line,the Ao-Tai Line,EVENT,,,en,1.0
+300,300,CARDINAL,,,en,1.0
+"the ""Ao-Tai Line","the ""Ao-Tai Line",EVENT,,,en,1.0
+"the ""Guidelines for Enforcement of Advertising Cited Content (Draft for Comment)""...","the ""Guidelines for Enforcement of Advertising Cited Content (Draft for Comment)""...",LAW,,,en,1.0
+Socket Brother,Socket Brother,WORK_OF_ART,,,en,1.0
+35%,35%,PERCENT,,,en,1.0
+2026</li><li,2026</li><li,CARDINAL,,,en,1.0
+the full year,the full year,DATE,,,en,1.0
+2024.</li><li,2024.</li><li,CARDINAL,,,en,1.0
+25 billion,25 billion,CARDINAL,,,en,1.0
+118 million,118 million,MONEY,,,en,1.0
+75mm to 100mm,75mm to 100mm,QUANTITY,,,en,1.0
+6 2.75GHz,6 2.75GHz,CARDINAL,,,en,1.0
+3.25GHz,3.25GHz,CARDINAL,,,en,1.0
+1 3.8GHz,1 3.8GHz,CARDINAL,,,en,1.0
+the Exynos 2600,the Exynos 2600,PRODUCT,,,en,1.0
+Waiao Train Station,Waiao Train Station,FAC,,,en,1.0
+Shuangshi Beach north,Shuangshi Beach north,FAC,,,en,1.0
+8.29mm,8.29mm,QUANTITY,,,en,1.0
+Pro,Pro,PRODUCT,,,en,1.0
+"the ""Dazzling Double Star","the ""Dazzling Double Star",WORK_OF_ART,,,en,1.0
+35,35,CARDINAL,,,en,1.0
+7 years ago,7 years ago,DATE,,,en,1.0
+every eight minutes,every eight minutes,TIME,,,en,1.0
+8 minutes.<ol><li,8 minutes.<ol><li,CARDINAL,,,en,1.0
+the Science Museum,the Science Museum,FAC,,,en,1.0
+a Christmas,a Christmas,DATE,,,en,1.0
+the end of a year,the end of a year,DATE,,,en,1.0
+as high as 92%,as high as 92%,PERCENT,,,en,1.0
+"70,327","70,327",CARDINAL,,,en,1.0
+the remaining months,the remaining months,DATE,,,en,1.0
+Single-month,Single-month,DATE,,,en,1.0
+"536,000","536,000",CARDINAL,,,en,1.0
+10 years ago,10 years ago,DATE,,,en,1.0
+700%,700%,PERCENT,,,en,1.0
+This past Saturday,This past Saturday,DATE,,,en,1.0
+earlier,earlier,DATE,,,en,1.0
+two months earlier,two months earlier,DATE,,,en,1.0
+Leica Instant,Leica Instant,PRODUCT,,,en,1.0
+8.9%,8.9%,PERCENT,,,en,1.0
+FSDV14.2,FSDV14.2,PRODUCT,,,en,1.0
+the past 20 years,the past 20 years,DATE,,,en,1.0
+2006,2006,DATE,,,en,1.0
+Chinese Language Inventory,Chinese Language Inventory,EVENT,,,en,1.0
+the “Chinese Language Inventory 2025”,the “Chinese Language Inventory 2025”,EVENT,,,en,1.0
+the Year,the Year,DATE,,,en,1.0
+3.5 billion euros,3.5 billion euros,MONEY,,,en,1.0
+450 US dollars,450 US dollars,MONEY,,,en,1.0
+between 200 and 350 US dollars,between 200 and 350 US dollars,CARDINAL,,,en,1.0
+Nintendo,Nintendo,FAC,0.0,0.0,en,1.0
+1 billion |,1 billion |,MONEY,,,en,1.0
+5.2%,5.2%,PERCENT,,,en,1.0
+their early years,their early years,DATE,,,en,1.0
+early December,early December,DATE,,,en,1.0
+three months,three months,DATE,,,en,1.0
+WTF Technology,WTF Technology,WORK_OF_ART,,,en,1.0
+That year,That year,DATE,,,en,1.0
+the end of 2017,the end of 2017,DATE,,,en,1.0
+a few years,a few years,DATE,,,en,1.0
+minus 40 degrees Fahrenheit,minus 40 degrees Fahrenheit,QUANTITY,,,en,1.0
+"20,000 US dollars","20,000 US dollars",MONEY,,,en,1.0
+Swedish,Swedish,NORP,,,en,1.0
+half an hour,half an hour,TIME,,,en,1.0
+Earlier this year,Earlier this year,DATE,,,en,1.0
+US$120 million,US$120 million,MONEY,,,en,1.0
+Huawei,Huawei,WORK_OF_ART,,,en,1.0
+2 days,2 days,DATE,,,en,1.0
+20 hours,20 hours,TIME,,,en,1.0
+only 9.6 degrees,only 9.6 degrees,QUANTITY,,,en,1.0
+the winter,the winter,DATE,,,en,1.0
+The Central Meteorological Observatory,The Central Meteorological Observatory,FAC,,,en,1.0
+another in the afternoon,another in the afternoon,TIME,,,en,1.0
+the New Year's Day Gala,the New Year's Day Gala,EVENT,,,en,1.0
+about 15 degrees at night,about 15 degrees at night,QUANTITY,,,en,1.0
+the evening of the 2nd,the evening of the 2nd,TIME,,,en,1.0
+Douliu Circle,Douliu Circle,FAC,,,en,1.0
+115,115,CARDINAL,,,en,1.0
+115 years,115 years,DATE,,,en,1.0
+Douliu Circle New Year's Day Party,Douliu Circle New Year's Day Party,EVENT,,,en,1.0
+Republican,Republican,NORP,,,en,1.0
+six-month,six-month,DATE,,,en,1.0
+September,September,DATE,,,en,1.0
+January 2026,January 2026,DATE,,,en,1.0
+"US$5,000","US$5,000",MONEY,,,en,1.0
+12.5 degrees,12.5 degrees,QUANTITY,,,en,1.0
+7:40 in the morning,7:40 in the morning,TIME,,,en,1.0
+16.7 degrees,16.7 degrees,QUANTITY,,,en,1.0
+Taipei Station,Taipei Station,FAC,,,en,1.0
+afternoon,afternoon,TIME,,,en,1.0
+16:00,16:00,TIME,,,en,1.0
+1/6,1/6,CARDINAL,,,en,1.0
+next Tuesday,next Tuesday,DATE,,,en,1.0
+1/3,1/3,CARDINAL,,,en,1.0
+the whole week,the whole week,DATE,,,en,1.0
+9.6 degrees this morning,9.6 degrees this morning,QUANTITY,,,en,1.0
+"December 30, 2025","December 30, 2025",DATE,,,en,1.0
+the sixth quarter,the sixth quarter,DATE,,,en,1.0
+2.92%,2.92%,PERCENT,,,en,1.0
+10th,10th,ORDINAL,,,en,1.0
+an additional 1 gram,an additional 1 gram,QUANTITY,,,en,1.0
+25 years,25 years,DATE,,,en,1.0
+4nm,4nm,QUANTITY,,,en,1.0
+Exynos Modem,Exynos Modem,PRODUCT,,,en,1.0
+Power 2,Power 2,PRODUCT,,,en,1.0
+more than 50%,more than 50%,PERCENT,,,en,1.0
+four years ago,four years ago,DATE,,,en,1.0
+2025 17:58,2025 17:58,QUANTITY,,,en,1.0
+the early morning and night,the early morning and night,TIME,,,en,1.0
+Early this morning,Early this morning,TIME,,,en,1.0
+the first three quarters of 2025,the first three quarters of 2025,DATE,,,en,1.0
+Nine,Nine,CARDINAL,,,en,1.0
+Nine Questions,Nine Questions,WORK_OF_ART,,,en,1.0
+Fairchild Semiconductor,Fairchild Semiconductor,WORK_OF_ART,,,en,1.0
+the beginning of this month,the beginning of this month,DATE,,,en,1.0
+"July 12, 2025","July 12, 2025",DATE,,,en,1.0
+December 27,December 27,DATE,,,en,1.0
+1.17 million,1.17 million,CARDINAL,,,en,1.0
+nearly 1/3,nearly 1/3,CARDINAL,,,en,1.0
+Google Gemini,Google Gemini,PRODUCT,,,en,1.0
+nearly one-third,nearly one-third,CARDINAL,,,en,1.0
+11 meters,11 meters,QUANTITY,,,en,1.0
+42 meters,42 meters,QUANTITY,,,en,1.0
+Snow Dragon 2,Snow Dragon 2,WORK_OF_ART,,,en,1.0
+Zhongshan Station,Zhongshan Station,FAC,,,en,1.0
+G10,G10,WORK_OF_ART,,,en,1.0
+"Pokémon"" G10","Pokémon"" G10",WORK_OF_ART,,,en,1.0
+the first quarter of 2023,the first quarter of 2023,DATE,,,en,1.0
+G9,G9,PRODUCT,,,en,1.0
+19.88%,19.88%,PERCENT,,,en,1.0
+Anker Innovation,Anker Innovation,WORK_OF_ART,,,en,1.0
+"December 26, 2025","December 26, 2025",DATE,,,en,1.0
+"up to 38,000 yen","up to 38,000 yen",MONEY,,,en,1.0
+January 2 to January 5,January 2 to January 5,DATE,,,en,1.0
+50 million,50 million,CARDINAL,,,en,1.0
+New Year Gift 2025｜Samsung,New Year Gift 2025｜Samsung,EVENT,,,en,1.0
+Switch 2.<ol><li,Switch 2.<ol><li,PRODUCT,,,en,1.0
+New Year Gift,New Year Gift,EVENT,,,en,1.0
+"as low as $1,7xx
+","as low as $1,7xx
+",MONEY,,,en,1.0
+"as low as $1,7xx</li></ol>","as low as $1,7xx</li></ol>",MONEY,,,en,1.0
+"as low as $1,7xx","as low as $1,7xx",MONEY,,,en,1.0
+more than 20 years,more than 20 years,DATE,,,en,1.0
+Cattle Raising Manual,Cattle Raising Manual,WORK_OF_ART,,,en,1.0
+the Rich List,the Rich List,WORK_OF_ART,,,en,1.0
+Rebirth 90,Rebirth 90,WORK_OF_ART,,,en,1.0
+Smart Cube,Smart Cube,PRODUCT,,,en,1.0
+1983,1983,DATE,,,en,1.0
+35.9GWh,35.9GWh,CARDINAL,,,en,1.0
+seventh,seventh,ORDINAL,,,en,1.0
+January to October this year,January to October this year,DATE,,,en,1.0
+ten years later,ten years later,DATE,,,en,1.0
+18650,18650,CARDINAL,,,en,1.0
+Dark Souls,Dark Souls,WORK_OF_ART,,,en,1.0
+Pokémon Crimson/Purple,Pokémon Crimson/Purple,PRODUCT,,,en,1.0
+6.9%,6.9%,PERCENT,,,en,1.0
+"more than 300,000 yuan","more than 300,000 yuan",MONEY,,,en,1.0
+Avatar Unleashing,Avatar Unleashing,WORK_OF_ART,,,en,1.0
+millions,millions,CARDINAL,,,en,1.0
+71.8%,71.8%,PERCENT,,,en,1.0
+US$244 million,US$244 million,MONEY,,,en,1.0
+mid-November this year,mid-November this year,DATE,,,en,1.0
+Pixel 9,Pixel 9,PRODUCT,,,en,1.0
+"the ""Notification Organizer""","the ""Notification Organizer""",LAW,,,en,1.0
+Google Android 16,Google Android 16,PRODUCT,,,en,1.0
+22.99,22.99,MONEY,,,en,1.0
+49.4 ounces,49.4 ounces,QUANTITY,,,en,1.0
+Naruto,Naruto,WORK_OF_ART,,,en,1.0
 Sherlock Holmes,Sherlock Holmes,WORK_OF_ART,,,en,1.0
 The Kindaichi Chronicle,The Kindaichi Chronicle,WORK_OF_ART,,,en,1.0
 Nearly two-thirds,Nearly two-thirds,CARDINAL,,,en,1.0
-millions,millions,CARDINAL,,,en,1.0
-Wednesday,Wednesday,DATE,,,en,1.0
 the next year,the next year,DATE,,,en,1.0
+secondly,secondly,ORDINAL,,,en,1.0
 season,season,DATE,,,en,1.0
 About two-thirds,About two-thirds,CARDINAL,,,en,1.0
 more than 33 million,more than 33 million,CARDINAL,,,en,1.0
 "Suddenly Gaining Momentum, All Things Are Unified","Suddenly Gaining Momentum, All Things Are Unified",WORK_OF_ART,,,en,1.0
 Year-end,Year-end,DATE,,,en,1.0
+Jiazi Gravity,Jiazi Gravity,EVENT,,,en,1.0
 "December 3, 2025","December 3, 2025",DATE,,,en,1.0
-evenings,evenings,TIME,,,en,1.0
 Year-End Ceremony,Year-End Ceremony,DATE,,,en,1.0
 "More than 2,000","More than 2,000",CARDINAL,,,en,1.0
 Tencent HY 2.0,Tencent HY 2.0,PRODUCT,,,en,1.0
 Hunyuan,Hunyuan,NORP,0.21428571428571427,0.42857142857142855,en,1.0
 Last November,Last November,DATE,,,en,1.0
-thirdly,thirdly,ORDINAL,,,en,1.0
-secondly,secondly,ORDINAL,,,en,1.0
-Three days,Three days,DATE,,,en,1.0
-Surveying Enemies in the Void,Surveying Enemies in the Void,WORK_OF_ART,,,en,1.0
-16 years,16 years,DATE,,,en,1.0
-several minutes,several minutes,TIME,,,en,1.0
-Jeddah Tower,Jeddah Tower,FAC,,,en,1.0
-October this year,October this year,DATE,,,en,1.0
-two thousand meters,two thousand meters,QUANTITY,,,en,1.0
-"Tuesday, December 9, 2025","Tuesday, December 9, 2025",DATE,,,en,1.0
-the 2025 International Space Robot Conference,the 2025 International Space Robot Conference,FAC,,,en,1.0
-Astrobee,Astrobee,WORK_OF_ART,,,en,1.0
-Samsung Galaxy Z TriFold,Samsung Galaxy Z TriFold,PRODUCT,,,en,1.0
-"21,999 yuan
-","21,999 yuan
-",MONEY,,,en,1.0
-"19,999 yuan
-","19,999 yuan
-",MONEY,,,en,1.0
-10 a.m.,10 a.m.,TIME,,,en,1.0
-"19,999 yuan","19,999 yuan",MONEY,,,en,1.0
-Weekly Summary,Weekly Summary,WORK_OF_ART,,,en,1.0
-Galaxy S25,Galaxy S25,PRODUCT,,,en,1.0
-8.5,8.5,CARDINAL,,,en,1.0
-300 yuan,300 yuan,MONEY,,,en,1.0
-iPhone 17,iPhone 17,PRODUCT,,,en,1.0
-the Rise Tower,the Rise Tower,FAC,,,en,1.0
-1209,1209,CARDINAL,,,en,1.0
-about 60,about 60,CARDINAL,,,en,1.0
-Musk responded</li,Musk responded</li,PRODUCT,,,en,1.0
-US$140 million,US$140 million,MONEY,,,en,1.0
-2 yuan</li,2 yuan</li,QUANTITY,,,en,1.0
-December 8th,December 8th,DATE,,,en,1.0
-1.7 billion,1.7 billion,CARDINAL,,,en,1.0
-8:01 Krypton｜Hema,8:01 Krypton｜Hema,TIME,,,en,1.0
-October last year,October last year,DATE,,,en,1.0
-about 18 months ago,about 18 months ago,DATE,,,en,1.0
-about 25%,about 25%,PERCENT,,,en,1.0
-| # Mirror News,| # Mirror News,MONEY,,,en,1.0
-Little Orange Books,Little Orange Books,WORK_OF_ART,,,en,1.0
-Little Red Books,Little Red Books,WORK_OF_ART,,,en,1.0
-73 days,73 days,DATE,,,en,1.0
-828 meters,828 meters,QUANTITY,,,en,1.0
-Aian,Aian,NORP,,,en,1.0
-"between January 1 and February 14, 2026","between January 1 and February 14, 2026",DATE,,,en,1.0
-a New Year's,a New Year's,EVENT,,,en,1.0
-National Good Car,National Good Car,WORK_OF_ART,,,en,1.0
-Remote Sensing 47,Remote Sensing 47,PRODUCT,,,en,1.0
-"February 28, 2026","February 28, 2026",DATE,,,en,1.0
-2025.12.13,2025.12.13,CARDINAL,,,en,1.0
-"the ""Hokkaido Sanriku Earthquake Caution Information""","the ""Hokkaido Sanriku Earthquake Caution Information""",EVENT,,,en,1.0
-Late at night,Late at night,TIME,,,en,1.0
-"2,000ï¼Œå†","2,000ï¼Œå†",MONEY,,,en,1.0
-2025ï½œè²·ä¸€ä»¶é€,2025ï½œè²·ä¸€ä»¶é€,CARDINAL,,,en,1.0
-16 consecutive years,16 consecutive years,DATE,,,en,1.0
-On The Loop,On The Loop,WORK_OF_ART,,,en,1.0
-Geek Park,Geek Park,FAC,,,en,1.0
-December 6th to 7th,December 6th to 7th,DATE,,,en,1.0
-Geek Park Innovation Festival 2026,Geek Park Innovation Festival 2026,EVENT,,,en,1.0
-280 million metric tons,280 million metric tons,QUANTITY,,,en,1.0
-The Good Business New Business Citizen,The Good Business New Business Citizen,WORK_OF_ART,,,en,1.0
-"November 28, 2025","November 28, 2025",DATE,,,en,1.0
-August this year,August this year,DATE,,,en,1.0
-Unleash the Avatar,Unleash the Avatar,WORK_OF_ART,,,en,1.0
-Avatar Unleashing,Avatar Unleashing,WORK_OF_ART,,,en,1.0
-Naruto,Naruto,WORK_OF_ART,,,en,1.0
-49.4 ounces,49.4 ounces,QUANTITY,,,en,1.0
-A Guide to Preventing Scamming when Buying a Car,A Guide to Preventing Scamming when Buying a Car,WORK_OF_ART,,,en,1.0
-a few days ago,a few days ago,DATE,,,en,1.0
-March,March,DATE,,,en,1.0
-the year | 36,the year | 36,DATE,,,en,1.0
-"the ""Financial Planning Law""","the ""Financial Planning Law""",LAW,,,en,1.0
-the 12th,the 12th,DATE,,,en,1.0
-51,51,CARDINAL,,,en,1.0
-Gemini 3,Gemini 3,PRODUCT,,,en,1.0
-three days,three days,DATE,,,en,1.0
-the past three days,the past three days,DATE,,,en,1.0
-one trillion tokens,one trillion tokens,QUANTITY,,,en,1.0
-Gemini,Gemini,EVENT,,,en,1.0
-1 trillion yuan,1 trillion yuan,MONEY,,,en,1.0
-0.5%,0.5%,PERCENT,,,en,1.0
-PlayStation,PlayStation,PRODUCT,,,en,1.0
-500 billion yuan,500 billion yuan,MONEY,,,en,1.0
-25 years ago,25 years ago,DATE,,,en,1.0
-the 100 trillion yuan mark,the 100 trillion yuan mark,MONEY,,,en,1.0
-97 trillion yuan,97 trillion yuan,MONEY,,,en,1.0
-one trillion yuan,one trillion yuan,MONEY,,,en,1.0
-only 500 billion,only 500 billion,CARDINAL,,,en,1.0
-Tensor G,Tensor G,PRODUCT,,,en,1.0
-30%</li></ol,30%</li></ol,CARDINAL,,,en,1.0
-2x,2x,CARDINAL,,,en,1.0
-27.81%,27.81%,PERCENT,,,en,1.0
-November 24th to 30th,November 24th to 30th,DATE,,,en,1.0
-Only 300,Only 300,CARDINAL,,,en,1.0
-lightning.<ol><li,lightning.<ol><li,CARDINAL,,,en,1.0
-22.99,22.99,MONEY,,,en,1.0
-International Human Rights Day,International Human Rights Day,EVENT,,,en,1.0
-Just a few days,Just a few days,DATE,,,en,1.0
-April 2019,April 2019,DATE,,,en,1.0
-US$100 million,US$100 million,MONEY,,,en,1.0
-New Oriental,New Oriental,NORP,,,en,1.0
-20 yuan,20 yuan,MONEY,,,en,1.0
-below 1%,below 1%,PERCENT,,,en,1.0
-88 million,88 million,CARDINAL,,,en,1.0
-60,60,CARDINAL,,,en,1.0
-MOVESPEED,MOVESPEED,PRODUCT,,,en,1.0
-2025｜Dyson,2025｜Dyson,NORP,,,en,1.0
-As early as the 1930s,As early as the 1930s,DATE,,,en,1.0
-last week's,last week's,DATE,,,en,1.0
-all night long,all night long,TIME,,,en,1.0
-Kindaichi Chronicles,Kindaichi Chronicles,WORK_OF_ART,,,en,1.0
-the 16th,the 16th,DATE,,,en,1.0
-Taiwan-Japan Baseball International Exchange Tournament,Taiwan-Japan Baseball International Exchange Tournament,EVENT,,,en,1.0
-the Tokyo Classic,the Tokyo Classic,EVENT,,,en,1.0
-February 25th to 28th next year,February 25th to 28th next year,DATE,,,en,1.0
-December 15,December 15,DATE,,,en,1.0
-December 16,December 16,DATE,,,en,1.0
-"December 18, 2024","December 18, 2024",DATE,,,en,1.0
-475.31,475.31,MONEY,,,en,1.0
-3.6%,3.6%,PERCENT,,,en,1.0
-This past weekend,This past weekend,DATE,,,en,1.0
-the 48th week,the 48th week,DATE,,,en,1.0
-the second half of the year,the second half of the year,DATE,,,en,1.0
-32 4,32 4,CARDINAL,,,en,1.0
-Six,Six,CARDINAL,,,en,1.0
+the Hong Kong Airport,the Hong Kong Airport,FAC,,,en,1.0
+Estonian,Estonian,NORP,,,en,1.0
+five in the morning,five in the morning,TIME,,,en,1.0
+a month,a month,DATE,,,en,1.0
+January to June 2025,January to June 2025,DATE,,,en,1.0
+Yesterday,Yesterday,DATE,,,en,1.0
+September this year,September this year,DATE,,,en,1.0
+Love and Deep Space,Love and Deep Space,WORK_OF_ART,,,en,1.0
+29,29,DATE,,,en,1.0
+May 2024,May 2024,DATE,,,en,1.0
+Clearwater Bay Phase II Fund,Clearwater Bay Phase II Fund,FAC,,,en,1.0
+Angel +,Angel +,FAC,,,en,1.0
+Anlan Power,Anlan Power,WORK_OF_ART,,,en,1.0
+42,42,CARDINAL,,,en,1.0
+@ Repeater 002,@ Repeater 002,PRODUCT,,,en,1.0
+Ft Chinese,Ft Chinese,NORP,,,en,1.0
 09:10,09:10,TIME,,,en,1.0
 more than a thousand years,more than a thousand years,DATE,,,en,1.0
 Copyright Maniacs,Copyright Maniacs,WORK_OF_ART,,,en,1.0
@@ -2215,22 +2222,143 @@ mid-November,mid-November,DATE,,,en,1.0
 Double 12 Shopping Festival,Double 12 Shopping Festival,EVENT,,,en,1.0
 Double Eleven,Double Eleven,WORK_OF_ART,,,en,1.0
 Level 5 (Weak,Level 5 (Weak,WORK_OF_ART,,,en,1.0
-More than 100,More than 100,CARDINAL,,,en,1.0
 Level 4 (Restricted,Level 4 (Restricted,WORK_OF_ART,,,en,1.0
-a month,a month,DATE,,,en,1.0
-five in the morning,five in the morning,TIME,,,en,1.0
-Estonian,Estonian,NORP,,,en,1.0
-the Hong Kong Airport,the Hong Kong Airport,FAC,,,en,1.0
-71.8%,71.8%,PERCENT,,,en,1.0
-US$244 million,US$244 million,MONEY,,,en,1.0
-mid-November this year,mid-November this year,DATE,,,en,1.0
-Pixel 9,Pixel 9,PRODUCT,,,en,1.0
-"the ""Notification Organizer""","the ""Notification Organizer""",LAW,,,en,1.0
-Google Android 16,Google Android 16,PRODUCT,,,en,1.0
-Ft Chinese,Ft Chinese,NORP,,,en,1.0
-@ Repeater 002,@ Repeater 002,PRODUCT,,,en,1.0
-42,42,CARDINAL,,,en,1.0
-Anlan Power,Anlan Power,WORK_OF_ART,,,en,1.0
+thirdly,thirdly,ORDINAL,,,en,1.0
+Three days,Three days,DATE,,,en,1.0
+9:1,9:1,CARDINAL,,,en,1.0
+"the ""Hokkaido Sanriku Earthquake Caution Information""","the ""Hokkaido Sanriku Earthquake Caution Information""",EVENT,,,en,1.0
+Jeddah Tower,Jeddah Tower,FAC,,,en,1.0
+October this year,October this year,DATE,,,en,1.0
+two thousand meters,two thousand meters,QUANTITY,,,en,1.0
+the Rise Tower,the Rise Tower,FAC,,,en,1.0
+828 meters,828 meters,QUANTITY,,,en,1.0
+Aian,Aian,NORP,,,en,1.0
+"between January 1 and February 14, 2026","between January 1 and February 14, 2026",DATE,,,en,1.0
+a New Year's,a New Year's,EVENT,,,en,1.0
+National Good Car,National Good Car,WORK_OF_ART,,,en,1.0
+Remote Sensing 47,Remote Sensing 47,PRODUCT,,,en,1.0
+"February 28, 2026","February 28, 2026",DATE,,,en,1.0
+2025.12.13,2025.12.13,CARDINAL,,,en,1.0
+Late at night,Late at night,TIME,,,en,1.0
+Surveying Enemies in the Void,Surveying Enemies in the Void,WORK_OF_ART,,,en,1.0
+"2,000ï¼Œå†","2,000ï¼Œå†",MONEY,,,en,1.0
+2025ï½œè²·ä¸€ä»¶é€,2025ï½œè²·ä¸€ä»¶é€,CARDINAL,,,en,1.0
+16 consecutive years,16 consecutive years,DATE,,,en,1.0
+On The Loop,On The Loop,WORK_OF_ART,,,en,1.0
+Geek Park,Geek Park,FAC,,,en,1.0
+December 6th to 7th,December 6th to 7th,DATE,,,en,1.0
+Geek Park Innovation Festival 2026,Geek Park Innovation Festival 2026,EVENT,,,en,1.0
+280 million metric tons,280 million metric tons,QUANTITY,,,en,1.0
+The Good Business New Business Citizen,The Good Business New Business Citizen,WORK_OF_ART,,,en,1.0
+"November 28, 2025","November 28, 2025",DATE,,,en,1.0
+August this year,August this year,DATE,,,en,1.0
+Unleash the Avatar,Unleash the Avatar,WORK_OF_ART,,,en,1.0
+one thousand meters,one thousand meters,QUANTITY,,,en,1.0
+more than two consecutive years,more than two consecutive years,DATE,,,en,1.0
+56%,56%,PERCENT,,,en,1.0
+US$64.05 billion,US$64.05 billion,MONEY,,,en,1.0
+16 years,16 years,DATE,,,en,1.0
+several minutes,several minutes,TIME,,,en,1.0
+evenings,evenings,TIME,,,en,1.0
+weekday,weekday,DATE,,,en,1.0
+Operation Gatekeeper,Operation Gatekeeper,WORK_OF_ART,,,en,1.0
+August 2024,August 2024,DATE,,,en,1.0
+YouTube,YouTube,PRODUCT,,,en,1.0
+the 10th of this month,the 10th of this month,DATE,,,en,1.0
+Facebook and YouTube,Facebook and YouTube,WORK_OF_ART,,,en,1.0
+every six months,every six months,DATE,,,en,1.0
+Inkslan,Inkslan,PRODUCT,,,en,1.0
+114,114,CARDINAL,,,en,1.0
+two days ago,two days ago,DATE,,,en,1.0
+Commercial Insurance Catalog,Commercial Insurance Catalog,WORK_OF_ART,,,en,1.0
+Millions,Millions,CARDINAL,,,en,1.0
+Falun Gong,Falun Gong,FAC,,,en,1.0
+March 2024,March 2024,DATE,,,en,1.0
+Innosec,Innosec,NORP,,,en,1.0
+17:44,17:44,CARDINAL,,,en,1.0
+Two Heroes Battle,Two Heroes Battle,WORK_OF_ART,,,en,1.0
+30 kilometers per hour,30 kilometers per hour,QUANTITY,,,en,1.0
+10:39,10:39,TIME,,,en,1.0
+May 2010,May 2010,DATE,,,en,1.0
+41.1%,41.1%,PERCENT,,,en,1.0
+the 25th consecutive month,the 25th consecutive month,DATE,,,en,1.0
+January to June this year,January to June this year,DATE,,,en,1.0
+12.761 billion yuan,12.761 billion yuan,MONEY,,,en,1.0
+6.1%,6.1%,PERCENT,,,en,1.0
+at least two years,at least two years,DATE,,,en,1.0
+Spring Festival Gala,Spring Festival Gala,EVENT,,,en,1.0
+billion-yen,billion-yen,MONEY,,,en,1.0
+Park Lane,Park Lane,FAC,,,en,1.0
+“App Catalog”,“App Catalog”,WORK_OF_ART,,,en,1.0
+App Catalog,App Catalog,WORK_OF_ART,,,en,1.0
+App Directory,App Directory,WORK_OF_ART,,,en,1.0
+Fanzigou Park,Fanzigou Park,FAC,,,en,1.0
+the Taipei City Millennium Lions Club,the Taipei City Millennium Lions Club,FAC,,,en,1.0
+Love +,Love +,WORK_OF_ART,,,en,1.0
+approximately $140 billion,approximately $140 billion,MONEY,,,en,1.0
+the beginning of 2023,the beginning of 2023,DATE,,,en,1.0
+1.6 million,1.6 million,CARDINAL,,,en,1.0
+several years,several years,DATE,,,en,1.0
+nearly 493 million,nearly 493 million,MONEY,,,en,1.0
+nearly 30%,nearly 30%,PERCENT,,,en,1.0
+"126,000","126,000",MONEY,,,en,1.0
+More than two months,More than two months,DATE,,,en,1.0
+A Guide to Preventing Scamming when Buying a Car,A Guide to Preventing Scamming when Buying a Car,WORK_OF_ART,,,en,1.0
+Just a few days,Just a few days,DATE,,,en,1.0
+April 2019,April 2019,DATE,,,en,1.0
+US$100 million,US$100 million,MONEY,,,en,1.0
+New Oriental,New Oriental,NORP,,,en,1.0
+20 yuan,20 yuan,MONEY,,,en,1.0
+below 1%,below 1%,PERCENT,,,en,1.0
+88 million,88 million,CARDINAL,,,en,1.0
+60,60,CARDINAL,,,en,1.0
+up to,up to,MONEY,,,en,1.0
+"2,140 yuan","2,140 yuan",MONEY,,,en,1.0
+December 18,December 18,DATE,,,en,1.0
+1110,1110,CARDINAL,,,en,1.0
+AI Night God,AI Night God,WORK_OF_ART,,,en,1.0
+the Christmas season,the Christmas season,DATE,,,en,1.0
+only two,only two,CARDINAL,,,en,1.0
+Samsung Galaxy S26,Samsung Galaxy S26,PRODUCT,,,en,1.0
+2nm GAA,2nm GAA,QUANTITY,,,en,1.0
+39%</li></ol,39%</li></ol,CARDINAL,,,en,1.0
+39%,39%,PERCENT,,,en,1.0
+May 2023,May 2023,DATE,,,en,1.0
+mind.<ol><li,mind.<ol><li,CARDINAL,,,en,1.0
+Christmas Gift 2025 |,Christmas Gift 2025 |,DATE,,,en,1.0
+This Christmas,This Christmas,DATE,,,en,1.0
+"7,500","7,500",CARDINAL,,,en,1.0
+Dawn Raid,Dawn Raid,WORK_OF_ART,,,en,1.0
+Final Fantasy VII Remake INTERGRADE,Final Fantasy VII Remake INTERGRADE,WORK_OF_ART,,,en,1.0
+FF 7 Remake,FF 7 Remake,WORK_OF_ART,,,en,1.0
+17 years,17 years,DATE,,,en,1.0
+October 1 this year,October 1 this year,DATE,,,en,1.0
+more than 2,more than 2,CARDINAL,,,en,1.0
+the Guangzhou Auto Show,the Guangzhou Auto Show,EVENT,,,en,1.0
+five consecutive months,five consecutive months,DATE,,,en,1.0
+the same period,the same period,DATE,,,en,1.0
+30.3%,30.3%,PERCENT,,,en,1.0
+only 5.7%,only 5.7%,PERCENT,,,en,1.0
+January to October 2025,January to October 2025,DATE,,,en,1.0
+pre-Christmas,pre-Christmas,DATE,,,en,1.0
+MOVESPEED,MOVESPEED,PRODUCT,,,en,1.0
+2025｜Dyson,2025｜Dyson,NORP,,,en,1.0
+As early as the 1930s,As early as the 1930s,DATE,,,en,1.0
+0.5%,0.5%,PERCENT,,,en,1.0
+25 years ago,25 years ago,DATE,,,en,1.0
+the 100 trillion yuan mark,the 100 trillion yuan mark,MONEY,,,en,1.0
+97 trillion yuan,97 trillion yuan,MONEY,,,en,1.0
+one trillion yuan,one trillion yuan,MONEY,,,en,1.0
+only 500 billion,only 500 billion,CARDINAL,,,en,1.0
+Tensor G,Tensor G,PRODUCT,,,en,1.0
+30%</li></ol,30%</li></ol,CARDINAL,,,en,1.0
+2x,2x,CARDINAL,,,en,1.0
+27.81%,27.81%,PERCENT,,,en,1.0
+November 24th to 30th,November 24th to 30th,DATE,,,en,1.0
+the 48th week,the 48th week,DATE,,,en,1.0
+the second half of the year,the second half of the year,DATE,,,en,1.0
+32 4,32 4,CARDINAL,,,en,1.0
+More than 100,More than 100,CARDINAL,,,en,1.0
 thousands of miles,thousands of miles,QUANTITY,,,en,1.0
 the September 21 Earthquake,the September 21 Earthquake,EVENT,,,en,1.0
 the Tiangong Temple,the Tiangong Temple,FAC,,,en,1.0
@@ -2242,16 +2370,33 @@ World War II,World War II,EVENT,,,en,1.0
 Qiwu Palace,Qiwu Palace,FAC,,,en,1.0
 Communist,Communist,NORP,,,en,1.0
 three weeks,three weeks,DATE,,,en,1.0
-nearly 493 million,nearly 493 million,MONEY,,,en,1.0
-6.1%,6.1%,PERCENT,,,en,1.0
-12.761 billion yuan,12.761 billion yuan,MONEY,,,en,1.0
-January to June this year,January to June this year,DATE,,,en,1.0
-January to June 2025,January to June 2025,DATE,,,en,1.0
-Yesterday,Yesterday,DATE,,,en,1.0
-September this year,September this year,DATE,,,en,1.0
-Love and Deep Space,Love and Deep Space,WORK_OF_ART,,,en,1.0
-29,29,DATE,,,en,1.0
-May 2024,May 2024,DATE,,,en,1.0
-Clearwater Bay Phase II Fund,Clearwater Bay Phase II Fund,FAC,,,en,1.0
-Angel +,Angel +,FAC,,,en,1.0
-Flying Life 3,Flying Life 3,WORK_OF_ART,,,en,1.0
+500 billion yuan,500 billion yuan,MONEY,,,en,1.0
+1 trillion yuan,1 trillion yuan,MONEY,,,en,1.0
+International Human Rights Day,International Human Rights Day,EVENT,,,en,1.0
+Gemini,Gemini,EVENT,,,en,1.0
+last week's,last week's,DATE,,,en,1.0
+Kindaichi Chronicles,Kindaichi Chronicles,WORK_OF_ART,,,en,1.0
+the 16th,the 16th,DATE,,,en,1.0
+Taiwan-Japan Baseball International Exchange Tournament,Taiwan-Japan Baseball International Exchange Tournament,EVENT,,,en,1.0
+the Tokyo Classic,the Tokyo Classic,EVENT,,,en,1.0
+February 25th to 28th next year,February 25th to 28th next year,DATE,,,en,1.0
+December 15,December 15,DATE,,,en,1.0
+December 16,December 16,DATE,,,en,1.0
+"December 18, 2024","December 18, 2024",DATE,,,en,1.0
+475.31,475.31,MONEY,,,en,1.0
+3.6%,3.6%,PERCENT,,,en,1.0
+This past weekend,This past weekend,DATE,,,en,1.0
+all night long,all night long,TIME,,,en,1.0
+lightning.<ol><li,lightning.<ol><li,CARDINAL,,,en,1.0
+PlayStation,PlayStation,PRODUCT,,,en,1.0
+Only 300,Only 300,CARDINAL,,,en,1.0
+March,March,DATE,,,en,1.0
+the year | 36,the year | 36,DATE,,,en,1.0
+"the ""Financial Planning Law""","the ""Financial Planning Law""",LAW,,,en,1.0
+the 12th,the 12th,DATE,,,en,1.0
+51,51,CARDINAL,,,en,1.0
+Gemini 3,Gemini 3,PRODUCT,,,en,1.0
+three days,three days,DATE,,,en,1.0
+the past three days,the past three days,DATE,,,en,1.0
+one trillion tokens,one trillion tokens,QUANTITY,,,en,1.0
+February 28,February 28,DATE,,,en,1.0
