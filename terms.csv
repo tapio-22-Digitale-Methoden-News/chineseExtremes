@@ -31,13 +31,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0dbfb0c2b4',extremes,Cold Wave,#a7e9fa,wmo,寒潮中国,2026-01-15T10:56:00+00:00,China,0.6624803678610716,2,2,zh,EAS,Asia
 'a93e695a8b',extremes,Cold Wave,#a7e9fa,wmo,寒潮哈巴河縣,2026-02-12T04:37:00+00:00,China,0.6594756925182407,2,2,zh,EAS,Asia
 'b03391eb46',extremes,Earthquake,#870007,usgs,庫車地震,2026-02-25T04:32:00+00:00,China,0.6587420527153719,1,2,zh,ECA,Asia
-'0590ff39de',extremes,Cold Wave,#a7e9fa,wmo,冰冻界首,2026-02-15T04:35:00+00:00,China,0.6530760511085577,0,1,zh,EAS,Asia
 '71302c866a',extremes,Cold Wave,#a7e9fa,wmo,方正縣寒潮,2026-02-14T04:21:00+00:00,China,0.6527934477462474,2,1,zh,EAS,Asia
 'eec78ee2ca',extremes,Cold Wave,#a7e9fa,wmo,济阳县结冰,2026-02-14T04:21:00+00:00,China,0.6521738415133589,2,2,zh,EAS,Asia
 'ba22a8f22a',extremes,Cold Wave,#a7e9fa,wmo,松原市寒潮,2026-02-15T04:35:00+00:00,China,0.6518189038326121,1,2,zh,EAS,Asia
 '033fd74e74',extremes,Cold Wave,#a7e9fa,wmo,冻结津市,2026-02-16T04:38:00+00:00,China,0.6512635313855196,2,2,zh,EAS,Asia
 '99d17f9cab',extremes,Wildfire,#d60d2b,wmo,水城區山火,2026-02-27T04:26:00+00:00,China,0.6497583235355375,1,2,zh,EAS,Asia
-'2578fe15a9',extremes,Cold Wave,#a7e9fa,wmo,寒潮方贤,2026-02-15T04:35:00+00:00,China,0.6486764151736631,0,1,zh,EAS,Asia
 'ce8a0a708f',extremes,Cold Wave,#a7e9fa,wmo,麻陽苗族自治縣冰凍,2026-02-15T04:35:00+00:00,China,0.6477931616330036,0,1,zh,EAS,Asia
 'c863340f78',extremes,Cold Wave,#a7e9fa,wmo,慈利縣寒潮,2026-02-16T04:38:00+00:00,China,0.6466059399619972,0,1,zh,EAS,Asia
 'a3bf116e36',extremes,Wildfire,#d60d2b,wmo,马龙区山火,2026-01-27T03:58:00+00:00,China,0.641491697896512,2,1,zh,EAS,Asia
@@ -56,6 +54,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '34ef5f77da',extremes,Wildfire,#d60d2b,wmo,南澗彝族自治縣山火,2026-01-24T03:48:00+00:00,China,0.6318510559647468,1,1,zh,EAS,Asia
 'af33bdfb50',extremes,Wildfire,#d60d2b,wmo,罗平县山火,2026-02-23T04:37:00+00:00,China,0.6316498796786749,1,1,zh,EAS,Asia
 '918f230cd2',extremes,Wildfire,#d60d2b,wmo,華寧縣山火,2026-01-23T04:03:00+00:00,China,0.6312150998535725,1,1,zh,EAS,Asia
+'0590ff39de',extremes,Cold Wave,#a7e9fa,wmo,冰冻界首,2026-02-15T04:35:00+00:00,China,0.631014733442274,1,2,zh,EAS,Asia
 '23f678bf35',extremes,Wildfire,#d60d2b,wmo,沾益区山火,2026-01-28T03:56:00+00:00,China,0.6305009537928434,1,1,zh,EAS,Asia
 '757733aa04',extremes,Wildfire,#d60d2b,wmo,思茅区山火,2026-02-07T04:19:00+00:00,China,0.630460009972558,1,1,zh,EAS,Asia
 '5788141657',extremes,Wildfire,#d60d2b,wmo,野火芒市,2026-02-05T04:27:00+00:00,China,0.6302809514615862,1,1,zh,EAS,Asia
@@ -153,6 +152,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3bc04ed134',extremes,Cold Wave,#a7e9fa,wmo,寒潮科尔沁左中旗,2026-02-15T04:35:00+00:00,China,0.5571840786527047,1,1,zh,EAS,Asia
 'ff701e89b2',extremes,Cold Wave,#a7e9fa,wmo,巢湖市寒潮,2026-02-15T04:35:00+00:00,China,0.5551606500486753,1,1,zh,EAS,Asia
 'f855ef6f62',extremes,Cold Wave,#a7e9fa,wmo,长阳土家族自治县寒潮,2026-02-15T04:35:00+00:00,China,0.5547212859509081,1,1,zh,EAS,Asia
+'2578fe15a9',extremes,Cold Wave,#a7e9fa,wmo,寒潮方贤,2026-02-15T04:35:00+00:00,China,0.5513749528976136,1,1,zh,EAS,Asia
 '4196612fd2',extremes,Wildfire,#d60d2b,wmo,寧蒗彝族自治縣山火,2026-02-06T04:27:00+00:00,China,0.5443677545569442,2,1,zh,EAS,Asia
 '687310ea7d',extremes,Wildfire,#d60d2b,wmo,祥云县山火,2026-01-24T03:48:00+00:00,China,0.543880692247868,2,1,zh,EAS,Asia
 '1663378840',extremes,Wildfire,#d60d2b,wmo,永平縣山火,2026-01-24T03:48:00+00:00,China,0.5437631550676499,2,1,zh,EAS,Asia
