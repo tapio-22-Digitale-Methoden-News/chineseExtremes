@@ -34,8 +34,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eec78ee2ca',extremes,Cold Wave,#a7e9fa,wmo,济阳县结冰,2026-02-14T04:21:00+00:00,China,0.6521738415133589,2,2,zh,EAS,Asia
 'ba22a8f22a',extremes,Cold Wave,#a7e9fa,wmo,松原市寒潮,2026-02-15T04:35:00+00:00,China,0.6518189038326121,1,2,zh,EAS,Asia
 '033fd74e74',extremes,Cold Wave,#a7e9fa,wmo,冻结津市,2026-02-16T04:38:00+00:00,China,0.6512635313855196,2,2,zh,EAS,Asia
+'14631112f6',extremes,Cold Wave,#a7e9fa,wmo,冰凍長寧城,2026-02-15T04:35:00+00:00,China,0.6510994900628182,1,2,zh,EAS,Asia
 '99d17f9cab',extremes,Wildfire,#d60d2b,wmo,水城區山火,2026-02-27T04:26:00+00:00,China,0.6497583235355375,1,2,zh,EAS,Asia
-'14631112f6',extremes,Cold Wave,#a7e9fa,wmo,冰凍長寧城,2026-02-15T04:35:00+00:00,China,0.647822876544492,0,1,zh,EAS,Asia
 '71747ed39a',extremes,Earthquake,#870007,usgs,圖姆蘇克地震,2026-02-18T04:33:00+00:00,China,0.6452795206406169,0,1,zh,ECA,Asia
 'a3bf116e36',extremes,Wildfire,#d60d2b,wmo,马龙区山火,2026-01-27T03:58:00+00:00,China,0.641491697896512,2,1,zh,EAS,Asia
 'd4886dfdf6',extremes,Wildfire,#d60d2b,wmo,兰坪野火,2026-02-09T04:39:00+00:00,China,0.6409954159772667,1,1,zh,EAS,Asia
