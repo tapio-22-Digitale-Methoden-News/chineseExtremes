@@ -37,7 +37,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '31919931b3',extremes,Landslide,#572c03,wmo,中國岩崩,2026-03-01T04:35:00+00:00,China,0.6494288512524979,2,1,zh,EAS,Asia
 '71747ed39a',extremes,Earthquake,#870007,usgs,圖姆蘇克地震,2026-02-18T04:33:00+00:00,China,0.6489376375445244,1,2,zh,ECA,Asia
 'a3bf116e36',extremes,Wildfire,#d60d2b,wmo,马龙区山火,2026-01-27T03:58:00+00:00,China,0.641491697896512,2,1,zh,EAS,Asia
-'43e4e698cd',extremes,Cold Wave,#a7e9fa,wmo,寒流西洞庭管理區,2026-02-16T04:38:00+00:00,China,0.640950038607235,0,1,zh,EAS,Asia
 '0d1382de33',extremes,Cold Wave,#a7e9fa,wmo,惠民县寒潮,2026-02-15T04:35:00+00:00,China,0.6408352083372727,0,1,zh,EAS,Asia
 '9511106708',extremes,Fog,#d60d2b,wmo,瑞安市霧,2026-02-14T04:21:00+00:00,China,0.639726243287043,0,1,zh,EAS,Asia
 '96c0ad700f',extremes,Wildfire,#d60d2b,wmo,华坪县山火,2026-02-10T04:43:00+00:00,China,0.6393654921363285,1,1,zh,EAS,Asia
@@ -81,6 +80,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '60b84c9141',extremes,Cold Wave,#a7e9fa,wmo,冰冻土默右旗,2026-01-30T04:21:00+00:00,China,0.6217105610994549,1,1,zh,EAS,Asia
 'e3c542752a',extremes,Cold Wave,#a7e9fa,wmo,新洲區寒潮,2026-02-15T04:35:00+00:00,China,0.6213334304024477,2,1,zh,EAS,Asia
 'c6051c16dc',extremes,Wildfire,#d60d2b,wmo,深圳山火,2026-02-11T04:41:00+00:00,China,0.6213056000129482,1,1,zh,EAS,Asia
+'43e4e698cd',extremes,Cold Wave,#a7e9fa,wmo,寒流西洞庭管理區,2026-02-16T04:38:00+00:00,China,0.6201075628161496,1,2,zh,EAS,Asia
 '5884b20fd9',extremes,Cold Wave,#a7e9fa,wmo,鐵嶺市寒潮,2026-02-15T04:35:00+00:00,China,0.6179529262384686,1,1,zh,EAS,Asia
 'fd071fede5',extremes,Landslide,#572c03,wmo,赣州市山体滑坡,2026-03-02T04:27:00+00:00,China,0.6167530983355275,1,1,zh,EAS,Asia
 '92a69688b9',extremes,Cold Wave,#a7e9fa,wmo,瀋陽市冰凍,2026-02-10T04:43:00+00:00,China,0.6160669339287006,1,1,zh,EAS,Asia
