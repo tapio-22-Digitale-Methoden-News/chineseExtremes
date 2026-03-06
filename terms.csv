@@ -3,12 +3,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b6e3b7c81',extremes,Wildfire,#d60d2b,wmo,野火宣威市,2026-01-27T03:58:00+00:00,China,0.7365387095328579,1,2,zh,EAS,Asia
 'ff2f852c68',extremes,Storm,#b3b2b1,wmo,中國風暴潮,2026-01-15T10:56:00+00:00,China,0.7337628693460134,2,3,zh,EAS,Asia
 'f030b69f93',extremes,Fog,#d60d2b,wmo,文登區霧,2026-01-15T12:14:00+00:00,China,0.7318653694084193,1,2,zh,EAS,Asia
-'88f2d4b487',extremes,Fog,#d60d2b,wmo,雾气释放区域,2026-01-15T10:56:00+00:00,China,0.7312651128551281,1,2,zh,EAS,Asia
-'15128fcbb5',extremes,Wildfire,#d60d2b,wmo,野火游仙,2026-01-15T10:56:00+00:00,China,0.7311174243144722,1,2,zh,EAS,Asia
-'1da75240ab',extremes,Wildfire,#d60d2b,wmo,山火天元区,2026-01-15T10:56:00+00:00,China,0.7289564900526836,1,2,zh,EAS,Asia
 '835d4f3cff',extremes,Earthquake,#870007,usgs,太平地震,2026-02-26T04:28:00+00:00,China,0.725912234257313,1,3,zh,SAS,Asia
 '0ea3de86e9',extremes,Wildfire,#d60d2b,wmo,野火中国,2026-01-15T10:56:00+00:00,China,0.71601107547275,2,3,zh,EAS,Asia
-'5886848c6d',extremes,Wildfire,#d60d2b,wmo,野火景谷,2026-02-15T04:35:00+00:00,China,0.7130252122828556,1,2,zh,EAS,Asia
 '99631ed9b4',extremes,Cold Wave,#a7e9fa,wmo,故城县结冰,2026-02-15T04:35:00+00:00,China,0.7087969532940038,1,2,zh,EAS,Asia
 '6d8d342223',extremes,Earthquake,#870007,usgs,霍什拉夫地震,2026-02-08T04:43:00+00:00,China,0.7064080830086044,1,2,zh,ECA,Asia
 '4512837dc7',extremes,Wildfire,#d60d2b,wmo,大理市野火,2026-01-25T04:06:00+00:00,China,0.6992092662710278,1,2,zh,EAS,Asia
@@ -37,7 +33,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '71747ed39a',extremes,Earthquake,#870007,usgs,圖姆蘇克地震,2026-02-18T04:33:00+00:00,China,0.6489376375445244,1,2,zh,ECA,Asia
 '9511106708',extremes,Fog,#d60d2b,wmo,瑞安市霧,2026-02-14T04:21:00+00:00,China,0.6451174417939866,1,2,zh,EAS,Asia
 'a3bf116e36',extremes,Wildfire,#d60d2b,wmo,马龙区山火,2026-01-27T03:58:00+00:00,China,0.641491697896512,2,1,zh,EAS,Asia
-'96c0ad700f',extremes,Wildfire,#d60d2b,wmo,华坪县山火,2026-02-10T04:43:00+00:00,China,0.6393654921363285,1,1,zh,EAS,Asia
 'e9a5622b49',extremes,Wildfire,#d60d2b,wmo,澄江市山火,2026-02-15T04:35:00+00:00,China,0.6391705506422409,1,1,zh,EAS,Asia
 '5c1bd23e01',extremes,Wildfire,#d60d2b,wmo,洱源县山火,2026-02-16T04:38:00+00:00,China,0.6388662575282925,1,1,zh,EAS,Asia
 '27038d2177',extremes,Wildfire,#d60d2b,wmo,宾川县山火,2026-01-24T03:48:00+00:00,China,0.6386266414634552,1,1,zh,EAS,Asia
@@ -102,6 +97,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e87a0642f6',extremes,Cold Wave,#a7e9fa,wmo,太僕寺旗寒潮,2026-02-14T04:21:00+00:00,China,0.6070942162634981,1,1,zh,EAS,Asia
 '0e7820aadc',extremes,Cold Wave,#a7e9fa,wmo,长乐县寒潮,2026-02-14T04:21:00+00:00,China,0.607026000512138,1,1,zh,EAS,Asia
 'e3ca6abcd8',extremes,Cold Wave,#a7e9fa,wmo,冰冻察哈尔右中旗,2026-02-14T04:21:00+00:00,China,0.6068501647976596,1,1,zh,EAS,Asia
+'5886848c6d',extremes,Wildfire,#d60d2b,wmo,野火景谷,2026-02-15T04:35:00+00:00,China,0.6060715654404273,2,1,zh,EAS,Asia
 '6155fc97b6',extremes,Wildfire,#d60d2b,wmo,野火西盟瓦祖紫指仙,2026-02-06T04:27:00+00:00,China,0.6051479101127784,1,1,zh,EAS,Asia
 '00d251f112',extremes,Cold Wave,#a7e9fa,wmo,臨河地區結冰,2026-01-30T04:21:00+00:00,China,0.6047219592804203,1,1,zh,EAS,Asia
 '76fe9c35a7',extremes,Cold Wave,#a7e9fa,wmo,凍住銅山縣,2026-02-15T04:35:00+00:00,China,0.6036708555200544,1,1,zh,EAS,Asia
@@ -170,6 +166,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd4886dfdf6',extremes,Wildfire,#d60d2b,wmo,兰坪野火,2026-02-09T04:39:00+00:00,China,0.5449961185806768,2,1,zh,EAS,Asia
 '0d1382de33',extremes,Cold Wave,#a7e9fa,wmo,惠民县寒潮,2026-02-15T04:35:00+00:00,China,0.5447099270866818,1,1,zh,EAS,Asia
 '4196612fd2',extremes,Wildfire,#d60d2b,wmo,寧蒗彝族自治縣山火,2026-02-06T04:27:00+00:00,China,0.5443677545569442,2,1,zh,EAS,Asia
+'96c0ad700f',extremes,Wildfire,#d60d2b,wmo,华坪县山火,2026-02-10T04:43:00+00:00,China,0.5436106833158793,2,1,zh,EAS,Asia
 '005315f555',extremes,Wildfire,#d60d2b,wmo,维西傈僳族自治县山火,2026-02-09T04:39:00+00:00,China,0.5430316515482535,2,1,zh,EAS,Asia
 '3995590796',extremes,Wildfire,#d60d2b,wmo,江川區山火,2026-02-07T04:19:00+00:00,China,0.5429261853304623,2,1,zh,EAS,Asia
 '9c63c94697',extremes,Wildfire,#d60d2b,wmo,墨江哈尼族自治县山火,2026-02-09T04:39:00+00:00,China,0.542768784569644,2,1,zh,EAS,Asia
