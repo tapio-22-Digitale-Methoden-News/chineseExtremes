@@ -49,6 +49,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '94e628bbb7',extremes,Wildfire,#d60d2b,wmo,野火 麒麟区,2026-01-29T04:19:00+00:00,China,0.6335369190217359,1,1,zh,EAS,Asia
 '9b06fe6245',extremes,Drought,#edc291,edo,圣诞岛干旱,2026-03-01T04:35:00+00:00,Christmas Island,0.6331484078023845,0,1,zh,SIO,Oceania
 'c274103f1d',extremes,Cold Wave,#a7e9fa,wmo,冰凍中國縣,2026-02-16T04:38:00+00:00,China,0.6327068203723666,0,1,zh,EAS,Asia
+'3f6b98ea1f',extremes,Wildfire,#d60d2b,wmo,茂名市轄野火,2026-03-07T04:12:00+00:00,China,0.632437762685723,0,1,zh,EAS,Asia
 'af33bdfb50',extremes,Wildfire,#d60d2b,wmo,罗平县山火,2026-02-23T04:37:00+00:00,China,0.6316498796786749,1,1,zh,EAS,Asia
 'bf154493e3',extremes,Cold Wave,#a7e9fa,wmo,桑植县结冰,2026-02-16T04:38:00+00:00,China,0.6314969133700231,0,1,zh,EAS,Asia
 '0590ff39de',extremes,Cold Wave,#a7e9fa,wmo,冰冻界首,2026-02-15T04:35:00+00:00,China,0.631014733442274,1,2,zh,EAS,Asia
