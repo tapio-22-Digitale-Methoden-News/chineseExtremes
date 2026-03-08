@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'a3bf116e36',extremes,Wildfire,#d60d2b,wmo,马龙区山火,2026-02-16T04:38:00+00:00,China,0.7520315418210108,0,1,zh,EAS,Asia
 '6b6e3b7c81',extremes,Wildfire,#d60d2b,wmo,野火宣威市,2026-01-27T03:58:00+00:00,China,0.7365387095328579,1,2,zh,EAS,Asia
 'ff2f852c68',extremes,Storm,#b3b2b1,wmo,中國風暴潮,2026-01-15T10:56:00+00:00,China,0.7337628693460134,2,3,zh,EAS,Asia
 '835d4f3cff',extremes,Earthquake,#870007,usgs,太平地震,2026-02-26T04:28:00+00:00,China,0.725912234257313,1,3,zh,SAS,Asia
@@ -40,11 +41,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1663378840',extremes,Wildfire,#d60d2b,wmo,永平县山火,2026-02-13T04:34:00+00:00,China,0.6346155958171298,1,1,zh,EAS,Asia
 '2ab4d25ef8',extremes,Cold Wave,#a7e9fa,wmo,本溪市寒潮,2026-02-11T04:41:00+00:00,China,0.6343784119354424,1,1,zh,EAS,Asia
 '5d979ecdd5',extremes,Wildfire,#d60d2b,wmo,瑞麗山火,2026-02-04T04:21:00+00:00,China,0.6342888182674112,2,2,zh,EAS,Asia
+'5286ca298c',extremes,Wildfire,#d60d2b,wmo,曲江区山火,2026-02-25T04:32:00+00:00,China,0.6342651727573653,0,1,zh,EAS,Asia
 '94e628bbb7',extremes,Wildfire,#d60d2b,wmo,野火 麒麟区,2026-01-29T04:19:00+00:00,China,0.6335369190217359,1,1,zh,EAS,Asia
 '935b5342fa',extremes,Wildfire,#d60d2b,wmo,陸良縣山火,2026-02-18T04:34:00+00:00,China,0.6334217316837778,1,1,zh,EAS,Asia
 '9b06fe6245',extremes,Drought,#edc291,edo,圣诞岛干旱,2026-03-01T04:35:00+00:00,Christmas Island,0.6331484078023845,0,1,zh,SIO,Oceania
 'c274103f1d',extremes,Cold Wave,#a7e9fa,wmo,冰凍中國縣,2026-02-16T04:38:00+00:00,China,0.6327068203723666,0,1,zh,EAS,Asia
 '3f6b98ea1f',extremes,Wildfire,#d60d2b,wmo,茂名市轄野火,2026-03-07T04:12:00+00:00,China,0.632437762685723,0,1,zh,EAS,Asia
+'54f43d1c54',extremes,Wildfire,#d60d2b,wmo,乳源瑶族自治县山火,2026-03-08T04:24:00+00:00,China,0.6321815624744914,0,1,zh,EAS,Asia
 'af33bdfb50',extremes,Wildfire,#d60d2b,wmo,罗平县山火,2026-02-23T04:37:00+00:00,China,0.6316498796786749,1,1,zh,EAS,Asia
 'bf154493e3',extremes,Cold Wave,#a7e9fa,wmo,桑植县结冰,2026-02-16T04:38:00+00:00,China,0.6314969133700231,0,1,zh,EAS,Asia
 '0590ff39de',extremes,Cold Wave,#a7e9fa,wmo,冰冻界首,2026-02-15T04:35:00+00:00,China,0.631014733442274,1,2,zh,EAS,Asia
