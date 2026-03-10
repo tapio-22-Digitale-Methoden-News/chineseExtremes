@@ -35,14 +35,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1663378840',extremes,Wildfire,#d60d2b,wmo,永平县山火,2026-02-13T04:34:00+00:00,China,0.6346155958171298,1,1,zh,EAS,Asia
 '2ab4d25ef8',extremes,Cold Wave,#a7e9fa,wmo,本溪市寒潮,2026-02-11T04:41:00+00:00,China,0.6343784119354424,1,1,zh,EAS,Asia
 '5d979ecdd5',extremes,Wildfire,#d60d2b,wmo,瑞麗山火,2026-02-04T04:21:00+00:00,China,0.6342888182674112,2,2,zh,EAS,Asia
-'94e628bbb7',extremes,Wildfire,#d60d2b,wmo,野火 麒麟区,2026-01-29T04:19:00+00:00,China,0.6335369190217359,1,1,zh,EAS,Asia
 '935b5342fa',extremes,Wildfire,#d60d2b,wmo,陸良縣山火,2026-02-18T04:34:00+00:00,China,0.6334217316837778,1,1,zh,EAS,Asia
 '0590ff39de',extremes,Cold Wave,#a7e9fa,wmo,冰冻界首,2026-02-15T04:35:00+00:00,China,0.631014733442274,1,2,zh,EAS,Asia
 '23f678bf35',extremes,Wildfire,#d60d2b,wmo,沾益区山火,2026-01-28T03:56:00+00:00,China,0.6305009537928434,1,1,zh,EAS,Asia
 '757733aa04',extremes,Wildfire,#d60d2b,wmo,思茅区山火,2026-02-07T04:19:00+00:00,China,0.630460009972558,1,1,zh,EAS,Asia
 '5788141657',extremes,Wildfire,#d60d2b,wmo,野火芒市,2026-02-05T04:27:00+00:00,China,0.6302809514615862,1,1,zh,EAS,Asia
 '139ba595df',extremes,Wildfire,#d60d2b,wmo,剑川县山火,2026-02-13T04:34:00+00:00,China,0.6295595845691121,1,1,zh,EAS,Asia
-'0cdb0e4a38',extremes,Cold Wave,#a7e9fa,wmo,冰冻竹溪县,2026-02-15T04:35:00+00:00,China,0.6295557477304079,0,1,zh,EAS,Asia
 '420886cb54',extremes,Wildfire,#d60d2b,wmo,峨山彝族自治县山火,2026-02-24T04:31:00+00:00,China,0.6292084821246006,1,1,zh,EAS,Asia
 '27038d2177',extremes,Wildfire,#d60d2b,wmo,宾川县山火,2026-03-08T04:24:00+00:00,China,0.6291528124122813,0,1,zh,EAS,Asia
 '7199a9c92a',extremes,Wildfire,#d60d2b,wmo,阳西县山火,2026-02-28T04:07:00+00:00,China,0.6286929353370256,0,1,zh,EAS,Asia
@@ -92,7 +90,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '76fe9c35a7',extremes,Cold Wave,#a7e9fa,wmo,凍住銅山縣,2026-02-15T04:35:00+00:00,China,0.6036708555200544,1,1,zh,EAS,Asia
 '3262820c6e',extremes,Cold Wave,#a7e9fa,wmo,松木经济区冰冻,2026-02-15T04:35:00+00:00,China,0.5996378172734387,1,1,zh,EAS,Asia
 '9707517831',extremes,Cold Wave,#a7e9fa,wmo,宁津县结冰,2026-02-14T04:21:00+00:00,China,0.5989127744379664,1,1,zh,EAS,Asia
-'add9133b9c',extremes,Cold Wave,#a7e9fa,wmo,和林格尔县寒潮,2026-02-14T04:21:00+00:00,China,0.5988310239146403,1,1,zh,EAS,Asia
 '719b2d1ebb',extremes,Cold Wave,#a7e9fa,wmo,渭城区结冰,2026-02-14T04:21:00+00:00,China,0.5979709485885132,1,1,zh,EAS,Asia
 '07d07ddfea',extremes,Cold Wave,#a7e9fa,wmo,永順縣寒潮,2026-02-16T04:38:00+00:00,China,0.5961003007803763,1,1,zh,EAS,Asia
 '50fc06f0f7',extremes,Wildfire,#d60d2b,wmo,山火江門市管轄,2026-01-31T04:16:00+00:00,China,0.5952748922681882,1,1,zh,EAS,Asia
@@ -190,6 +187,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '54f43d1c54',extremes,Wildfire,#d60d2b,wmo,乳源瑶族自治县山火,2026-03-08T04:24:00+00:00,China,0.5373543281033177,1,1,zh,EAS,Asia
 'af33bdfb50',extremes,Wildfire,#d60d2b,wmo,罗平县山火,2026-02-23T04:37:00+00:00,China,0.5372024277268737,2,1,zh,EAS,Asia
 'bf154493e3',extremes,Cold Wave,#a7e9fa,wmo,桑植县结冰,2026-02-16T04:38:00+00:00,China,0.5367723763645197,1,1,zh,EAS,Asia
+'0cdb0e4a38',extremes,Cold Wave,#a7e9fa,wmo,冰冻竹溪县,2026-02-15T04:35:00+00:00,China,0.5351223855708467,1,1,zh,EAS,Asia
 'a58551d5bb',extremes,Cold Wave,#a7e9fa,wmo,阜新市冰凍,2026-02-11T04:41:00+00:00,China,0.5347227989394796,2,1,zh,EAS,Asia
 '54bfee7382',extremes,Wildfire,#d60d2b,wmo,野火寧兒,2026-02-10T04:43:00+00:00,China,0.534394689142172,2,1,zh,EAS,Asia
 '09429bf910',extremes,Cold Wave,#a7e9fa,wmo,寒流岳麓區,2026-02-16T04:38:00+00:00,China,0.5328087682576083,1,1,zh,EAS,Asia
@@ -197,3 +195,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f94df9f621',extremes,Landslide,#572c03,wmo,伊春市泥石流,2026-02-25T04:32:00+00:00,China,0.5282491219607064,2,1,zh,EAS,Asia
 '2937b89e89',extremes,Cold Wave,#a7e9fa,wmo,衡阳高新区寒潮,2026-02-16T04:38:00+00:00,China,0.5197081730469582,2,1,zh,EAS,Asia
 'd07d5ae18f',extremes,Cold Wave,#a7e9fa,wmo,札魯特旗寒潮,2026-02-14T04:21:00+00:00,China,0.5158216849154976,2,1,zh,EAS,Asia
+'add9133b9c',extremes,Cold Wave,#a7e9fa,wmo,和林格尔县寒潮,2026-02-14T04:21:00+00:00,China,0.5090063703274442,2,1,zh,EAS,Asia
