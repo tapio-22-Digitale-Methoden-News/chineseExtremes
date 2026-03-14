@@ -1,6 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'bd2d0ccf65',extremes,Cold Wave,#a7e9fa,wmo,寒流福康,2026-03-12T04:26:00+00:00,China,0.7673976769578335,1,2,zh,EAS,Asia
-'37d24efc9e',extremes,Cold Wave,#a7e9fa,wmo,天山區結冰,2026-03-13T04:25:00+00:00,China,0.730658960252635,0,1,zh,EAS,Asia
+'37d24efc9e',extremes,Cold Wave,#a7e9fa,wmo,天山區結冰,2026-03-13T04:25:00+00:00,China,0.7505605662147398,1,3,zh,EAS,Asia
 '835d4f3cff',extremes,Earthquake,#870007,usgs,太平地震,2026-02-26T04:28:00+00:00,China,0.725912234257313,1,3,zh,SAS,Asia
 'c685705bbd',extremes,Earthquake,#870007,usgs,中国地震,2026-02-25T04:32:00+00:00,China,0.7249928053690714,1,3,zh,ECA,Asia
 '99631ed9b4',extremes,Cold Wave,#a7e9fa,wmo,故城县结冰,2026-02-15T04:35:00+00:00,China,0.7087969532940038,1,2,zh,EAS,Asia
@@ -182,7 +182,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '935b5342fa',extremes,Wildfire,#d60d2b,wmo,陸良縣山火,2026-02-18T04:34:00+00:00,China,0.5384084719312111,2,1,zh,EAS,Asia
 '9b06fe6245',extremes,Drought,#edc291,edo,圣诞岛干旱,2026-03-01T04:35:00+00:00,Christmas Island,0.5381761466320267,1,1,zh,SIO,Oceania
 'c274103f1d',extremes,Cold Wave,#a7e9fa,wmo,冰凍中國縣,2026-02-16T04:38:00+00:00,China,0.5378007973165115,1,1,zh,EAS,Asia
-'c3de494b12',extremes,Wildfire,#d60d2b,wmo,永胜县山火,2026-02-05T04:27:00+00:00,China,0.5376316089755291,2,1,zh,EAS,Asia
 '3f6b98ea1f',extremes,Wildfire,#d60d2b,wmo,茂名市轄野火,2026-03-07T04:12:00+00:00,China,0.5375720982828646,1,1,zh,EAS,Asia
 '54f43d1c54',extremes,Wildfire,#d60d2b,wmo,乳源瑶族自治县山火,2026-03-08T04:24:00+00:00,China,0.5373543281033177,1,1,zh,EAS,Asia
 'af33bdfb50',extremes,Wildfire,#d60d2b,wmo,罗平县山火,2026-02-23T04:37:00+00:00,China,0.5372024277268737,2,1,zh,EAS,Asia
