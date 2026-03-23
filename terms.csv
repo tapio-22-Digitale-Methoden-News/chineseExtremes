@@ -59,12 +59,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '48fbfcbb7f',extremes,Cold Wave,#a7e9fa,wmo,察布查尔锡伯自治县冰冻,2026-03-11T04:22:00+00:00,China,0.6141535948222421,0,1,zh,EAS,Asia
 'f43edf9d2a',extremes,Cold Wave,#a7e9fa,wmo,乌鲁木齐市结冰,2026-03-13T04:25:00+00:00,China,0.6136279714190853,0,1,zh,EAS,Asia
 '1ce867cc3f',extremes,Landslide,#572c03,wmo,庐山市山体滑坡,2026-02-25T04:32:00+00:00,China,0.6136012260545924,1,1,zh,EAS,Asia
+'3c58c289d1',extremes,Wildfire,#d60d2b,wmo,平遠縣野火,2026-03-12T04:26:00+00:00,China,0.613455529079987,0,1,zh,EAS,Asia
 'ae173edad6',extremes,Wildfire,#d60d2b,wmo,香格里拉市野火,2026-03-07T04:12:00+00:00,China,0.613239789972265,1,1,zh,EAS,Asia
 '0ea3de86e9',extremes,Wildfire,#d60d2b,wmo,野火中國,2026-02-25T04:32:00+00:00,China,0.6131261583630787,3,3,zh,EAS,Asia
+'e39961b1b4',extremes,Wildfire,#d60d2b,wmo,顺德区山火,2026-03-12T04:26:00+00:00,China,0.612746116441229,0,1,zh,EAS,Asia
+'68ff691721',extremes,Cold Wave,#a7e9fa,wmo,霍城县寒潮,2026-03-11T04:22:00+00:00,China,0.6105336619913004,0,1,zh,EAS,Asia
 'e9681e6cb6',extremes,Cold Wave,#a7e9fa,wmo,寒流同縣,2026-02-15T04:35:00+00:00,China,0.6105269592858468,2,3,zh,EAS,Asia
+'37734e3d92',extremes,Wildfire,#d60d2b,wmo,白云区山火,2026-03-12T04:26:00+00:00,China,0.6103442747304194,0,1,zh,EAS,Asia
 '7ebdf2d29a',extremes,Cold Wave,#a7e9fa,wmo,昌吉市寒潮,2026-03-12T04:26:00+00:00,China,0.6102051266024543,1,1,zh,EAS,Asia
 'bdb712fa48',extremes,Cold Wave,#a7e9fa,wmo,寒潮撫遠城,2026-02-12T04:37:00+00:00,China,0.6101082324694701,1,1,zh,EAS,Asia
+'d89c3ed832',extremes,Cold Wave,#a7e9fa,wmo,寒潮拜城县,2026-03-13T04:25:00+00:00,China,0.6095945998911834,0,1,zh,EAS,Asia
 'ae8ec0cd04',extremes,Wildfire,#d60d2b,wmo,云龙县山火,2026-02-13T04:34:00+00:00,China,0.6094368766499301,2,2,zh,EAS,Asia
+'0556727a58',extremes,Cold Wave,#a7e9fa,wmo,冻甘德县,2026-03-13T04:25:00+00:00,China,0.6091989905891932,0,1,zh,EAS,Asia
 'e87a0642f6',extremes,Cold Wave,#a7e9fa,wmo,太僕寺旗寒潮,2026-02-14T04:21:00+00:00,China,0.6070942162634981,1,1,zh,EAS,Asia
 '0e7820aadc',extremes,Cold Wave,#a7e9fa,wmo,长乐县寒潮,2026-02-14T04:21:00+00:00,China,0.607026000512138,1,1,zh,EAS,Asia
 '254c45d2fa',extremes,Wildfire,#d60d2b,wmo,野火老城,2026-02-07T04:19:00+00:00,China,0.6065407233827494,2,2,zh,EAS,Asia
