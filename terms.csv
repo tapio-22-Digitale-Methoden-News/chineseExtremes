@@ -82,7 +82,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9707517831',extremes,Cold Wave,#a7e9fa,wmo,宁津县结冰,2026-02-14T04:21:00+00:00,China,0.5989127744379664,1,1,zh,EAS,Asia
 '47600bd377',extremes,Cold Wave,#a7e9fa,wmo,金东区寒潮,2026-02-15T04:35:00+00:00,China,0.5962554235730708,2,1,zh,EAS,Asia
 '07d07ddfea',extremes,Cold Wave,#a7e9fa,wmo,永順縣寒潮,2026-02-16T04:38:00+00:00,China,0.5961003007803763,1,1,zh,EAS,Asia
-'e4a82883aa',extremes,Cold Wave,#a7e9fa,wmo,布尔津县寒潮,2026-02-20T04:27:00+00:00,China,0.5934892569184128,1,1,zh,EAS,Asia
 'a89b236449',extremes,Cold Wave,#a7e9fa,wmo,通城縣寒潮,2026-02-15T04:35:00+00:00,China,0.592027790449498,1,1,zh,EAS,Asia
 'bbb37478ff',extremes,Cold Wave,#a7e9fa,wmo,石鼓區結冰,2026-02-15T04:35:00+00:00,China,0.5917526574343287,1,1,zh,EAS,Asia
 '571bfb78e1',extremes,Cold Wave,#a7e9fa,wmo,五河县结冰,2026-02-15T04:35:00+00:00,China,0.5916074855940155,1,1,zh,EAS,Asia
@@ -229,6 +228,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ea4d5e2b89',extremes,Fog,#d60d2b,wmo,石景山区雾,2026-03-06T04:21:00+00:00,China,0.5100945968757817,2,2,zh,EAS,Asia
 '5fd9583261',extremes,Cold Wave,#a7e9fa,wmo,阿克齐县寒潮,2026-03-15T04:45:00+00:00,China,0.5079276569631941,2,1,zh,EAS,Asia
 'f201b9f5a6',extremes,Cold Wave,#a7e9fa,wmo,尼勒克县结冰,2026-03-11T04:22:00+00:00,China,0.5047606634257029,2,1,zh,EAS,Asia
+'e4a82883aa',extremes,Cold Wave,#a7e9fa,wmo,布尔津县寒潮,2026-02-20T04:27:00+00:00,China,0.5046158833806509,2,1,zh,EAS,Asia
 '07ae6d5ef6',extremes,Cold Wave,#a7e9fa,wmo,臨湘市寒潮,2026-02-16T04:38:00+00:00,China,0.5030154598291355,2,1,zh,EAS,Asia
 '14fe1ecb59',extremes,Cold Wave,#a7e9fa,wmo,昭苏县寒潮,2026-03-13T04:25:00+00:00,China,0.4861441175372466,2,1,zh,EAS,Asia
 'e386cf972c',extremes,Landslide,#572c03,wmo,福貢郡山體滑坡,2026-03-14T04:22:00+00:00,China,0.4741047829308144,2,1,zh,EAS,Asia
