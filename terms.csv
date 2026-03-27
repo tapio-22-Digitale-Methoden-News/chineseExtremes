@@ -106,6 +106,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f4ff6215cc',extremes,Cold Wave,#a7e9fa,wmo,興山縣結冰,2026-02-15T04:35:00+00:00,China,0.5839294474069954,1,1,zh,EAS,Asia
 'f7c3d3ccc2',extremes,Cold Wave,#a7e9fa,wmo,寒潮 米东区,2026-03-11T04:22:00+00:00,China,0.5833548366683537,0,1,zh,EAS,Asia
 'b55870fa29',extremes,Wildfire,#d60d2b,wmo,惠东县山火,2026-03-08T04:24:00+00:00,China,0.5833487990025731,0,1,zh,EAS,Asia
+'5e3a5a7072',extremes,Cold Wave,#a7e9fa,wmo,寒潮新源县,2026-03-11T04:22:00+00:00,China,0.5822794749734576,0,1,zh,EAS,Asia
+'af6f76498a',extremes,Wildfire,#d60d2b,wmo,龍門縣山火,2026-03-08T04:24:00+00:00,China,0.5822775777792883,0,1,zh,EAS,Asia
+'d0e69049ed',extremes,Wildfire,#d60d2b,wmo,新丰县野火,2026-03-08T04:24:00+00:00,China,0.5820456359292736,0,1,zh,EAS,Asia
+'f4a143a001',extremes,Cold Wave,#a7e9fa,wmo,龙华回族自治县冰冻,2026-03-14T04:22:00+00:00,China,0.5819350252182566,0,1,zh,EAS,Asia
+'98ca3c3252',extremes,Thunderstorm,#53785a,wmo,中国恶劣天气,2026-03-10T04:22:00+00:00,China,0.581618024519937,0,1,zh,EAS,Asia
+'6f83fe2cef',extremes,Cold Wave,#a7e9fa,wmo,寒潮河南蒙古族自治县,2026-03-14T04:22:00+00:00,China,0.5814294532648047,0,1,zh,EAS,Asia
 '5425152281',extremes,Cold Wave,#a7e9fa,wmo,冰冻利贤,2026-02-16T04:38:00+00:00,China,0.5811960006949528,2,2,zh,EAS,Asia
 '3be5a7cdf3',extremes,Landslide,#572c03,wmo,山崩 貢山德龍祖努祖資治縣,2026-03-18T04:36:00+00:00,China,0.5811122717811945,1,1,zh,EAS,Asia
 'd8b0a02c80',extremes,Cold Wave,#a7e9fa,wmo,东安县寒潮,2026-02-16T04:38:00+00:00,China,0.5807969559660612,1,1,zh,EAS,Asia
