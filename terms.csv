@@ -95,6 +95,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bbb37478ff',extremes,Cold Wave,#a7e9fa,wmo,石鼓區結冰,2026-02-15T04:35:00+00:00,China,0.5917526574343287,1,1,zh,EAS,Asia
 '571bfb78e1',extremes,Cold Wave,#a7e9fa,wmo,五河县结冰,2026-02-15T04:35:00+00:00,China,0.5916074855940155,1,1,zh,EAS,Asia
 '918f230cd2',extremes,Wildfire,#d60d2b,wmo,華寧郡山火,2026-03-09T04:31:00+00:00,China,0.5915125822292303,2,2,zh,EAS,Asia
+'f8457a8cab',extremes,Fog,#d60d2b,wmo,德江縣霧,2026-03-19T04:35:00+00:00,China,0.5911988362433117,0,1,zh,EAS,Asia
 '3bb69bde0e',extremes,Cold Wave,#a7e9fa,wmo,乌鲁木齐市寒潮,2026-03-12T04:26:00+00:00,China,0.5910539680352277,0,1,zh,EAS,Asia
 '75140614e0',extremes,Cold Wave,#a7e9fa,wmo,寒潮 柴丹镇 西铁山镇,2026-03-12T04:26:00+00:00,China,0.5908199973565038,0,1,zh,EAS,Asia
 'a3ef6a74ad',extremes,Cold Wave,#a7e9fa,wmo,共和县冰冻,2026-03-13T04:25:00+00:00,China,0.5901398849376739,0,1,zh,EAS,Asia
@@ -133,9 +134,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '910c986384',extremes,Cold Wave,#a7e9fa,wmo,寒潮铁力,2026-03-15T04:45:00+00:00,China,0.5803220980686358,0,1,zh,EAS,Asia
 '2323126420',extremes,Cold Wave,#a7e9fa,wmo,寒潮 祁连县,2026-03-12T04:26:00+00:00,China,0.5803007406404136,0,1,zh,EAS,Asia
 '153a0b0ff6',extremes,Cold Wave,#a7e9fa,wmo,阿拉山口寒潮,2026-03-12T04:26:00+00:00,China,0.5802429521141329,0,1,zh,EAS,Asia
+'5d2849fae3',extremes,Cold Wave,#a7e9fa,wmo,寒潮 玛沁县,2026-03-12T04:26:00+00:00,China,0.5802090696547646,0,1,zh,EAS,Asia
 '201965ed66',extremes,Cold Wave,#a7e9fa,wmo,平安区寒潮,2026-03-14T04:22:00+00:00,China,0.5801103444553549,1,1,zh,EAS,Asia
 'e2d4474bbf',extremes,Cold Wave,#a7e9fa,wmo,冰冻安乡县,2026-02-15T04:35:00+00:00,China,0.5797682580203707,1,1,zh,EAS,Asia
 'b7a493b3cf',extremes,Wildfire,#d60d2b,wmo,野火英德,2026-03-11T04:22:00+00:00,China,0.5797239828633349,1,2,zh,EAS,Asia
+'ec079adc40',extremes,Cold Wave,#a7e9fa,wmo,寒潮 乌什县,2026-03-12T04:26:00+00:00,China,0.5796967325423061,0,1,zh,EAS,Asia
+'df5fff6246',extremes,Cold Wave,#a7e9fa,wmo,寒潮 尉犁县,2026-03-13T04:25:00+00:00,China,0.5796443166573311,0,1,zh,EAS,Asia
+'bbd1da2702',extremes,Cold Wave,#a7e9fa,wmo,爱惠区结冰,2026-03-14T04:22:00+00:00,China,0.5794485913586384,0,1,zh,EAS,Asia
+'3239875b1e',extremes,Cold Wave,#a7e9fa,wmo,頭屯河區寒潮,2026-03-12T04:26:00+00:00,China,0.5785139983084113,0,1,zh,EAS,Asia
 'd2a2c3bda4',extremes,Cold Wave,#a7e9fa,wmo,諫城區寒潮,2026-02-15T04:35:00+00:00,China,0.5781657572225476,1,1,zh,EAS,Asia
 '3e177e149e',extremes,Cold Wave,#a7e9fa,wmo,博山区结冰,2026-02-15T04:35:00+00:00,China,0.5779373030189885,1,1,zh,EAS,Asia
 'e862cf4e48',extremes,Cold Wave,#a7e9fa,wmo,雙遼市寒潮,2026-02-15T04:35:00+00:00,China,0.5774257253458217,1,1,zh,EAS,Asia
