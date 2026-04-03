@@ -7,10 +7,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '35e648eba5',extremes,Heat Wave,#c40202,wmo,个旧市热浪,2026-03-31T04:59:00+00:00,China,0.7413710215643934,0,1,zh,EAS,Asia
 'f982e71edc',extremes,Heat Wave,#c40202,wmo,热浪元阳县,2026-03-31T04:59:00+00:00,China,0.7403775918201966,0,1,zh,EAS,Asia
 'db00af9b87',extremes,Landslide,#572c03,wmo,南豐縣山崩,2026-03-31T04:59:00+00:00,China,0.7398033690760311,0,1,zh,EAS,Asia
+'6139914efd',extremes,Landslide,#572c03,wmo,伊春市山体滑坡,2026-04-03T04:43:00+00:00,China,0.7386607305539432,0,1,zh,EAS,Asia
 '630b8a8e40',extremes,Landslide,#572c03,wmo,安福县泥石流,2026-04-02T04:42:00+00:00,China,0.7340876885548963,0,1,zh,EAS,Asia
+'7cddb22fed',extremes,Landslide,#572c03,wmo,铜鼓县山体滑坡,2026-04-03T04:43:00+00:00,China,0.7315360186379509,0,1,zh,EAS,Asia
+'c85ca278b2',extremes,Cold Wave,#a7e9fa,wmo,陽高縣寒潮,2026-04-03T04:43:00+00:00,China,0.7302414764765511,0,1,zh,EAS,Asia
 '7848dc716c',extremes,Landslide,#572c03,wmo,潜山县山体滑坡,2026-03-30T05:12:00+00:00,China,0.7294168852577422,0,1,zh,EAS,Asia
 '58da67823d',extremes,Landslide,#572c03,wmo,福州市山崩,2026-03-30T05:12:00+00:00,China,0.729403915494821,0,1,zh,EAS,Asia
+'c5632f2e88',extremes,Cold Wave,#a7e9fa,wmo,冰凍左縣右縣,2026-04-03T04:43:00+00:00,China,0.728155375497687,0,1,zh,EAS,Asia
+'304ec5fdd5',extremes,Cold Wave,#a7e9fa,wmo,寒潮怀仁城,2026-04-03T04:43:00+00:00,China,0.7268199744713458,0,1,zh,EAS,Asia
 '835d4f3cff',extremes,Earthquake,#870007,usgs,太平地震,2026-02-26T04:28:00+00:00,China,0.725912234257313,1,3,zh,SAS,Asia
+'99ea8a60fa',extremes,Cold Wave,#a7e9fa,wmo,宁武县冰冻,2026-04-03T04:43:00+00:00,China,0.7258069177241966,0,1,zh,EAS,Asia
 'c685705bbd',extremes,Earthquake,#870007,usgs,中国地震,2026-02-25T04:32:00+00:00,China,0.7249928053690714,1,3,zh,ECA,Asia
 '003b72d039',extremes,Landslide,#572c03,wmo,资溪县山体滑坡,2026-03-30T05:12:00+00:00,China,0.716957353065668,0,1,zh,EAS,Asia
 'fa06cd330a',extremes,Landslide,#572c03,wmo,中國山崩,2026-03-01T04:35:00+00:00,China,0.7129811420272121,1,2,zh,EAS,Asia
