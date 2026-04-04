@@ -17,7 +17,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '304ec5fdd5',extremes,Cold Wave,#a7e9fa,wmo,寒潮怀仁城,2026-04-03T04:43:00+00:00,China,0.7268199744713458,0,1,zh,EAS,Asia
 '835d4f3cff',extremes,Earthquake,#870007,usgs,太平地震,2026-02-26T04:28:00+00:00,China,0.725912234257313,1,3,zh,SAS,Asia
 '99ea8a60fa',extremes,Cold Wave,#a7e9fa,wmo,宁武县冰冻,2026-04-03T04:43:00+00:00,China,0.7258069177241966,0,1,zh,EAS,Asia
+'d54d2c717f',extremes,Landslide,#572c03,wmo,原州区泥石流,2026-04-03T04:43:00+00:00,China,0.7254096713376011,0,1,zh,EAS,Asia
 'c685705bbd',extremes,Earthquake,#870007,usgs,中国地震,2026-02-25T04:32:00+00:00,China,0.7249928053690714,1,3,zh,ECA,Asia
+'df432e52b7',extremes,Landslide,#572c03,wmo,开化县泥石流,2026-04-03T04:43:00+00:00,China,0.7248586194756935,0,1,zh,EAS,Asia
+'7c1eeb5a85',extremes,Landslide,#572c03,wmo,衢江區土石流,2026-04-03T04:43:00+00:00,China,0.7248419410007089,0,1,zh,EAS,Asia
+'64568b2740',extremes,Cold Wave,#a7e9fa,wmo,五寨县结冰,2026-04-03T04:43:00+00:00,China,0.7247631925689613,0,1,zh,EAS,Asia
+'93955b89e9',extremes,Cold Wave,#a7e9fa,wmo,房山县寒潮,2026-04-03T04:43:00+00:00,China,0.7219210381625777,0,1,zh,EAS,Asia
+'cb5e667d29',extremes,Cold Wave,#a7e9fa,wmo,交城冰冻,2026-04-03T04:43:00+00:00,China,0.7200679923594885,0,1,zh,EAS,Asia
 '003b72d039',extremes,Landslide,#572c03,wmo,资溪县山体滑坡,2026-03-30T05:12:00+00:00,China,0.716957353065668,0,1,zh,EAS,Asia
 'fa06cd330a',extremes,Landslide,#572c03,wmo,中國山崩,2026-03-01T04:35:00+00:00,China,0.7129811420272121,1,2,zh,EAS,Asia
 '99631ed9b4',extremes,Cold Wave,#a7e9fa,wmo,故城县结冰,2026-02-15T04:35:00+00:00,China,0.7087969532940038,1,2,zh,EAS,Asia
