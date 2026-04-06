@@ -84,19 +84,25 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5032c3d748',extremes,Wildfire,#d60d2b,wmo,野火紅塔,2026-02-12T04:37:00+00:00,China,0.634784570929404,3,2,zh,EAS,Asia
 '1663378840',extremes,Wildfire,#d60d2b,wmo,永平县山火,2026-02-13T04:34:00+00:00,China,0.6346155958171298,1,1,zh,EAS,Asia
 '6aa3065bb0',extremes,Fog,#d60d2b,wmo,黃岩區霧,2026-04-04T04:30:00+00:00,China,0.6336932909763976,0,1,zh,EAS,Asia
+'a319733cfa',extremes,Fog,#d60d2b,wmo,月湖区雾,2026-04-04T04:30:00+00:00,China,0.6331717559632247,0,1,zh,EAS,Asia
+'0b0b5897e4',extremes,Fog,#d60d2b,wmo,霧德安縣,2026-03-23T04:42:00+00:00,China,0.6324896900473491,0,1,zh,EAS,Asia
+'28f7e93853',extremes,Earthquake,#870007,usgs,东港地震,2026-03-30T05:11:00+00:00,Taiwan,0.6323801383901069,0,1,zh,EAS,Asia
 'e44949a411',extremes,Fog,#d60d2b,wmo,即墨区雾,2026-03-30T05:12:00+00:00,China,0.6311751873880913,0,1,zh,EAS,Asia
 '0590ff39de',extremes,Cold Wave,#a7e9fa,wmo,冰冻界首,2026-02-15T04:35:00+00:00,China,0.631014733442274,1,2,zh,EAS,Asia
+'6baea9e66a',extremes,Fog,#d60d2b,wmo,于都县雾,2026-04-04T04:30:00+00:00,China,0.6283169724832223,0,1,zh,EAS,Asia
 'e7c015237c',extremes,Wildfire,#d60d2b,wmo,野火龍陽,2026-02-20T04:27:00+00:00,China,0.6278296764888232,2,1,zh,EAS,Asia
 '43a9280e14',extremes,Fog,#d60d2b,wmo,瑞金市雾,2026-04-02T04:42:00+00:00,China,0.6276364225414213,0,1,zh,EAS,Asia
 '3cf307aff2',extremes,Fog,#d60d2b,wmo,武乡县雾,2026-03-29T05:00:00+00:00,China,0.627473016596577,0,1,zh,EAS,Asia
 '6857e7738e',extremes,Cold Wave,#a7e9fa,wmo,冻结新县城,2026-02-15T04:35:00+00:00,China,0.6266591100201764,1,1,zh,EAS,Asia
 '8f6a56b97a',extremes,Earthquake,#870007,usgs,石河子地震,2026-03-06T04:21:00+00:00,China,0.6262837242244755,1,1,zh,ECA,Asia
 'a2cc9d18d1',extremes,Fog,#d60d2b,wmo,雾 靖安县,2026-04-01T05:12:00+00:00,China,0.6260518035285056,0,1,zh,EAS,Asia
+'20d0e85d32',extremes,Fog,#d60d2b,wmo,雾洞头区,2026-03-24T04:31:00+00:00,China,0.6256230635603609,0,1,zh,EAS,Asia
 '261d9ae4fb',extremes,Fog,#d60d2b,wmo,路桥区雾,2026-03-30T05:12:00+00:00,China,0.624777161530478,0,1,zh,EAS,Asia
 'd5e5cf0f40',extremes,Fog,#d60d2b,wmo,霧 樂平,2026-03-17T04:30:00+00:00,China,0.6247230341375215,0,1,zh,EAS,Asia
 'bb0a458f37',extremes,Fog,#d60d2b,wmo,连云港市雾,2026-04-02T04:42:00+00:00,China,0.6238779098440054,0,1,zh,EAS,Asia
 '59045903cf',extremes,Cold Wave,#a7e9fa,wmo,抚顺市寒潮,2026-02-14T04:21:00+00:00,China,0.6231784156024169,1,1,zh,EAS,Asia
 'a3bf116e36',extremes,Wildfire,#d60d2b,wmo,马龙区山火,2026-02-16T04:38:00+00:00,China,0.6229216217990136,2,1,zh,EAS,Asia
+'d8d0acc2a9',extremes,Fog,#d60d2b,wmo,雾 彭泽县,2026-03-17T04:30:00+00:00,China,0.6220412611358277,0,1,zh,EAS,Asia
 'abfe351ca0',extremes,Fog,#d60d2b,wmo,晴隆县雾,2026-03-28T04:33:00+00:00,China,0.6213512876819678,0,1,zh,EAS,Asia
 'e3c542752a',extremes,Cold Wave,#a7e9fa,wmo,新洲區寒潮,2026-02-15T04:35:00+00:00,China,0.6213334304024477,2,1,zh,EAS,Asia
 'fb9a5e796c',extremes,Fog,#d60d2b,wmo,乳源雾瑶族自治县,2026-04-01T05:12:00+00:00,China,0.620651927723188,0,1,zh,EAS,Asia
