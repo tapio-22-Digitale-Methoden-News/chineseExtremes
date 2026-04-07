@@ -95,7 +95,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '28f7e93853',extremes,Earthquake,#870007,usgs,东港地震,2026-03-30T05:11:00+00:00,Taiwan,0.6323801383901069,0,1,zh,EAS,Asia
 'e44949a411',extremes,Fog,#d60d2b,wmo,即墨区雾,2026-03-30T05:12:00+00:00,China,0.6311751873880913,0,1,zh,EAS,Asia
 '0590ff39de',extremes,Cold Wave,#a7e9fa,wmo,冰冻界首,2026-02-15T04:35:00+00:00,China,0.631014733442274,1,2,zh,EAS,Asia
+'7816010164',extremes,Fog,#d60d2b,wmo,安龙县雾,2026-04-06T05:11:00+00:00,China,0.628363877543548,0,1,zh,EAS,Asia
 '6baea9e66a',extremes,Fog,#d60d2b,wmo,于都县雾,2026-04-04T04:30:00+00:00,China,0.6283169724832223,0,1,zh,EAS,Asia
+'2e68d7ce30',extremes,Fog,#d60d2b,wmo,武宁县雾,2026-03-21T04:17:00+00:00,China,0.6282239514720014,0,1,zh,EAS,Asia
 'e7c015237c',extremes,Wildfire,#d60d2b,wmo,野火龍陽,2026-02-20T04:27:00+00:00,China,0.6278296764888232,2,1,zh,EAS,Asia
 '43a9280e14',extremes,Fog,#d60d2b,wmo,瑞金市雾,2026-04-02T04:42:00+00:00,China,0.6276364225414213,0,1,zh,EAS,Asia
 '3cf307aff2',extremes,Fog,#d60d2b,wmo,武乡县雾,2026-03-29T05:00:00+00:00,China,0.627473016596577,0,1,zh,EAS,Asia
@@ -117,11 +119,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '687310ea7d',extremes,Wildfire,#d60d2b,wmo,祥云县山火,2026-03-06T04:21:00+00:00,China,0.6196899009789602,1,1,zh,EAS,Asia
 '78b8361105',extremes,Fog,#d60d2b,wmo,太倉市霧,2026-04-02T04:42:00+00:00,China,0.6192974414007845,0,1,zh,EAS,Asia
 'c78add734c',extremes,Wildfire,#d60d2b,wmo,山火化州城,2026-02-28T04:07:00+00:00,China,0.6192735154910779,1,3,zh,EAS,Asia
+'d03d459e2d',extremes,Fog,#d60d2b,wmo,雾德兴,2026-04-05T05:01:00+00:00,China,0.6189470238608488,0,1,zh,EAS,Asia
 'e256eee1b4',extremes,Fog,#d60d2b,wmo,碧江区雾,2026-03-27T04:57:00+00:00,China,0.6189278566858616,0,1,zh,EAS,Asia
 'e9a5622b49',extremes,Wildfire,#d60d2b,wmo,澄江市山火,2026-02-15T04:35:00+00:00,China,0.6185949980459048,2,2,zh,EAS,Asia
 '107dccd960',extremes,Fog,#d60d2b,wmo,常州市雾,2026-04-02T04:42:00+00:00,China,0.6176881019560441,0,1,zh,EAS,Asia
+'305d6b95be',extremes,Fog,#d60d2b,wmo,涪陵区雾,2026-04-04T04:30:00+00:00,China,0.6176600087781119,0,1,zh,EAS,Asia
 'f58a79ef2d',extremes,Cold Wave,#a7e9fa,wmo,湖中区寒潮,2026-04-02T04:42:00+00:00,China,0.6171092336671778,0,1,zh,EAS,Asia
+'9859c655c5',extremes,Fog,#d60d2b,wmo,雾 南城县,2026-03-21T04:17:00+00:00,China,0.6170944676976168,0,1,zh,EAS,Asia
 '7f8ce4e360',extremes,Fog,#d60d2b,wmo,霧 通州區,2026-04-02T04:42:00+00:00,China,0.6164637529489828,0,1,zh,EAS,Asia
+'7dbcb2019f',extremes,Fog,#d60d2b,wmo,宜黄县雾,2026-03-22T04:33:00+00:00,China,0.6162798771072119,0,1,zh,EAS,Asia
 'f095485720',extremes,Fog,#d60d2b,wmo,雾静乐县,2026-03-31T04:59:00+00:00,China,0.616196407246927,0,1,zh,EAS,Asia
 '893ccb9bf5',extremes,Fog,#d60d2b,wmo,雾天镇县,2026-03-31T04:59:00+00:00,China,0.6160337200351509,0,1,zh,EAS,Asia
 'fe1a72bf69',extremes,Cold Wave,#a7e9fa,wmo,辽阳市冰冻,2026-02-14T04:21:00+00:00,China,0.6158173170741286,2,2,zh,EAS,Asia
