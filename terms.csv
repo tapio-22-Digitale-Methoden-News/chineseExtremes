@@ -128,6 +128,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3b6501675a',extremes,Fog,#d60d2b,wmo,雾县,2026-04-09T04:58:00+00:00,China,0.6241891531552343,0,1,zh,EAS,Asia
 'ac16156dbc',extremes,Wildfire,#d60d2b,wmo,马关县山火,2026-04-07T04:59:00+00:00,China,0.6239863349583171,0,1,zh,EAS,Asia
 'bb0a458f37',extremes,Fog,#d60d2b,wmo,连云港市雾,2026-04-02T04:42:00+00:00,China,0.6238779098440054,0,1,zh,EAS,Asia
+'42fc9b45f2',extremes,Fog,#d60d2b,wmo,雾黄花市,2026-04-09T04:58:00+00:00,China,0.6232231955590007,0,1,zh,EAS,Asia
 '59045903cf',extremes,Cold Wave,#a7e9fa,wmo,抚顺市寒潮,2026-02-14T04:21:00+00:00,China,0.6231784156024169,1,1,zh,EAS,Asia
 'a3bf116e36',extremes,Wildfire,#d60d2b,wmo,马龙区山火,2026-02-16T04:38:00+00:00,China,0.6229216217990136,2,1,zh,EAS,Asia
 'd8d0acc2a9',extremes,Fog,#d60d2b,wmo,雾 彭泽县,2026-03-17T04:30:00+00:00,China,0.6220412611358277,0,1,zh,EAS,Asia
@@ -168,6 +169,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0937356ada',extremes,Fog,#d60d2b,wmo,雾阡县,2026-03-28T04:33:00+00:00,China,0.6135229927025887,0,1,zh,EAS,Asia
 '8d5426da6d',extremes,Fog,#d60d2b,wmo,吉水縣霧,2026-03-30T05:12:00+00:00,China,0.6134935598924796,0,1,zh,EAS,Asia
 '215dec8f17',extremes,Fog,#d60d2b,wmo,修水县雾,2026-04-01T05:12:00+00:00,China,0.613403598608355,0,1,zh,EAS,Asia
+'e2bbbfd596',extremes,Fog,#d60d2b,wmo,新华区雾,2026-04-09T04:58:00+00:00,China,0.6132741507760535,0,1,zh,EAS,Asia
 '0ea3de86e9',extremes,Wildfire,#d60d2b,wmo,野火中國,2026-02-25T04:32:00+00:00,China,0.6131261583630787,3,3,zh,EAS,Asia
 'ec94601a8b',extremes,Fog,#d60d2b,wmo,雾新建区,2026-04-04T04:30:00+00:00,China,0.6129866782118406,0,1,zh,EAS,Asia
 'a5ea20bb96',extremes,Fog,#d60d2b,wmo,六合雾,2026-03-31T04:59:00+00:00,China,0.6128378750052434,0,1,zh,EAS,Asia
@@ -175,6 +177,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a0f18e638d',extremes,Landslide,#572c03,wmo,蒙自市山体滑坡,2026-03-23T04:42:00+00:00,China,0.6119889970793069,1,1,zh,EAS,Asia
 '18c1288f11',extremes,Fog,#d60d2b,wmo,都昌縣霧,2026-03-21T04:17:00+00:00,China,0.61169749965238,0,1,zh,EAS,Asia
 '5702d2be66',extremes,Fog,#d60d2b,wmo,封开县雾,2026-03-30T05:12:00+00:00,China,0.6116060985519854,0,1,zh,EAS,Asia
+'d8c34d6f66',extremes,Fog,#d60d2b,wmo,东光县雾,2026-04-09T04:58:00+00:00,China,0.6113804774137966,0,1,zh,EAS,Asia
 '68ff691721',extremes,Cold Wave,#a7e9fa,wmo,霍城县寒潮,2026-03-11T04:22:00+00:00,China,0.6105336619913004,0,1,zh,EAS,Asia
 'e9681e6cb6',extremes,Cold Wave,#a7e9fa,wmo,寒流同縣,2026-02-15T04:35:00+00:00,China,0.6105269592858468,2,3,zh,EAS,Asia
 'f941ef58fc',extremes,Fog,#d60d2b,wmo,雾 前山区,2026-04-04T04:30:00+00:00,China,0.6104757131181026,0,1,zh,EAS,Asia
@@ -186,9 +189,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ae8ec0cd04',extremes,Wildfire,#d60d2b,wmo,云龙县山火,2026-02-13T04:34:00+00:00,China,0.6094368766499301,2,2,zh,EAS,Asia
 '2a151ba892',extremes,Cold Wave,#a7e9fa,wmo,呼中地区结冰,2026-03-30T05:12:00+00:00,China,0.6094073571838282,0,1,zh,EAS,Asia
 '9c5a432be4',extremes,Fog,#d60d2b,wmo,曲江区雾,2026-04-05T05:01:00+00:00,China,0.6093189410347084,0,1,zh,EAS,Asia
+'5abe185c06',extremes,Fog,#d60d2b,wmo,阳山县雾,2026-04-07T04:59:00+00:00,China,0.6092073167935376,0,1,zh,EAS,Asia
 '0556727a58',extremes,Cold Wave,#a7e9fa,wmo,冻甘德县,2026-03-13T04:25:00+00:00,China,0.6091989905891932,0,1,zh,EAS,Asia
 'd7a44edf59',extremes,Cold Wave,#a7e9fa,wmo,寒潮巴里坤哈萨克自治县,2026-03-11T04:22:00+00:00,China,0.6089506154506459,0,1,zh,EAS,Asia
 '317a0a0f1b',extremes,Fog,#d60d2b,wmo,定海区雾,2026-03-30T05:12:00+00:00,China,0.6088467246218499,0,1,zh,EAS,Asia
+'8c4ac85313',extremes,Fog,#d60d2b,wmo,兴安雾,2026-03-24T04:31:00+00:00,China,0.6081864777252356,0,1,zh,EAS,Asia
+'acfd2e7079',extremes,Fog,#d60d2b,wmo,太和县雾,2026-04-03T04:43:00+00:00,China,0.6078999675208935,0,1,zh,EAS,Asia
 '122f70df46',extremes,Wildfire,#d60d2b,wmo,南沙区山火,2026-03-12T04:26:00+00:00,China,0.6076934139266961,0,1,zh,EAS,Asia
 'e87a0642f6',extremes,Cold Wave,#a7e9fa,wmo,太僕寺旗寒潮,2026-02-14T04:21:00+00:00,China,0.6070942162634981,1,1,zh,EAS,Asia
 '0e7820aadc',extremes,Cold Wave,#a7e9fa,wmo,长乐县寒潮,2026-02-14T04:21:00+00:00,China,0.607026000512138,1,1,zh,EAS,Asia
