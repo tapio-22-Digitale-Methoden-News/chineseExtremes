@@ -24,7 +24,7 @@ the New Year,the New Year,EVENT,,,en,7.011111111111108
 four,four,CARDINAL,,,en,6.333333333333334
 annual,annual,DATE,,,en,6.176190476190474
 New Year,New Year,EVENT,,,en,6.149999999999998
-tomorrow,tomorrow,DATE,,,en,6.122222222222222
+tomorrow,tomorrow,DATE,,,en,6.122222222222223
 17,17,CARDINAL,,,en,5.981818181818178
 7th,7th,ORDINAL,,,en,5.652380952380952
 year,year,DATE,,,en,5.522222222222224
@@ -39,8 +39,8 @@ the Lunar New Year,the Lunar New Year,EVENT,,,en,5.111111111111112
 five,five,CARDINAL,,,en,4.980158730158731
 OpenClaw,OpenClaw,PRODUCT,1.570233285233285,12.779150386650386,en,4.977777777777778
 around 10 degrees,around 10 degrees,QUANTITY,,,en,4.866666666666667
-this morning,this morning,TIME,,,en,4.7666666666666675
 the early morning,the early morning,TIME,,,en,4.7666666666666675
+this morning,this morning,TIME,,,en,4.7666666666666675
 11,11,CARDINAL,,,en,4.711111111111109
 Christmas,Christmas,DATE,,,en,4.685714285714286
 10 degrees,10 degrees,QUANTITY,,,en,4.622222222222221
@@ -89,10 +89,10 @@ the new year,the new year,DATE,,,en,2.7500000000000004
 One,One,CARDINAL,,,en,2.7166666666666677
 16,16,CARDINAL,,,en,2.7000000000000006
 year-end,year-end,DATE,,,en,2.7000000000000006
+only 8.4 degrees,only 8.4 degrees,QUANTITY,,,en,2.688888888888889
 fifth,fifth,ORDINAL,,,en,2.669444444444445
 noon,noon,TIME,,,en,2.666666666666667
 next week,next week,DATE,,,en,2.633333333333334
-only 8.4 degrees,only 8.4 degrees,QUANTITY,,,en,2.622222222222222
 the 26th,the 26th,DATE,,,en,2.583333333333333
 every year,every year,DATE,,,en,2.5500000000000003
 billions of dollars,billions of dollars,MONEY,,,en,2.511111111111111
@@ -158,7 +158,7 @@ tens of millions,tens of millions,MONEY,,,en,2.0000000000000004
 the beginning of the year,the beginning of the year,DATE,,,en,2.0
 nearly 10%,nearly 10%,PERCENT,,,en,2.0
 thanksgiving,thanksgiving,DATE,,,en,2.0
-tonight,tonight,TIME,,,en,1.9833333333333332
+tonight,tonight,TIME,,,en,1.9833333333333334
 14,14,CARDINAL,,,en,1.9818181818181824
 20th,20th,ORDINAL,,,en,1.9727272727272733
 Two,Two,CARDINAL,,,en,1.967857142857143
@@ -286,8 +286,8 @@ March 2,March 2,DATE,,,en,1.5000000000000002
 January 6,January 6,DATE,,,en,1.5
 1 million,1 million,CARDINAL,,,en,1.5
 36th,36th,ORDINAL,,,en,1.5
-Yilan,Yilan,NORP,0.13877501808536297,0.3441041716903787,en,1.5
 40.6 kilometers,40.6 kilometers,QUANTITY,,,en,1.5
+Yilan,Yilan,NORP,0.13877501808536297,0.3441041716903787,en,1.5
 Yesterday,Yesterday,DATE,,,en,1.5
 at least 30,at least 30,CARDINAL,,,en,1.5
 "250,000","250,000",CARDINAL,,,en,1.5
@@ -309,60 +309,61 @@ the second half of the year,the second half of the year,DATE,,,en,1.5
 millions,millions,CARDINAL,,,en,1.4666666666666668
 trillion-dollar,trillion-dollar,MONEY,,,en,1.4666666666666666
 overnight,overnight,TIME,,,en,1.4666666666666666
-last night,last night,TIME,,,en,1.4500000000000002
 15th,15th,ORDINAL,,,en,1.4500000000000002
 December 2025,December 2025,DATE,,,en,1.4500000000000002
-7.1 degrees,7.1 degrees,QUANTITY,,,en,1.4444444444444444
-0:00 a.m.,0:00 a.m.,TIME,,,en,1.4444444444444444
-600,600,CARDINAL,,,en,1.4444444444444444
+last night,last night,TIME,,,en,1.4500000000000002
 Tainan Railway Station,Tainan Railway Station,FAC,,,en,1.4444444444444444
+0:00 a.m.,0:00 a.m.,TIME,,,en,1.4444444444444444
 10 degrees Celsius,10 degrees Celsius,QUANTITY,,,en,1.4444444444444444
+7.1 degrees,7.1 degrees,QUANTITY,,,en,1.4444444444444444
+600,600,CARDINAL,,,en,1.4444444444444444
 World Baseball Classic,World Baseball Classic,EVENT,,,en,1.4444444444444444
-70 yuan,70 yuan,MONEY,,,en,1.4333333333333333
-next month,next month,DATE,,,en,1.4333333333333333
 a few days,a few days,DATE,,,en,1.4333333333333333
+next month,next month,DATE,,,en,1.4333333333333333
+70 yuan,70 yuan,MONEY,,,en,1.4333333333333333
 GPU,GPU,PRODUCT,,,en,1.4285714285714284
 100%,100%,PERCENT,,,en,1.425
-the past five years,the past five years,DATE,,,en,1.4222222222222225
 January 22,January 22,DATE,,,en,1.4222222222222225
+the past five years,the past five years,DATE,,,en,1.4222222222222225
 December 26,December 26,DATE,,,en,1.4166666666666665
 10%,10%,PERCENT,,,en,1.4111111111111114
 15%,15%,PERCENT,,,en,1.4111111111111112
 the New Year's,the New Year's,EVENT,,,en,1.4111111111111112
-between day,between day,DATE,,,en,1.4000000000000004
-Russian,Russian,NORP,,,en,1.4000000000000004
-ONE,ONE,CARDINAL,,,en,1.4000000000000004
-NT$1.25 trillion,NT$1.25 trillion,FAC,,,en,1.4000000000000004
-December 12,December 12,DATE,,,en,1.4000000000000004
-MacBook Neo,MacBook Neo,PRODUCT,,,en,1.4000000000000004
-1x,1x,CARDINAL,,,en,1.4000000000000004
-March this year,March this year,DATE,,,en,1.4000000000000004
 70%,70%,PERCENT,,,en,1.4000000000000004
-Sino-Japanese,Sino-Japanese,NORP,,,en,1.4000000000000004
-40%,40%,PERCENT,,,en,1.4000000000000004
+Russian,Russian,NORP,,,en,1.4000000000000004
+between day,between day,DATE,,,en,1.4000000000000004
+March this year,March this year,DATE,,,en,1.4000000000000004
+ONE,ONE,CARDINAL,,,en,1.4000000000000004
+December 12,December 12,DATE,,,en,1.4000000000000004
 Exynos 2600,Exynos 2600,PRODUCT,,,en,1.4000000000000004
+1x,1x,CARDINAL,,,en,1.4000000000000004
+NT$1.25 trillion,NT$1.25 trillion,FAC,,,en,1.4000000000000004
+MacBook Neo,MacBook Neo,PRODUCT,,,en,1.4000000000000004
+40%,40%,PERCENT,,,en,1.4000000000000004
+Sino-Japanese,Sino-Japanese,NORP,,,en,1.4000000000000004
 January 11,January 11,DATE,,,en,1.4000000000000001
-early this morning,early this morning,TIME,,,en,1.4000000000000001
+the years,the years,DATE,,,en,1.4000000000000001
 9:01,9:01,CARDINAL,,,en,1.4000000000000001
 the 27th,the 27th,DATE,,,en,1.4000000000000001
 New Year’s Eve,New Year’s Eve,EVENT,,,en,1.4000000000000001
-the years,the years,DATE,,,en,1.4000000000000001
+early this morning,early this morning,TIME,,,en,1.4000000000000001
 12%,12%,PERCENT,,,en,1.4
-8 degrees,8 degrees,QUANTITY,,,en,1.4
 Dongshan Railway Station,Dongshan Railway Station,FAC,,,en,1.4
 Scouts,Scouts,NORP,,,en,1.4
 Onmyoji,Onmyoji,WORK_OF_ART,,,en,1.4
-57,57,CARDINAL,,,en,1.4
-300,300,CARDINAL,,,en,1.4
 6 consecutive days,6 consecutive days,DATE,,,en,1.4
-four years ago,four years ago,DATE,,,en,1.4
+8 degrees,8 degrees,QUANTITY,,,en,1.4
+300,300,CARDINAL,,,en,1.4
+around 10 degrees or,around 10 degrees or,QUANTITY,,,en,1.4
 the 29th,the 29th,DATE,,,en,1.4
 Strengthening Safety Maintenance Work on Important Festivals,Strengthening Safety Maintenance Work on Important Festivals,WORK_OF_ART,,,en,1.4
 Tanaka Suite,Tanaka Suite,WORK_OF_ART,,,en,1.4
+four years ago,four years ago,DATE,,,en,1.4
 the 13th,the 13th,DATE,,,en,1.4
 Yongle,Yongle,WORK_OF_ART,,,en,1.4
 156,156,CARDINAL,,,en,1.4
 115,115,CARDINAL,,,en,1.4
+57,57,CARDINAL,,,en,1.4
 "10,000","10,000",MONEY,,,en,1.4
 10 meters,10 meters,QUANTITY,,,en,1.4
 Leica,Leica,WORK_OF_ART,,,en,1.4
@@ -378,37 +379,36 @@ First,First,ORDINAL,,,en,1.35
 "2,699","2,699",CARDINAL,,,en,1.35
 the past two years,the past two years,DATE,,,en,1.342857142857143
 August last year,August last year,DATE,,,en,1.3428571428571427
-Dozens,Dozens,CARDINAL,,,en,1.3333333333333333
-"1,494","1,494",CARDINAL,,,en,1.3333333333333333
-316,316,CARDINAL,,,en,1.3333333333333333
 only 110 days,only 110 days,DATE,,,en,1.3333333333333333
-the middle of winter,the middle of winter,DATE,,,en,1.3333333333333333
-around 10 degrees or,around 10 degrees or,QUANTITY,,,en,1.3333333333333333
-352,352,CARDINAL,,,en,1.3333333333333333
 February 8,February 8,DATE,,,en,1.3333333333333333
+"1,494","1,494",CARDINAL,,,en,1.3333333333333333
+352,352,CARDINAL,,,en,1.3333333333333333
+316,316,CARDINAL,,,en,1.3333333333333333
+the middle of winter,the middle of winter,DATE,,,en,1.3333333333333333
+Dozens,Dozens,CARDINAL,,,en,1.3333333333333333
 1 billion,1 billion,CARDINAL,,,en,1.3250000000000002
-January 21,January 21,DATE,,,en,1.3250000000000002
 Musk,Musk,PRODUCT,,,en,1.3250000000000002
+January 21,January 21,DATE,,,en,1.3250000000000002
 75,75,CARDINAL,,,en,1.3246753246753247
 more than a year,more than a year,DATE,,,en,1.3222222222222224
 February,February,DATE,,,en,1.3111111111111113
 the 22nd,the 22nd,DATE,,,en,1.3111111111111113
 10 years,10 years,DATE,,,en,1.3111111111111113
 November 28,November 28,DATE,,,en,1.3111111111111113
-World of Warcraft,World of Warcraft,WORK_OF_ART,,,en,1.3000000000000003
-November 27-28,November 27-28,DATE,,,en,1.3000000000000003
-the end of last year,the end of last year,DATE,,,en,1.3000000000000003
-Pixel 10,Pixel 10,PRODUCT,,,en,1.3000000000000003
-November 27th to 28th,November 27th to 28th,DATE,,,en,1.3000000000000003
 13th,13th,ORDINAL,,,en,1.3000000000000003
-"more than 8,000","more than 8,000",CARDINAL,,,en,1.3000000000000003
-Pro,Pro,PRODUCT,,,en,1.3000000000000003
-Galaxy Z TriFold,Galaxy Z TriFold,PRODUCT,,,en,1.3000000000000003
-the Green Water Exhibition Hall,the Green Water Exhibition Hall,FAC,,,en,1.3000000000000003
 70,70,CARDINAL,,,en,1.3000000000000003
+"more than 8,000","more than 8,000",CARDINAL,,,en,1.3000000000000003
+November 27th to 28th,November 27th to 28th,DATE,,,en,1.3000000000000003
+Pixel 10,Pixel 10,PRODUCT,,,en,1.3000000000000003
+the end of last year,the end of last year,DATE,,,en,1.3000000000000003
+Pro,Pro,PRODUCT,,,en,1.3000000000000003
+World of Warcraft,World of Warcraft,WORK_OF_ART,,,en,1.3000000000000003
+Galaxy Z TriFold,Galaxy Z TriFold,PRODUCT,,,en,1.3000000000000003
+November 27-28,November 27-28,DATE,,,en,1.3000000000000003
 March 5,March 5,DATE,,,en,1.3000000000000003
 3 million,3 million,CARDINAL,,,en,1.3000000000000003
 "2,000","2,000",CARDINAL,,,en,1.3000000000000003
+the Green Water Exhibition Hall,the Green Water Exhibition Hall,FAC,,,en,1.3000000000000003
 45 years,45 years,DATE,,,en,1.3000000000000003
 June this year,June this year,DATE,,,en,1.3000000000000003
 one million,one million,CARDINAL,,,en,1.3000000000000003
@@ -422,48 +422,48 @@ Daily Rental,Daily Rental,WORK_OF_ART,,,en,1.3000000000000003
 5 years,5 years,DATE,,,en,1.3000000000000003
 polish,polish,NORP,,,en,1.3000000000000003
 the same day,the same day,DATE,,,en,1.3000000000000003
-the Transmission Space,the Transmission Space,FAC,,,en,1.3000000000000003
-Samsung Galaxy Z,Samsung Galaxy Z,PRODUCT,,,en,1.3000000000000003
-Tianya,Tianya,NORP,,,en,1.3000000000000003
+11%,11%,PERCENT,,,en,1.3000000000000003
+Batman,Batman,WORK_OF_ART,,,en,1.3000000000000003
 "10,000 yuan","10,000 yuan",MONEY,,,en,1.3000000000000003
-30%,30%,PERCENT,,,en,1.3000000000000003
+Tianya,Tianya,NORP,,,en,1.3000000000000003
 The Lunar New Year,The Lunar New Year,EVENT,,,en,1.3000000000000003
+30%,30%,PERCENT,,,en,1.3000000000000003
+northerners,northerners,NORP,,,en,1.3000000000000003
 US$1 billion,US$1 billion,MONEY,,,en,1.3000000000000003
 "5,000","5,000",MONEY,,,en,1.3000000000000003
-northerners,northerners,NORP,,,en,1.3000000000000003
-Batman,Batman,WORK_OF_ART,,,en,1.3000000000000003
+this month,this month,DATE,,,en,1.3000000000000003
 New Year’s,New Year’s,EVENT,,,en,1.3000000000000003
-11%,11%,PERCENT,,,en,1.3000000000000003
 50,50,CARDINAL,,,en,1.3000000000000003
 November 2025,November 2025,DATE,,,en,1.3000000000000003
+Samsung Galaxy Z,Samsung Galaxy Z,PRODUCT,,,en,1.3000000000000003
 220km,220km,QUANTITY,,,en,1.3000000000000003
 Series,Series,EVENT,,,en,1.3000000000000003
 the Galaxy Z TriFold,the Galaxy Z TriFold,PRODUCT,,,en,1.3000000000000003
 21%,21%,PERCENT,,,en,1.3000000000000003
-this month,this month,DATE,,,en,1.3000000000000003
+the Transmission Space,the Transmission Space,FAC,,,en,1.3000000000000003
 Mingjian,Mingjian,NORP,,,en,1.3
-the 16th,the 16th,DATE,,,en,1.3
 December 29,December 29,DATE,,,en,1.3
+the 16th,the 16th,DATE,,,en,1.3
 the past three years,the past three years,DATE,,,en,1.3
 30th,30th,ORDINAL,,,en,1.3
 several hours,several hours,TIME,,,en,1.3
+minus 45 degrees Celsius,minus 45 degrees Celsius,QUANTITY,,,en,1.2857142857142856
 Bliss,Bliss,WORK_OF_ART,,,en,1.2857142857142856
 the past two days,the past two days,DATE,,,en,1.2857142857142856
 M5 Max,M5 Max,PRODUCT,,,en,1.2857142857142856
-minus 45 degrees Celsius,minus 45 degrees Celsius,QUANTITY,,,en,1.2857142857142856
 more than 100,more than 100,CARDINAL,,,en,1.281818181818182
 "3,999 yuan","3,999 yuan",MONEY,,,en,1.2727272727272727
 Four,Four,CARDINAL,,,en,1.2666666666666666
 the Sydney Metro,the Sydney Metro,FAC,,,en,1.25
+the Wenchang Space Launch Site,the Wenchang Space Launch Site,FAC,,,en,1.25
 5.9 kilometers,5.9 kilometers,QUANTITY,,,en,1.25
-5.6,5.6,CARDINAL,,,en,1.25
-the century,the century,DATE,,,en,1.25
-Latin American,Latin American,NORP,,,en,1.25
-December 3,December 3,DATE,,,en,1.25
+180 billion yuan,180 billion yuan,MONEY,,,en,1.25
 Four years ago,Four years ago,DATE,,,en,1.25
 the Long March 10,the Long March 10,DATE,,,en,1.25
-180 billion yuan,180 billion yuan,MONEY,,,en,1.25
-the Wenchang Space Launch Site,the Wenchang Space Launch Site,FAC,,,en,1.25
+Latin American,Latin American,NORP,,,en,1.25
+December 3,December 3,DATE,,,en,1.25
+the century,the century,DATE,,,en,1.25
+5.6,5.6,CARDINAL,,,en,1.25
 the Dongfeng Landing Field,the Dongfeng Landing Field,FAC,,,en,1.25
 At least 12,At least 12,CARDINAL,,,en,1.25
 the whole year,the whole year,DATE,,,en,1.25
@@ -488,8 +488,8 @@ Moments,Moments,WORK_OF_ART,,,en,1.2222222222222223
 Israeli,Israeli,NORP,,,en,1.2222222222222223
 hours,hours,TIME,,,en,1.2111111111111112
 a month,a month,DATE,,,en,1.2111111111111112
-Lantern Festival,Lantern Festival,EVENT,,,en,1.2111111111111112
 the 28th,the 28th,DATE,,,en,1.2111111111111112
+Lantern Festival,Lantern Festival,EVENT,,,en,1.2111111111111112
 a year,a year,DATE,,,en,1.2111111111111112
 nine,nine,CARDINAL,,,en,1.2111111111111112
 Business King Conference,Business King Conference,EVENT,,,en,1.2000000000000002
