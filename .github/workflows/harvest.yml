@@ -31,11 +31,11 @@ jobs:
 #        with:
 #          ref: master
       - name: install aiohttp
-        run: (pip3 install aiohttp)
+        run: (uv pip install aiohttp)
       - name: install asyncio
-        run: (pip3 install asyncio)
+        run: (uv pip install asyncio)
       - name: install CreLanguageTranslate
-        run: (pip3 install CreLanguageTranslate)
+        run: (uv pip install CreLanguageTranslate)
       - name: cd /cre/python/
         run: (cd /cre/python/)
       - name: cp mysecrets.py
@@ -44,7 +44,7 @@ jobs:
         env:
             NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
             RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
-        run: (python3 harvest.py)
+        run: (uv run python harvest.py)
       - name: Submit changes       
         uses: EndBug/add-and-commit@v9
         with:
