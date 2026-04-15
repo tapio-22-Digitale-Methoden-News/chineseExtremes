@@ -11,7 +11,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1032873782',extremes,Wildfire,#d60d2b,wmo,富源縣山火,2026-04-10T05:13:00+00:00,China,0.7437533799708049,0,1,zh,EAS,Asia
 'e9a5622b49',extremes,Wildfire,#d60d2b,wmo,澄江市山火,2026-04-05T05:01:00+00:00,China,0.7411587735212636,0,1,zh,EAS,Asia
 '656a35b67b',extremes,Wildfire,#d60d2b,wmo,勐海县山火,2026-04-04T04:30:00+00:00,China,0.7403926351801804,0,1,zh,EAS,Asia
-'f982e71edc',extremes,Heat Wave,#c40202,wmo,热浪元阳县,2026-03-31T04:59:00+00:00,China,0.7403775918201966,0,1,zh,EAS,Asia
 'db00af9b87',extremes,Landslide,#572c03,wmo,南豐縣山崩,2026-03-31T04:59:00+00:00,China,0.7398033690760311,0,1,zh,EAS,Asia
 '3995590796',extremes,Wildfire,#d60d2b,wmo,江川区山火,2026-04-06T05:11:00+00:00,China,0.739070957330683,0,1,zh,EAS,Asia
 '6139914efd',extremes,Landslide,#572c03,wmo,伊春市山体滑坡,2026-04-03T04:43:00+00:00,China,0.7386607305539432,0,1,zh,EAS,Asia
@@ -134,6 +133,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '56eec9b798',extremes,Heat Wave,#c40202,wmo,绿春县热浪,2026-04-01T05:12:00+00:00,China,0.6320806670792438,1,1,zh,EAS,Asia
 '2f0d530ba3',extremes,Wildfire,#d60d2b,wmo,会泽县山火,2026-04-10T05:13:00+00:00,China,0.631983896039722,1,1,zh,EAS,Asia
 'e44949a411',extremes,Fog,#d60d2b,wmo,即墨区雾,2026-03-30T05:12:00+00:00,China,0.6311751873880913,0,1,zh,EAS,Asia
+'f982e71edc',extremes,Heat Wave,#c40202,wmo,热浪元阳县,2026-03-31T04:59:00+00:00,China,0.6294709680471671,1,1,zh,EAS,Asia
 'accf0585e1',extremes,Fog,#d60d2b,wmo,霧東鄉地區,2026-03-21T04:17:00+00:00,China,0.6288052604616526,0,1,zh,EAS,Asia
 '7816010164',extremes,Fog,#d60d2b,wmo,安龙县雾,2026-04-06T05:11:00+00:00,China,0.628363877543548,0,1,zh,EAS,Asia
 '6baea9e66a',extremes,Fog,#d60d2b,wmo,于都县雾,2026-04-04T04:30:00+00:00,China,0.6283169724832223,0,1,zh,EAS,Asia
