@@ -26,8 +26,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5c1bd23e01',extremes,Wildfire,#d60d2b,wmo,洱源县山火,2026-03-10T04:22:00+00:00,China,0.6921132371140986,0,1,zh,EAS,Asia
 'f2012a1112',extremes,Landslide,#572c03,wmo,安福县山体滑坡,2026-03-26T04:56:00+00:00,China,0.6917214729591324,0,1,zh,EAS,Asia
 '06f5d145a0',extremes,Cold Wave,#a7e9fa,wmo,伊寧市冰凍,2026-03-13T04:25:00+00:00,China,0.6908236951583149,1,2,zh,EAS,Asia
+'0dbfb0c2b4',extremes,Cold Wave,#a7e9fa,wmo,寒潮中国,2026-04-17T05:16:00+00:00,China,0.6904974937000529,0,1,zh,EAS,Asia
 '86c5eacad8',extremes,Wildfire,#d60d2b,wmo,通海縣山火,2026-03-05T04:24:00+00:00,China,0.6895260411617046,1,2,zh,EAS,Asia
 '35e648eba5',extremes,Heat Wave,#c40202,wmo,个旧市热浪,2026-03-31T04:59:00+00:00,China,0.6880111528751889,1,2,zh,EAS,Asia
+'c63e8be9ae',extremes,Landslide,#572c03,wmo,万县山体滑坡,2026-04-16T05:17:00+00:00,China,0.6875291470061937,0,1,zh,EAS,Asia
 '58da67823d',extremes,Landslide,#572c03,wmo,福州市山崩,2026-03-30T05:12:00+00:00,China,0.6807434031705978,1,1,zh,EAS,Asia
 'f6c83b5e87',extremes,Earthquake,#870007,usgs,烏魯木齊地震,2026-03-15T04:44:00+00:00,China,0.67694893364337,1,2,zh,ECA,Asia
 '549bfa310f',extremes,Landslide,#572c03,wmo,铜鼓县泥石流,2026-04-10T05:13:00+00:00,China,0.6741245069770997,0,1,zh,EAS,Asia
@@ -35,6 +37,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f8890817cf',extremes,Wildfire,#d60d2b,wmo,惠来县山火,2026-03-31T04:59:00+00:00,China,0.6723792056779586,0,1,zh,EAS,Asia
 'b03391eb46',extremes,Earthquake,#870007,usgs,庫車地震,2026-02-25T04:32:00+00:00,China,0.6723219838989752,2,3,zh,ECA,Asia
 '4e1cf23b3c',extremes,Landslide,#572c03,wmo,婺源县泥石流,2026-04-10T05:13:00+00:00,China,0.6707332876508709,0,1,zh,EAS,Asia
+'550c0ce3e3',extremes,Wildfire,#d60d2b,wmo,瀾滄拉祜族自治縣山火,2026-04-17T05:16:00+00:00,China,0.6705359132132589,0,1,zh,EAS,Asia
 '8e532527b5',extremes,Fog,#d60d2b,wmo,象山縣霧,2026-03-30T05:12:00+00:00,China,0.6687283318361139,0,1,zh,EAS,Asia
 'd54d2c717f',extremes,Landslide,#572c03,wmo,原州区泥石流,2026-04-03T04:43:00+00:00,China,0.667048265636961,1,1,zh,EAS,Asia
 '567cf2b063',extremes,Heat Wave,#c40202,wmo,策城县热浪,2026-04-08T05:01:00+00:00,China,0.665897721801717,0,1,zh,EAS,Asia
