@@ -30,10 +30,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0dbfb0c2b4',extremes,Cold Wave,#a7e9fa,wmo,寒潮中国,2026-04-17T05:16:00+00:00,China,0.6904974937000529,0,1,zh,EAS,Asia
 '86c5eacad8',extremes,Wildfire,#d60d2b,wmo,通海縣山火,2026-03-05T04:24:00+00:00,China,0.6895260411617046,1,2,zh,EAS,Asia
 '35e648eba5',extremes,Heat Wave,#c40202,wmo,个旧市热浪,2026-03-31T04:59:00+00:00,China,0.6880111528751889,1,2,zh,EAS,Asia
+'ad35c87422',extremes,Wildfire,#d60d2b,wmo,京東彝族自治縣山火,2026-04-17T05:16:00+00:00,China,0.6876475645161515,0,1,zh,EAS,Asia
 '58da67823d',extremes,Landslide,#572c03,wmo,福州市山崩,2026-03-30T05:12:00+00:00,China,0.6807434031705978,1,1,zh,EAS,Asia
 'f6c83b5e87',extremes,Earthquake,#870007,usgs,烏魯木齊地震,2026-03-15T04:44:00+00:00,China,0.67694893364337,1,2,zh,ECA,Asia
 'b03391eb46',extremes,Earthquake,#870007,usgs,庫車地震,2026-02-25T04:32:00+00:00,China,0.6723219838989752,2,3,zh,ECA,Asia
 'd54d2c717f',extremes,Landslide,#572c03,wmo,原州区泥石流,2026-04-03T04:43:00+00:00,China,0.667048265636961,1,1,zh,EAS,Asia
+'3bf1d11c0f',extremes,Landslide,#572c03,wmo,永遠新縣山體滑坡,2026-04-16T05:17:00+00:00,China,0.665524858500429,0,1,zh,EAS,Asia
 '7151b2c829',extremes,Heat Wave,#c40202,wmo,热浪弥勒城,2026-04-07T04:59:00+00:00,China,0.6584170192027767,0,1,zh,EAS,Asia
 '298490b8c9',extremes,Fog,#d60d2b,wmo,霧 袁州區,2026-03-23T04:42:00+00:00,China,0.6581845244465068,0,1,zh,EAS,Asia
 'ebf3ec85b1',extremes,Wildfire,#d60d2b,wmo,景洪市山火,2026-04-05T05:01:00+00:00,China,0.6581540252138794,0,1,zh,EAS,Asia
@@ -42,6 +44,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5886848c6d',extremes,Wildfire,#d60d2b,wmo,野火景谷,2026-04-15T05:12:00+00:00,China,0.6553816646780795,0,1,zh,EAS,Asia
 'b1bdb10035',extremes,Heat Wave,#c40202,wmo,热浪 建水县,2026-04-07T04:59:00+00:00,China,0.6552205692383745,0,1,zh,EAS,Asia
 '24f1291cd8',extremes,Flood,#030ba1,wmo,中国洪水,2026-04-03T04:43:00+00:00,China,0.6544922975537034,0,1,zh,EAS,Asia
+'d036307b56',extremes,Landslide,#572c03,wmo,碧江区山体滑坡,2026-04-13T05:28:00+00:00,China,0.6523524738449759,0,1,zh,EAS,Asia
 'd1f1fa4725',extremes,Wildfire,#d60d2b,wmo,野火阳江市管辖,2026-04-07T04:59:00+00:00,China,0.6523194669253254,0,1,zh,EAS,Asia
 '1f200cb175',extremes,Wildfire,#d60d2b,wmo,揭西縣山火,2026-04-13T05:28:00+00:00,China,0.6521608240610277,0,1,zh,EAS,Asia
 '6ce6ca0f5b',extremes,Fog,#d60d2b,wmo,大方县雾,2026-04-07T04:59:00+00:00,China,0.6520786655076213,0,1,zh,EAS,Asia
