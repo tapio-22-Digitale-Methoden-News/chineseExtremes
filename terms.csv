@@ -29,9 +29,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0dbfb0c2b4',extremes,Cold Wave,#a7e9fa,wmo,寒潮中国,2026-04-17T05:16:00+00:00,China,0.6904974937000529,0,1,zh,EAS,Asia
 '86c5eacad8',extremes,Wildfire,#d60d2b,wmo,通海縣山火,2026-03-05T04:24:00+00:00,China,0.6895260411617046,1,2,zh,EAS,Asia
 '35e648eba5',extremes,Heat Wave,#c40202,wmo,个旧市热浪,2026-03-31T04:59:00+00:00,China,0.6880111528751889,1,2,zh,EAS,Asia
+'c85c8b2123',extremes,Landslide,#572c03,wmo,興安山體滑坡,2026-04-15T05:12:00+00:00,China,0.6822019468372291,0,1,zh,EAS,Asia
 '58da67823d',extremes,Landslide,#572c03,wmo,福州市山崩,2026-03-30T05:12:00+00:00,China,0.6807434031705978,1,1,zh,EAS,Asia
 'f6c83b5e87',extremes,Earthquake,#870007,usgs,烏魯木齊地震,2026-03-15T04:44:00+00:00,China,0.67694893364337,1,2,zh,ECA,Asia
 'd54d2c717f',extremes,Landslide,#572c03,wmo,原州区泥石流,2026-04-03T04:43:00+00:00,China,0.667048265636961,1,1,zh,EAS,Asia
+'68c5c41173',extremes,Cold Wave,#a7e9fa,wmo,大武口区寒潮,2026-04-19T05:16:00+00:00,China,0.6601365174976076,0,1,zh,EAS,Asia
 '298490b8c9',extremes,Fog,#d60d2b,wmo,霧 袁州區,2026-03-23T04:42:00+00:00,China,0.6581845244465068,0,1,zh,EAS,Asia
 '4512837dc7',extremes,Wildfire,#d60d2b,wmo,大理市野火,2026-03-06T04:21:00+00:00,China,0.6580141094158898,1,2,zh,EAS,Asia
 '24f1291cd8',extremes,Flood,#030ba1,wmo,中国洪水,2026-04-03T04:43:00+00:00,China,0.6572185429206479,1,2,zh,EAS,Asia
