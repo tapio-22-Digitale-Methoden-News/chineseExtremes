@@ -65,10 +65,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2f0d530ba3',extremes,Wildfire,#d60d2b,wmo,会泽县山火,2026-04-10T05:13:00+00:00,China,0.631983896039722,1,1,zh,EAS,Asia
 'f982e71edc',extremes,Heat Wave,#c40202,wmo,热浪元阳县,2026-03-31T04:59:00+00:00,China,0.6294709680471671,1,1,zh,EAS,Asia
 'db00af9b87',extremes,Landslide,#572c03,wmo,南豐縣山崩,2026-03-31T04:59:00+00:00,China,0.6288328637146264,1,1,zh,EAS,Asia
-'f5eabb5083',extremes,Landslide,#572c03,wmo,福贡县泥石流,2026-04-22T05:13:00+00:00,China,0.6286921692633702,0,1,zh,EAS,Asia
 '25e7a2bbc9',extremes,Heat Wave,#c40202,wmo,熱浪田陽區,2026-04-14T05:11:00+00:00,China,0.6284627670624967,1,2,zh,EAS,Asia
-'7816010164',extremes,Fog,#d60d2b,wmo,安龙县雾,2026-04-06T05:11:00+00:00,China,0.628363877543548,0,1,zh,EAS,Asia
-'6baea9e66a',extremes,Fog,#d60d2b,wmo,于都县雾,2026-04-04T04:30:00+00:00,China,0.6283169724832223,0,1,zh,EAS,Asia
 'd0e69049ed',extremes,Wildfire,#d60d2b,wmo,新丰县野火,2026-04-13T05:28:00+00:00,China,0.6282876244373012,0,1,zh,EAS,Asia
 '2e68d7ce30',extremes,Fog,#d60d2b,wmo,武宁县雾,2026-03-21T04:17:00+00:00,China,0.6282239514720014,0,1,zh,EAS,Asia
 '3995590796',extremes,Wildfire,#d60d2b,wmo,江川区山火,2026-04-06T05:11:00+00:00,China,0.6282103137310805,1,1,zh,EAS,Asia
@@ -314,4 +311,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ea20368a7e',extremes,Cold Wave,#a7e9fa,wmo,宣化区寒潮,2026-04-19T05:16:00+00:00,China,0.5365714197330659,1,1,zh,EAS,Asia
 'e44949a411',extremes,Fog,#d60d2b,wmo,即墨区雾,2026-03-30T05:12:00+00:00,China,0.5364989092798776,1,1,zh,EAS,Asia
 '9f60397e9d',extremes,Wildfire,#d60d2b,wmo,佛冈县山火,2026-03-21T04:17:00+00:00,China,0.5364873230301836,1,1,zh,EAS,Asia
+'f5eabb5083',extremes,Landslide,#572c03,wmo,福贡县泥石流,2026-04-22T05:13:00+00:00,China,0.5343883438738647,1,1,zh,EAS,Asia
+'6baea9e66a',extremes,Fog,#d60d2b,wmo,于都县雾,2026-04-04T04:30:00+00:00,China,0.5342194416107389,1,1,zh,EAS,Asia
+'7816010164',extremes,Fog,#d60d2b,wmo,安龙县雾,2026-04-06T05:11:00+00:00,China,0.5341092959120158,1,1,zh,EAS,Asia
 'f47a41da3b',extremes,Landslide,#572c03,wmo,河口瑶族自治县山体滑坡,2026-03-23T04:42:00+00:00,China,0.49002945747133,2,1,zh,EAS,Asia
