@@ -192,13 +192,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e537c7081f',extremes,Thunderstorm,#53785a,wmo,香港雷雨,2026-04-04T04:30:00+00:00,Hong Kong,0.6071819195575587,0,1,zh,EAS,Asia
 'be42c37fda',extremes,Fog,#d60d2b,wmo,吉木乃县雾,2026-03-24T04:31:00+00:00,China,0.6066346128477011,0,1,zh,EAS,Asia
 '53395ea997',extremes,Fog,#d60d2b,wmo,雾江口县,2026-04-06T05:11:00+00:00,China,0.6064689095332731,0,1,zh,EAS,Asia
+'70d1ac1387',extremes,Landslide,#572c03,wmo,资溪县泥石流,2026-04-12T05:12:00+00:00,China,0.6064568515481388,0,1,zh,EAS,Asia
 '0344f9a237',extremes,Fog,#d60d2b,wmo,玉屏侗族自治縣霧,2026-03-17T04:30:00+00:00,China,0.6061790767552634,0,1,zh,EAS,Asia
 '0b2fd57376',extremes,Earthquake,#870007,usgs,台灣地震,2026-03-19T04:35:00+00:00,Taiwan,0.6061286728939111,0,1,zh,EAS,Asia
+'81328c5432',extremes,Fog,#d60d2b,wmo,丰都县雾,2026-04-14T05:11:00+00:00,China,0.605435498087717,0,1,zh,EAS,Asia
 'aee11b1ef0',extremes,Wildfire,#d60d2b,wmo,丰顺县山火,2026-03-16T05:05:00+00:00,China,0.6052481729644509,0,1,zh,EAS,Asia
 '42fc9b45f2',extremes,Fog,#d60d2b,wmo,雾黄花市,2026-04-09T04:58:00+00:00,China,0.6050397462251506,1,2,zh,EAS,Asia
+'e68727d340',extremes,Cold Wave,#a7e9fa,wmo,冰冻交界县,2026-04-19T05:16:00+00:00,China,0.6046923214625533,0,1,zh,EAS,Asia
 '0602d6ef20',extremes,Heat Wave,#c40202,wmo,热浪广南县,2026-04-09T04:58:00+00:00,China,0.603986378934158,1,1,zh,EAS,Asia
+'5a2c2cf525',extremes,Landslide,#572c03,wmo,東川山體滑坡,2026-04-25T05:00:00+00:00,China,0.6036880593564596,0,1,zh,EAS,Asia
 '9f36961105',extremes,Cold Wave,#a7e9fa,wmo,雲州區寒潮,2026-04-03T04:43:00+00:00,China,0.603684383311772,1,1,zh,EAS,Asia
 '0cfb65b58d',extremes,Fog,#d60d2b,wmo,雾中国,2026-03-17T04:30:00+00:00,China,0.6035140408868155,0,1,zh,EAS,Asia
+'80a41ad2a7',extremes,Fog,#d60d2b,wmo,奉化区雾,2026-04-14T05:11:00+00:00,China,0.6033739871200554,0,1,zh,EAS,Asia
+'734362f7b9',extremes,Fog,#d60d2b,wmo,利川县雾,2026-04-14T05:11:00+00:00,China,0.6032529011018184,0,1,zh,EAS,Asia
 '9735aa6ba9',extremes,Fog,#d60d2b,wmo,椒江区雾,2026-03-29T05:00:00+00:00,China,0.6028560984429834,0,1,zh,EAS,Asia
 'c25ecb1005',extremes,Earthquake,#870007,usgs,宜兰地震,2026-03-19T04:35:00+00:00,Taiwan,0.6026843697151911,1,2,zh,EAS,Asia
 '941cb2f957',extremes,Fog,#d60d2b,wmo,德钦县雾,2026-03-14T04:22:00+00:00,China,0.6018196326715651,0,1,zh,EAS,Asia
