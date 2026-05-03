@@ -46,7 +46,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '24f1291cd8',extremes,Flood,#030ba1,wmo,中国洪水,2026-04-03T04:43:00+00:00,China,0.6572185429206479,1,2,zh,EAS,Asia
 '4d0ebc8e60',extremes,Heat Wave,#c40202,wmo,熱浪振風,2026-04-10T05:13:00+00:00,China,0.6561815426298273,1,2,zh,EAS,Asia
 '5886848c6d',extremes,Wildfire,#d60d2b,wmo,野火景谷,2026-04-15T05:12:00+00:00,China,0.6553816646780795,0,1,zh,EAS,Asia
-'27038d2177',extremes,Wildfire,#d60d2b,wmo,宾川县山火,2026-04-17T05:16:00+00:00,China,0.6546489212492473,0,1,zh,EAS,Asia
 '0cfb65b58d',extremes,Fog,#d60d2b,wmo,雾中国,2026-04-26T05:25:00+00:00,China,0.650143123411445,1,3,zh,EAS,Asia
 'f1cfaea846',extremes,Fog,#d60d2b,wmo,霧鳳城,2026-04-01T05:12:00+00:00,China,0.6423049109836629,0,1,zh,EAS,Asia
 '6a584d641c',extremes,Landslide,#572c03,wmo,庐山市泥石流,2026-03-28T04:33:00+00:00,China,0.6407264000687242,1,1,zh,EAS,Asia
@@ -256,6 +255,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '262e94aa0e',extremes,Cold Wave,#a7e9fa,wmo,寒潮 中宁县,2026-04-19T05:16:00+00:00,China,0.5599879599632455,1,1,zh,EAS,Asia
 '7151b2c829',extremes,Heat Wave,#c40202,wmo,热浪弥勒城,2026-04-07T04:59:00+00:00,China,0.5596544663223602,1,1,zh,EAS,Asia
 'b30310814d',extremes,Cold Wave,#a7e9fa,wmo,鹽池縣寒潮,2026-04-20T05:27:00+00:00,China,0.5575960058426878,1,1,zh,EAS,Asia
+'27038d2177',extremes,Wildfire,#d60d2b,wmo,宾川县山火,2026-04-17T05:16:00+00:00,China,0.5566015980618603,1,1,zh,EAS,Asia
 'b32476fc43',extremes,Cold Wave,#a7e9fa,wmo,隆化县冰冻,2026-04-19T05:16:00+00:00,China,0.5565515648156376,1,1,zh,EAS,Asia
 '875d8b7ae3',extremes,Cold Wave,#a7e9fa,wmo,崇礼区寒潮,2026-04-20T05:27:00+00:00,China,0.5557000595357007,1,1,zh,EAS,Asia
 '757733aa04',extremes,Wildfire,#d60d2b,wmo,思茅區山火,2026-04-15T05:12:00+00:00,China,0.5554600220592883,1,1,zh,EAS,Asia
