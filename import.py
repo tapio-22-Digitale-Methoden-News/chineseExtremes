@@ -12,7 +12,8 @@ import datetime
 from dateutil import parser
 from datetime import date, timedelta, datetime, timezone
 
-from CreGeoReference.GeoReference import GeoReference
+#from CreGeoReference.GeoReference import GeoReference
+from CreGeoReference.geoTools import geoTools
 from CreLanguageTranslate.LanguageTranslate import LanguageTranslate 
 
 #from deep_translator import GoogleTranslator
@@ -61,7 +62,7 @@ def doTranslate(column, targetLanguage, tmpTopic = True, lowerCase=True):
 
 def importTerms(maxImports=10, targetLanguage='de'):
     termsDF = pd.DataFrame(None)
-    gf = GeoReference(local=True)
+    gf = geoTools(local=True)
 
     countriesForLanguage = gf.getCountriesNameByLanguage(targetLanguage)
     print(countriesForLanguage)
