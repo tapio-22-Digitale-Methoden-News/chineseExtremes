@@ -6,9 +6,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4189c0a405',extremes,Heat Wave,#c40202,wmo,熱浪中國,2026-05-12T05:52:00+00:00,China,0.7374086259523985,2,3,zh,EAS,Asia
 '5336e3a07d',extremes,Wildfire,#d60d2b,wmo,易門縣山火,2026-04-08T05:01:00+00:00,China,0.7340784552317516,1,2,zh,EAS,Asia
 '6f584e2cf3',extremes,Cold Wave,#a7e9fa,wmo,桥东地区结冰,2026-05-06T05:43:00+00:00,China,0.7264269105572576,1,2,zh,EAS,Asia
+'ef29bc64f5',extremes,Cold Wave,#a7e9fa,wmo,寒流 義烏縣,2026-05-13T06:03:00+00:00,China,0.7263366002251987,0,1,zh,EAS,Asia
+'890e3f5053',extremes,Heat Wave,#c40202,wmo,热浪临淄区,2026-05-14T06:02:00+00:00,China,0.7255618674779732,0,1,zh,EAS,Asia
 '54bfee7382',extremes,Wildfire,#d60d2b,wmo,野火宁儿,2026-04-19T05:16:00+00:00,China,0.7223136456491492,1,2,zh,EAS,Asia
 '7ca58db12d',extremes,Cold Wave,#a7e9fa,wmo,中宁县结冰,2026-04-20T05:27:00+00:00,China,0.7199244556802474,1,2,zh,EAS,Asia
 '0b2fd57376',extremes,Earthquake,#870007,usgs,台灣地震,2026-05-05T05:28:00+00:00,Taiwan,0.7139645768593309,1,3,zh,EAS,Asia
+'d4f0e45c92',extremes,Snow&Ice,#d60d2b,wmo,冰霜中國,2026-04-26T05:25:00+00:00,China,0.7097701792801954,0,1,zh,EAS,Asia
 'f85bf58878',extremes,Wildfire,#d60d2b,wmo,北京野火,2026-03-28T04:33:00+00:00,China,0.7005501081560258,1,2,zh,EAS,Asia
 'f1cfaea846',extremes,Fog,#d60d2b,wmo,霧鳳城,2026-04-01T05:12:00+00:00,China,0.6964092193361135,1,2,zh,EAS,Asia
 '94e628bbb7',extremes,Wildfire,#d60d2b,wmo,野火 麒麟区,2026-04-11T04:34:00+00:00,China,0.694320168799406,3,2,zh,EAS,Asia
