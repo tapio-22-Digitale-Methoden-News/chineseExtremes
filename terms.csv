@@ -109,7 +109,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5b35924fbb',extremes,Fog,#d60d2b,wmo,雾 徐州市,2026-04-17T05:16:00+00:00,China,0.5952108009874,0,1,zh,EAS,Asia
 '2e68d7ce30',extremes,Fog,#d60d2b,wmo,武宁县雾,2026-04-17T05:16:00+00:00,China,0.5950010122844447,0,1,zh,EAS,Asia
 'ea4d5e2b89',extremes,Fog,#d60d2b,wmo,石景山区雾,2026-04-17T05:16:00+00:00,China,0.5949072204673883,0,1,zh,EAS,Asia
-'00ab870ca0',extremes,Wildfire,#d60d2b,wmo,番禺区山火,2026-04-11T04:34:00+00:00,China,0.5941590906444241,0,1,zh,EAS,Asia
 '4ef7857970',extremes,Landslide,#572c03,wmo,湟源縣山崩,2026-05-01T05:54:00+00:00,China,0.5938815639678539,0,1,zh,EAS,Asia
 '83f55c126f',extremes,Fog,#d60d2b,wmo,霧 固鎮縣,2026-04-10T05:13:00+00:00,China,0.5938671433589519,0,1,zh,EAS,Asia
 '49fc6ea36c',extremes,Cold Wave,#a7e9fa,wmo,呼图壁县寒潮,2026-04-19T05:16:00+00:00,China,0.5934451363851811,1,1,zh,EAS,Asia
@@ -276,5 +275,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0452e01113',extremes,Fog,#d60d2b,wmo,文安县雾,2026-04-10T05:13:00+00:00,China,0.511960451588673,1,1,zh,EAS,Asia
 '4466ff9a6f',extremes,Cold Wave,#a7e9fa,wmo,寒潮蓝仙,2026-04-19T05:16:00+00:00,China,0.5056047103793011,1,1,zh,EAS,Asia
 'bc587c669d',extremes,Thunderstorm,#53785a,wmo,恶劣天气 香港 中国香港特别行政区,2026-04-24T05:22:00+00:00,Hong Kong,0.5052181340191979,1,1,zh,EAS,Asia
+'00ab870ca0',extremes,Wildfire,#d60d2b,wmo,番禺区山火,2026-04-11T04:34:00+00:00,China,0.5051852420477605,1,1,zh,EAS,Asia
 'efbe4e0251',extremes,Landslide,#572c03,wmo,施甸郡山崩,2026-05-04T05:50:00+00:00,China,0.4457814028806258,2,1,zh,EAS,Asia
 '620266fe59',extremes,Fog,#d60d2b,wmo,浮梁縣霧,2026-04-14T05:11:00+00:00,China,0.4421855135872647,2,1,zh,EAS,Asia
