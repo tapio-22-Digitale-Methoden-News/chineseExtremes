@@ -7,7 +7,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '54bfee7382',extremes,Wildfire,#d60d2b,wmo,野火宁儿,2026-04-19T05:16:00+00:00,China,0.7223136456491492,1,2,zh,EAS,Asia
 '7ca58db12d',extremes,Cold Wave,#a7e9fa,wmo,中宁县结冰,2026-04-20T05:27:00+00:00,China,0.7199244556802474,1,2,zh,EAS,Asia
 '0b2fd57376',extremes,Earthquake,#870007,usgs,台灣地震,2026-05-05T05:28:00+00:00,Taiwan,0.7139645768593309,1,3,zh,EAS,Asia
-'f1cfaea846',extremes,Fog,#d60d2b,wmo,霧鳳城,2026-04-01T05:12:00+00:00,China,0.6964092193361135,1,2,zh,EAS,Asia
 '94e628bbb7',extremes,Wildfire,#d60d2b,wmo,野火 麒麟区,2026-04-11T04:34:00+00:00,China,0.694320168799406,3,2,zh,EAS,Asia
 '9f60397e9d',extremes,Wildfire,#d60d2b,wmo,佛岡縣山火,2026-04-11T04:34:00+00:00,China,0.6936962906269449,1,2,zh,EAS,Asia
 'a39d5aa47a',extremes,Fog,#d60d2b,wmo,清遠市霧,2026-04-06T05:11:00+00:00,China,0.6887706279286436,1,2,zh,EAS,Asia
@@ -49,7 +48,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7151b2c829',extremes,Heat Wave,#c40202,wmo,热浪弥勒城,2026-05-18T06:38:00+00:00,China,0.6139693574858943,1,1,zh,EAS,Asia
 '68c5c41173',extremes,Cold Wave,#a7e9fa,wmo,大武口区寒潮,2026-04-19T05:16:00+00:00,China,0.6115660848729665,1,1,zh,EAS,Asia
 '74c73c2cb5',extremes,Wildfire,#d60d2b,wmo,高州市山火,2026-04-06T05:11:00+00:00,China,0.6109716689328237,1,2,zh,EAS,Asia
-'5abe185c06',extremes,Fog,#d60d2b,wmo,阳山县雾,2026-04-07T04:59:00+00:00,China,0.6092073167935376,0,1,zh,EAS,Asia
 '3853ae341d',extremes,Landslide,#572c03,wmo,土石流芒市,2026-05-03T05:44:00+00:00,China,0.6086425624728764,0,1,zh,EAS,Asia
 '9720efa091',extremes,Cold Wave,#a7e9fa,wmo,涿鹿县结冰,2026-04-20T05:27:00+00:00,China,0.6083598157613728,0,1,zh,EAS,Asia
 'aa5adbc9da',extremes,Landslide,#572c03,wmo,遂川县山体滑坡,2026-04-12T05:12:00+00:00,China,0.6083473459254052,1,1,zh,EAS,Asia
