@@ -25,8 +25,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bf085d2512',extremes,Flood,#030ba1,wmo,淹没中国,2026-05-19T06:33:00+00:00,China,0.6471923627413455,1,2,zh,EAS,Asia
 'e625fa296a',extremes,Storm,#b3b2b1,wmo,澳門風暴,2026-05-03T05:44:00+00:00,Macao,0.6437347462243471,1,2,zh,EAS,Asia
 '046568dd23',extremes,Heat Wave,#c40202,wmo,热浪 阳原县,2026-05-13T06:03:00+00:00,China,0.6413665371985258,2,1,zh,EAS,Asia
-'fd79aa7602',extremes,Landslide,#572c03,wmo,麻栗坡县山体滑坡,2026-05-29T06:38:00+00:00,China,0.6350067003415344,0,1,zh,EAS,Asia
-'e44949a411',extremes,Fog,#d60d2b,wmo,雾即墨区,2026-05-14T06:02:00+00:00,China,0.634673776493346,0,1,zh,EAS,Asia
 'f9107574a0',extremes,Heat Wave,#c40202,wmo,鹤庆县热浪,2026-05-22T06:32:00+00:00,China,0.6346467274173516,0,1,zh,EAS,Asia
 '85ccea8ff6',extremes,Fog,#d60d2b,wmo,松桃苗族自治县雾,2026-05-16T05:40:00+00:00,China,0.6343290688840622,0,1,zh,EAS,Asia
 '04035c2df1',extremes,Landslide,#572c03,wmo,盈江縣山崩,2026-05-24T06:22:00+00:00,China,0.6336904670716479,0,1,zh,EAS,Asia
@@ -195,6 +193,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8000e89738',extremes,Landslide,#572c03,wmo,横峰县泥石流,2026-05-20T06:33:00+00:00,China,0.5409327301037234,1,1,zh,EAS,Asia
 '5bd8f356f3',extremes,Landslide,#572c03,wmo,屏边苗族自治县山体滑坡,2026-05-03T05:44:00+00:00,China,0.5406347268881628,1,1,zh,EAS,Asia
 '1448bd7640',extremes,Cold Wave,#a7e9fa,wmo,固原县冰冻,2026-05-06T05:43:00+00:00,China,0.5405797623289941,1,1,zh,EAS,Asia
+'e44949a411',extremes,Fog,#d60d2b,wmo,雾即墨区,2026-05-14T06:02:00+00:00,China,0.539772740019344,1,1,zh,EAS,Asia
+'fd79aa7602',extremes,Landslide,#572c03,wmo,麻栗坡县山体滑坡,2026-05-29T06:38:00+00:00,China,0.5397556952903042,1,1,zh,EAS,Asia
 '534e008fe6',extremes,Landslide,#572c03,wmo,香格里拉市泥石流,2026-04-21T05:15:00+00:00,China,0.538166993940385,1,1,zh,EAS,Asia
 'ece9bad7e7',extremes,Landslide,#572c03,wmo,蒙自市山崩,2026-05-09T05:36:00+00:00,China,0.5378096986409105,2,2,zh,EAS,Asia
 'da3f4d5037',extremes,Landslide,#572c03,wmo,寶安鎮雙蓬溪鄉山崩,2026-05-01T05:54:00+00:00,China,0.5376972456482106,1,1,zh,EAS,Asia
