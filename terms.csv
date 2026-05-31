@@ -25,8 +25,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bf085d2512',extremes,Flood,#030ba1,wmo,淹没中国,2026-05-19T06:33:00+00:00,China,0.6471923627413455,1,2,zh,EAS,Asia
 'e625fa296a',extremes,Storm,#b3b2b1,wmo,澳門風暴,2026-05-03T05:44:00+00:00,Macao,0.6437347462243471,1,2,zh,EAS,Asia
 '046568dd23',extremes,Heat Wave,#c40202,wmo,热浪 阳原县,2026-05-13T06:03:00+00:00,China,0.6413665371985258,2,1,zh,EAS,Asia
-'7f22dd280e',extremes,Landslide,#572c03,wmo,罗平县泥石流,2026-05-29T06:38:00+00:00,China,0.632140692842726,0,1,zh,EAS,Asia
-'9511106708',extremes,Fog,#d60d2b,wmo,瑞安市雾,2026-05-16T05:40:00+00:00,China,0.6317160310453157,0,1,zh,EAS,Asia
 'c659bbec77',extremes,Landslide,#572c03,wmo,丘北县山体滑坡,2026-05-29T06:38:00+00:00,China,0.6313236092215369,0,1,zh,EAS,Asia
 '1657bd614f',extremes,Landslide,#572c03,wmo,浮山县泥石流,2026-05-25T06:53:00+00:00,China,0.6311193629597582,0,1,zh,EAS,Asia
 'a531a8ab65',extremes,Fog,#d60d2b,wmo,雾忠贤,2026-05-20T06:33:00+00:00,China,0.6311143868906121,0,1,zh,EAS,Asia
@@ -201,6 +199,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ece9bad7e7',extremes,Landslide,#572c03,wmo,蒙自市山崩,2026-05-09T05:36:00+00:00,China,0.5378096986409105,2,2,zh,EAS,Asia
 'da3f4d5037',extremes,Landslide,#572c03,wmo,寶安鎮雙蓬溪鄉山崩,2026-05-01T05:54:00+00:00,China,0.5376972456482106,1,1,zh,EAS,Asia
 '5c45687c9c',extremes,Landslide,#572c03,wmo,红河县山体滑坡,2026-05-09T05:36:00+00:00,China,0.5374758031194398,1,1,zh,EAS,Asia
+'7f22dd280e',extremes,Landslide,#572c03,wmo,罗平县泥石流,2026-05-29T06:38:00+00:00,China,0.537319588916317,1,1,zh,EAS,Asia
+'9511106708',extremes,Fog,#d60d2b,wmo,瑞安市雾,2026-05-16T05:40:00+00:00,China,0.5371086413885183,1,1,zh,EAS,Asia
 'f5eabb5083',extremes,Landslide,#572c03,wmo,福贡县泥石流,2026-04-22T05:13:00+00:00,China,0.5343883438738647,1,1,zh,EAS,Asia
 'df3c225166',extremes,Cold Wave,#a7e9fa,wmo,青吉尔县寒潮,2026-05-13T06:03:00+00:00,China,0.5339075675092485,2,1,zh,EAS,Asia
 'f2a1f6a7cc',extremes,Landslide,#572c03,wmo,梁河縣山崩,2026-05-03T05:44:00+00:00,China,0.5333075521342333,1,1,zh,EAS,Asia
