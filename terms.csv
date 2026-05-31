@@ -25,7 +25,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bf085d2512',extremes,Flood,#030ba1,wmo,淹没中国,2026-05-19T06:33:00+00:00,China,0.6471923627413455,1,2,zh,EAS,Asia
 'e625fa296a',extremes,Storm,#b3b2b1,wmo,澳門風暴,2026-05-03T05:44:00+00:00,Macao,0.6437347462243471,1,2,zh,EAS,Asia
 '046568dd23',extremes,Heat Wave,#c40202,wmo,热浪 阳原县,2026-05-13T06:03:00+00:00,China,0.6413665371985258,2,1,zh,EAS,Asia
-'d10dd3ef57',extremes,Landslide,#572c03,wmo,万县山体滑坡,2026-05-23T05:53:00+00:00,China,0.632591618347738,0,1,zh,EAS,Asia
 '7f22dd280e',extremes,Landslide,#572c03,wmo,罗平县泥石流,2026-05-29T06:38:00+00:00,China,0.632140692842726,0,1,zh,EAS,Asia
 '9511106708',extremes,Fog,#d60d2b,wmo,瑞安市雾,2026-05-16T05:40:00+00:00,China,0.6317160310453157,0,1,zh,EAS,Asia
 'c659bbec77',extremes,Landslide,#572c03,wmo,丘北县山体滑坡,2026-05-29T06:38:00+00:00,China,0.6313236092215369,0,1,zh,EAS,Asia
@@ -198,6 +197,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '04035c2df1',extremes,Landslide,#572c03,wmo,盈江縣山崩,2026-05-24T06:22:00+00:00,China,0.5386368970109007,1,1,zh,EAS,Asia
 '232b49bb18',extremes,Landslide,#572c03,wmo,原阳县山体滑坡,2026-05-24T06:22:00+00:00,China,0.5384260637121743,1,1,zh,EAS,Asia
 '38bda582e0',extremes,Landslide,#572c03,wmo,景谷泥石流,2026-05-12T05:52:00+00:00,China,0.5378991622532593,1,1,zh,EAS,Asia
+'d10dd3ef57',extremes,Landslide,#572c03,wmo,万县山体滑坡,2026-05-23T05:53:00+00:00,China,0.5378528905955773,1,1,zh,EAS,Asia
 'ece9bad7e7',extremes,Landslide,#572c03,wmo,蒙自市山崩,2026-05-09T05:36:00+00:00,China,0.5378096986409105,2,2,zh,EAS,Asia
 'da3f4d5037',extremes,Landslide,#572c03,wmo,寶安鎮雙蓬溪鄉山崩,2026-05-01T05:54:00+00:00,China,0.5376972456482106,1,1,zh,EAS,Asia
 '5c45687c9c',extremes,Landslide,#572c03,wmo,红河县山体滑坡,2026-05-09T05:36:00+00:00,China,0.5374758031194398,1,1,zh,EAS,Asia
