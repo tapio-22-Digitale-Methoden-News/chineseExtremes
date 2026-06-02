@@ -23,9 +23,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e625fa296a',extremes,Storm,#b3b2b1,wmo,澳門風暴,2026-05-03T05:44:00+00:00,Macao,0.6437347462243471,1,2,zh,EAS,Asia
 '046568dd23',extremes,Heat Wave,#c40202,wmo,热浪 阳原县,2026-05-13T06:03:00+00:00,China,0.6413665371985258,2,1,zh,EAS,Asia
 'a54c2b3032',extremes,Fog,#d60d2b,wmo,日照市雾,2026-05-16T05:40:00+00:00,China,0.6303897721884635,1,2,zh,EAS,Asia
-'f7deec934a',extremes,Landslide,#572c03,wmo,水富城山体滑坡,2026-04-20T05:27:00+00:00,China,0.627792667919616,1,2,zh,EAS,Asia
-'7c8e3cac3a',extremes,Fog,#d60d2b,wmo,婺源縣霧,2026-05-24T06:22:00+00:00,China,0.6277398775936065,0,1,zh,EAS,Asia
-'da7e83545a',extremes,Landslide,#572c03,wmo,个旧市山体滑坡,2026-05-21T06:35:00+00:00,China,0.6276749856646683,0,1,zh,EAS,Asia
 'd8fae2942e',extremes,Fog,#d60d2b,wmo,西秀区雾,2026-05-20T06:33:00+00:00,China,0.627460754880308,0,1,zh,EAS,Asia
 '2ac6cc86c9',extremes,Landslide,#572c03,wmo,离石区山体滑坡,2026-05-18T06:38:00+00:00,China,0.6268610433462601,0,1,zh,EAS,Asia
 '633e8e568d',extremes,Landslide,#572c03,wmo,乐都区泥石流,2026-05-24T06:22:00+00:00,China,0.6258273627410857,0,1,zh,EAS,Asia
@@ -203,6 +200,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b7d948903c',extremes,Heat Wave,#c40202,wmo,熱浪 永仁縣,2026-05-18T06:38:00+00:00,China,0.5344969824618815,1,1,zh,EAS,Asia
 '8041545454',extremes,Landslide,#572c03,wmo,互助土族自治縣土石流,2026-05-25T06:53:00+00:00,China,0.5341673955370254,1,1,zh,EAS,Asia
 'df3c225166',extremes,Cold Wave,#a7e9fa,wmo,青吉尔县寒潮,2026-05-13T06:03:00+00:00,China,0.5339075675092485,2,1,zh,EAS,Asia
+'da7e83545a',extremes,Landslide,#572c03,wmo,个旧市山体滑坡,2026-05-21T06:35:00+00:00,China,0.533673752814968,1,1,zh,EAS,Asia
+'7c8e3cac3a',extremes,Fog,#d60d2b,wmo,婺源縣霧,2026-05-24T06:22:00+00:00,China,0.5335788959545655,1,1,zh,EAS,Asia
 'f2a1f6a7cc',extremes,Landslide,#572c03,wmo,梁河縣山崩,2026-05-03T05:44:00+00:00,China,0.5333075521342333,1,1,zh,EAS,Asia
 '0fdbc91b24',extremes,Landslide,#572c03,wmo,龍川縣山崩,2026-05-02T05:24:00+00:00,China,0.5325791831477041,1,1,zh,EAS,Asia
 '053a41c862',extremes,Landslide,#572c03,wmo,宝安镇山体滑坡,2026-05-01T05:54:00+00:00,China,0.5298871398935734,1,1,zh,EAS,Asia
