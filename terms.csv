@@ -25,7 +25,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a54c2b3032',extremes,Fog,#d60d2b,wmo,日照市雾,2026-05-16T05:40:00+00:00,China,0.6303897721884635,1,2,zh,EAS,Asia
 '3cb143bf40',extremes,Heat Wave,#c40202,wmo,熱浪興安,2026-05-26T06:31:00+00:00,China,0.6249793919205278,1,1,zh,EAS,Asia
 'a55a88abd2',extremes,Landslide,#572c03,wmo,德兴山体滑坡,2026-05-25T06:53:00+00:00,China,0.6249236926128143,1,2,zh,EAS,Asia
-'0cd72e8dab',extremes,Fog,#d60d2b,wmo,东台市雾,2026-06-04T07:06:00+00:00,China,0.6239798450312112,0,1,zh,EAS,Asia
 '5e8c055898',extremes,Landslide,#572c03,wmo,高平土石流,2026-05-25T06:53:00+00:00,China,0.6233727525037951,0,1,zh,EAS,Asia
 '8f3610b091',extremes,Drought,#edc291,edo,圣诞岛缺乏降雨,2026-06-02T07:08:00+00:00,Christmas Island,0.6226617939139959,0,1,zh,SIO,Oceania
 'd998d9c3dc',extremes,Fog,#d60d2b,wmo,雾启东,2026-06-02T07:08:00+00:00,China,0.6224515474115099,1,2,zh,EAS,Asia
@@ -87,6 +86,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ad55edaa70',extremes,Heat Wave,#c40202,wmo,熱浪勐臘縣,2026-05-17T06:01:00+00:00,China,0.5599016223387646,1,1,zh,EAS,Asia
 '80f51a9cfe',extremes,Landslide,#572c03,wmo,喜縣山崩,2026-05-16T05:40:00+00:00,China,0.5596213381965133,1,1,zh,EAS,Asia
 '738eb5fdfa',extremes,Landslide,#572c03,wmo,乡宁县泥石流,2026-05-17T06:01:00+00:00,China,0.5595714280004801,1,1,zh,EAS,Asia
+'0cd72e8dab',extremes,Fog,#d60d2b,wmo,东台市雾,2026-06-04T07:06:00+00:00,China,0.5593057605492567,1,1,zh,EAS,Asia
 '2d6253aa32',extremes,Landslide,#572c03,wmo,勐海縣山崩,2026-05-11T06:14:00+00:00,China,0.5590785210490604,1,1,zh,EAS,Asia
 'f4aa91b292',extremes,Snow&Ice,#d60d2b,wmo,冰冻中国,2026-05-16T05:40:00+00:00,China,0.5581763444462898,1,1,zh,EAS,Asia
 '472543fe22',extremes,Landslide,#572c03,wmo,中阳县泥石流,2026-05-17T06:01:00+00:00,China,0.5581394876680337,1,1,zh,EAS,Asia
