@@ -28,7 +28,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3cb143bf40',extremes,Heat Wave,#c40202,wmo,熱浪興安,2026-05-26T06:31:00+00:00,China,0.6249793919205278,1,1,zh,EAS,Asia
 'a55a88abd2',extremes,Landslide,#572c03,wmo,德兴山体滑坡,2026-05-25T06:53:00+00:00,China,0.6249236926128143,1,2,zh,EAS,Asia
 'd998d9c3dc',extremes,Fog,#d60d2b,wmo,雾启东,2026-06-02T07:08:00+00:00,China,0.6224515474115099,1,2,zh,EAS,Asia
+'1d185419cd',extremes,Heat Wave,#c40202,wmo,雲龍縣熱浪,2026-05-21T06:35:00+00:00,China,0.6220924649834713,0,1,zh,EAS,Asia
 '3703ac8fdc',extremes,Fog,#d60d2b,wmo,雾振风,2026-05-10T05:51:00+00:00,China,0.621810519533055,1,2,zh,EAS,Asia
+'e1946a1a5e',extremes,Heat Wave,#c40202,wmo,熱浪遂川縣,2026-05-24T06:22:00+00:00,China,0.6214214101049204,0,1,zh,EAS,Asia
 'ccda61aba1',extremes,Fog,#d60d2b,wmo,霧共青城,2026-06-03T07:23:00+00:00,China,0.6168357748110419,1,2,zh,EAS,Asia
 '9a1ecdba65',extremes,Heat Wave,#c40202,wmo,熱浪景谷,2026-05-20T06:33:00+00:00,China,0.6161776711173249,1,1,zh,EAS,Asia
 '466b40f3fe',extremes,Landslide,#572c03,wmo,广新地区山体滑坡,2026-04-21T05:15:00+00:00,China,0.6145659382530629,1,2,zh,EAS,Asia
