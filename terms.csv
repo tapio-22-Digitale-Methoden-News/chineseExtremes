@@ -65,7 +65,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80f51a9cfe',extremes,Landslide,#572c03,wmo,喜縣山崩,2026-05-16T05:40:00+00:00,China,0.5596213381965133,1,1,zh,EAS,Asia
 '738eb5fdfa',extremes,Landslide,#572c03,wmo,乡宁县泥石流,2026-05-17T06:01:00+00:00,China,0.5595714280004801,1,1,zh,EAS,Asia
 '2d6253aa32',extremes,Landslide,#572c03,wmo,勐海縣山崩,2026-05-11T06:14:00+00:00,China,0.5590785210490604,1,1,zh,EAS,Asia
-'f4aa91b292',extremes,Snow&Ice,#d60d2b,wmo,冰冻中国,2026-05-16T05:40:00+00:00,China,0.5581763444462898,1,1,zh,EAS,Asia
 'e527465854',extremes,Landslide,#572c03,wmo,广昌县山体滑坡,2026-05-13T06:03:00+00:00,China,0.5580902387277892,1,1,zh,EAS,Asia
 '72ba652831',extremes,Landslide,#572c03,wmo,山體滑坡振峰,2026-05-16T05:40:00+00:00,China,0.5579986566384222,1,1,zh,EAS,Asia
 '5cfc1fd033',extremes,Landslide,#572c03,wmo,姚安县山体滑坡,2026-05-11T06:14:00+00:00,China,0.5578150107048402,1,1,zh,EAS,Asia
@@ -247,9 +246,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ab3809ae1b',extremes,Landslide,#572c03,wmo,浦縣山崩,2026-05-17T06:01:00+00:00,China,0.4859064138206451,2,1,zh,EAS,Asia
 'd1a4270658',extremes,Landslide,#572c03,wmo,彭阳山体滑坡,2026-05-25T06:53:00+00:00,China,0.4850807242290732,2,1,zh,EAS,Asia
 '04915d4188',extremes,Precipitation,#d60d2b,wmo,澳門傾盆大雨,2026-06-08T07:13:00+00:00,Macao,0.484495508516577,2,1,zh,EAS,Asia
-'074a59f1bd',extremes,Landslide,#572c03,wmo,信丰县泥石流,2026-05-14T06:02:00+00:00,China,0.48406039867773903,2,1,zh,EAS,Asia
-'24a76d9a11',extremes,Fog,#d60d2b,wmo,嶗山區霧,2026-05-14T06:02:00+00:00,China,0.48379456287451617,2,1,zh,EAS,Asia
+'074a59f1bd',extremes,Landslide,#572c03,wmo,信丰县泥石流,2026-05-14T06:02:00+00:00,China,0.484060398677739,2,1,zh,EAS,Asia
+'24a76d9a11',extremes,Fog,#d60d2b,wmo,嶗山區霧,2026-05-14T06:02:00+00:00,China,0.4837945628745161,2,1,zh,EAS,Asia
 '1b01e942a8',extremes,Landslide,#572c03,wmo,大宁县山体滑坡,2026-05-18T06:38:00+00:00,China,0.4833763490630172,2,1,zh,EAS,Asia
 'a499d5264d',extremes,Landslide,#572c03,wmo,鄱阳县山体滑坡,2026-05-26T06:31:00+00:00,China,0.4832932358648535,2,1,zh,EAS,Asia
+'f4aa91b292',extremes,Snow&Ice,#d60d2b,wmo,冰冻中国,2026-05-16T05:40:00+00:00,China,0.47519996777934637,2,1,zh,EAS,Asia
 '472543fe22',extremes,Landslide,#572c03,wmo,中阳县泥石流,2026-05-17T06:01:00+00:00,China,0.4744185645178286,2,1,zh,EAS,Asia
 'a2bebc242d',extremes,Heat Wave,#c40202,wmo,热浪福贡县,2026-05-21T06:35:00+00:00,China,0.466135896312333,2,1,zh,EAS,Asia
