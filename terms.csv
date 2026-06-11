@@ -102,7 +102,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7fcd863cff',extremes,Landslide,#572c03,wmo,尧都区泥石流,2026-05-18T06:38:00+00:00,China,0.5494347015015187,1,1,zh,EAS,Asia
 '4f273b9fc7',extremes,Landslide,#572c03,wmo,堯都區山崩,2026-05-16T05:40:00+00:00,China,0.5494136321119586,1,1,zh,EAS,Asia
 'fa3997d9dc',extremes,Landslide,#572c03,wmo,浦縣山崩,2026-05-25T06:53:00+00:00,China,0.5493420415103862,1,1,zh,EAS,Asia
-'a2bebc242d',extremes,Heat Wave,#c40202,wmo,热浪福贡县,2026-05-21T06:35:00+00:00,China,0.5482186838968623,1,1,zh,EAS,Asia
 '7848dc716c',extremes,Landslide,#572c03,wmo,潜山县山体滑坡,2026-05-20T06:33:00+00:00,China,0.5480420532435067,1,1,zh,EAS,Asia
 '74fe763b2e',extremes,Earthquake,#870007,usgs,花莲市地震,2026-05-16T05:40:00+00:00,Taiwan,0.5480371520184721,1,1,zh,EAS,Asia
 '36d693e085',extremes,Landslide,#572c03,wmo,耿马傣族自治县山体滑坡,2026-05-10T05:51:00+00:00,China,0.5475561751661435,1,1,zh,EAS,Asia
@@ -248,6 +247,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '78b8361105',extremes,Fog,#d60d2b,wmo,太仓市雾,2026-05-25T06:53:00+00:00,China,0.4895122976976189,2,1,zh,EAS,Asia
 '74743911d5',extremes,Landslide,#572c03,wmo,靈川縣土石流,2026-05-17T06:01:00+00:00,China,0.4890273772962781,2,1,zh,EAS,Asia
 'e35bfe6203',extremes,Heat Wave,#c40202,wmo,熱浪瀾滄拉祜族自治縣,2026-05-18T06:38:00+00:00,China,0.4886330965055379,2,1,zh,EAS,Asia
-'b1f692c6e4',extremes,Landslide,#572c03,wmo,繁峙县泥石流,2026-05-17T06:01:00+00:00,China,0.48771079198590994,2,1,zh,EAS,Asia
+'b1f692c6e4',extremes,Landslide,#572c03,wmo,繁峙县泥石流,2026-05-17T06:01:00+00:00,China,0.4877107919859099,2,1,zh,EAS,Asia
 'd1a4270658',extremes,Landslide,#572c03,wmo,彭阳山体滑坡,2026-05-25T06:53:00+00:00,China,0.4850807242290732,2,1,zh,EAS,Asia
 '472543fe22',extremes,Landslide,#572c03,wmo,中阳县泥石流,2026-05-17T06:01:00+00:00,China,0.4744185645178286,2,1,zh,EAS,Asia
+'a2bebc242d',extremes,Heat Wave,#c40202,wmo,热浪福贡县,2026-05-21T06:35:00+00:00,China,0.466135896312333,2,1,zh,EAS,Asia
