@@ -28,7 +28,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a55a88abd2',extremes,Landslide,#572c03,wmo,德兴山体滑坡,2026-05-25T06:53:00+00:00,China,0.6249236926128143,1,2,zh,EAS,Asia
 'd998d9c3dc',extremes,Fog,#d60d2b,wmo,雾启东,2026-06-02T07:08:00+00:00,China,0.6224515474115099,1,2,zh,EAS,Asia
 '24b660695f',extremes,Landslide,#572c03,wmo,中國土石流,2026-05-22T06:32:00+00:00,China,0.6224347066719524,2,2,zh,EAS,Asia
-'0c2ffca176',extremes,Fog,#d60d2b,wmo,雾临江街,2026-06-14T07:07:00+00:00,China,0.6181645887536961,0,1,zh,EAS,Asia
 'bd7416f436',extremes,Heat Wave,#c40202,wmo,輪台縣熱浪,2026-05-31T06:40:00+00:00,China,0.6179756511615038,0,1,zh,EAS,Asia
 'ccda61aba1',extremes,Fog,#d60d2b,wmo,霧共青城,2026-06-03T07:23:00+00:00,China,0.6168357748110419,1,2,zh,EAS,Asia
 '1bd470d857',extremes,Cold Wave,#a7e9fa,wmo,冰冻中国,2026-05-11T06:14:00+00:00,China,0.615148860872031,2,1,zh,EAS,Asia
@@ -185,6 +184,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '38c8bd3c88',extremes,Landslide,#572c03,wmo,屏边苗族自治县泥石流,2026-05-30T06:01:00+00:00,China,0.5269359971140437,1,1,zh,EAS,Asia
 'df1f33ae3a',extremes,Landslide,#572c03,wmo,同心縣內山崩,2026-05-24T06:22:00+00:00,China,0.5266166669689022,1,1,zh,EAS,Asia
 'a4b54a6960',extremes,Landslide,#572c03,wmo,勐海县泥石流,2026-06-11T07:14:00+00:00,China,0.5264827972296755,1,1,zh,EAS,Asia
+'0c2ffca176',extremes,Fog,#d60d2b,wmo,雾临江街,2026-06-14T07:07:00+00:00,China,0.5255899154406416,1,1,zh,EAS,Asia
 'ef3fd7bbe6',extremes,Heat Wave,#c40202,wmo,石屏縣熱浪,2026-05-24T06:22:00+00:00,China,0.5255504581988838,1,1,zh,EAS,Asia
 'ef29bc64f5',extremes,Cold Wave,#a7e9fa,wmo,寒流 義烏縣,2026-05-13T06:03:00+00:00,China,0.5247781936627061,2,1,zh,EAS,Asia
 '9a1ecdba65',extremes,Heat Wave,#c40202,wmo,熱浪景谷,2026-05-20T06:33:00+00:00,China,0.5243510804497262,2,1,zh,EAS,Asia
