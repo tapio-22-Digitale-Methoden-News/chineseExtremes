@@ -18,6 +18,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8915c0b9ac',extremes,Earthquake,#870007,usgs,那曲地震,2026-05-27T06:46:00+00:00,China,0.670383445438743,1,2,zh,TIB,Asia
 '317a0a0f1b',extremes,Fog,#d60d2b,wmo,定海區霧,2026-05-25T06:53:00+00:00,China,0.667750996813664,1,2,zh,EAS,Asia
 '0e90079ac7',extremes,Heat Wave,#c40202,wmo,熱浪石河子市,2026-06-14T07:07:00+00:00,China,0.6570619831853827,0,1,zh,EAS,Asia
+'db51bfcc2a',extremes,Heat Wave,#c40202,wmo,热浪米东区,2026-06-02T07:08:00+00:00,China,0.6563757962912631,0,1,zh,EAS,Asia
 '0cfb65b58d',extremes,Fog,#d60d2b,wmo,雾中国,2026-04-26T05:25:00+00:00,China,0.650143123411445,1,3,zh,EAS,Asia
 'bf085d2512',extremes,Flood,#030ba1,wmo,淹没中国,2026-05-19T06:33:00+00:00,China,0.6471923627413455,1,2,zh,EAS,Asia
 '5e8c055898',extremes,Landslide,#572c03,wmo,高平土石流,2026-05-25T06:53:00+00:00,China,0.6471673196282258,1,3,zh,EAS,Asia
