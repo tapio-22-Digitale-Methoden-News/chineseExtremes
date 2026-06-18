@@ -1,8 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '0b2fd57376',extremes,Earthquake,#870007,usgs,台灣地震,2026-05-05T05:28:00+00:00,Taiwan,0.7618231303304313,2,3,zh,EAS,Asia
+'5a4cd5d095',extremes,Heat Wave,#c40202,wmo,熱浪烏魯木齊市,2026-06-14T07:07:00+00:00,China,0.7528054556334417,1,2,zh,EAS,Asia
 '75dafff63a',extremes,Thunderstorm,#53785a,wmo,冰雹,2026-06-07T06:48:00+00:00,Macao,0.7117792073656114,1,2,zh,EAS,Asia
 '34681ef140',extremes,Landslide,#572c03,wmo,上高縣山崩,2026-05-20T06:33:00+00:00,China,0.710595986677764,1,2,zh,EAS,Asia
-'5a4cd5d095',extremes,Heat Wave,#c40202,wmo,熱浪烏魯木齊市,2026-06-14T07:07:00+00:00,China,0.7090064007452255,0,1,zh,EAS,Asia
 'e2b1ad3938',extremes,Landslide,#572c03,wmo,山體滑坡代表縣,2026-05-17T06:01:00+00:00,China,0.6910004504371556,1,2,zh,EAS,Asia
 'c685705bbd',extremes,Earthquake,#870007,usgs,中国地震,2026-05-16T05:40:00+00:00,China,0.6904547214720876,1,3,zh,EAS,Asia
 '8182b1f37a',extremes,Snow&Ice,#d60d2b,wmo,雪中国,2026-06-07T06:48:00+00:00,China,0.6902472427516699,1,3,zh,EAS,Asia
