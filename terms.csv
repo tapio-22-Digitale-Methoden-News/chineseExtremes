@@ -32,7 +32,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db51bfcc2a',extremes,Heat Wave,#c40202,wmo,热浪米东区,2026-06-02T07:08:00+00:00,China,0.6095949068475736,1,2,zh,EAS,Asia
 '35e648eba5',extremes,Heat Wave,#c40202,wmo,个旧市热浪,2026-05-20T06:33:00+00:00,China,0.6052935833376472,2,2,zh,EAS,Asia
 '7dbcb2019f',extremes,Fog,#d60d2b,wmo,宜黃縣霧,2026-06-14T07:07:00+00:00,China,0.6010236720269433,2,1,zh,EAS,Asia
-'9bea8f3dca',extremes,Fog,#d60d2b,wmo,荣成市雾,2026-06-15T08:36:00+00:00,China,0.5991550225003648,1,1,zh,EAS,Asia
 '06c27e9808',extremes,Storm,#b3b2b1,wmo,风暴和田地区,2026-05-13T06:03:00+00:00,China,0.5945793284803167,1,1,zh,EAS,Asia
 '0013f8517b',extremes,Heat Wave,#c40202,wmo,热浪阿拉尔城,2026-05-31T06:40:00+00:00,China,0.5857339576932338,1,1,zh,EAS,Asia
 '3cb143bf40',extremes,Heat Wave,#c40202,wmo,熱浪興安,2026-05-26T06:31:00+00:00,China,0.5830326631324485,2,1,zh,EAS,Asia
@@ -190,7 +189,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '94113bff06',extremes,Heat Wave,#c40202,wmo,热浪 大姚县,2026-05-18T06:38:00+00:00,China,0.5110584561528885,2,1,zh,EAS,Asia
 '57d87f4920',extremes,Heat Wave,#c40202,wmo,热浪阿拉山口,2026-06-14T07:07:00+00:00,China,0.5110470180710959,2,1,zh,EAS,Asia
 '381d0a490a',extremes,Landslide,#572c03,wmo,益陽縣山崩,2026-05-25T06:53:00+00:00,China,0.5105411006200773,2,1,zh,EAS,Asia
-'b8439a43af',extremes,Heat Wave,#c40202,wmo,熱浪元江哈尼族,2026-05-16T05:40:00+00:00,China,0.5103875851341164,2,1,zh,EAS,Asia
+'9bea8f3dca',extremes,Fog,#d60d2b,wmo,荣成市雾,2026-06-15T08:36:00+00:00,China,0.5095817991253101,2,1,zh,EAS,Asia
 '4e2f833dbb',extremes,Heat Wave,#c40202,wmo,热浪西门瓦祖紫指仙,2026-05-22T06:32:00+00:00,China,0.5091602598802786,2,1,zh,EAS,Asia
 '0ee9942e33',extremes,Heat Wave,#c40202,wmo,热浪 义乌县,2026-05-31T06:40:00+00:00,China,0.5081532029177201,2,1,zh,EAS,Asia
 '9465a56510',extremes,Heat Wave,#c40202,wmo,熱浪福康,2026-06-15T08:36:00+00:00,China,0.5068619439191093,2,1,zh,EAS,Asia
