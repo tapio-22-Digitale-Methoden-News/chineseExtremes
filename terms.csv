@@ -32,7 +32,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a55a88abd2',extremes,Landslide,#572c03,wmo,德兴山体滑坡,2026-05-25T06:53:00+00:00,China,0.6249236926128143,1,2,zh,EAS,Asia
 'd998d9c3dc',extremes,Fog,#d60d2b,wmo,雾启东,2026-06-02T07:08:00+00:00,China,0.6224515474115099,1,2,zh,EAS,Asia
 '24b660695f',extremes,Landslide,#572c03,wmo,中國土石流,2026-05-22T06:32:00+00:00,China,0.6224347066719524,2,2,zh,EAS,Asia
-'cbba9d373b',extremes,Earthquake,#870007,usgs,阳隆地震,2026-06-30T06:39:00+00:00,China,0.6182433009587972,0,1,zh,ECA,Asia
 '93ab75fca5',extremes,Fog,#d60d2b,wmo,鹽城霧,2026-06-25T06:32:00+00:00,China,0.6129981891184646,1,2,zh,EAS,Asia
 'db51bfcc2a',extremes,Heat Wave,#c40202,wmo,热浪米东区,2026-06-02T07:08:00+00:00,China,0.6095949068475736,1,2,zh,EAS,Asia
 '35c6f4710d',extremes,Fog,#d60d2b,wmo,林口县雾,2026-06-23T06:33:00+00:00,China,0.6073480145826156,0,1,zh,EAS,Asia
@@ -167,6 +166,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'df1f33ae3a',extremes,Landslide,#572c03,wmo,同心縣內山崩,2026-05-24T06:22:00+00:00,China,0.5266166669689022,1,1,zh,EAS,Asia
 'd977573dad',extremes,Fog,#d60d2b,wmo,雾 辉南县,2026-06-26T06:36:00+00:00,China,0.5265477567365988,1,1,zh,EAS,Asia
 'a4b54a6960',extremes,Landslide,#572c03,wmo,勐海县泥石流,2026-06-11T07:14:00+00:00,China,0.5264827972296755,1,1,zh,EAS,Asia
+'cbba9d373b',extremes,Earthquake,#870007,usgs,阳隆地震,2026-06-30T06:39:00+00:00,China,0.5258068358149777,1,1,zh,ECA,Asia
 '0c2ffca176',extremes,Fog,#d60d2b,wmo,雾临江街,2026-06-14T07:07:00+00:00,China,0.5255899154406416,1,1,zh,EAS,Asia
 'ef3fd7bbe6',extremes,Heat Wave,#c40202,wmo,石屏縣熱浪,2026-05-24T06:22:00+00:00,China,0.5255504581988838,1,1,zh,EAS,Asia
 'ffd10d0790',extremes,Fog,#d60d2b,wmo,岱山縣霧,2026-06-19T07:39:00+00:00,China,0.5254294286740039,1,1,zh,EAS,Asia
