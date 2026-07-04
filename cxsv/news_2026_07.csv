@@ -1,0 +1,428 @@
+index,published,topic,term,domain,language,valid,de,title,description,en,la,url,image,archive,content,quote,added,feed,country,ipcc,continent
+2d6dcb26b8e826706a1826f6b0a865ef,2026-07-01T03:05:08Z,Tropical Cyclone,台风 新会区,www.cnbeta.com.tw,zh,0.1,"Claude Sonnet 5 ist da: Der Preis ist 40 % günstiger, aber die Rechnung wird Sie „schmerzhaft“ machen. Anthropic hat einige seiner „Flaggschifffunktionen“ in das Standardmodell für kostenlose Benutzer integriert. Am frühen Morgen des 1. Juli, Pekinger Zeit, wurde Claude Sonnet 5 offiziell enthüllt. Es kann selbstständig Aufgaben planen, Browser und Terminals aufrufen, Code schreiben, Fehler prüfen und komplexe Workflows ausführen ... In den offiziellen Worten von Anthropic ist dies das Sonnet-Modell, das derzeit „am agentenähnlichsten“ ist. Die Leistung liegt bereits nahe an der des Opus 4.8, allerdings ist der Preis noch etwas gesunken.
+Es hört sich wirklich köstlich an. Während des Veröffentlichungszeitraums betragen die Ein- und Ausgabe-Token-Preise von Sonnet 5 (pro Million) nur 2 US-Dollar bzw. 10 US-Dollar; Selbst wenn Ende August wieder Normalität einkehrt, werden die Input- und Output-Token-Preise 3 US-Dollar bzw. 15 US-Dollar betragen. Vergleichen Sie Op…",Claude Sonnet 5来了：价格打到六折 账单却让你“肉疼”,"Anthropic把一部分""旗舰能力""，塞进免费用户的默认模型里。北京时间7月1日凌晨，Claude Sonnet 5正式亮相。它能自主规划任务、调用浏览器和终端、写代码、查错、跑完复杂工作流……用Anthropic官方的话说，这是目前""最像智能体（Agent）""的Sonnet模型。它的性能已经直逼Opus 4.8，但价格却结结实实地降了一个档次。
+听起来确实挺香。发布期内，Sonnet 5的输入和输出Token价格（每百万）分别只要2美元和10美元；即便8月底恢复常态，也就是输入3美元、输出15美元。对比Op…","Claude Sonnet 5 is here: the price is 40% off, but the bill will make you ""painful"". Anthropic has stuffed some of its ""flagship capabilities"" into the default model for free users. In the early morning of July 1st, Beijing time, Claude Sonnet 5 was officially unveiled. It can independently plan tasks, call browsers and terminals, write code, check errors, and run complex workflows... In the official words of Anthropic, this is the Sonnet model that is currently ""the most agent-like"". Its performance is already close to that of Opus 4.8, but the price has dropped a notch.
+It does sound delicious. During the release period, the input and output Token prices of Sonnet 5 (per million) are only US$2 and US$10 respectively; even if normality returns to normal at the end of August, the input and output Token prices will be US$3 and US$15 respectively. Compare Op…","Claude Sonnet 5 hic est: pretium 40% auferet, sed rogatio te ""dolorem"" faciet. Anthropica nonnullas suas ""capacitates praetoriae"" in defalta specie pro gratis utentibus refertas fecit. Primo mane mensis Iulii, Beijing tempore Claudius Sonnet 5 publice detectus est. Negotium independenter instituere potest, navigatores et terminales vocant, codicem scribe, errores compesce, et intricata opera currunt. Peractum est iam prope Operis 4.8, sed pretium incisura decidit.
+Integer non est elit. Per tempus emissione, initus et output Thochen pretia Sonnet 5 (per decies centena millia) tantum US$2 et US$10 respective sunt; etiamsi normalitas ad normales in fine Augusti redit, initus et output Thochen prices erunt US$3 et US$15 respective. Confer Op…",https://www.cnbeta.com.tw/articles/tech/1567454.htm,https://static.cnbetacdn.com/article/2026/0701/302305e0ae560ae.jpg,,"Sonnet 5Token2108315Opus4.85/25Sonnet 5
+Anthropic
+IPO""""AI
+Sonnet 5Anthropic
+AnthropicClaude Fable 5Mythos 5
+01
+OpusSonnet 5
+2AI
+Claude
+AI·Aakash GuptaSWE-bench ProSonnet 563.2%Opus 4.869.2%… [+1709 chars]",,2026-07-04 08:09:38+00:00,wmo,China,EAS,Asia
+5b189609be7892de0c127bee708214b8,2026-07-01T11:48:27Z,Tropical Cyclone,台风 新会区,36kr.com,zh,0.1,"Die erste Veröffentlichung von Hard Krypton | Das in Tsinghua ansässige Unternehmen für Gehirn-Computer-Schnittstellen hat eine Startfinanzierung in zweistelliger Millionenhöhe eingesammelt, indem es Ultraschall zur Herstellung halb- und nicht-invasiver Gehirncomputer einsetzte. Hard Krypton erfuhr, dass das Ultraschall-Gehirn-Computer-Schnittstellenunternehmen Sisheng Technology kürzlich eine Seed-Finanzierungsrunde in Höhe von mehreren zehn Millionen Yuan abgeschlossen hat, die gemeinsam vom Inno Angel Fund und dem Shuimu Tsinghua Alumni Seed Fund investiert wurde. Die Mittel werden hauptsächlich für Teambuilding, Prototypenbau und präklinische Forschung verwendet.
+ Sisheng Technology wurde im Dezember 2025 gegründet und ist ein KI-gesteuertes Unternehmen für Gehirnforschungstechnologie, das sich derzeit auf Neuromodulation und Hilfsmedikamentenverabreichung über nicht- und halbinvasive Ultraschall-Gehirn-Computer-Schnittstellen konzentriert.
+ Sein Gründer, Yan Yimo, ist Gewinner des Entrepreneurship Pioneer Award der Eidgenössischen Technischen Hochschule Zürich (ETH), Doktorand und Postdoktorand am Departement für Biomedizinische Technik der ETH und verfügt über einen Master-Abschluss in Biomedizinischer Technik der Tsinghua-Universität. Er hat zahlreiche Auszeichnungen bei Schweizer und inländischen Unternehmerwettbewerben gewonnen. CTO Gao Quan ist Ph.D. an der ETH und beschäftigt sich seit langem mit der übergreifenden Forschung zu Robotik und Medizintechnik. CS…",硬氪首发 | 清华系脑机接口公司种子轮融资数千万，用超声波做半&非侵入脑机,"硬氪获悉，超声脑机接口公司思昇科技近日完成数千万元种子轮融资，由英诺天使基金和水木清华校友种子基金共同投资。资金将主要用于团队搭建、样机搭建和预临床研究。
+ 思昇科技成立于2025年12月，是一家AI驱动的脑科学科技公司，目前主要专注于通过非&半侵入式超声脑机接口来进行神经调控与辅助药物递送。
+ 其创始人闫一默是瑞士苏黎世联邦理工学院（ETH）创业先锋奖获得者，ETH生物医学工程系博士及博士后，清华大学生物医学工程系硕士，曾多次荣获瑞士及国内创业大赛奖项。CTO高铨是ETH博士，长期从事机器人与医工交叉研究。CS…","Hard Krypton’s first release | Tsinghua-based brain-computer interface company raised tens of millions in seed round financing, using ultrasound to make semi-& non-invasive brain computers. Hard Krypton learned that ultrasound brain-computer interface company Sisheng Technology recently completed tens of millions of yuan in seed round financing, jointly invested by Inno Angel Fund and Shuimu Tsinghua Alumni Seed Fund. The funds will be mainly used for team building, prototype construction and pre-clinical research.
+ Founded in December 2025, Sisheng Technology is an AI-driven brain science technology company that currently focuses on neuromodulation and auxiliary drug delivery through non-& semi-invasive ultrasound brain-computer interfaces.
+ Its founder, Yan Yimo, is the winner of the Entrepreneurship Pioneer Award from the Swiss Federal Institute of Technology in Zurich (ETH), a doctorate and postdoctoral fellow in the Department of Biomedical Engineering at ETH, and a master's degree in Biomedical Engineering from Tsinghua University. He has won many awards in Swiss and domestic entrepreneurship competitions. CTO Gao Quan is a Ph.D. in ETH and has been engaged in cross-research on robotics and medical engineering for a long time. CS…","Hard Krypton's prima emissio | Tsinghua-substructio interfaciei cerebri-computatorum societas decem decies centena milia seminis rotundi imperdiet suscitavit, utens ultrasonus ad computatores cerebri semi-& non incursio. Durum Krypton didicit ultrasound cerebrum-computatrum interfacies societatis Sisheng Technologiae nuper peracta decem decies centena milia Yuan in semine circum imperdiet, ab Inno Angelo Fundo coniunctim investitus et Semen Fundi Shuimu Tsinghua Alumni. Pecuniae principaliter adhibebuntur ad structuram manipulorum, prototypum constructionis et investigationis prae- orci.
+ Fundata mense Decembri 2025, Sisheng Technologia est societas technologiae scientiarum cerebri AI agitatae, quae nunc in neuromodulatione et auxiliaribus medicamentorum partus per non-& semi-incursionem ultrasonum interfaces cerebri computatri intendit.
+ Fundator eius Yan Yimo victor est lacus auctor lacus lacus Foederalis Instituto technologiae Helvetiae in Zurich (ETH), doctoratus et postdoctoralis in Department of Engineering Biomedici in ETH, et magisterii gradus in Engineering Biomedici ab Universitate Tsinghua. Multa praemia in Helvetia et certationis entrepreneur domestica vicit. CTO Gao quanta est Ph.D. in ETH versatus est et in cruce-investigatione in roboticis et machinatione medicinae diu versatus est. CS…",https://36kr.com/p/3877019284631808,"https://img.36krcdn.com/hsossms/20260701/v2_ad58a502e9c24485b7a45a8e2683922f@6310669_oswg1055151oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",,"202512AI&amp;
+ETHETHCTOETHCSOAIETH
+BCIOpenAI CEO Sam AltmanMerge LabsNeuralinkNudge
+NeuralinkBCIBCIBCI200BCI1400
+BBB
+AAV
+5-10
+30-100/
+BBB
+AIBCIAI
+860CCTV
+AIAI
+Carthera
+Carthera
+MergeLab… [+30 chars]",,2026-07-04 08:09:38+00:00,wmo,China,EAS,Asia
+7067448d8a174f90dc5770781f3b0926,2026-07-01T23:27:58Z,Tropical Cyclone,台风 新会区,www.ithome.com,zh,0.1,"IT Morning Post 0702: Der CEO von Micron sagte, dass die Terminalhersteller die Preise übermäßig gesenkt und zu einem knappen Speicherangebot geführt hätten; Das interne Projekt von Xiaohongshu ergab, dass es ein weiteres Xiaohongshu schaffen wird; Anthropic reagierte mit versteckten Codes, um chinesische Benutzer zu erkennen; Zhuoyitong unterstützt Huawei Hongmeng 7 voll und ganz ... „IT Morning Post“-Zeit, hallo zusammen, es ist Donnerstag, der 2. Juli 2026. Die heutigen wichtigen Technologieinformationen lauten: 1. Der CEO von Micron äußert sich zu Wort: Geben Sie uns nicht nur die Schuld für das Ungleichgewicht bei der Speicherversorgung. Die Kunden haben die Preise im Jahr 2023 auf ein Drittel gesenkt, was dazu führte, dass die Produktion vor dem Ausbruch der KI nicht ausgeweitet werden konnte. Mehrotra, CEO von Micron, sagte, dass das derzeitige Ungleichgewicht bei der Versorgung mit Speicherchips nicht allein den Chipherstellern angelastet werden dürfe. Einige Kunden haben die Preise auf ein Drittel gesenkt, was zu unzureichenden Investitionen in der Branche vor dem Ausbruch der KI-Nachfrage geführt hat. Er warnte davor, dass die Knappheit über das Jahr 2027 hinaus andauern könnte, und verriet, dass Micron etwa 200 Milliarden US-Dollar in die Ausweitung der Produktion investiere. >> Details anzeigen 2. Es wurde bekannt, dass Xiaohongshu das Darwin-Projekt intern gestartet hat, um ein weiteres Xiaohongshu zu schaffen. Laut Dachang Daily News vom 30. Juni...",IT早报 0702：美光 CEO 指终端厂商过度压价致内存供应紧张；小红书内部项目曝光要再创一个小红书；Anthropic 回应暗藏代码检测中国用户；卓易通全面支持华为鸿蒙 7...,“IT早报”时间，大家好，现在是 2026 年 7 月 2 日星期四，今天的重要科技资讯有：1、美光 CEO 发声“甩锅”：内存供应失衡别只怪我们，客户 2023 年曾压价到三分之一导致 AI 爆发前没能扩产美光 CEO 梅赫罗特拉表示，当前内存芯片供应失衡不应全怪芯片商，部分客户曾将价格压至三分之一，导致行业在 AI 需求爆发前投资不足。他警告短缺可能持续至 2027 年后，并透露美光正投资约 2000 亿美元扩产。>> 查看详情2、曝小红书内部启动达尔文项目，要再创一个小红书据大厂日爆 6 月 30 日爆料，…,"IT Morning Post 0702: Micron CEO said that terminal manufacturers have excessively lowered prices and caused tight memory supply; Xiaohongshu’s internal project revealed that it will create another Xiaohongshu; Anthropic responded with hidden codes to detect Chinese users; Zhuoyitong fully supports Huawei Hongmeng 7... ""IT Morning Post"" time, hello everyone, it is Thursday, July 2, 2026. Today's important technology information is: 1. Micron CEO Speaking out: Don’t just blame us for the imbalance in memory supply. Customers have lowered prices to one-third in 2023, which led to the failure to expand production before the outbreak of AI. Micron CEO Mehrotra said that the current imbalance in the supply of memory chips should not be entirely blamed on chip manufacturers. Some customers have lowered prices to one-third, resulting in insufficient investment in the industry before the outbreak of AI demand. He warned that shortages could last beyond 2027 and revealed that Micron was investing about $200 billion to expand production. >> View details 2. It was revealed that Xiaohongshu has launched the Darwin project internally to create another Xiaohongshu. According to Dachang Daily News on June 30,...","IT Mane Post 0702: Micron CEO dixit artifices terminales pretia nimis demisisse et copiam memoriam strictam effecisse; Internum consilium Xiaohongshu revelatum est quod aliud Xiaohongshu creabit; Anthropica respondit cum codicibus occultis utentes Sinenses deprehendere; Zhuoyitong plene sustinet Huawei Hongmeng VII. Customers pretiis tertiae anno 2023 demiserunt, quae defectionem ad productionem augendam ante AI tumultum perduxerunt. Micron CEO Mehrotra dixit inaequilibritatem hodiernam in copia assulorum memoriae non omnino reprehendi debere in fabricantibus chippis. Aliquot clientes pretia tertiae partis demiserunt, unde insufficiens collocatio in industria ante tumultum AI postulant. Monuit inopias ultra 2027 durare posse et ostendit Micron circiter $ 200 miliarda ad productionem amplificandam circumsedere. >> View details 2. Revelatum est Xiaohongshu Darwin consilium interius ad alium Xiaohongshu creandum patefecit. Secundum Dachang Nuntium quotidianum die 30 Iunii, ...",https://www.ithome.com/0/971/401.htm,,,"IT 2026 7 2 
+1 CEO 2023 AI 
+ CEO AI 2027 2000 &gt;&gt; 
+2
+ 6 30 darwin L3 &gt;&gt; 
+3 HarmonyOS 7.0 
+HarmonyOS NEXT 7 1 HarmonyOS 7.0 HarmonyOS 7.0 &gt;&gt; 
+4Anthropic Claude Code 
+Claude Co… [+1214 chars]",,2026-07-04 08:09:38+00:00,wmo,China,EAS,Asia
+810695d152756cf77510cf508d248186,2026-07-03T06:35:53Z,Tropical Cyclone,台风 新会区,www.cnbeta.com.tw,zh,0.1,"Möchten Sie die Original-Lederjacke von Jen-Hsun Huang: Sie haben eine Chance, bereiten Sie 400.000 Yuan vor. Laut einer Nachricht vom 3. Juli hat das bekannte Auktionshaus Sotheby's offiziell eine neue Sonderauktion angekündigt. Am 7. Juli wird offiziell mit dem Bieten auf eine schwarze Lederjacke begonnen, die einst von Nvidia-CEO Jen-Hsun Huang getragen wurde. Die Branche schätzt, dass der endgültige Transaktionspreis im Bereich von 40.000 bis 60.000 US-Dollar liegen wird. Nachdem sie diesen geschätzten Preis gelesen hatten, sagten viele Internetnutzer, die die Trends im Technologiekreis verfolgen, dass der Preis weit höher sei als bei gewöhnlichen Luxusgütern.
+Die Lederjacke selbst stammt nach Angaben des amtlich benannten Gutachterbüros aus der High-End-Customized-Produktlinie der Luxusmarke Tom Ford. Huang Renxun selbst trug es, als er am 18. Oktober 2023 nach Taipeh reiste, um an der großen öffentlichen Veranstaltung „Hon Hai Technology Day“ teilzunehmen. Viele Zuschauer, die seit vielen Jahren auf die Trends in der Technologiebranche achten, waren immer noch tief beeindruckt von der Szene, in der er diese Jacke damals trug, um eine Rede zu halten. Dieser Artikel kann viel mehr einbringen als eine brandneue Brieftasche im gleichen Stil ...",想要黄仁勋原味皮衣吗：你有机会了 准备好40万元,"7月3日消息，知名拍卖行苏富比官宣新的特殊拍品，将从7月7日起正式开拍一件英伟达CEO黄仁勋曾经上身穿过的黑色皮夹克，行业预估最终成交价格会落在4万到6万美元区间，不少关注科技圈动态的网友看完这个预估价位都直呼价格远超普通奢侈品。
+根据官方指定鉴定机构出具的信息，这件皮夹克本身就出自奢侈品牌Tom Ford的高端定制产品线。黄仁勋本人曾在2023年10月18日赴台北出席鸿海科技日大型公开活动时穿着它出镜，不少常年关注科技行业动态的观众，对当时他穿这件夹克演讲的画面都还有深刻印象。这件拍品能拍出远高于全新同款皮夹…","Do you want Jen-Hsun Huang's original leather jacket: You have a chance, prepare 400,000 yuan. According to news on July 3, the well-known auction house Sotheby's officially announced a new special auction. It will officially start bidding on a black leather jacket once worn by Nvidia CEO Jen-Hsun Huang on July 7. The industry estimates that the final transaction price will fall in the range of 40,000 to 60,000 US dollars. After reading this estimated price, many netizens who follow the trends in the technology circle said that the price is far higher than ordinary luxury goods.
+According to information issued by the officially designated appraisal agency, the leather jacket itself is from the high-end customized product line of luxury brand Tom Ford. Huang Renxun himself wore it when he went to Taipei to attend the Hon Hai Technology Day large-scale public event on October 18, 2023. Many viewers who have been paying attention to the trends in the technology industry for many years were still deeply impressed by the scene of him wearing this jacket to give a speech at that time. This item can fetch much more than a brand new wallet of the same style...","Visne tunicam originalem Jen-Hsun Huang: Habes occasionem, para 400,000 Yuan. Secundum nuntium die 3 mensis Iulii, nota auctionis domus Sotheby publice novam auctionem specialem nuntiavit. Publice imperare incipiet super tunicas pellis nigrae Nvidia CEO Jen-Hsun Huang semel confectas die mensis Iulii 7. Industria aestimat pretium transactionis finalem in curriculo 40,000 ad 60.000 dollariorum casurum esse. Lectis hoc pretio aestimatum, multi retiarii qui trends in circulo technologico sequuntur dixerunt pretium luxuriae bona ordinaria longe altiorem esse.
+Iuxta informationes editas per aestimationem procurationis officialis designatae, ipsum iaccam corium est e summo fine producti nativus linea luxuriae notam Tom Ford. Huang Renxun se id gerebat cum Taipei adiit ut interesset Hon Hai Technologiae Dies magnarum rerum publicarum die 18 Octobris 2023. Multi spectatores qui in studiis technicis industriae technicis operam dederunt, per multos annos adhuc penitus impressa erant per scaenam eius gerentis hoc iaccam ad orationem tunc temporis reddendam. Hoc item multo plus quam novam peram eiusdem stili... arcessere potest.",https://www.cnbeta.com.tw/articles/tech/1567738.htm,https://img.3dmgame.com/uploads/images/news/20260703/1783044689_804432_jpg_r.jpg,,"1  2026-07-03 14:29:47
+Tom Ford
+20231018
+Long Journey716
+717
+&gt;&gt;00
+created by ceallan",,2026-07-04 08:09:38+00:00,wmo,China,EAS,Asia
+c71d71eb7b9595be72f1d868ee87a44d,2026-07-01T02:00:00Z,Landslide,屏边苗族自治县山体滑坡,36kr.com,zh,0.2,"Der ehemalige CMO von Anke verabschiedete sich für ein Jahrzehnt vom Hardware-Markt und entwickelte ein Speicherprodukt für die KI-Ära | Hard Krypton-Interview. Autor | Huang Nan
+ Herausgeber｜Yuan Silai
+ Als Wang Shiyuan im Jahr 2024 bei Anke kündigte, wo er neun Jahre lang gearbeitet hatte, stellte er fest, dass er vor einer völlig neuen Welt stand.
+ Wang Shiyuan hat das goldene Jahrzehnt der Hardware-Einführung ins Ausland persönlich miterlebt und gehörte zu den ersten Menschen in China, die ein Marketingsystem für Übersee aufgebaut und Regeln festgelegt haben. Er kam 2015 zu Anker und arbeitete zunächst im Ausland und dann im Inland. Vom CMO von Anker bis zum Präsidenten von China leitete er ein Team von höchstens vier- bis fünfhundert Leuten.
+ Als Anke im Jahr 2025 ging, um ein Unternehmen zu gründen, gab es bereits einen ausgereiften Prozess für das Hardware-Unternehmertum im Ausland: Prototyping, Crowdfunding, Finanzierung auf der Grundlage von Crowdfunding-Ergebnissen und schließlich Massenproduktion. Aber Wang Shiyuan sah, dass der ROI dieser Straße immer geringer wurde. Es gibt immer mehr Crowdfunding-Projekte, aber die meisten davon erwirtschaften Verluste. Die Marketingkanäle im Ausland haben sich gegenüber der Vergangenheit verändert. Meta,...",告别硬件出海上一个十年，前安克CMO做了款AI时代的Memory产品｜硬氪专访,"作者｜黄楠
+ 编辑｜袁斯来
+ 2024年，当王时远从工作了9年的安克辞职时，他发现自己面对的是一个全新的世界。
+ 王时远亲历了硬件出海的黄金十年，是国内最早搭建海外营销体系、建立规则的那批人。他2015年加入安克，先做海外，后做国内，从安克CMO到转任中国区总裁，最多的时候带了四五百人的团队。
+ 2025年，从安克离开创业时，出海硬件创业已经有一套成熟的流程：打样、上众筹、以众筹成绩去融资，最后量产。可王时远看到，这条路的ROI越来越低。众筹项目越来越多，却大部分是赔本赚吆喝。海外的营销渠道，已经从过去Meta、…","Saying goodbye to the hardware market for a decade, the former Anke CMO made a Memory product for the AI era | Hard Krypton interview. Author | Huang Nan
+ Editor｜Yuan Silai
+ In 2024, when Wang Shiyuan resigned from Anke, where he had worked for 9 years, he found that he was facing a brand new world.
+ Wang Shiyuan has personally experienced the golden decade of hardware going overseas, and was among the first people in China to build an overseas marketing system and establish rules. He joined Anker in 2015 and worked overseas first and then domestically. From CMO of Anker to President of China, he led a team of four to five hundred people at most.
+ In 2025, when Anke left to start a business, there was already a mature process for overseas hardware entrepreneurship: prototyping, crowdfunding, financing based on crowdfunding results, and finally mass production. But Wang Shiyuan saw that the ROI of this road was getting lower and lower. There are more and more crowdfunding projects, but most of them are making money at a loss. Overseas marketing channels have changed from the past Meta,...","Dicens vale ad forum ferrarium per decennium, prior Anke CMO memoriam producti fecit pro era AI | Colloquium Krypton Hard. Author | Huang Nan
+ Editor｜Yuan Silai
+ In 2024, cum Wang Shiyuan ab Anke renuntiavit, ubi per IX annos laboraverat, notam novum mundum adversus se invenit.
+ Wang Shiyuan ipse expertus est aureum decennium hardware transmarinae profectionis, et inter primos homines in Sinis ad systema transmarinum venalicium aedificandum et regulas instituendas. Anker anno 2015 se coniunxit et transmarinas primum ac deinde domestice laboravit. Ex CMO Anker ad Praesidem Sinarum quadrigam quattuor ad quingentos homines plus ducebat.
+ Anno 2025, cum Anke negotium incipere reliquit, iam matura processio erat ad conducendum hardware transmarinas: prototyping, turbae funding, imperdiet nixus proventuum frequentium, ac tandem productionis massae. Sed Wang Shiyuan vidit ROI de hac via questus inferior et inferior. Plures ac frequentiores incepta sunt, sed plerique haesitantes pecuniam faciunt. Transmarinae canales venalicium mutatae sunt a Meta praeteriti...",https://36kr.com/p/3867992509125636,"https://img.36krcdn.com/hsossms/20260625/v2_1a16f11d77324f239d63b331b15e9290@6022551_oswg71111oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",,"20249
+2015CMO
+2025ROIMetaGoogleKOL MetaKickstarter
+AIAIAI
+AI Memory
+MemoketAI Memory113020AgentContext
+Memoket Gem/
+MemoketAIAI Agent
+AI90%Agent
+CEO
+MetaKickstarter
+i
+perform
+PMF
+2
+201… [+680 chars]",,2026-07-04 08:09:38+00:00,wmo,China,EAS,Asia
+d71069a03a3bf248bf690422cff1cb41,2026-07-01T13:35:07Z,Heat Wave,额敏县热浪,www.cnbeta.com.tw,zh,0.2,"Lamborghini gibt seinen reinen Elektroplan auf und bringt den neuen Hochleistungs-Plug-in-Hybrid-SUV Urus auf den Markt. Nachdem der italienische Automobilhersteller seinen reinen Forschungs- und Entwicklungsplan für Elektrofahrzeuge aufgegeben hat, beschäftigt er sich weiterhin mit Hybridmodellen und hat am Mittwoch offiziell eine neue Hochleistungs-Hybridversion des Urus-SUV auf den Markt gebracht – den Urus SE Performante. Im Vergleich zum aktuellen Modell verfügt das neue Auto über ein aggressiveres Außendesign, ist mit einem größeren Kühlergrill und einem größeren Motorhaubenluftkanal ausgestattet und hat auch im Innenraum eine Reihe von Verbesserungen und Optimierungen vorgenommen.
+Lamborghini Urus SE Performante-Modell Lamborghini definiert diesen neuen Urus SE Performante als „schnellsten Super-SUV der Welt“: Das Fahrzeug beschleunigt in nur 3,3 Sekunden von null auf 100 Kilometer pro Stunde und kann eine Höchstgeschwindigkeit von 312 Kilometern pro Stunde (ca. 194 Meilen) erreichen. Dieses Auto ist ein Plug-in…",兰博基尼放弃纯电动计划 发布全新Urus高性能插电混动SUV,"在放弃纯电动汽车研发规划后，这家意大利车企持续深耕混动车型赛道，于周三正式发布 Urus SUV 全新高性能混动版本 ——Urus SE Performante。相比现款车型，新车外观设计更具攻击性，配备尺寸更大的进气格栅、引擎盖进气风道，同时在内饰方面也完成多项升级优化。
+兰博基尼 Urus SE Performante 车型兰博基尼将这款全新 Urus SE Performante 定义为 “全球最快超级 SUV”：车辆零至百公里加速仅需 3.3 秒，最高时速可达 312 公里（约 194 英里）。该车为插…","Lamborghini abandons its pure electric plan and releases the new Urus high-performance plug-in hybrid SUV. After abandoning its pure electric vehicle research and development plan, the Italian car company continues to delve into the hybrid model track and officially released a new high-performance hybrid version of the Urus SUV - Urus SE Performante on Wednesday. Compared with the current model, the new car has a more aggressive exterior design, equipped with a larger grille and hood air duct, and has also completed a number of upgrades and optimizations in the interior.
+Lamborghini Urus SE Performante model Lamborghini defines this new Urus SE Performante as the ""world's fastest super SUV"": the vehicle accelerates from zero to 100 kilometers per hour in just 3.3 seconds, and can reach a top speed of 312 kilometers per hour (approximately 194 miles). This car is a plug-in…","Lamborghini purum electricum consilium suum deserit et novum Urus altum perficientur obturaculum-in hybrid SUV dimittit. Postquam, relicto puro electrici vehiculi investigatione et evolutionis consilio, societas currus Italica in vestigia exemplarium hybridarum ire pergit et publice emisit novam versionem hybridarum artium Urus SUV - Urus SE Performante die mercurii. Praesens exemplar comparatum, nova raeda efficaciorem exteriorem consilium habet, crate ampliore et cucullo ductus aere instructus, atque etiam plures in interioribus upgrades et optimizations perfecit.
+Lamborghini Urus SE Performante exemplar Lamborghini hoc novum Urus SE Performante definit ""celeberrimum mundi super SUV"": vehiculum accelerat a nihilo ad 100 chiliometrorum per horae iusta 3.3 secundis, et ad summam celeritatem potest pervenire 312 chiliometrorum per hora (circiter 194 milia passuum). Haec raeda obturaculum-in…",https://www.cnbeta.com.tw/articles/tech/1567518.htm,https://n.sinaimg.cn/tech/transform/59/w550h309/20260701/e2cf-fec18d56e907c581fe24f2827f616c61.png,,"Urus SE Performante 
+ Urus SE Performante SUV 3.3 312 194 
+ 4 V8 812 738 
+Urus SE Performante 
+ Urus SE Performante 2026 Urus SE 25 28 
+Urus 11000 
+ 5 Luce
+ Luce",,2026-07-04 08:09:38+00:00,wmo,China,EAS,Asia
+e6296217c542658c8fe07a818079f4f7,2026-07-02T00:30:23Z,Heat Wave,熱浪餘民縣,36kr.com,zh,0.2,"Exklusives Interview mit Wu Xinhong, CEO von Meitu: Die Herstellung von KI-Produkten ist ein Spiel, das schwer im Voraus zu planen ist. Interview | Zhou Xinyu Lan Jie
+ Text | Zhou Xinyu
+ Herausgeber｜Zhang Yuxin
+ Bis Mitte Juni hat Wu Xinhongs Flugdistanz im Jahr 2026 230.000 Kilometer überschritten und die Flugzeit betrug fast 300 Stunden. Seine Laufbahn erstreckt sich über Asien, Nordamerika, Europa und Südamerika und reicht bis nach Brasilien und Argentinien.
+ Die Route führt durch einen Markt, den Meitu in den letzten drei Jahren durch KI-Produkte erweitert hat.
+ Der Finanzbericht 2025 von Meitu zeigt, dass die MAUs im Ausland nach vielen Jahren wieder auf 100 Millionen zurückgekehrt sind. Unter ihnen sind das KI-Videobearbeitungstool Wink und der Bilderstellungsagent RoboNeo in Südostasien, Mexiko, Brasilien und anderen Ländern schnell gewachsen und stehen häufig an erster Stelle der iOS-Downloadliste.
+ Mit der globalen Ausbreitung des Wassers...",专访美图 CEO 吴欣鸿：做 AI 产品，是一场难以提前策划的游戏,"访谈｜周鑫雨 兰杰
+ 文｜周鑫雨
+ 编辑｜张雨忻
+ 截至 6 月中旬，吴欣鸿 2026 年的飞行距离已经超过了 230000 km，飞行时长近 300 个小时。他的轨迹横跨亚洲、北美、欧洲、南美，到达最远的地方是巴西和阿根廷。
+ 航线所经之地，是美图近三年来靠 AI 产品扩展的市场版图。
+ 美图 2025 年财报显示，海外 MAU 时隔多年重新回到 1 亿，其中，AI 视频编辑工具 Wink 和影像创作 Agent RoboNeo 在东南亚、墨西哥、巴西等地增长迅速，频频登上 iOS 下载榜第一。
+ 随全球拓展水…","Exclusive interview with Meitu CEO Wu Xinhong: Making AI products is a game that is difficult to plan in advance. Interview | Zhou Xinyu Lan Jie
+ Text | Zhou Xinyu
+ Editor｜Zhang Yuxin
+ As of mid-June, Wu Xinhong’s flight distance in 2026 has exceeded 230,000 kilometers and the flight time has been nearly 300 hours. His trajectory spans Asia, North America, Europe, and South America, reaching as far away as Brazil and Argentina.
+ The route passes through a market that Meitu has expanded through AI products in the past three years.
+ Meitu's 2025 financial report shows that overseas MAUs have returned to 100 million after many years. Among them, AI video editing tool Wink and image creation Agent RoboNeo have grown rapidly in Southeast Asia, Mexico, Brazil and other places, frequently ranking first on the iOS download list.
+ With the global expansion of water...","Colloquium exclusivum cum Meitu CEO Wu Xinhong: Faciens AI producta est ludus qui difficile est in antecessum disponere. Interview | Zhou Xinyu Lan Jie
+ Text | Zhou Xinyu
+ Editor｜Zhang Yuxin
+ Cum medio Iunio, fugae Wu Xinhong in 2026 spatium 230.000 chiliometrorum exceditur et tempus fugae paene 300 horarum fuit. Eius trajectoria spatia Asiam, Americam Septentrionalem, Europam, et Americam Meridionalem, usque ad Brasiliam et Argentinam attingentes.
+ Iter per mercatum transit, quod Meitu per AI productos in tres annos praeteritos dilatavit.
+ Renuntiatio nummaria Meitu 2025 demonstrat trans MAUs ad centum decies post multos annos reddidisse. Inter eos, AI video instrumentum edendi Wink et creationis imaginis Agens RoboNeo in Asia, Mexico, Brasilia et aliis locis Meridiani celeriter creverunt, saepe primum in indice electronicorum iOS.
+ Cum expansione aquae globalis...",https://36kr.com/p/3877112973733895,"https://img.36krcdn.com/hsossms/20260701/v2_1d3d1de50d3d4508981ee083aa2a4d64@5783683_oswg944820oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",,"6 2026 230000 km 300 
+ AI 
+ 2025 MAU 1 AI Wink Agent RoboNeo  iOS 
+2025 38.58 9.65 64.7% AI  35% 76.6%
+ AI 
+ AI 2000 AI 1000 AI AI 
+AI 
+ 1 PMF ARR 10 
+2026 4 4 AI 
+2026 4 AI AI Picchi MeituH… [+510 chars]",,2026-07-04 08:09:38+00:00,wmo,China,EAS,Asia
+47c26bd057ec5c66898546235897e2aa,2026-07-02T06:40:19Z,Heat Wave,熱浪吐魯番,36kr.com,zh,0.2,"Herbstklang | Der Nettogewinn sank von 840 Millionen auf 19,87 Millionen. Die Photovoltaik-Veteranen von Shenzhen setzten auf Energiespeicher, um in Hongkonger Aktien einzusteigen. Dieser Artikel umfasst etwa 3.300 Wörter und es wird empfohlen, ihn 7 Minuten lang zu lesen
+ Autor | Peng Xiaoqiu
+ 
+ Anmerkung der Redaktion: Da die KI explodiert, drängen immer mehr Unternehmen auf den Kapitalmarkt. Der Klang jedes vorgelegten Prospekts enthält alles, was ein Unternehmen sagen möchte und noch sagen muss.
+
+ Vor diesem Hintergrund startet Hard Krypton die Kolumne „Autumn Sound“. Der Klang des Herbstes stammt aus Ouyang Xius „Ode an den Klang des Herbstes“, was „dem Klang des Herbstes lauschen“ bedeutet. Es bezieht sich auf die Höhen und Tiefen der Branche und die Qualität des Unternehmens und zeichnet die geschriebenen und verborgenen Wahrheiten im Sprint des Unternehmens für den Börsengang auf. Dies ist unsere sechste Ausgabe, Gurivat.
+
+ 
+ Im vergangenen Monat reichte Growatt zum dritten Mal einen Prospekt bei der Hong Kong Stock Exchange ein. Der Weg zum Börsengang von Growatt war unglücklich. Es reichte erstmals im Juni 2022 ein, startete den Börsengang jedoch nach bestandener Anhörung nicht; im März 2023 reichte es zum zweiten Mal ein und erneut...",秋声 | 净利从8.4亿跌到1987万，深圳光伏老兵靠储能再冲港股,"本文约3300字，建议阅读7分钟
+ 作者 | 彭孝秋
+ 
+ 编者按：AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。
+
+ 鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第六期，古瑞瓦特。
+
+ 
+ 上个月，古瑞瓦特第三次向港交所递交招股书。古瑞瓦特的IPO之路命运多舛，曾于2022年6月第一次递交，聆讯通过后未启动招股；2023年3月第二次递交，再次…","Autumn Sound | Net profit fell from 840 million to 19.87 million, Shenzhen photovoltaic veterans relied on energy storage to rush into Hong Kong stocks. This article is about 3,300 words, and it is recommended to read for 7 minutes
+ Author | Peng Xiaoqiu
+ 
+ Editor's note: As AI explodes, more and more companies are heading to the capital market. The sound of every prospectus being turned over contains everything a company wants to say and has yet to say.
+
+ In view of this, Hard Krypton launches the ""Autumn Sound"" column. The sound of autumn is taken from Ouyang Xiu's ""Ode to the Sound of Autumn"", which means ""listening to the sound of autumn"". It refers to the ups and downs of the industry and the quality of the company, recording the written and hidden truths in the company's sprint for IPO. This is our sixth issue, Gurivat.
+
+ 
+ Last month, Growatt submitted a prospectus to the Hong Kong Stock Exchange for the third time. Growatt's IPO road has been ill-fated. It submitted for the first time in June 2022, but did not start the IPO after passing the hearing; it submitted for the second time in March 2023, and again...","Autumn Sound | Net lucrum decidit ex 840 miliones ad 19.87 decies centena millia, Shenzhen veterani photovoltaici industria repositorii nitebantur ut in nervum Hong Kong irrueret. Hic articulus est circa 3,300 verba, et commendatur legere pro 7 minutis
+ Author | Peng Xiaoqiu
+ 
+ Nota Editor: Sicut AI explodit, magis magisque societates ad forum capitale tendunt. Prospectus omnium sonitus versarum continet omnia societas vult dicere et adhuc dicere.
+
+ Ob hanc rem, Hard Krypton agmen ""Autumni Soni"" immittit. Sonus autumni sumitur ab Ouyang Xiu ""Ode ad sonum autumni"", quod significat ""auscultare sonum autumni"". De industria et qualitate societatis discursibus refertur, scripta et occulta veritates in memoria societatis IPO concitus. Hic est sextus exitus, Gurivat.
+
+ 
+ Novissimo mense, Growatt prospectum Hong Kong Stock Exchange tertio submisit. Growatt's IPO via infausta est. Hoc primum mense Iunio 2022 submisit, sed IPO post auditum transiens initium non fecit; secundo mense Martio 2023 submisit, ac iterum...",https://36kr.com/p/3878131056701447,"https://img.36krcdn.com/hsossms/20260702/v2_503dbfab8652422fad091a70376d8572@000000_oswg25440oswg893oswg380_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",,"33007
+ | 
+AI
+IPO
+IPO2022620233
+20171120219
+202510.2%14.7%2025190AI420
+3848.420004.1
+202320242025 8.43319874.1315.7%0.4%7.9%
+20240.4%489620239.9%1.2% 26.3% 20.3%
+ 2025 9.9% 4.83 
+ 2023 8.4 … [+826 chars]",,2026-07-04 08:09:38+00:00,wmo,China,EAS,Asia
+761b4acb2913140fa8525f4d1abd1048,2026-07-02T06:49:15Z,Fog,伊春市雾,www.ithome.com,zh,0.2,"Bei der Qualitätsprüfung im Werk kommt KI-Technologie zum Einsatz: Tesla-Werkstätten sind auf Bordmikrofone angewiesen, um ungewöhnliche Fahrzeuggeräusche automatisch zu erkennen. IT House berichtete am 2. Juli, dass Tesla-Fahrzeuge seit letztem Jahr autonom vom Fließband der Fabrik fahren und automatisch auf den Lieferparkplatz fahren können. Dieses automatisierte Logistiksystem hat die Betriebszeit der Fabrik erheblich eingespart; Letztes Jahr stellte Tesla einen Branchenrekord auf, als ein neues Auto durch autonomes Fahren aus der Texas Gigafactory direkt an die Haustür der Kunden geliefert wurde. Heutzutage dringt diese Reihe autonomer Fahrtechnologien immer weiter in den Endprozess der Fahrzeugmontage ein. IT House bemerkte, dass Lars Moravy, Vizepräsident für Technik bei Tesla, kürzlich in einem Exklusivinterview mit dem erfahrenen Tesla-Enthusiasten Herbert Ong vorstellte, wie das FSD-System den abschließenden Fahrzeuginspektionsprozess im Werk übernimmt. Molavi gab bekannt, dass das neue Fahrzeug nun völlig autonom fahren kann ...",AI 技术用于工厂质检：特斯拉车间靠车载麦克风自动检测车辆异响,IT之家 7 月 2 日消息，自去年起，特斯拉车辆就已经能够自主驶离工厂装配线，自动驶入交付停车场。这套自动化物流体系大幅节省了厂区作业时间；去年特斯拉更是创下行业纪录，一台新车从得州超级工厂通过自动驾驶，直接送到客户家门口。如今，这套自动驾驶技术正进一步渗透至整车总装的末端工序。IT之家注意到，特斯拉工程副总裁拉尔斯 · 莫拉维（Lars Moravy）近期接受资深特斯拉爱好者赫伯特 · 翁（Herbert Ong）专访时，介绍了 FSD 系统如何接管工厂最后的整车核验流程。莫拉维透露，新款车辆如今可全程自主驶…,"AI technology is used for factory quality inspection: Tesla workshops rely on on-board microphones to automatically detect abnormal vehicle noises. IT House reported on July 2 that since last year, Tesla vehicles have been able to autonomously drive off the factory assembly line and automatically drive into the delivery parking lot. This automated logistics system has greatly saved factory operation time; last year, Tesla set an industry record when a new car was delivered directly to customers' doorsteps through autonomous driving from the Texas Gigafactory. Nowadays, this set of autonomous driving technology is further penetrating into the final process of vehicle assembly. IT House noticed that in a recent exclusive interview with veteran Tesla enthusiast Herbert Ong, Tesla Vice President of Engineering Lars Moravy introduced how the FSD system takes over the final vehicle inspection process at the factory. Molavi revealed that the new vehicle can now drive completely autonomously...","AI technicae artis inspectionem qualitatis officinas adhibent: Tesla officinae in microphones tabulae nituntur ut abnormes crepitus vehiculorum automatice deprehendantur. IT Domus renuntiavit Kalendis Iuliis II ab anno priore vehicula Tesla potuisse ad lineam conventus officinas autonome propulsare et automatice in sortem traditionis raedam impellere. Hoc automated systema logisticorum multum temporis operationis officinas servavit; Anno praeterito, Tesla recordationem industriam constituit cum novus currus directe traditus est ad ostia clientium per sui iuris emissionem e Texas Gigafactory. Hodie, haec copia technologiae sui iuris agens ulterius in ultimum processum vehiculi conventus penetrat. IT Domus animadvertit in recenti conloquio exclusivo cum veterano Tesla fanatico Herbert Ong, Tesla vice Praeses Engineering Lars Moravy introductum quomodo ratio FSD occupat processum inspectionis finalis vehiculo apud officinam. Molavi revelatum est novum vehiculum nunc omnino autonoma ratione pellere posse.",https://www.ithome.com/0/971/587.htm,,,"IT 7 2 
+IT · Lars Moravy · Herbert Ong FSD BSR 
+ AI 
+ Cybercab Cybercab 90% 
+Cybercab Model Y 400 
+Starlink Cybercab Cybercab 
+Optimus Optimus 
+40 Optimus 
+ 7 7 
+IT",,2026-07-04 08:09:38+00:00,wmo,China,EAS,Asia
+8bab1970147726f9f9f53aa4ebbd8476,2026-07-02T13:22:24Z,Landslide,碧江区山体滑坡,36kr.com,zh,0.2,"Wer hätte gedacht, dass der Systemfluss „Shuangwen“ zuerst von AI Agent implementiert wurde? Geschrieben von | Tiefsee
+ 
+ Der „Systemablauf“ im Internetartikel wurde in einem Kurzdrama am Arbeitsplatz verfilmt
+ Im Internet-Literaturkreis zu Beginn des Jahrtausends gab es drei klassische Themen, die in der Shuangwen-Welt unbesiegbar waren: unbegrenzter Fluss, schneller Reisefluss und Systemfluss.
+ Als diese drei großen Kriegsgötter herauskamen, waren sie für die IP-Welt fast ein Dimensionsverlust. Während traditionelle Romane immer noch Schwierigkeiten haben, eine Weltanschauung zu entwickeln und den Bogen der Charakterentwicklung zu skizzieren, hat der Systemfluss den langen Entwicklungsprozess umgangen und den Sinn für Spaß direkt maximiert. Das System, das man als Bug bezeichnen kann, egal welche Art von Weltkopie der Protagonist betritt und mit verschiedenen Aufgaben, Krisen und Belohnungen konfrontiert wird, wird immer pflichtbewusst als rücksichtsloses Hilfswerkzeug dienen, Fortschritte aufzeichnen, Regeln festlegen, Requisiten speichern, Punkte abrechnen, Fähigkeiten freischalten ... Mit anderen Worten, alle trivialen Dinge werden das Wachstum des Protagonisten nicht beeinträchtigen, und der Protagonist kann sich einfach amüsieren ...",谁能想到，系统流「爽文」最先被AI Agent实现了,"撰文｜深海
+ 
+ 网文里的“系统流”，被拍成了职场短剧
+ 千禧年初的网文圈，有三大经典题材在爽文届立于不败之地：无限流、快穿流、系统流。
+ 这三大爽文战神体横空出世时，对IP界几乎是降维打击。当传统小说还在费劲搭世界观、铺人物成长弧光时，系统流已经绕过漫长的发育过程，直接把爽感推到最大。系统，这个堪称bug的存在，无论主角进入什么样的世界副本，面对不同的任务、危机和奖励，它总会尽职尽责地当好一个无情的辅助工具，记录进度、提示规则、保存道具、结算积分、解锁技能……换句话说，一切琐事都干扰不到主角的成长，主角只管尽情…","Who would have thought that the system flow ""Shuangwen"" was first implemented by AI Agent. Written by | Deep Sea
+ 
+ The ""system flow"" in the Internet article was filmed into a workplace short drama
+ In the Internet literature circle at the beginning of the millennium, there were three classic themes that were invincible in the Shuangwen world: unlimited flow, fast travel flow, and system flow.
+ When these three great war gods came out, they were almost a dimensionality-reducing blow to the IP world. While traditional novels are still struggling to build a world view and lay out the arc of character growth, system flow has bypassed the long development process and directly maximizes the sense of fun. The system, which can be called a bug, no matter what kind of world copy the protagonist enters and faces different tasks, crises and rewards, it will always serve as a ruthless auxiliary tool dutifully, recording progress, prompting rules, saving props, settling points, unlocking skills... In other words, all trivial matters will not interfere with the protagonist's growth, and the protagonist can just enjoy himself...","Quis crederet systema fluxum ""Shuangwen"" primum ab AI agente effectum esse. Scriptum ab | Mare altum
+ 
+ ""Ratio fluxus"" in articulo interretiali in workplace brevis dramate est cinematographica
+ In circulo interreti litterae ineunte millennio, tria themata classica in mundo Shuangwen invicta erant: illimitata fluxus, cursus rapidus et ratio fluens.
+ Cum hi tres magni dii belli prodierunt, propemodum dimensionis-incusationem in mundum IP redactum erant. Dum traditiones fabulae adhuc conluctant ad visum mundum aedificare et arcum incrementi characteris ponere, ratio fluens longam processum progressum praeterivit et sensum ioci directe maximificat. Systema, quod dici potest cimex, cuiuscumque generis mundi exemplum primas intrat et facies varias operas, discrimina et praemia, semper ut instrumentum auxiliarium immitem officiose servet, progressum, admonitionem regulas, salutaria adminicula, puncta disponens, artes reserans... Id est, omnia levia non impedire possunt cum primarum incremento ac primario.",https://36kr.com/p/3878522627518471,"https://img.36krcdn.com/hsossms/20260702/v2_88f1beb5e5dc4b8d9d5675376ff8b87e@000000_oswg96981oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",,"IPbug
+202026AI
+AIAIAI
+AI AgentAI
+AI67
+AIAI
+AIPPT
+AI
+PPTPPT
+AI Agent
+AI Agent
+AI
+AI AgentAI Agent
+AI Agent
+AI AgentAI
+AI AgentAI AgentAIAI
+AI Agent
+WordPDFExcelPPTAI AgentAI Agent
+AI… [+251 chars]",,2026-07-04 08:09:38+00:00,wmo,China,EAS,Asia
+2c93742b3d23ab2db2b6498bc6872f7f,2026-07-01T00:30:00Z,Heat Wave,沙縣英吉熱浪,www.toodaylab.com,zh,0.3,"Heutige Verbrauchernachrichten: TOP-Teenager wird Prada-Markenbotschafter, KENZO veröffentlicht Frühjahrs- und Sommerserie 2027. Die Veröffentlichung der dritten Staffel von „The King of Comedy“ ist für den 3. Juli und 30. Juni geplant. Die dritte Staffel von „The King of Comedy“ kündigte ihre Rückkehr an. Die Show wird ab dem 3. Juli auf iQiyi gestartet und iQiyi-Mitglieder können sie eine Woche lang jeden Freitag und Samstag um 12 Uhr ansehen. Der Gastgeber dieser Saison ist immer noch Pang Bo, zu den Anführern des Atmosphärenteams gehören Guo Qilin, Huang Bo und Ma Sichun, und zu den alten Freunden von Xidan gehören Fu Hang, Li Xueqin, Wang Jianguo und Xiaolu. Chengdu Dongjiao Memory erhielt den „Dongfang Zhenghuo 5th Anniversary Award“. Am 30. Juni verlieh Chengdu Dongjiao Memory den „Dongfang Zhenghuo 5th Anniversary Award“, um den 5. Jahrestag der Übernahme des Betriebs von Dongfang Zhenghuo durch Dongfang Zhenghuo im Jahr 2021 und der Einführung des Upgrades zu feiern. Die Veranstaltung brachte den ganzen Tag über eine Vielzahl besonderer Inhalte zu unterschiedlichen Zeiten und eröffnete tagsüber das „Oriental Zhenghuo Hosted…“.",今日消费资讯：TOP 登陆少年成为 Prada 品牌大使、KENZO 发布 2027 春夏系列,《喜剧之王单口季》第三季定档 7 月 3 日6 月 30 日，《喜剧之王单口季》第三季宣布回归，节目将从 7 月 3 日开始在爱奇艺上线，每周五、周六 12 点爱奇艺会员抢先看一周。本季主持人仍然是庞博，气氛组组长包括了郭麒麟、黄渤和马思纯，喜单老友有付航、李雪琴、王建国和小鹿。成都东郊记忆举行“东方正火 5 周年大赏”6 月 30 日，成都东郊记忆举行“东方正火 5 周年大赏”，庆祝东方正火在 2021 年接手运营东郊记忆并启动提档升级的 5 周年。活动在全天带来了分时段多元特色内容，在日间开放了“东方正火主理…,"Today's consumer news: TOP teenager becomes Prada brand ambassador, KENZO releases 2027 spring and summer series. The third season of ""The King of Comedy"" is scheduled to be released on July 3 and June 30. The third season of ""The King of Comedy"" announced its return. The show will be launched on iQiyi starting from July 3, and iQiyi members can watch it for a week at 12 o'clock every Friday and Saturday. The host of this season is still Pang Bo, the atmosphere team leaders include Guo Qilin, Huang Bo and Ma Sichun, and the Xidan old friends include Fu Hang, Li Xueqin, Wang Jianguo and Xiaolu. Chengdu Dongjiao Memory held the ""Dongfang Zhenghuo 5th Anniversary Award"". On June 30, Chengdu Dongjiao Memory held the ""Dongfang Zhenghuo 5th Anniversary Award"" to celebrate the 5th anniversary of Dongfang Zhenghuo taking over the operation of Dongfang Zhenghuo in 2021 and launching the upgrade. The event brought a variety of special content in different time periods throughout the day, and opened the ""Oriental Zhenghuo Hosted..."" during the day.","Hodiernae nuntius consumptor: TOP teenager legatus notam fit Prada, KENZO emittit seriem 2027 ver et aestatis. Tertium tempus ""Rex Comoediae"" die 3 iulii et iunii 30 horarium solvendum est. Tertium tempus ""Rex Comoediae"" reditum suum nuntiavit. Spectaculum in iQiyi incipiendo ab Iulio III deducetur, et membra iQiyi per septimanam ad 12 horam omnem Veneris et Sabbati vigilare possunt. Exercitum huius temporis adhuc est Pang Bo, atmosphaerae duces includunt Guo Qilin, Huang Bo et Ma Sichun, et Xidan veteres amici includunt Fu Hang, Li Xueqin, Wang Jianguo et Xiaolu. Chengdu Dongjiao Memoria tenuit ""Dongfang Zhenghuo 5th Anniversary lacus"". Die 30 Iunii, Chengdu Dongjiao Memoria tenuit ""Dongfang Zhenghuo 5th Anniversarium Award"" celebrare 5th anniversarium Dongfang Zhenghuo suscepto operatione Dongfang Zhenghuo in 2021 et immissa upgrade. Eventus varias praecipuas continentiae diversis temporibus per totum diem attulit et ""Orientalem Zhenghuo Hosted ..."" interdiu aperuit.",https://www.toodaylab.com/84100,,,"7 3 
+6 30 7 3 12 
+5 
+6 30 5 2021 5 
+· 12 
+12 
+2026 5 83 MASONPRINCEPUMATOPTOY 
+TOP Prada 
+6 30 Prada TOP TransfOrm Project Prada 
+·
+6 30 ·Omar Sy
+KENZO 2027 
+6 25 KENZO 2027 1976 NIGO 
+N… [+63 chars]",,2026-07-04 08:09:38+00:00,wmo,China,EAS,Asia
+b231dbc2cb0d5ea6a2b6597760c0ee2a,2026-07-01T01:06:38Z,Heat Wave,沙雅县热浪,www.cnbeta.com.tw,zh,0.3,"Fast 1.700 Anleger in Großbritannien verklagten Binance in London und forderten mindestens 150 Millionen Pfund. Am 30. Juni reichten fast 1.700 britische Investoren beim Londoner High Court eine Sammelklage gegen Binance, eine globale große Kryptowährungs-Handelsplattform, und deren Gründer Changpeng Zhao ein. Sie warfen dem Unternehmen vor, ohne Genehmigung der britischen Finanzaufsicht risikoreiche und komplexe Kryptowährungsderivate an inländische Privatanleger verkauft zu haben, und forderten eine Entschädigung von mindestens 150 Millionen Pfund (ca. 200 Millionen US-Dollar) an Verlusten.
+Der Kläger machte geltend, dass mit Binance verbundene Unternehmen seit Ende 2019 weiterhin eine Vielzahl von Derivatprodukten, einschließlich stark gehebelter Verträge, auf dem britischen Markt angeboten und diese Produkte durch Online-Werbeaktionen, Marketingaktivitäten usw. bei Privatanlegern beworben hätten, dabei jedoch die entsprechenden Compliance-Verpflichtungen nicht erfüllt und Risiken nicht vollständig offengelegt hätten, was gegen die einschlägigen Bestimmungen des britischen Financial Services and Markets Act verstoße. Den dem High Court in London vorgelegten Unterlagen zufolge…",英国近1700名投资者在伦敦起诉币安 索赔至少1.5亿英镑,"6月30日，近1700名英国投资者在伦敦高等法院对全球大型加密货币交易平台币安及其创始人赵长鹏提起集体诉讼，指控其在未获英国金融监管机构授权的情况下，向本国散户投资者销售高风险、结构复杂的加密货币衍生品，要求赔偿至少1.5亿英镑（约合2亿美元）损失 。
+原告称，自2019年底起，币安相关实体在英国市场持续提供包括高杠杆合约在内的多种衍生产品，并通过线上推广、营销活动等方式向散户投资者宣传这些产品，却未履行相应的合规义务，也未充分披露风险，违反了英国《金融服务和市场法》的有关规定 。根据提交给伦敦高等法院的材料，…","Nearly 1,700 investors in the UK sued Binance in London, claiming at least 150 million pounds. On June 30, nearly 1,700 British investors filed a class action lawsuit against Binance, a global large-scale cryptocurrency trading platform, and its founder Changpeng Zhao in the London High Court, accusing it of selling high-risk and complex cryptocurrency derivatives to domestic retail investors without authorization from the British financial regulator, demanding compensation of at least 150 million pounds (approximately US$200 million) in losses.
+The plaintiff claimed that since the end of 2019, Binance-related entities have continued to provide a variety of derivative products, including highly leveraged contracts, in the British market, and promoted these products to retail investors through online promotions, marketing activities, etc., but failed to fulfill corresponding compliance obligations and fully disclose risks, violating the relevant provisions of the British Financial Services and Markets Act. According to materials submitted to the High Court in London,…","Fere 1,700 investitores in UK Binance in London petiverunt, petentes saltem 150 miliones librarum. Die 30 Iunii prope mille septingentesimi collocatores Britanniae genus actionis litis contra Binance, globalem magnarum cryptocurrentiae suggestum negotiandi, et conditor eius Changpeng Zhao in High Court Londinii, accusans eam venditionis summus periculum et multiplex derivationes cryptocurrentiae ad obsidetores domesticos sine licentia a oeconomo Britannico moderante, recompensationem postulans saltem 150 decies centena milia librarum.
+Actor asseruit post finem MMXIX, Binance-related entias persevero varias productorum derivativas, incluso valde leveraged contractus, in foro Britannico, et hos fructus ad investitores scruta per promotiones online, mercatus actiones, etc., sed neglexit adimplere debita obsequia et pericula plene detegere, violare praescripta servitii Britannici Financial et mercatus Act. Secundum materias quae in Londinii aula altae sunt,…",https://www.cnbeta.com.tw/articles/tech/1567434.htm,https://static.cnbetacdn.com/thumb/article/2021/0628/408e62577d0dfcf.jpg,,"2019 
+ Binance Holdings Nest Exchange",,2026-07-04 08:09:38+00:00,wmo,China,EAS,Asia
+25e75c7661e2a7ab710829ca41c1ea6b,2026-07-01T07:34:27Z,Heat Wave,热浪森哈萨克自治县,36kr.com,zh,0.3,"Gespräch mit Pony.ai und Peng Jun: ein „Anti-Konsens“-Unternehmen für selbstfahrende Fahrzeuge. Als Peng Jun 2016 Pony.ai gründete, hatte er bereits damit gerechnet, dass es mindestens zehn Jahre dauern würde, bis Robotaxi (selbstfahrende Taxis) von der Vision zur Realität werden und eine groß angelegte Umsetzung erreichen würden. Sie müssen die Reife der Technologie sowie der Gesetze und Vorschriften abwarten und auch die gesellschaftliche Akzeptanz berücksichtigen.
+ Ob nun Waymo auf den Straßen von San Francisco unterwegs ist oder die Pony.ai-Flotte in der Innenstadt von Nanshan, Shenzhen, Bestellungen entgegennimmt, dies wurde heute bestätigt. Selbstfahrende Autos wurden in den sozialen Verkehrsfluss integriert und haben den kommerziellen Betrieb aufgenommen.
+ 
+ Doch womit Peng Jun vor zehn Jahren vielleicht nicht gerechnet hätte, ist, dass ein Hauptproblem, das die schnelle Erweiterung seiner Flotte behindert, eine Reihe trivialer Betriebs- und Wartungsaufgaben ohne Fahrer sind.
+ Wenn Menschen fahren, übernimmt der Fahrer das Aufladen, das Waschen des Autos, die Wartung des Fahrzeugs und sogar die Unterstützung der Kunden beim Tragen des Gepäcks, aber ...",对谈小马智行彭军：一家“反共识”自动驾驶公司,"2016年，彭军创立小马智行时，已经预料到，Robotaxi（自动驾驶出租车）从远景走进现实，实现大规模的落地，至少需要10年努力，要等待技术和法律法规的成熟，也要考虑社会的接受度。
+ 今天，不管是在旧金山街头穿梭的Waymo，还是在深圳南山闹市区接单的小马智行车队，都证实了这一点。自动驾驶车已然融入社会化车流，开始商业运营。
+ 
+ 但是彭军十年前可能没想到的是，制约其车队快速扩张的一个关键问题，是没有司机之后的一系列琐碎运维工作。
+ 在人类开车时，充电、洗车、车辆维护，甚至帮顾客搬运行李，都由司机顺手干了，但是…","Conversation with Pony.ai and Peng Jun: an “anti-consensus” self-driving company. When Peng Jun founded Pony.ai in 2016, he had already anticipated that it would take at least 10 years for Robotaxi (self-driving taxis) to move from vision to reality and achieve large-scale implementation. They must wait for the maturity of technology and laws and regulations, and also consider social acceptance.
+ Today, whether it is Waymo traveling on the streets of San Francisco or the Pony.ai fleet taking orders in downtown Nanshan, Shenzhen, this has been confirmed. Self-driving cars have been integrated into social traffic flow and have begun commercial operations.
+ 
+ But what Peng Jun may not have expected ten years ago is that a key issue restricting the rapid expansion of his fleet is a series of trivial operation and maintenance tasks without drivers.
+ When humans drive, charging, car washing, vehicle maintenance, and even helping customers carry luggage are all done by the driver, but...","Colloquium cum Pony.ai et Peng Iun: ""anti-consensus"" societatis auto-agitantis. Cum Peng Iun Pony.ai in 2016 condidit, iam prospexerat se Robotaxi (taxin auto-expellere) a visione ad rem movere et magnarum exsecutionem consequi. Exspectare debent maturitatem technologiarum et legum ac ordinationum, necnon acceptationem socialem.
+ Hodie, sive Waymo iter per vias San Francisco sive Pony.ai classe in urbe Nanshan, Shenzhen ordines suscipiens, hoc confirmatum est. Autocinetae autocineticae in commercium sociale fluxum insertae sunt et commerciales operationes inceperunt.
+ 
+ Quod autem Peng Iun decem annos non expectaverit, est quod clavis exitus ad rapidam classem suam expansionem restringenda est series operationis et operis sustentationis sine rectoribus.
+ Cum homines pellunt, praecipientes, currus lavacrum, vehiculum sustentationem, et etiam clientes adiuvantes sarcinas portant omnia ab exactore facta sunt, sed...",https://36kr.com/p/3876767161446665,"https://img.36krcdn.com/hsossms/20260701/v2_bf415b361ba24c5d85adc7c0d644fc52@000000_oswg20194oswg1080oswg460_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",,"2016Robotaxi10
+Waymo
+CEO36RobotaxiL2
+36
+Robotaxi
+10
+Robotaxi
+Robotaxi36Robotaxi0
+Robotaxi0-1
+RobotaxiL2
+Robotaxi3500
+L2
+Robotaxi10
+Robotaxi
+10
+CEO
+36
+Robotaxi
+362020RobotaxiWaymo
+R… [+631 chars]",,2026-07-04 08:09:38+00:00,wmo,China,EAS,Asia
+a6bee5f4ad46358af6acdb6178798894,2026-07-02T00:10:58Z,Tropical Cyclone,茂名市管轄的熱帶氣旋,36kr.com,zh,0.3,"8:01 Krypton | Bentley gibt es nur noch bei 270.000, und der Preis für gebrauchte Luxusfahrzeuge mit Kraftstoff ist stark gesunken; Anthropic reagierte mit versteckten Codes, um chinesische Benutzer zu erkennen; Der Marktwert von Cambrian schrumpfte an einem Tag um 70 Milliarden. Der heutige Leitfaden zu aktuellen Themen
+ Berichten zufolge hat OpenAI einen großen technologischen Durchbruch eingeläutet: Die Systemoptimierung hat die Kosten für die Modellinferenz halbiert
+ Apple bringt zum ersten Mal ein offiziell generalüberholtes iPhone 16e auf den Markt, das nur in Schwarz und Weiß erhältlich ist
+ Ab dem 5. Juli werden die Treibstoffzuschläge auf Inlandsstrecken deutlich gesenkt
+ Buffett stellt die Finanzierung der Gates-Stiftung ein
+ Dong Mingzhu appelliert an die Aktionäre: Wenn Haushaltsgeräte nicht durch Gree ersetzt werden, warum sollten wir dann Dividenden zahlen?
+ James sendet Abschiedsbotschaft an die Lakers
+ TOP3 große Neuigkeiten
+ Die Preise für gebrauchte Luxusfahrzeuge sind stark gesunken: Bentley fast 270.000, Porsche 150.000
+ Am 1. Juli verkauften Gebrauchtwagenhändler auf dem Land- und Seeautomobilmarkt in Qingdao einen Bentley Flying Spur, der mehr als acht Jahre alt war, für nur 268.000 Yuan, einen Porsche Macan der Einstiegsklasse für nur 150.000 Yuan und einen neuen Volkswagen Touareg mit einem Gebrauchttransaktionspreis von fast 900.000 Yuan für 6 …",8点1氪丨宾利低至27万，二手豪华燃油车价格大跳水；Anthropic回应暗藏代码检测中国用户；寒武纪市值一日蒸发700亿,"今日热点导览
+ OpenAI据悉迎来重大技术突破：系统优化使模型推理成本减半
+ 苹果首次上架iPhone16e官翻机，仅有黑色与白色可选
+ 国内航线燃油附加费7月5日起大幅下调
+ 巴菲特“断供”盖茨基金会
+ 董明珠喊话股东：家电不换成格力，凭什么要分红
+ 詹姆斯发文告别湖人
+ TOP3大新闻
+ 二手豪华燃油车价格大跳水：宾利近27万、保时捷15万
+ 7月1日，在青岛市的陆海汽车交易市场，二手车商在售8年以上车龄的宾利飞驰挂牌价仅26.8万元，入门保时捷Macan则低至15万元，新车近90万元的大众途锐二手成交价6…","8:01 Krypton | Bentley is as low as 270,000, and the price of second-hand luxury fuel vehicles has plummeted; Anthropic responded with hidden codes to detect Chinese users; Cambrian's market value evaporated by 70 billion in one day. Today's hot topics guide
+ OpenAI is reported to have ushered in a major technological breakthrough: system optimization has halved the cost of model inference
+ Apple launches officially refurbished iPhone 16e for the first time, only available in black and white
+ Domestic route fuel surcharges will be significantly reduced starting from July 5
+ Buffett cuts off funding to Gates Foundation
+ Dong Mingzhu appeals to shareholders: If home appliances are not replaced by Gree, why should we pay dividends?
+ James sends farewell message to Lakers
+ TOP3 big news
+ The price of second-hand luxury fuel vehicles has plummeted: Bentley nearly 270,000, Porsche 150,000
+ On July 1st, at the Land and Sea Automobile Market in Qingdao, second-hand car dealers were selling a Bentley Flying Spur that was more than 8 years old for only 268,000 yuan, an entry-level Porsche Macan for as low as 150,000 yuan, and a new Volkswagen Touareg with a second-hand transaction price of nearly 900,000 yuan for 6...","8:01 Krypton | Bentley tam humilis est quam 270,000, et secundae manus luxuriae pretium vehicula plummetatur; Anthropica respondit cum codicibus occultis utentes Sinenses deprehendere; Valor monetae Cambrianae per 70 miliarda in uno die evanuit. Hodie calidum thema dux
+ OpenAI fertur invenisse in maiore technologico breakthrough: ratio optimization dimidiata est sumptus exemplaris illationis
+ Apple iPhone 16e primum publice immittit, tantum available in albo et nigro
+ Iter domesticum cibus surcharges signanter reductus erit incipiens a die 5 mensis Iulii
+ Buffett abscidit funding ad portas Foundation
+ Dong Mingzhu appellat socios: Si domum adjumenta non reponuntur per Gree, cur feneret solvemus?
+ James vale nuntium mittit turpis
+ TOP3 magnum nuntium
+ Pretium secundae manus luxuriae escarum vehiculorum plummeted: Bentley fere 270,000, ruerat 150,000 .
+ Idibus Iulii, apud Terram et Mare Automobile Market in Qingdao, secunda manus autocineti negotiantes vendebant Bentley Volans Calca quae plus quam 8 annorum erat solum 268,000 Yuan, ingressum gradu Porsche Macan pro 150,000 Yuan, et novum Volkswagen Touareg cum secunda manu transactionis pretium prope 900,000 Yuan pro VI...",https://36kr.com/p/3877746956611847,"https://img.36krcdn.com/hsossms/20260702/v2_65bbbb1e43944a9c9ddf0a75b31d63fc@5667365_oswg82810oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",,"OpenAI
+iPhone16e
+75
+TOP3
+2715
+71826.8Macan15906.8SUV30%530%
+20126.0T35.8562G2004G 50033.8150.342013A8L 50 TFSI quattro8.88148.17
+AnthropicClaude Code
+Claude Code4147AnthropicIT
+7%700
+630160… [+1252 chars]",,2026-07-04 08:09:38+00:00,wmo,China,EAS,Asia
+c84b013a3804d8670f74ded455aa3eea,2026-07-02T05:56:49Z,Fog,荣成市雾,www.toodaylab.com,zh,0.3,"Das Labor führt Sie durch das Wochenende: 2026.7.4 – 7.5 Chengdu. Für Studenten in Chengdu ist die Hälfte des Jahres 2026 vorbei und es fühlt sich an, als ob Silvester nicht mehr weit entfernt wäre. Sind alle Ziele für das erste Halbjahr erreicht? Diese Woche hat Niccolo Chengdu eine Zusammenarbeit mit EviDenS de Beauté gestartet. Die beiden Parteien haben einen gemeinsam limitierten Nachmittagstee und Themensuiten „In the Name of Love“ mitgebracht. Sie werden in den nächsten zwei Monaten verfügbar sein, einschließlich des diesjährigen chinesischen Valentinstags. Dies bietet auch jedem eine neue Möglichkeit, seine Fürsorge und Liebe für seinen Lebensgefährten auszudrücken, genau wie die Geburt von Ifedan geschah, weil Gründer Charles-Edouard Barthes seine asiatischen Frauen mit empfindlicher Haut schützen wollte. Zuvor war die Ifidan Super Mask bereits ein beliebter Artikel auf sozialen Plattformen. Diese Kooperation führt auch das Markenkonzept von Ifidan fort...",实验室带你过周末：2026.7.4 - 7.5 成都篇,人在成都的同学们，2026 年已经过去一半，感觉又离跨年不远了，上半年的目标都完成了吗？本周成都尼依格罗酒店开启了和 EviDenS de Beauté 伊菲丹的联动，双方带来了联名限定的“以爱之名”下午茶及主题套房，它们将在接下来两个月时间里提供，其中也覆盖了今年的七夕，这样也给大家表达对另一半的关心与爱意提供了新的选择，就和伊菲丹的诞生是因为创始人 Charles-Edouard Barthes 想要守护亚裔敏感肌妻子一样。在此之前伊菲丹超级面膜就已经是社交平台上的热门单品，这次的合作也延续了伊菲丹的品牌理念…,"The laboratory takes you through the weekend: 2026.7.4 - 7.5 Chengdu. For students in Chengdu, half of 2026 has passed, and it feels like New Year's Eve is not far away. Have all the goals for the first half of the year been completed? This week, Niccolo Chengdu has launched a collaboration with EviDenS de Beauté. The two parties have brought a jointly limited ""In the Name of Love"" afternoon tea and theme suites. They will be available in the next two months, including this year's Chinese Valentine's Day. This also provides a new choice for everyone to express their care and love for their significant other, just like the birth of Ifedan was because founder Charles-Edouard Barthes wanted to protect his Asian wives with sensitive skin. Before this, Ifidan Super Mask was already a popular item on social platforms. This cooperation also continues the brand concept of Ifidan...","Laboratorium volutpat per suscipit te: 2026.7.4 - 7.5 Chengdu. Pro studentibus in Chengdu dimidium 2026 praeteriit, et sentit sicut Novus Annus Eva non longe abest. Num omnes fines prioris dimidium anni confecti sunt? Hac septimana, Nicolaus Chengdu cooperationem cum EvidenS de Beauté induxit. Duae partes coniunctim limitatam ""In nomine Amoris"" pomeridiano tea et argumento consentanea attulerunt. In duobus proximis mensibus praesto erunt, incluso hoc anno Seres Valentine 'Dies. Hoc etiam novam electionem omnibus praebet ut suam curam et amorem erga significantes alias exprimant, sicut nativitas Ifedan fuit, quia conditor Carolus-Edouard Barthes suas uxores Asiaticas cum cute sensitiva tueri voluit. Ante hoc, Ifidan Super Mask iam popularis erat item in suggestis socialibus. Haec cooperatio etiam notam notam conceptus Ifidan...",https://www.toodaylab.com/84101,,,"2026 
+ EviDenS de Beauté Charles-Edouard Barthes 
+530 CP 
+ N3 Explorer Suite 960 2260 
+x 7 1 - 8 31 13:00 - 18:00 1 IFS 3 3F 498 / 788 / 028-82208888
+ x 7 1 - 8 31 1 IFS 3 
+New Balance 6 · 7 5 … [+361 chars]",,2026-07-04 08:09:38+00:00,wmo,China,EAS,Asia
+5a4e19ccb99d0ec9aa9abb769cc3f86f,2026-07-03T00:06:38Z,Fog,林口县雾,36kr.com,zh,0.3,"8:01 Krypton | „Der erste Bestand an verkörperter Intelligenz“ Der Antrag von Yushu Technology auf Notierung wurde genehmigt; Der Marktwert von SK Hynix schrumpfte an einem einzigen Tag um 1 Billion Yuan; Konfigurationsfehler lösten eine Welle von Null-Yuan-Käufen aus und Bawang Chaji entschuldigte sich. Der heutige Leitfaden zu aktuellen Themen
+ Apple plant, in diesem und im nächsten Jahr mindestens fünf neue iPhones auf den Markt zu bringen
+ Die KI-Version von Alipay steht zum öffentlichen Testen offen, wobei 72 Service-Skills online verfügbar sind
+ Trump antwortet darauf, „die Position zu nutzen, um Gewinne zu machen“: Der Aktienmarkt steigt und jeder verdient Geld
+ LV verklagte Jasmine Milk und Jasmine Milk wurde zur Zahlung von 10,3 Millionen Yuan Schadensersatz verurteilt
+ Im Juni wurden 1.488 Flüge nach Japan gestrichen
+ Der Aktienkurs von Anke Innovation in Hongkong brach am ersten Tag der Notierung ein
+ TOP3 große Neuigkeiten
+ Die chinesische Wertpapieraufsichtsbehörde genehmigt die IPO-Registrierung von Yushu Technology im Science and Technology Innovation Board
+ Am 2. Juli zeigte die Website der China Securities Regulatory Commission, dass sie die Registrierung des Börsengangs von Aktien von Yushu Technology genehmigt habe. Dies bedeutet, dass das weltweit erste Unternehmen, das vor seinem Börsengang große Gewinne mit humanoiden Robotern erzielte, offiziell das „Ticket“ für A-Aktien erhalten hat und zum „ersten humanoiden Roboterbestand“ in A-Aktien wird. 
+ Yushu Technology startete dieses Jahr bei 3...",8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉,"今日热点导览
+ 苹果拟于今明两年推出至少五款新iPhone
+ AI版支付宝开放公测，上线72项办事技能
+ 特朗普回应“利用职位牟利”：股市在涨，大家都在赚钱
+ LV起诉茉莉奶白，茉莉奶白被判赔1030万元
+ 6月赴日航班取消1488个
+ 安克创新港股上市首日破发
+ TOP3大新闻
+ 证监会同意宇树科技科创板IPO注册
+ 7月2日，证监会网站显示，同意宇树科技首次公开发行股票注册。这意味着，全球首家在IPO前实现人形机器人规模化盈利的企业正式拿到A股“入场券”，将成为A股“人形机器人第一股”。 
+ 宇树科技从今年3…","8:01 Krypton | ""The first stock of embodied intelligence"" Yushu Technology's application for listing was approved; SK Hynix's market value evaporated by 1 trillion yuan in a single day; configuration errors triggered a wave of zero-yuan purchases, and Bawang Chaji apologized. Today's Hot Topics Guide
+ Apple plans to launch at least five new iPhones this year and next
+ The AI version of Alipay is open for public testing, with 72 service skills available online
+ Trump responds to ""using position to make profits"": The stock market is rising and everyone is making money
+ LV sued Jasmine Milk, and Jasmine Milk was ordered to pay 10.3 million yuan in damages
+ 1,488 flights to Japan canceled in June
+ Anke Innovation's Hong Kong stock price broke on the first day of listing
+ TOP3 big news
+ China Securities Regulatory Commission approves Yushu Technology’s IPO registration on Science and Technology Innovation Board
+ On July 2, the China Securities Regulatory Commission website showed that it approved the registration of Yushu Technology’s initial public offering of stocks. This means that the world's first company to achieve large-scale profits from humanoid robots before its IPO has officially obtained the ""ticket"" for A-shares and will become the ""first humanoid robot stock"" in A-shares. 
+ Yushu Technology started from 3 this year...","8:01 Krypton | ""Prima intelligentia incorporatorum"" applicatio Yushu Technologiae pro enumeratione approbata est; SK Hynix forum valorem per 1 trillion Yuan in uno die evanuit; configuratione errores urit unda emptionibus nulla-Yuan, et Bawang Chaji excusatus est. Hodie's Hot Topics Guide
+ Lacus consilia ad mittendos saltem quinque novos iPhones hoc anno et proximo
+ AI Alipay versio publica probatio aperta est, cum 72 artes muneris in promptu online
+ BUCINUM respondet ""usura loco lucri facere"": quod stirpe foro ortu et quisque facit pecuniam
+ LV petivit Aeneam lac, et lac Aenean Lac 10.3 decies centena millia Yuan in damnis reddere iussus est
+ 1,488 volatus in Iaponia cassatur mense Iunio
+ Anke Innovationis Hongcongum pretium fregit prima die enumerationem
+ TOP3 magnum nuntium
+ China Securities Regulatory Commissio Yushu Technologiae IPO adnotatione de Scientia et Technologia Innovation Board approbat
+ Die II Iulii, Sinarum Securities Commissio Regulatoriae website ostendit eum approbasse adnotationem de Yushu Technologiae oblationem instrumentorum publicorum initialem. Hoc significat primum societatem mundi ad magnas lucra ab robots humanoideis consequendas, antequam IPO eius ""tessulam"" pro A-participat publice consecutus sit et ""prima stirpis robotae humanae"" in A-participat. 
+ Yushu Technologia ab III hoc anno incepit ...",https://36kr.com/p/3879158039834629,"https://img.36krcdn.com/hsossms/20260703/v2_843457ffea014bb29881fbca0d3af900@5667365_oswg82810oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",,"iPhone
+AI72
+LV1030
+61488
+TOP3
+IPO
+72IPOAA 
+320IPO72104 
+SK10000
+72A2.03%3.85%5.71%507.7%2251741.812.47%68958KOSPI7.89%689%SK14%SK1600100001
+0
+720729.90720 0.01
+AI
+AI72
+3672AIiOS App72 … [+1129 chars]",,2026-07-04 08:09:38+00:00,wmo,China,EAS,Asia
+d05245223b03410eabccc584a4d6554c,2026-07-01T11:35:39Z,Heat Wave,热浪阿拉山口,www.cnbeta.com.tw,zh,0.4,"Die Hitze in Europa ist unerträglich, aber warum zögern die Menschen, Klimaanlagen zu installieren? . Luca Funaro, 32, leidet an einer seltenen genetischen Krankheit. Diesen Monat überlebte er in seiner Wohnung im Zentrum von Paris eine rekordverdächtige Hitzewelle. Während des gesamten Zeitraums war keine Klimaanlage verfügbar und es waren seine Nachbarn, die im selben Gebäude wohnten, die ihn daran hinderten, eine Klimaanlage zu installieren. Er lebt in einem belebten Innenstadtviertel im Pariser Stadtteil Marais. Er hat mehrfach beantragt, im Innenhof der Gemeinde eine Außenklimaanlage zu installieren, doch seine Nachbarn lehnten ihn mit der Begründung ab, der Betrieb der Klimaanlage mache zu viel Lärm.
+Letzte Woche waren in einem Wohnhaus in Berlin in jedem Haushalt die Fensterläden geschlossen und die Balkone leer. Luca ist für die täglichen Reisen auf einen Rollstuhl angewiesen und muss ein Beatmungsgerät verwenden, um die Atmung aufrechtzuerhalten. In seiner Verzweiflung zog er gegen seinen Nachbarn vor Gericht, und seine Familie investierte Tausende Euro in die Klage. Dieses Tauziehen hat zwei Jahre gedauert und ist noch nicht beendet. „Wenn die Temperatur zu hoch ist, neigen Menschen mit Behinderungen zu Dehydrierung und Atemnot …",欧洲酷热难耐，为何民众却不愿安装空调？,"32 岁的卢卡・富纳罗身患罕见遗传病，本月，他在巴黎市中心公寓里熬过这场破纪录的高温热浪，全程没有空调可用，而阻碍他安装空调的正是同住一栋楼的邻居。他居住在巴黎玛莱区一处热闹的市中心街区，此前多次申请在小区庭院安装室外空调机组，均遭到邻居拒绝，理由是空调运行噪音过大。
+上周，柏林一处居民楼里，家家户户紧闭百叶窗、阳台空无一人。卢卡日常需要依靠轮椅出行，还必须借助呼吸机维持呼吸。无奈之下，他将邻居告上法庭，家人为此投入数千欧元打官司，这场拉锯战至今已经持续了两年，且仍未落幕。“气温过高时，残障人士很容易脱水，呼吸…","The heat in Europe is unbearable, but why are people reluctant to install air conditioners? . Luca Funaro, 32, suffers from a rare genetic disease. This month, he survived a record-breaking heat wave in his apartment in central Paris. There was no air conditioning available throughout the entire period, and it was his neighbors who lived in the same building who prevented him from installing air conditioning. He lives in a lively downtown neighborhood in the Marais district of Paris. He has applied several times to install an outdoor air-conditioning unit in the courtyard of the community, but his neighbors have rejected him on the grounds that the air-conditioning operation makes too much noise.
+Last week, in a residential building in Berlin, every household had their shutters closed and their balconies were empty. Luca relies on a wheelchair for daily travel and must use a ventilator to maintain breathing. In desperation, he took his neighbor to court, and his family invested thousands of euros in the lawsuit. This tug-of-war has lasted for two years and has not yet ended. “When the temperature is too high, people with disabilities are prone to dehydration and breathing...","Calor in Europa intolerabilis est, sed cur homines condiciones aeris instituere nolunt? . Luca Funaro 32 morbo genetico rarissimo laborat. Hoc mense, recordatio caloris solvendi unda in diaetam in media Parisiensi supervixit. Nulla caeli condicio per totum tempus praesto fuit et vicini eius qui in eodem aedificio habitaverunt qui eum condiciones aeris instituere prohibebant. Habitat in vicinia viva in regione Parisiensi Marais. Pluries adhibuit ut unitas aeris condicionis in atrio communitatis inauguraretur, sed vicini eius abiecerunt propterea quod operatio aer conditionalis nimium sonum reddit.
+Ultima septimana, in aedificio residentiali Berolinensi, omnis domus clausa erat et maenianis vacua erant. Luca in wheelchair cotidiana peregrinatione innititur et ventilator ad respirationem conservandam uti debet. Desperans proximo in ius venit, et familiam suam in lite milia nummorum collocavit. Hoc bellum trahitis per duos annos duravit necdum finivit. ""Quando temperatura nimis alta est, homines cum defectibus sunt proni ad siccitatem et respirationem...",https://www.cnbeta.com.tw/articles/tech/1567500.htm,https://n.sinaimg.cn/finance/transform/80/w550h330/20260701/7fe8-9779ee7b398f9b74b2bf03f1541e6466.png,,"0  2026-07-01 19:31:25
+X 
+ 32 38 
+56% 25% 5%
+ 2.5 1.4 
+ 40 19 1947 2019 2022 
+40 2030 2040 2050 
+IPCC
+ 29 
+5 3 
+ 24 
+created by ceallan",,2026-07-04 08:09:38+00:00,wmo,China,EAS,Asia
+6f480da25ac8e05e6777b6a67cf92c19,2026-07-01T12:05:36Z,Heat Wave,熱浪昌吉市,36kr.com,zh,0.5,"Die erste Veröffentlichung von Hard Krypton | Ein Veteran eines ehemaligen börsennotierten Speicherunternehmens leitete ein Team zum Bau von KI-Supercomputing-Geräten mit einem Jahresumsatz von mehreren zehn Millionen. Hard Krypton erfuhr, dass das Rechenleistungs-Infrastrukturunternehmen Huahong Digits kürzlich zig Millionen Pre-A-Finanzierungsrunden unter der Leitung von Wuzhong Financial Holdings abgeschlossen hat. Diese Finanzierung wird hauptsächlich für die Entwicklung von KI-Anwendungen und den ökologischen Bau von Rechenleistungslandungen, den weiteren Ausbau der Fabrikproduktionskapazitäten sowie den Bau und die Weiterentwicklung von Stützpunkten verwendet.
+ Huahong Digital wurde 2021 gegründet und hat seinen Hauptsitz in Peking. Später zog das Unternehmen nach Suzhou und konzentriert sich auf die Forschung und Entwicklung vollständig flüssigkeitsgekühlter Edge-Side-Supercomputer. Es handelt sich um eine integrierte Plattform für grenzüberschreitende All-Liquid-Kühlung und IT-Rechenleistung.
+ Sein Gründer, Luo Hua, war früher Direktor und stellvertretender Geschäftsführer von Tongyou Technology (300302), einem der zehn größten Anteilseigner. Er war für die Produkt- und Vertriebsarbeit bei Tongyou Technology verantwortlich und verfügt über fast 20 Jahre Erfahrung in der Datenspeicher- und Hochleistungsrechnerbranche. Mitbegründer Ling Ming hat die Forschung, Entwicklung und das Design vieler flüssigkeitsgekühlter Server und Workstations in der Branche geleitet und gewonnen...",硬氪首发 | 前存储上市公司老将带队做AI超算设备，年营收已达数千万,"硬氪获悉，算力基础设施企业华弘数科近日完成数千万Pre-A轮融资，领投方为吴中金控，此次融资将主要用来发展AI应用和算力落地的生态建设、工厂产能的进一步扩大和基地的建设与推进。
+ 华弘数科成立于2021年，总部位于北京，后迁至苏州，专注全液冷边端侧超级计算机研发，是跨界全液冷散热与IT算力的一体化平台。
+ 其创始人罗华曾任同有科技（300302）董事兼副总经理，是前10大股东，曾在同有科技主管产品及销售工作，拥有近20年数据存储、高性能计算行业经验。联合创始人凌铭曾主导研发设计业界多款液冷服务器和工作站，曾获得上…","Hard Krypton’s first release | A veteran of a former storage listed company led a team to build AI supercomputing equipment, with annual revenue reaching tens of millions. Hard Krypton learned that computing power infrastructure company Huahong Digits has recently completed tens of millions of Pre-A rounds of financing, led by Wuzhong Financial Holdings. This financing will be mainly used to develop AI applications and ecological construction of computing power landing, further expansion of factory production capacity, and construction and advancement of bases.
+ Huahong Digital was founded in 2021 and is headquartered in Beijing. It later moved to Suzhou and focuses on the research and development of all-liquid-cooled edge-side supercomputers. It is an integrated platform for cross-border all-liquid cooling and IT computing power.
+ Its founder, Luo Hua, used to be the director and deputy general manager of Tongyou Technology (300302), one of the top 10 largest shareholders. He was in charge of product and sales work at Tongyou Technology and has nearly 20 years of experience in the data storage and high-performance computing industries. Co-founder Ling Ming has led the research, development and design of many liquid-cooled servers and workstations in the industry, and has won...","Hard Krypton's prima emissio | Veteranus pristinae repono societatis inscriptae turmam ad AI supercomputando apparatum aedificandum duxit, cum vectigal annuum decem decies centena milia attingens. Durum Krypton didicit potestatem computandi infrastructuram societatis Huahong Digitorum nuper decem miliones Pre-A circumscriptionum imperdietrum perfecisse, a Wuzhong Toco Financial ductus. Haec imperdiet principaliter adhibebitur ad applicationes AI explicandas et ad constructionem oecologicam computandi potestatem portum, amplificationem officinarum capacitatis productionis ulterioris, et constructionis et promotionis basium.
+ Huahong Digital anno 2021 condita est et in Beijing praetorium est. Suzhou postea admovit et ad investigationem et progressionem omnium ora-laterum supercomputatorum liquidarum refrigeratorum tendit. Est suggestum integratum pro transversis limitibus omnibus liquidis refrigerationis et potentiae computatis IT.
+ Auctor eius Luo Hua, moderator ac vicarius generalis technologiae Tongyou (300302), unus e summis 10 maximis socios esse solebat. Praeerat activitatis et venditionis labori apud Tongyou Technologiae ac prope XX annos experientiae in notitiis repositionis et magni operis computandis industriis. Co-conditor Ling Ming investigationem, progressionem et consilium multorum ministrantium et operationum in industria liquidae refrigeratae perduxit, et vicit...",https://36kr.com/p/3877035735740673,"https://img.36krcdn.com/hsossms/20260701/v2_f3e62bcfd7df42ac9f2904f656a800e7@6310669_oswg56241oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",,"Pre-AAI
+2021IT
+3003021020
+AIAI2026AI8,661AI45202495020261,300CAGR21.7%
+100dB
+AI
+255%271%45dB39h 28h 39%
+To GAIAI
+AIAIGCAIAIAIAI6O2O
+19201220208AIAI
+AIAMDAI
+0.01IT40
+PC
+CPUGPU30.5%35AI2.7… [+52 chars]",,2026-07-04 08:09:38+00:00,wmo,China,EAS,Asia
