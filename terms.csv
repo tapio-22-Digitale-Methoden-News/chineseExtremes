@@ -6,7 +6,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec1f0f1f09',extremes,Heat Wave,#c40202,wmo,熱浪餘民縣,2026-06-16T08:27:00+00:00,China,0.7121942872967181,1,2,zh,EAS,Asia
 '75dafff63a',extremes,Thunderstorm,#53785a,wmo,冰雹,2026-06-07T06:48:00+00:00,Macao,0.7117792073656114,1,2,zh,EAS,Asia
 '34681ef140',extremes,Landslide,#572c03,wmo,上高縣山崩,2026-05-20T06:33:00+00:00,China,0.710595986677764,1,2,zh,EAS,Asia
-'39316e8529',extremes,Heat Wave,#c40202,wmo,泽普县热浪,2026-06-27T06:08:00+00:00,China,0.7052219059713745,0,1,zh,EAS,Asia
 'ed11bcd8bb',extremes,Tropical Cyclone,#4f4f4f,wmo,熱帶氣旋中國,2026-07-01T06:52:00+00:00,China,0.7035353289657318,1,2,zh,EAS,Asia
 'e625fa296a',extremes,Storm,#b3b2b1,wmo,澳門風暴,2026-06-07T06:48:00+00:00,Macao,0.698558284670907,1,2,zh,EAS,Asia
 'e218f8a70d',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風台山市,2026-07-02T06:24:00+00:00,China,0.6977514150384139,1,3,zh,EAS,Asia
@@ -59,6 +58,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7266ac98c8',extremes,Landslide,#572c03,wmo,蘭坪山崩,2026-06-12T07:05:00+00:00,China,0.6011970081691186,0,1,zh,EAS,Asia
 '87df0f12bf',extremes,Landslide,#572c03,wmo,陽高縣山體滑坡,2026-06-16T08:27:00+00:00,China,0.6011292392362485,0,1,zh,EAS,Asia
 '7dbcb2019f',extremes,Fog,#d60d2b,wmo,宜黃縣霧,2026-06-14T07:07:00+00:00,China,0.6010236720269433,2,1,zh,EAS,Asia
+'39316e8529',extremes,Heat Wave,#c40202,wmo,泽普县热浪,2026-06-27T06:08:00+00:00,China,0.5997386500756683,1,1,zh,EAS,Asia
 '07362fb91c',extremes,Fog,#d60d2b,wmo,雾西湖区,2026-06-14T07:07:00+00:00,China,0.5978520203453687,1,2,zh,EAS,Asia
 'c06d61c0ab',extremes,Heat Wave,#c40202,wmo,热浪喀什市,2026-06-29T07:13:00+00:00,China,0.5936508449975514,1,1,zh,EAS,Asia
 '086e387718',extremes,Heat Wave,#c40202,wmo,热浪伯乐,2026-06-16T08:27:00+00:00,China,0.593576321710213,2,1,zh,EAS,Asia
