@@ -43,11 +43,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b1ff18e82',extremes,Tropical Cyclone,#4f4f4f,wmo,台风南沙区,2026-07-02T06:24:00+00:00,China,0.614003659918691,1,2,zh,EAS,Asia
 '73a214bbed',extremes,Precipitation,#d60d2b,wmo,澳门降水量,2026-07-04T05:59:00+00:00,Macao,0.6136078597401906,1,2,zh,EAS,Asia
 '93ab75fca5',extremes,Fog,#d60d2b,wmo,鹽城霧,2026-06-25T06:32:00+00:00,China,0.6129981891184646,1,2,zh,EAS,Asia
-'3ae7d46a85',extremes,Tropical Cyclone,#4f4f4f,wmo,飓风云浮市管辖,2026-07-02T06:24:00+00:00,China,0.612996233743433,0,1,zh,EAS,Asia
 'db51bfcc2a',extremes,Heat Wave,#c40202,wmo,热浪米东区,2026-06-02T07:08:00+00:00,China,0.6095949068475736,1,2,zh,EAS,Asia
-'04035c2df1',extremes,Landslide,#572c03,wmo,盈江縣山崩,2026-06-16T08:27:00+00:00,China,0.608504716457477,0,1,zh,EAS,Asia
 '6ce6ca0f5b',extremes,Fog,#d60d2b,wmo,大方縣霧,2026-07-02T06:24:00+00:00,China,0.6080161371239116,1,1,zh,EAS,Asia
-'8e86b19fd0',extremes,Heat Wave,#c40202,wmo,熱浪和田市,2026-06-29T07:13:00+00:00,China,0.6078745642369824,0,1,zh,EAS,Asia
 '85ccea8ff6',extremes,Fog,#d60d2b,wmo,松桃苗族自治縣霧,2026-07-03T06:09:00+00:00,China,0.6072275493623539,0,1,zh,EAS,Asia
 '7c8e3cac3a',extremes,Fog,#d60d2b,wmo,婺源县雾,2026-06-19T07:39:00+00:00,China,0.6068072715216817,0,1,zh,EAS,Asia
 '93899a879a',extremes,Tropical Cyclone,#4f4f4f,wmo,颶風番禺區,2026-07-02T06:24:00+00:00,China,0.6059495763812615,0,1,zh,EAS,Asia
@@ -84,6 +81,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8bdcd0e7f7',extremes,Heat Wave,#c40202,wmo,高昌地區熱浪,2026-06-17T07:33:00+00:00,China,0.5787637498720327,1,1,zh,EAS,Asia
 'cfb58f445b',extremes,Fog,#d60d2b,wmo,正安縣霧,2026-06-18T07:16:00+00:00,China,0.578698955416661,1,1,zh,EAS,Asia
 'e097bc2a5c',extremes,Fog,#d60d2b,wmo,霧山縣,2026-06-20T06:47:00+00:00,China,0.5774601533028432,2,2,zh,EAS,Asia
+'8e86b19fd0',extremes,Heat Wave,#c40202,wmo,熱浪和田市,2026-06-29T07:13:00+00:00,China,0.577443454601435,1,1,zh,EAS,Asia
 'd19b69e8d6',extremes,Heat Wave,#c40202,wmo,热浪滨州市,2026-05-31T06:40:00+00:00,China,0.5767911182429424,1,1,zh,EAS,Asia
 'a719449a6f',extremes,Heat Wave,#c40202,wmo,热浪伊利诺伊州地区,2026-06-03T07:23:00+00:00,China,0.5746791927970974,2,1,zh,EAS,Asia
 '6cafb7769c',extremes,Heat Wave,#c40202,wmo,熱浪 嘉士縣,2026-06-26T06:36:00+00:00,China,0.5719271060635884,2,1,zh,EAS,Asia
@@ -202,6 +200,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '871bd09f01',extremes,Fog,#d60d2b,wmo,霧浠縣,2026-06-23T06:33:00+00:00,China,0.5216078221396608,1,1,zh,EAS,Asia
 '20358f6f6f',extremes,Landslide,#572c03,wmo,澜沧拉祜族自治县山体滑坡,2026-06-09T06:32:00+00:00,China,0.5215837717669323,1,1,zh,EAS,Asia
 '7d5331ec77',extremes,Landslide,#572c03,wmo,永善縣山體滑坡,2026-06-08T07:13:00+00:00,China,0.5213470774662483,1,1,zh,EAS,Asia
+'3ae7d46a85',extremes,Tropical Cyclone,#4f4f4f,wmo,飓风云浮市管辖,2026-07-02T06:24:00+00:00,China,0.521046798681918,1,1,zh,EAS,Asia
 'b43406af5e',extremes,Landslide,#572c03,wmo,芒市山崩,2026-06-09T06:32:00+00:00,China,0.5209897363304639,1,1,zh,EAS,Asia
 '72ba652831',extremes,Landslide,#572c03,wmo,山体滑坡振峰,2026-06-08T07:13:00+00:00,China,0.520986182620555,1,1,zh,EAS,Asia
 '450b636202',extremes,Landslide,#572c03,wmo,富源县泥石流,2026-06-09T06:32:00+00:00,China,0.52090110092661,1,1,zh,EAS,Asia
@@ -221,6 +220,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '18e3f6670e',extremes,Landslide,#572c03,wmo,綠春縣土石流,2026-06-14T07:07:00+00:00,China,0.5177842872574963,1,1,zh,EAS,Asia
 '3fb84e64d3',extremes,Fog,#d60d2b,wmo,霧安圖縣,2026-06-15T08:36:00+00:00,China,0.5175108208671952,1,1,zh,EAS,Asia
 '5ea4954a06',extremes,Heat Wave,#c40202,wmo,热浪玛纳斯县,2026-06-15T08:36:00+00:00,China,0.5173918083113749,1,1,zh,EAS,Asia
+'04035c2df1',extremes,Landslide,#572c03,wmo,盈江縣山崩,2026-06-16T08:27:00+00:00,China,0.5172290089888554,1,1,zh,EAS,Asia
 '37070627de',extremes,Landslide,#572c03,wmo,原阳县泥石流,2026-06-10T06:49:00+00:00,China,0.516853389795459,1,1,zh,EAS,Asia
 '3be5a7cdf3',extremes,Landslide,#572c03,wmo,山崩 貢山德隆祖努祖資治縣,2026-06-16T08:27:00+00:00,China,0.5168255246157442,1,1,zh,EAS,Asia
 '4ed9239e34',extremes,Landslide,#572c03,wmo,腾冲市山体滑坡,2026-06-11T07:14:00+00:00,China,0.5164238350531134,1,1,zh,EAS,Asia
