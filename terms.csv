@@ -48,8 +48,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6ce6ca0f5b',extremes,Fog,#d60d2b,wmo,大方縣霧,2026-07-02T06:24:00+00:00,China,0.6080161371239116,1,1,zh,EAS,Asia
 '9926ca6409',extremes,Fog,#d60d2b,wmo,江河雾源区,2026-07-07T06:30:00+00:00,China,0.6039970643761569,1,2,zh,EAS,Asia
 '25c0ba8ffa',extremes,Fog,#d60d2b,wmo,石台縣霧,2026-07-04T05:59:00+00:00,China,0.6037769057901479,1,1,zh,EAS,Asia
-'9788b1d02a',extremes,Landslide,#572c03,wmo,华宁县山体滑坡,2026-06-29T07:13:00+00:00,China,0.6026271966911856,0,1,zh,EAS,Asia
-'1a3cffe6a9',extremes,Fog,#d60d2b,wmo,定南县雾,2026-06-28T06:44:00+00:00,China,0.6021299771565949,0,1,zh,EAS,Asia
 '9ac4f02f8f',extremes,Fog,#d60d2b,wmo,宁江区 大雾,2026-06-30T06:39:00+00:00,China,0.601725936850972,0,1,zh,EAS,Asia
 '7266ac98c8',extremes,Landslide,#572c03,wmo,蘭坪山崩,2026-06-12T07:05:00+00:00,China,0.6011970081691186,0,1,zh,EAS,Asia
 '87df0f12bf',extremes,Landslide,#572c03,wmo,陽高縣山體滑坡,2026-06-16T08:27:00+00:00,China,0.6011292392362485,0,1,zh,EAS,Asia
@@ -245,7 +243,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '337ecc2ca6',extremes,Heat Wave,#c40202,wmo,热浪柯尔克孜自治州,2026-06-29T07:13:00+00:00,China,0.5126335223278454,2,1,zh,EAS,Asia
 '5afc7e1a0d',extremes,Landslide,#572c03,wmo,芒市山崩,2026-06-12T07:05:00+00:00,China,0.5125399493010765,1,1,zh,EAS,Asia
 'd22ac55f80',extremes,Landslide,#572c03,wmo,富源县山体滑坡,2026-06-18T07:16:00+00:00,China,0.5123656393196513,1,1,zh,EAS,Asia
+'9788b1d02a',extremes,Landslide,#572c03,wmo,华宁县山体滑坡,2026-06-29T07:13:00+00:00,China,0.5122331171875077,1,1,zh,EAS,Asia
 '9d1af62be4',extremes,Landslide,#572c03,wmo,京东彝族自治县泥石流,2026-06-11T07:14:00+00:00,China,0.5120698653571067,1,1,zh,EAS,Asia
+'1a3cffe6a9',extremes,Fog,#d60d2b,wmo,定南县雾,2026-06-28T06:44:00+00:00,China,0.5119604955831056,1,1,zh,EAS,Asia
 '57d87f4920',extremes,Heat Wave,#c40202,wmo,热浪阿拉山口,2026-06-14T07:07:00+00:00,China,0.5110470180710959,2,1,zh,EAS,Asia
 '9bea8f3dca',extremes,Fog,#d60d2b,wmo,荣成市雾,2026-06-15T08:36:00+00:00,China,0.5095817991253101,2,1,zh,EAS,Asia
 '9465a56510',extremes,Heat Wave,#c40202,wmo,熱浪福康,2026-06-15T08:36:00+00:00,China,0.5068619439191093,2,1,zh,EAS,Asia
