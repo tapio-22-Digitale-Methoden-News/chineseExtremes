@@ -33,7 +33,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bf085d2512',extremes,Flood,#030ba1,wmo,淹沒中國,2026-06-30T06:39:00+00:00,China,0.6584878695546964,1,3,zh,EAS,Asia
 '24f1291cd8',extremes,Flood,#030ba1,wmo,中国洪水,2026-06-13T06:38:00+00:00,China,0.6572375683417472,1,2,zh,EAS,Asia
 'd6e6895b7a',extremes,Heat Wave,#c40202,wmo,熱浪庫爾勒,2026-06-01T07:30:00+00:00,China,0.6570603920534009,2,2,zh,EAS,Asia
+'84f1a0b1b4',extremes,Tropical Cyclone,#4f4f4f,wmo,台风椒江区,2026-07-10T06:27:00+00:00,China,0.6529377239059437,0,1,zh,EAS,Asia
+'1aaac88451',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風平陽縣,2026-07-10T06:27:00+00:00,China,0.6515107349964054,0,1,zh,EAS,Asia
+'e6d6769c37',extremes,Tropical Cyclone,#4f4f4f,wmo,热带气旋永嘉县,2026-07-10T06:27:00+00:00,China,0.651477045345616,0,1,zh,EAS,Asia
+'12af0b8943',extremes,Tropical Cyclone,#4f4f4f,wmo,热带气旋三门县,2026-07-10T06:27:00+00:00,China,0.6471706915576144,0,1,zh,EAS,Asia
 '5e8c055898',extremes,Landslide,#572c03,wmo,高平土石流,2026-05-25T06:53:00+00:00,China,0.6471673196282258,1,3,zh,EAS,Asia
+'bb517b545d',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風江陰市,2026-07-10T06:27:00+00:00,China,0.6470991774184134,0,1,zh,EAS,Asia
+'1ea24dfda1',extremes,Tropical Cyclone,#4f4f4f,wmo,飓风崇明区,2026-07-10T06:27:00+00:00,China,0.6460491380052071,0,1,zh,EAS,Asia
 '0ea3de86e9',extremes,Wildfire,#d60d2b,wmo,野火中国,2026-05-25T06:53:00+00:00,China,0.6455796109091403,1,3,zh,EAS,Asia
 'f941ef58fc',extremes,Fog,#d60d2b,wmo,霧 前山區,2026-07-08T05:37:00+00:00,China,0.6438487195005667,1,3,zh,EAS,Asia
 'f030b69f93',extremes,Fog,#d60d2b,wmo,文登區霧,2026-06-15T08:36:00+00:00,China,0.6426761689599787,1,2,zh,EAS,Asia
