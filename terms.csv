@@ -46,6 +46,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1ea24dfda1',extremes,Tropical Cyclone,#4f4f4f,wmo,飓风崇明区,2026-07-10T06:27:00+00:00,China,0.6460491380052071,0,1,zh,EAS,Asia
 '4fe2baa7cc',extremes,Tropical Cyclone,#4f4f4f,wmo,飓风 鄞州区,2026-07-11T05:27:00+00:00,China,0.6457228272705179,0,1,zh,EAS,Asia
 '0ea3de86e9',extremes,Wildfire,#d60d2b,wmo,野火中国,2026-05-25T06:53:00+00:00,China,0.6455796109091403,1,3,zh,EAS,Asia
+'18e1d86acc',extremes,Tropical Cyclone,#4f4f4f,wmo,颶風亭湖區,2026-07-11T05:27:00+00:00,China,0.6445850815205705,0,1,zh,EAS,Asia
+'f76ec40b19',extremes,Tropical Cyclone,#4f4f4f,wmo,热带气旋诸暨市,2026-07-11T05:27:00+00:00,China,0.6444691547171069,0,1,zh,EAS,Asia
+'9d0af66165',extremes,Tropical Cyclone,#4f4f4f,wmo,台风射阳县,2026-07-12T05:43:00+00:00,China,0.6444024410727918,0,1,zh,EAS,Asia
+'3dd70002ca',extremes,Tropical Cyclone,#4f4f4f,wmo,鹽湖城颶風,2026-07-11T05:27:00+00:00,China,0.644364749555655,0,1,zh,EAS,Asia
+'9bd080f571',extremes,Tropical Cyclone,#4f4f4f,wmo,飓风余姚市,2026-07-10T06:27:00+00:00,China,0.6442730468521053,0,1,zh,EAS,Asia
+'f14f4fdd5f',extremes,Tropical Cyclone,#4f4f4f,wmo,飓风铜关山区,2026-07-11T05:27:00+00:00,China,0.644109722102311,0,1,zh,EAS,Asia
 'f941ef58fc',extremes,Fog,#d60d2b,wmo,霧 前山區,2026-07-08T05:37:00+00:00,China,0.6438487195005667,1,3,zh,EAS,Asia
 'f030b69f93',extremes,Fog,#d60d2b,wmo,文登區霧,2026-06-15T08:36:00+00:00,China,0.6426761689599787,1,2,zh,EAS,Asia
 '41abbb5749',extremes,Tropical Cyclone,#4f4f4f,wmo,飓风建德,2026-07-11T05:27:00+00:00,China,0.6365042742686453,1,2,zh,EAS,Asia
