@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c685705bbd',extremes,Earthquake,#870007,usgs,中國地震,2026-06-27T06:08:00+00:00,China,0.8181910210925938,2,3,zh,ECA,Asia
+'c685705bbd',extremes,Earthquake,#870007,usgs,中國地震,2026-06-27T06:08:00+00:00,China,0.8322368197468866,3,3,zh,ECA,Asia
 '24b660695f',extremes,Landslide,#572c03,wmo,中國土石流,2026-07-03T06:09:00+00:00,China,0.7752177589406573,1,3,zh,EAS,Asia
 'd4f0e45c92',extremes,Snow&Ice,#d60d2b,wmo,冰霜中國,2026-06-07T06:48:00+00:00,China,0.76994431761982,1,2,zh,EAS,Asia
 'fa06cd330a',extremes,Landslide,#572c03,wmo,中國山崩,2026-07-04T05:59:00+00:00,China,0.7628245024352907,1,3,zh,EAS,Asia
