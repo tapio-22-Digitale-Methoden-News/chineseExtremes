@@ -2,8 +2,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c685705bbd',extremes,Earthquake,#870007,usgs,中國地震,2026-06-27T06:08:00+00:00,China,0.849096443903489,5,3,zh,ECA,Asia
 '24b660695f',extremes,Landslide,#572c03,wmo,中國土石流,2026-07-03T06:09:00+00:00,China,0.7752177589406573,1,3,zh,EAS,Asia
 'd4f0e45c92',extremes,Snow&Ice,#d60d2b,wmo,冰霜中國,2026-06-07T06:48:00+00:00,China,0.76994431761982,1,2,zh,EAS,Asia
+'31919931b3',extremes,Landslide,#572c03,wmo,中國岩崩,2026-07-03T06:09:00+00:00,China,0.7631194841748864,1,2,zh,EAS,Asia
 'fa06cd330a',extremes,Landslide,#572c03,wmo,中國山崩,2026-07-04T05:59:00+00:00,China,0.7628245024352907,1,3,zh,EAS,Asia
-'31919931b3',extremes,Landslide,#572c03,wmo,中國岩崩,2026-07-03T06:09:00+00:00,China,0.755728716676337,0,1,zh,EAS,Asia
 'f1feb3c458',extremes,Tropical Cyclone,#4f4f4f,wmo,台风海曙区,2026-07-11T05:27:00+00:00,China,0.7486149443051177,2,2,zh,EAS,Asia
 'f7493e0a77',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風中國,2026-07-01T06:52:00+00:00,China,0.7474353555811502,1,3,zh,EAS,Asia
 'b499b72de5',extremes,Tropical Cyclone,#4f4f4f,wmo,熱帶氣旋 鎮海區,2026-07-11T05:27:00+00:00,China,0.7459840318234812,2,2,zh,EAS,Asia
