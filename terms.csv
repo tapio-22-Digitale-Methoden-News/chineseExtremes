@@ -42,9 +42,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '24f1291cd8',extremes,Flood,#030ba1,wmo,中国洪水,2026-06-13T06:38:00+00:00,China,0.6572375683417472,1,2,zh,EAS,Asia
 '5cce618a25',extremes,Heat Wave,#c40202,wmo,热浪哈密市,2026-06-27T06:08:00+00:00,China,0.6486055081095718,1,1,zh,EAS,Asia
 'f941ef58fc',extremes,Fog,#d60d2b,wmo,霧 前山區,2026-07-08T05:37:00+00:00,China,0.6438487195005667,1,3,zh,EAS,Asia
+'db84bc35a8',extremes,Fog,#d60d2b,wmo,雾 市南区,2026-07-10T06:27:00+00:00,China,0.6432314388416782,1,2,zh,EAS,Asia
 'f030b69f93',extremes,Fog,#d60d2b,wmo,文登區霧,2026-06-15T08:36:00+00:00,China,0.6426761689599787,1,2,zh,EAS,Asia
 'bd7416f436',extremes,Heat Wave,#c40202,wmo,轮台县热浪,2026-06-30T06:39:00+00:00,China,0.6382805453481291,1,1,zh,EAS,Asia
-'db84bc35a8',extremes,Fog,#d60d2b,wmo,雾 市南区,2026-07-10T06:27:00+00:00,China,0.6380368809902097,0,1,zh,EAS,Asia
 '240fc58c72',extremes,Tropical Cyclone,#4f4f4f,wmo,热带气旋龙泉,2026-07-10T06:27:00+00:00,China,0.6380229754271972,0,1,zh,EAS,Asia
 '82875e32d5',extremes,Tropical Cyclone,#4f4f4f,wmo,台风 遂昌县,2026-07-12T05:43:00+00:00,China,0.6378022193577583,0,1,zh,EAS,Asia
 'e79087ee66',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風 郎溪縣,2026-07-11T05:27:00+00:00,China,0.6366512469577413,0,1,zh,EAS,Asia
