@@ -46,7 +46,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f030b69f93',extremes,Fog,#d60d2b,wmo,文登區霧,2026-06-15T08:36:00+00:00,China,0.6426761689599787,1,2,zh,EAS,Asia
 'bd7416f436',extremes,Heat Wave,#c40202,wmo,轮台县热浪,2026-06-30T06:39:00+00:00,China,0.6382805453481291,1,1,zh,EAS,Asia
 '41abbb5749',extremes,Tropical Cyclone,#4f4f4f,wmo,飓风建德,2026-07-11T05:27:00+00:00,China,0.6365042742686453,1,2,zh,EAS,Asia
-'9a9fdbb24f',extremes,Fog,#d60d2b,wmo,雾 上党区,2026-07-15T05:15:00+00:00,China,0.6334884732878877,0,1,zh,EAS,Asia
 '3e997aacac',extremes,Earthquake,#870007,usgs,綿竹地震,2026-07-06T06:52:00+00:00,China,0.6319704470197277,2,1,zh,EAS,Asia
 '904451b5ac',extremes,Tropical Cyclone,#4f4f4f,wmo,台风启东,2026-07-12T05:43:00+00:00,China,0.6244824730206997,1,2,zh,EAS,Asia
 'c751ffb6df',extremes,Heat Wave,#c40202,wmo,熱浪吐魯番,2026-06-19T07:39:00+00:00,China,0.6204861852620857,1,1,zh,EAS,Asia
@@ -209,6 +208,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0937356ada',extremes,Fog,#d60d2b,wmo,霧阡縣,2026-07-04T05:59:00+00:00,China,0.5390652993757766,1,1,zh,EAS,Asia
 '92d0641fae',extremes,Tropical Cyclone,#4f4f4f,wmo,茂名市管轄的熱帶氣旋,2026-07-03T06:09:00+00:00,China,0.5389610544625819,1,1,zh,EAS,Asia
 '243999acfc',extremes,Heat Wave,#c40202,wmo,熱浪焉耆回族自治縣,2026-07-02T06:24:00+00:00,China,0.5388751884827314,1,1,zh,EAS,Asia
+'9a9fdbb24f',extremes,Fog,#d60d2b,wmo,雾 上党区,2026-07-15T05:15:00+00:00,China,0.5386152172947045,1,1,zh,EAS,Asia
 '64a09ffca4',extremes,Fog,#d60d2b,wmo,寶雞苗彝族鄉霧,2026-06-15T08:36:00+00:00,China,0.538495829982305,1,1,zh,EAS,Asia
 '2a76505030',extremes,Fog,#d60d2b,wmo,紅河縣霧,2026-06-12T07:05:00+00:00,China,0.5383760098843829,1,1,zh,EAS,Asia
 '184419705e',extremes,Fog,#d60d2b,wmo,富阳区雾,2026-06-26T06:36:00+00:00,China,0.5376536481742185,1,1,zh,EAS,Asia
