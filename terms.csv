@@ -49,7 +49,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bd7416f436',extremes,Heat Wave,#c40202,wmo,轮台县热浪,2026-06-30T06:39:00+00:00,China,0.6382805453481291,1,1,zh,EAS,Asia
 '41abbb5749',extremes,Tropical Cyclone,#4f4f4f,wmo,飓风建德,2026-07-11T05:27:00+00:00,China,0.6365042742686453,1,2,zh,EAS,Asia
 'd44b0ee808',extremes,Landslide,#572c03,wmo,华坪县泥石流,2026-07-18T05:10:00+00:00,China,0.6331981363637613,0,1,zh,EAS,Asia
+'e69974f13f',extremes,Tropical Cyclone,#4f4f4f,wmo,飓风滨海县,2026-07-12T05:43:00+00:00,China,0.6329181411088356,0,1,zh,EAS,Asia
+'93bfe6de12',extremes,Tropical Cyclone,#4f4f4f,wmo,熱帶氣旋 黃岩區,2026-07-12T05:43:00+00:00,China,0.6328662779594942,0,1,zh,EAS,Asia
+'380d7a769e',extremes,Tropical Cyclone,#4f4f4f,wmo,飓风海门区,2026-07-10T06:27:00+00:00,China,0.6327297706659885,0,1,zh,EAS,Asia
+'c94dadc722',extremes,Tropical Cyclone,#4f4f4f,wmo,熱帶氣旋績溪縣,2026-07-11T05:27:00+00:00,China,0.6324902705063686,0,1,zh,EAS,Asia
 '3e997aacac',extremes,Earthquake,#870007,usgs,綿竹地震,2026-07-06T06:52:00+00:00,China,0.6319704470197277,2,1,zh,EAS,Asia
+'6d09bd37b0',extremes,Tropical Cyclone,#4f4f4f,wmo,热带气旋 嘉定区,2026-07-10T06:27:00+00:00,China,0.6315357589550129,0,1,zh,EAS,Asia
+'3fda519cd4',extremes,Tropical Cyclone,#4f4f4f,wmo,台风莱阳市,2026-07-12T05:43:00+00:00,China,0.631526303088717,0,1,zh,EAS,Asia
 '904451b5ac',extremes,Tropical Cyclone,#4f4f4f,wmo,台风启东,2026-07-12T05:43:00+00:00,China,0.6244824730206997,1,2,zh,EAS,Asia
 'c751ffb6df',extremes,Heat Wave,#c40202,wmo,熱浪吐魯番,2026-06-19T07:39:00+00:00,China,0.6204861852620857,1,1,zh,EAS,Asia
 '2fc653657a',extremes,Tropical Cyclone,#4f4f4f,wmo,台风沿海城市,2026-07-10T06:27:00+00:00,China,0.6199139846240508,1,2,zh,EAS,Asia
