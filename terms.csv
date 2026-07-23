@@ -27,6 +27,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd967bd41be',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風文登區,2026-07-12T05:43:00+00:00,China,0.6916212132389358,1,3,zh,EAS,Asia
 '8182b1f37a',extremes,Snow&Ice,#d60d2b,wmo,雪中国,2026-06-07T06:48:00+00:00,China,0.6902472427516699,1,3,zh,EAS,Asia
 'bd7d761cac',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風定海區,2026-07-12T05:43:00+00:00,China,0.6901802262980875,1,3,zh,EAS,Asia
+'a107501dfc',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風明光市,2026-07-11T05:27:00+00:00,China,0.6887897610540439,1,3,zh,EAS,Asia
 'a977a6900a',extremes,Tropical Cyclone,#4f4f4f,wmo,熱帶氣旋丹徒區,2026-07-10T06:27:00+00:00,China,0.688751837198309,1,2,zh,EAS,Asia
 'd86ddf0a9b',extremes,Tropical Cyclone,#4f4f4f,wmo,台风 新会区,2026-07-03T06:09:00+00:00,China,0.6880087716257118,1,3,zh,EAS,Asia
 '6d09bd37b0',extremes,Tropical Cyclone,#4f4f4f,wmo,热带气旋 嘉定区,2026-07-10T06:27:00+00:00,China,0.686955410111761,1,2,zh,EAS,Asia
@@ -50,8 +51,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bd7416f436',extremes,Heat Wave,#c40202,wmo,轮台县热浪,2026-06-30T06:39:00+00:00,China,0.6382805453481291,1,1,zh,EAS,Asia
 '41abbb5749',extremes,Tropical Cyclone,#4f4f4f,wmo,飓风建德,2026-07-11T05:27:00+00:00,China,0.6365042742686453,1,2,zh,EAS,Asia
 '3e997aacac',extremes,Earthquake,#870007,usgs,綿竹地震,2026-07-06T06:52:00+00:00,China,0.6319704470197277,2,1,zh,EAS,Asia
-'d395232865',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風桐廬縣,2026-07-11T05:27:00+00:00,China,0.6283488485932985,0,1,zh,EAS,Asia
-'a107501dfc',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風明光市,2026-07-11T05:27:00+00:00,China,0.6280458071224045,0,1,zh,EAS,Asia
 'fd3e0840de',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風高郵市,2026-07-11T05:27:00+00:00,China,0.6278659436490802,0,1,zh,EAS,Asia
 '6660835d4f',extremes,Tropical Cyclone,#4f4f4f,wmo,颶風柯城區,2026-07-14T05:14:00+00:00,China,0.6278479576546744,0,1,zh,EAS,Asia
 '904451b5ac',extremes,Tropical Cyclone,#4f4f4f,wmo,台风启东,2026-07-12T05:43:00+00:00,China,0.6244824730206997,1,2,zh,EAS,Asia
@@ -246,6 +245,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '44d6ce6691',extremes,Tropical Cyclone,#4f4f4f,wmo,飓风东莞市,2026-07-02T06:24:00+00:00,China,0.5345037589539541,1,1,zh,EAS,Asia
 '01bbebbece',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風鶴山市,2026-07-02T06:24:00+00:00,China,0.5343219408076649,1,1,zh,EAS,Asia
 '5b2e4ed4aa',extremes,Fog,#d60d2b,wmo,镇雄县雾,2026-07-09T06:27:00+00:00,China,0.5341258345285239,1,1,zh,EAS,Asia
+'d395232865',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風桐廬縣,2026-07-11T05:27:00+00:00,China,0.5340965213043037,1,1,zh,EAS,Asia
 '959ed86290',extremes,Heat Wave,#c40202,wmo,热浪新疆维吾尔自治区,2026-06-14T07:07:00+00:00,China,0.5339889169746175,1,1,zh,EAS,Asia
 '3cccbf83e8',extremes,Fog,#d60d2b,wmo,崇仁县雾,2026-06-17T07:33:00+00:00,China,0.5332749823163597,1,1,zh,EAS,Asia
 'e3a2709fa7',extremes,Heat Wave,#c40202,wmo,莎车县热浪,2026-06-28T06:44:00+00:00,China,0.5326880425431562,1,1,zh,EAS,Asia
