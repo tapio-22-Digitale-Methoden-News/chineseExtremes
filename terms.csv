@@ -50,6 +50,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bd7416f436',extremes,Heat Wave,#c40202,wmo,轮台县热浪,2026-06-30T06:39:00+00:00,China,0.6382805453481291,1,1,zh,EAS,Asia
 '41abbb5749',extremes,Tropical Cyclone,#4f4f4f,wmo,飓风建德,2026-07-11T05:27:00+00:00,China,0.6365042742686453,1,2,zh,EAS,Asia
 '3e997aacac',extremes,Earthquake,#870007,usgs,綿竹地震,2026-07-06T06:52:00+00:00,China,0.6319704470197277,2,1,zh,EAS,Asia
+'d9e3f42042',extremes,Landslide,#572c03,wmo,沙坡頭區泥石流,2026-07-14T05:14:00+00:00,China,0.6276998430716462,0,1,zh,EAS,Asia
+'faef176192',extremes,Heat Wave,#c40202,wmo,热浪 安源县,2026-07-17T05:27:00+00:00,China,0.6275306780308927,0,1,zh,EAS,Asia
+'0f171f4176',extremes,Tropical Cyclone,#4f4f4f,wmo,热带气旋青田县,2026-07-10T06:27:00+00:00,China,0.6273862864332136,0,1,zh,EAS,Asia
+'a057c77104',extremes,Tropical Cyclone,#4f4f4f,wmo,颶風翔安鎮,2026-07-11T05:27:00+00:00,China,0.6271548029364833,0,1,zh,EAS,Asia
+'6d098040fc',extremes,Tropical Cyclone,#4f4f4f,wmo,热带气旋 休宁县,2026-07-11T05:27:00+00:00,China,0.627105854365291,0,1,zh,EAS,Asia
+'032e3f7e66',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風儀徵市,2026-07-12T05:43:00+00:00,China,0.626433507957457,0,1,zh,EAS,Asia
 '904451b5ac',extremes,Tropical Cyclone,#4f4f4f,wmo,台风启东,2026-07-12T05:43:00+00:00,China,0.6244824730206997,1,2,zh,EAS,Asia
 '10d5ddd74d',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風常州市,2026-07-12T05:43:00+00:00,China,0.622443043368391,1,2,zh,EAS,Asia
 'c751ffb6df',extremes,Heat Wave,#c40202,wmo,熱浪吐魯番,2026-06-19T07:39:00+00:00,China,0.6204861852620857,1,1,zh,EAS,Asia
