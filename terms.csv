@@ -70,6 +70,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '60c46683d5',extremes,Landslide,#572c03,wmo,靖宇县山体滑坡,2026-07-14T05:14:00+00:00,China,0.6175102185054678,0,1,zh,EAS,Asia
 'abc906a9be',extremes,Tropical Cyclone,#4f4f4f,wmo,热带气旋 祁门县,2026-07-12T05:43:00+00:00,China,0.6174691916606656,0,1,zh,EAS,Asia
 '8801debbe5',extremes,Heat Wave,#c40202,wmo,浮梁县热浪,2026-07-19T05:37:00+00:00,China,0.6174366742459217,0,1,zh,EAS,Asia
+'8113af24aa',extremes,Fog,#d60d2b,wmo,餘杭區 霧,2026-07-10T06:27:00+00:00,China,0.6173374089332749,0,1,zh,EAS,Asia
+'f645576d45',extremes,Landslide,#572c03,wmo,黃岩區山崩,2026-07-11T05:27:00+00:00,China,0.6173165737296683,0,1,zh,EAS,Asia
+'0504a38a9e',extremes,Tropical Cyclone,#4f4f4f,wmo,颶風高郵市,2026-07-12T05:43:00+00:00,China,0.6169577291142907,0,1,zh,EAS,Asia
+'6bc3110db1',extremes,Tropical Cyclone,#4f4f4f,wmo,热带气旋 惠城区,2026-07-25T05:29:00+00:00,China,0.6167677203432861,0,1,zh,EAS,Asia
+'a28bb01cab',extremes,Heat Wave,#c40202,wmo,热浪 巩留县,2026-07-17T05:27:00+00:00,China,0.6167205872997626,0,1,zh,EAS,Asia
+'a307ffa694',extremes,Tropical Cyclone,#4f4f4f,wmo,台风盱眙县,2026-07-11T05:27:00+00:00,China,0.6165399303615338,0,1,zh,EAS,Asia
 'd03d459e2d',extremes,Fog,#d60d2b,wmo,雾德兴,2026-07-03T06:09:00+00:00,China,0.6156411917524428,1,2,zh,EAS,Asia
 'a8b6a2179a',extremes,Heat Wave,#c40202,wmo,热浪乌苏,2026-07-10T06:27:00+00:00,China,0.6150879018134607,1,1,zh,EAS,Asia
 '8b1ff18e82',extremes,Tropical Cyclone,#4f4f4f,wmo,台风南沙区,2026-07-02T06:24:00+00:00,China,0.614003659918691,1,2,zh,EAS,Asia
