@@ -58,16 +58,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '10d5ddd74d',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風常州市,2026-07-12T05:43:00+00:00,China,0.622443043368391,1,2,zh,EAS,Asia
 '2fc653657a',extremes,Tropical Cyclone,#4f4f4f,wmo,台风沿海城市,2026-07-10T06:27:00+00:00,China,0.6199139846240508,1,2,zh,EAS,Asia
 '0af6b64b7f',extremes,Fog,#d60d2b,wmo,建德雾,2026-07-03T06:09:00+00:00,China,0.6195035359776236,1,2,zh,EAS,Asia
-'60c46683d5',extremes,Landslide,#572c03,wmo,靖宇县山体滑坡,2026-07-14T05:14:00+00:00,China,0.6175102185054678,0,1,zh,EAS,Asia
-'abc906a9be',extremes,Tropical Cyclone,#4f4f4f,wmo,热带气旋 祁门县,2026-07-12T05:43:00+00:00,China,0.6174691916606656,0,1,zh,EAS,Asia
-'8801debbe5',extremes,Heat Wave,#c40202,wmo,浮梁县热浪,2026-07-19T05:37:00+00:00,China,0.6174366742459217,0,1,zh,EAS,Asia
-'8113af24aa',extremes,Fog,#d60d2b,wmo,餘杭區 霧,2026-07-10T06:27:00+00:00,China,0.6173374089332749,0,1,zh,EAS,Asia
-'f645576d45',extremes,Landslide,#572c03,wmo,黃岩區山崩,2026-07-11T05:27:00+00:00,China,0.6173165737296683,0,1,zh,EAS,Asia
-'0504a38a9e',extremes,Tropical Cyclone,#4f4f4f,wmo,颶風高郵市,2026-07-12T05:43:00+00:00,China,0.6169577291142907,0,1,zh,EAS,Asia
-'6bc3110db1',extremes,Tropical Cyclone,#4f4f4f,wmo,热带气旋 惠城区,2026-07-25T05:29:00+00:00,China,0.6167677203432861,0,1,zh,EAS,Asia
-'a28bb01cab',extremes,Heat Wave,#c40202,wmo,热浪 巩留县,2026-07-17T05:27:00+00:00,China,0.6167205872997626,0,1,zh,EAS,Asia
-'a307ffa694',extremes,Tropical Cyclone,#4f4f4f,wmo,台风盱眙县,2026-07-11T05:27:00+00:00,China,0.6165399303615338,0,1,zh,EAS,Asia
-'1331ac2dcf',extremes,Tropical Cyclone,#4f4f4f,wmo,热带气旋定海区,2026-07-10T06:27:00+00:00,China,0.6164492148406608,0,1,zh,EAS,Asia
 '0777238e9d',extremes,Tropical Cyclone,#4f4f4f,wmo,飓风砀山县,2026-07-12T05:43:00+00:00,China,0.6159858191898642,0,1,zh,EAS,Asia
 'd03d459e2d',extremes,Fog,#d60d2b,wmo,雾德兴,2026-07-03T06:09:00+00:00,China,0.6156411917524428,1,2,zh,EAS,Asia
 'e3b154ebfa',extremes,Tropical Cyclone,#4f4f4f,wmo,颶風嶗山區,2026-07-12T05:43:00+00:00,China,0.615615806396539,0,1,zh,EAS,Asia
@@ -319,7 +309,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '201bd1280c',extremes,Fog,#d60d2b,wmo,雾山县,2026-06-22T08:39:00+00:00,China,0.525139504872282,1,1,zh,EAS,Asia
 '2caaf51e4d',extremes,Tropical Cyclone,#4f4f4f,wmo,熱帶氣旋武義縣,2026-07-12T05:43:00+00:00,China,0.5250693167032751,1,1,zh,EAS,Asia
 '77fdeb747a',extremes,Landslide,#572c03,wmo,澄江市山崩,2026-06-26T06:36:00+00:00,China,0.5250536890175787,1,1,zh,EAS,Asia
+'60c46683d5',extremes,Landslide,#572c03,wmo,靖宇县山体滑坡,2026-07-14T05:14:00+00:00,China,0.5248836857296476,1,1,zh,EAS,Asia
+'abc906a9be',extremes,Tropical Cyclone,#4f4f4f,wmo,热带气旋 祁门县,2026-07-12T05:43:00+00:00,China,0.5248488129115657,1,1,zh,EAS,Asia
+'8801debbe5',extremes,Heat Wave,#c40202,wmo,浮梁县热浪,2026-07-19T05:37:00+00:00,China,0.5248211731090334,1,1,zh,EAS,Asia
+'8113af24aa',extremes,Fog,#d60d2b,wmo,餘杭區 霧,2026-07-10T06:27:00+00:00,China,0.5247367975932837,1,1,zh,EAS,Asia
+'f645576d45',extremes,Landslide,#572c03,wmo,黃岩區山崩,2026-07-11T05:27:00+00:00,China,0.524719087670218,1,1,zh,EAS,Asia
 'd66dc92d91',extremes,Heat Wave,#c40202,wmo,热浪安静县,2026-07-02T06:24:00+00:00,China,0.5247136729173864,1,1,zh,EAS,Asia
+'1331ac2dcf',extremes,Tropical Cyclone,#4f4f4f,wmo,热带气旋定海区,2026-07-10T06:27:00+00:00,China,0.5245818926145617,1,1,zh,EAS,Asia
+'0504a38a9e',extremes,Tropical Cyclone,#4f4f4f,wmo,颶風高郵市,2026-07-12T05:43:00+00:00,China,0.5244140697471471,1,1,zh,EAS,Asia
+'6bc3110db1',extremes,Tropical Cyclone,#4f4f4f,wmo,热带气旋 惠城区,2026-07-25T05:29:00+00:00,China,0.5242525622917932,1,1,zh,EAS,Asia
+'a28bb01cab',extremes,Heat Wave,#c40202,wmo,热浪 巩留县,2026-07-17T05:27:00+00:00,China,0.5242124992047983,1,1,zh,EAS,Asia
+'a307ffa694',extremes,Tropical Cyclone,#4f4f4f,wmo,台风盱眙县,2026-07-11T05:27:00+00:00,China,0.5240589408073036,1,1,zh,EAS,Asia
 'a440e351e4',extremes,Fog,#d60d2b,wmo,霧納雍縣,2026-06-23T06:33:00+00:00,China,0.5230531659143851,1,1,zh,EAS,Asia
 '6ae4baf4e8',extremes,Fog,#d60d2b,wmo,奉新县雾,2026-06-22T08:39:00+00:00,China,0.5226776022949712,1,1,zh,EAS,Asia
 '85974db775',extremes,Fog,#d60d2b,wmo,屯留區霧,2026-07-01T06:52:00+00:00,China,0.5223495105162819,1,1,zh,EAS,Asia
