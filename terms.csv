@@ -60,7 +60,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0af6b64b7f',extremes,Fog,#d60d2b,wmo,建德雾,2026-07-03T06:09:00+00:00,China,0.6195035359776236,1,2,zh,EAS,Asia
 'd03d459e2d',extremes,Fog,#d60d2b,wmo,雾德兴,2026-07-03T06:09:00+00:00,China,0.6156411917524428,1,2,zh,EAS,Asia
 '8b1ff18e82',extremes,Tropical Cyclone,#4f4f4f,wmo,台风南沙区,2026-07-02T06:24:00+00:00,China,0.614003659918691,1,2,zh,EAS,Asia
+'5efe50386c',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風永新縣,2026-07-27T06:05:00+00:00,China,0.6139562369099163,0,1,zh,EAS,Asia
+'6a7da9cb3f',extremes,Tropical Cyclone,#4f4f4f,wmo,熱帶氣旋廬山風景區,2026-07-12T05:43:00+00:00,China,0.6137903562998447,0,1,zh,EAS,Asia
+'20358f6f6f',extremes,Landslide,#572c03,wmo,瀾滄拉祜族自治縣山崩,2026-07-28T05:31:00+00:00,China,0.6136966837482213,0,1,zh,EAS,Asia
+'dabe84fc11',extremes,Landslide,#572c03,wmo,龙陵县山体滑坡,2026-07-12T05:43:00+00:00,China,0.613616726965365,0,1,zh,EAS,Asia
 '73a214bbed',extremes,Precipitation,#d60d2b,wmo,澳门降水量,2026-07-04T05:59:00+00:00,Macao,0.6136078597401906,1,2,zh,EAS,Asia
+'c17afe6005',extremes,Tropical Cyclone,#4f4f4f,wmo,台风“小仙”,2026-07-12T05:43:00+00:00,China,0.6135161033540337,0,1,zh,EAS,Asia
+'9142dcd189',extremes,Tropical Cyclone,#4f4f4f,wmo,熱帶氣旋龍灣區,2026-07-12T05:43:00+00:00,China,0.6134326562266342,0,1,zh,EAS,Asia
 '93ab75fca5',extremes,Fog,#d60d2b,wmo,鹽城霧,2026-06-25T06:32:00+00:00,China,0.6129981891184646,1,2,zh,EAS,Asia
 'cfa60f4659',extremes,Storm,#b3b2b1,wmo,澳門風暴潮,2026-07-03T06:09:00+00:00,Macao,0.6129856264854081,1,1,zh,EAS,Asia
 'd2248ae964',extremes,Tropical Cyclone,#4f4f4f,wmo,热带气旋相城区,2026-07-10T06:27:00+00:00,China,0.6116640361497199,1,2,zh,EAS,Asia
