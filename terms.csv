@@ -66,6 +66,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c17afe6005',extremes,Tropical Cyclone,#4f4f4f,wmo,台风“小仙”,2026-07-12T05:43:00+00:00,China,0.6122387628509286,1,2,zh,EAS,Asia
 '07b79967e7',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風汕尾市管轄,2026-07-25T05:29:00+00:00,China,0.6118809882959569,0,1,zh,EAS,Asia
 'd2248ae964',extremes,Tropical Cyclone,#4f4f4f,wmo,热带气旋相城区,2026-07-10T06:27:00+00:00,China,0.6116640361497199,1,2,zh,EAS,Asia
+'39edcf0c44',extremes,Heat Wave,#c40202,wmo,福海縣熱浪,2026-07-22T05:35:00+00:00,China,0.6110434571671078,0,1,zh,EAS,Asia
+'354f83b339',extremes,Landslide,#572c03,wmo,开原山体滑坡,2026-07-28T05:31:00+00:00,China,0.6106472740266403,0,1,zh,EAS,Asia
+'b1ac3f0a27',extremes,Tropical Cyclone,#4f4f4f,wmo,飓风“乳山市”,2026-07-14T05:14:00+00:00,China,0.6103136725502006,0,1,zh,EAS,Asia
+'cf0da24fa4',extremes,Tropical Cyclone,#4f4f4f,wmo,热带气旋烟台市,2026-07-13T05:53:00+00:00,China,0.6101426595611413,0,1,zh,EAS,Asia
+'5928c81638',extremes,Tropical Cyclone,#4f4f4f,wmo,热带气旋井冈山市,2026-07-27T06:05:00+00:00,China,0.60998715734216,0,1,zh,EAS,Asia
+'f47a41da3b',extremes,Landslide,#572c03,wmo,河口瑶族自治县山体滑坡,2026-07-19T05:37:00+00:00,China,0.6099514415938334,0,1,zh,EAS,Asia
 '6ce6ca0f5b',extremes,Fog,#d60d2b,wmo,大方縣霧,2026-07-02T06:24:00+00:00,China,0.6080161371239116,1,1,zh,EAS,Asia
 '8bdcd0e7f7',extremes,Heat Wave,#c40202,wmo,高昌地區熱浪,2026-07-11T05:27:00+00:00,China,0.6064010558777239,1,1,zh,EAS,Asia
 'de496c023c',extremes,Flood,#030ba1,wmo,营手营子矿区山洪,2026-07-14T05:14:00+00:00,China,0.6053684153204192,1,2,zh,EAS,Asia
