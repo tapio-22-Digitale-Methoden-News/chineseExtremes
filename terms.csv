@@ -68,7 +68,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5928c81638',extremes,Tropical Cyclone,#4f4f4f,wmo,热带气旋井冈山市,2026-07-27T06:05:00+00:00,China,0.60998715734216,0,1,zh,EAS,Asia
 'f47a41da3b',extremes,Landslide,#572c03,wmo,河口瑶族自治县山体滑坡,2026-07-19T05:37:00+00:00,China,0.6099514415938334,0,1,zh,EAS,Asia
 '5485e96cb1',extremes,Heat Wave,#c40202,wmo,熱浪金西縣,2026-07-14T05:14:00+00:00,China,0.6096900756341824,0,1,zh,EAS,Asia
+'24b8f6992d',extremes,Tropical Cyclone,#4f4f4f,wmo,热带气旋 望江县,2026-07-13T05:53:00+00:00,China,0.6096220111818712,0,1,zh,EAS,Asia
+'acbc3abb83',extremes,Landslide,#572c03,wmo,泥石流 维西傈僳族自治县,2026-07-29T05:37:00+00:00,China,0.6096116167343981,0,1,zh,EAS,Asia
+'eb777e30e4',extremes,Landslide,#572c03,wmo,玉龙纳西族自治县泥石流,2026-07-24T05:36:00+00:00,China,0.6084069434557827,0,1,zh,EAS,Asia
+'325b7060f9',extremes,Landslide,#572c03,wmo,珲春山体滑坡,2026-07-28T05:31:00+00:00,China,0.6083184358874988,0,1,zh,EAS,Asia
 '6ce6ca0f5b',extremes,Fog,#d60d2b,wmo,大方縣霧,2026-07-02T06:24:00+00:00,China,0.6080161371239116,1,1,zh,EAS,Asia
+'971e02a418',extremes,Tropical Cyclone,#4f4f4f,wmo,颶風萊陽市,2026-07-14T05:14:00+00:00,China,0.607834306418661,0,1,zh,EAS,Asia
+'e4604b49d2',extremes,Flood,#030ba1,wmo,武義縣洪水氾濫,2026-07-13T05:53:00+00:00,China,0.6078101963423476,0,1,zh,EAS,Asia
 '8bdcd0e7f7',extremes,Heat Wave,#c40202,wmo,高昌地區熱浪,2026-07-11T05:27:00+00:00,China,0.6064010558777239,1,1,zh,EAS,Asia
 'de496c023c',extremes,Flood,#030ba1,wmo,营手营子矿区山洪,2026-07-14T05:14:00+00:00,China,0.6053684153204192,1,2,zh,EAS,Asia
 '59cfc4fde0',extremes,Tropical Cyclone,#4f4f4f,wmo,熱帶氣旋海陽,2026-07-12T05:43:00+00:00,China,0.6050325553528124,1,2,zh,EAS,Asia
