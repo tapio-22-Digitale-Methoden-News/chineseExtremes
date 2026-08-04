@@ -54,7 +54,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '41abbb5749',extremes,Tropical Cyclone,#4f4f4f,wmo,飓风建德,2026-07-11T05:27:00+00:00,China,0.6365042742686453,1,2,zh,EAS,Asia
 '3e997aacac',extremes,Earthquake,#870007,usgs,綿竹地震,2026-07-06T06:52:00+00:00,China,0.6319704470197277,2,1,zh,EAS,Asia
 '24f1291cd8',extremes,Flood,#030ba1,wmo,中国洪水,2026-07-26T05:46:00+00:00,China,0.6307488717236545,1,3,zh,EAS,Asia
-'8fee3581f6',extremes,Landslide,#572c03,wmo,固原市山崩,2026-07-26T05:46:00+00:00,China,0.6297178721416845,1,2,zh,EAS,Asia
 '904451b5ac',extremes,Tropical Cyclone,#4f4f4f,wmo,台风启东,2026-07-12T05:43:00+00:00,China,0.6244824730206997,1,2,zh,EAS,Asia
 '10d5ddd74d',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風常州市,2026-07-12T05:43:00+00:00,China,0.622443043368391,1,2,zh,EAS,Asia
 '2fc653657a',extremes,Tropical Cyclone,#4f4f4f,wmo,台风沿海城市,2026-07-10T06:27:00+00:00,China,0.6199139846240508,1,2,zh,EAS,Asia
@@ -67,8 +66,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cfa60f4659',extremes,Storm,#b3b2b1,wmo,澳門風暴潮,2026-07-03T06:09:00+00:00,Macao,0.6129856264854081,1,1,zh,EAS,Asia
 'c17afe6005',extremes,Tropical Cyclone,#4f4f4f,wmo,台风“小仙”,2026-07-12T05:43:00+00:00,China,0.6122387628509286,1,2,zh,EAS,Asia
 'd2248ae964',extremes,Tropical Cyclone,#4f4f4f,wmo,热带气旋相城区,2026-07-10T06:27:00+00:00,China,0.6116640361497199,1,2,zh,EAS,Asia
+'8fee3581f6',extremes,Landslide,#572c03,wmo,固原市山崩,2026-07-26T05:46:00+00:00,China,0.6108602513204318,2,2,zh,EAS,Asia
 '6ce6ca0f5b',extremes,Fog,#d60d2b,wmo,大方縣霧,2026-07-02T06:24:00+00:00,China,0.6080161371239116,1,1,zh,EAS,Asia
-'c2a0efc387',extremes,Landslide,#572c03,wmo,天峻縣泥石流,2026-07-16T05:25:00+00:00,China,0.6077111818376376,0,1,zh,EAS,Asia
 '8bdcd0e7f7',extremes,Heat Wave,#c40202,wmo,高昌地區熱浪,2026-07-11T05:27:00+00:00,China,0.6064010558777239,1,1,zh,EAS,Asia
 'de496c023c',extremes,Flood,#030ba1,wmo,营手营子矿区山洪,2026-07-14T05:14:00+00:00,China,0.6053684153204192,1,2,zh,EAS,Asia
 '59cfc4fde0',extremes,Tropical Cyclone,#4f4f4f,wmo,熱帶氣旋海陽,2026-07-12T05:43:00+00:00,China,0.6050325553528124,1,2,zh,EAS,Asia
@@ -86,7 +85,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db8b05e233',extremes,Fog,#d60d2b,wmo,霧 通化縣,2026-07-21T05:36:00+00:00,China,0.5883702051597614,2,1,zh,EAS,Asia
 '3fda519cd4',extremes,Tropical Cyclone,#4f4f4f,wmo,台风莱阳市,2026-07-12T05:43:00+00:00,China,0.5876974476254094,1,1,zh,EAS,Asia
 'b4836244ed',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風 泰順縣,2026-07-12T05:43:00+00:00,China,0.5867785318030803,2,1,zh,EAS,Asia
-'615f2ba0c6',extremes,Heat Wave,#c40202,wmo,熱浪昌吉回族自治州,2026-06-24T06:30:00+00:00,China,0.5860557172215901,1,1,zh,EAS,Asia
 'a107501dfc',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風明光市,2026-07-11T05:27:00+00:00,China,0.5854721218959372,2,2,zh,EAS,Asia
 'f2ddd6a404',extremes,Heat Wave,#c40202,wmo,热浪阿克苏市,2026-06-27T06:08:00+00:00,China,0.5851043736347157,1,1,zh,EAS,Asia
 'f63bd30acd',extremes,Heat Wave,#c40202,wmo,阿瓦蒂縣熱浪,2026-06-29T07:13:00+00:00,China,0.5849105689199191,1,1,zh,EAS,Asia
@@ -292,7 +290,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9b06fe6245',extremes,Drought,#edc291,edo,聖誕島乾旱,2026-07-21T05:36:00+00:00,Christmas Island,0.5275179960454226,1,1,zh,SIO,Oceania
 '5e614e4f85',extremes,Tropical Cyclone,#4f4f4f,wmo,飓风 开化县,2026-07-12T05:43:00+00:00,China,0.5270257899156405,1,1,zh,EAS,Asia
 'de73209c00',extremes,Heat Wave,#c40202,wmo,热浪察布查尔锡伯自治县,2026-07-12T05:43:00+00:00,China,0.5268220364271714,1,1,zh,EAS,Asia
-'0fc6077db5',extremes,Heat Wave,#c40202,wmo,奇台县热浪,2026-06-25T06:32:00+00:00,China,0.5267837246573509,1,1,zh,EAS,Asia
 '0f50756379',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風 茂名市轄區,2026-07-02T06:24:00+00:00,China,0.526737862021981,1,1,zh,EAS,Asia
 'b5f53238c2',extremes,Heat Wave,#c40202,wmo,热浪 南城县,2026-07-25T05:29:00+00:00,China,0.5266034258210504,1,1,zh,EAS,Asia
 'd977573dad',extremes,Fog,#d60d2b,wmo,雾 辉南县,2026-06-26T06:36:00+00:00,China,0.5265477567365988,1,1,zh,EAS,Asia
@@ -339,7 +336,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3109a1e4a5',extremes,Landslide,#572c03,wmo,永德縣山體滑坡,2026-07-08T05:37:00+00:00,China,0.5203184014188519,1,1,zh,EAS,Asia
 '07b79967e7',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風汕尾市管轄,2026-07-25T05:29:00+00:00,China,0.5200988400515634,1,1,zh,EAS,Asia
 '8134206940',extremes,Landslide,#572c03,wmo,宁蒗彝族自治县山体滑坡,2026-07-07T06:30:00+00:00,China,0.5199165453679343,1,1,zh,EAS,Asia
-'70a5d5b894',extremes,Heat Wave,#c40202,wmo,热浪森哈萨克自治县,2026-06-26T06:36:00+00:00,China,0.5195502513276786,1,1,zh,EAS,Asia
 '742ee4e0ce',extremes,Landslide,#572c03,wmo,德欽郡山崩,2026-07-03T06:09:00+00:00,China,0.5194761156888249,1,1,zh,EAS,Asia
 'b1ac3f0a27',extremes,Tropical Cyclone,#4f4f4f,wmo,飓风“乳山市”,2026-07-14T05:14:00+00:00,China,0.5187666216676705,1,1,zh,EAS,Asia
 'cf0da24fa4',extremes,Tropical Cyclone,#4f4f4f,wmo,热带气旋烟台市,2026-07-13T05:53:00+00:00,China,0.5186212606269701,1,1,zh,EAS,Asia
@@ -352,11 +348,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '325b7060f9',extremes,Landslide,#572c03,wmo,珲春山体滑坡,2026-07-28T05:31:00+00:00,China,0.5170706705043739,1,1,zh,EAS,Asia
 '971e02a418',extremes,Tropical Cyclone,#4f4f4f,wmo,颶風萊陽市,2026-07-14T05:14:00+00:00,China,0.5166591604558618,1,1,zh,EAS,Asia
 'e4604b49d2',extremes,Flood,#030ba1,wmo,武義縣洪水氾濫,2026-07-13T05:53:00+00:00,China,0.5166386668909955,1,1,zh,EAS,Asia
+'c2a0efc387',extremes,Landslide,#572c03,wmo,天峻縣泥石流,2026-07-16T05:25:00+00:00,China,0.5165545045619919,1,1,zh,EAS,Asia
 'bacc571009',extremes,Heat Wave,#c40202,wmo,热浪巴里坤哈萨克自治县,2026-07-04T05:59:00+00:00,China,0.5163884983867884,2,1,zh,EAS,Asia
 '4586c97e0a',extremes,Landslide,#572c03,wmo,漾濞山崩,2026-07-08T05:37:00+00:00,China,0.5163008417023918,1,1,zh,EAS,Asia
 '85ccea8ff6',extremes,Fog,#d60d2b,wmo,松桃苗族自治縣霧,2026-07-03T06:09:00+00:00,China,0.5161434169580008,1,1,zh,EAS,Asia
 '61fb2aaf9c',extremes,Landslide,#572c03,wmo,威新县泥石流,2026-07-09T06:27:00+00:00,China,0.5156455805245378,1,1,zh,EAS,Asia
-'7b0fa82f89',extremes,Landslide,#572c03,wmo,峨山彝族自治縣山崩,2026-06-26T06:36:00+00:00,China,0.5154324540445053,1,1,zh,EAS,Asia
 '93899a879a',extremes,Tropical Cyclone,#4f4f4f,wmo,颶風番禺區,2026-07-02T06:24:00+00:00,China,0.5150571399240722,1,1,zh,EAS,Asia
 '85c7df9939',extremes,Landslide,#572c03,wmo,洱源县山体滑坡,2026-07-03T06:09:00+00:00,China,0.5145905484449983,1,1,zh,EAS,Asia
 '4a16b9c722',extremes,Heat Wave,#c40202,wmo,热浪忠贤,2026-07-07T06:30:00+00:00,China,0.5138869899676984,1,1,zh,EAS,Asia
