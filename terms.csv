@@ -1,10 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'31919931b3',extremes,Landslide,#572c03,wmo,中国岩崩,2026-07-24T05:36:00+00:00,China,0.7726059590745351,1,2,zh,EAS,Asia
 'f1feb3c458',extremes,Tropical Cyclone,#4f4f4f,wmo,台风海曙区,2026-07-11T05:27:00+00:00,China,0.7486149443051177,2,2,zh,EAS,Asia
 'f7493e0a77',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風中國,2026-07-01T06:52:00+00:00,China,0.7474353555811502,1,3,zh,EAS,Asia
-'bbbefd63a5',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風太倉市,2026-08-08T03:51:00+00:00,China,0.7467471312265916,0,1,zh,EAS,Asia
 'b499b72de5',extremes,Tropical Cyclone,#4f4f4f,wmo,熱帶氣旋 鎮海區,2026-07-11T05:27:00+00:00,China,0.7459840318234812,2,2,zh,EAS,Asia
 '0cfb65b58d',extremes,Fog,#d60d2b,wmo,雾中国,2026-07-17T05:27:00+00:00,China,0.7419104457336925,1,3,zh,EAS,Asia
-'31919931b3',extremes,Landslide,#572c03,wmo,中国岩崩,2026-07-24T05:36:00+00:00,China,0.7321246224406295,0,1,zh,EAS,Asia
 '8763352986',extremes,Tropical Cyclone,#4f4f4f,wmo,中国飓风,2026-07-01T06:52:00+00:00,China,0.7311808953770517,1,2,zh,EAS,Asia
 '8145ba8aaf',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風蓮都區,2026-07-11T05:27:00+00:00,China,0.7295489422550827,1,3,zh,EAS,Asia
 '2c366cd1dd',extremes,Flood,#030ba1,wmo,中國山洪,2026-07-15T05:15:00+00:00,China,0.7282558586658401,1,3,zh,EAS,Asia
@@ -57,6 +56,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f941ef58fc',extremes,Fog,#d60d2b,wmo,霧 前山區,2026-07-08T05:37:00+00:00,China,0.6438487195005667,1,3,zh,EAS,Asia
 'db84bc35a8',extremes,Fog,#d60d2b,wmo,雾 市南区,2026-07-10T06:27:00+00:00,China,0.6432314388416782,1,2,zh,EAS,Asia
 '41abbb5749',extremes,Tropical Cyclone,#4f4f4f,wmo,飓风建德,2026-07-11T05:27:00+00:00,China,0.6365042742686453,1,2,zh,EAS,Asia
+'bbbefd63a5',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風太倉市,2026-08-08T03:51:00+00:00,China,0.6347350615426028,1,1,zh,EAS,Asia
 '24f1291cd8',extremes,Flood,#030ba1,wmo,中国洪水,2026-07-26T05:46:00+00:00,China,0.6307488717236545,1,3,zh,EAS,Asia
 '904451b5ac',extremes,Tropical Cyclone,#4f4f4f,wmo,台风启东,2026-07-12T05:43:00+00:00,China,0.6244824730206997,1,2,zh,EAS,Asia
 '10d5ddd74d',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風常州市,2026-07-12T05:43:00+00:00,China,0.622443043368391,1,2,zh,EAS,Asia
