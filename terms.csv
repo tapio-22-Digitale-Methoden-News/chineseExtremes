@@ -48,12 +48,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bf085d2512',extremes,Flood,#030ba1,wmo,淹沒中國,2026-06-30T06:39:00+00:00,China,0.6584878695546964,1,3,zh,EAS,Asia
 'e625fa296a',extremes,Storm,#b3b2b1,wmo,澳门风暴,2026-07-16T05:25:00+00:00,Macao,0.6579457409817234,1,2,zh,EAS,Asia
 '45fd6854a2',extremes,Heat Wave,#c40202,wmo,热浪拜城县,2026-08-09T03:59:00+00:00,China,0.654727273362166,0,1,zh,EAS,Asia
+'ae3f6f1a63',extremes,Fog,#d60d2b,wmo,霧 休寧縣,2026-08-13T04:26:00+00:00,China,0.653218092304833,0,1,zh,EAS,Asia
 '1385e1a0ae',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風 龍遊縣,2026-07-11T05:27:00+00:00,China,0.6509314941407547,1,2,zh,EAS,Asia
 'fa06cd330a',extremes,Landslide,#572c03,wmo,中國山崩,2026-07-04T05:59:00+00:00,China,0.648401682069997,2,2,zh,EAS,Asia
 'd66dc92d91',extremes,Heat Wave,#c40202,wmo,热浪安静县,2026-07-23T05:40:00+00:00,China,0.6483400618179667,3,1,zh,EAS,Asia
+'94e9dd4459',extremes,Heat Wave,#c40202,wmo,洛浦县热浪,2026-08-12T04:23:00+00:00,China,0.6468263124669756,0,1,zh,EAS,Asia
+'0937356ada',extremes,Fog,#d60d2b,wmo,雾阡县,2026-08-08T03:51:00+00:00,China,0.6467451272483055,0,1,zh,EAS,Asia
 '87b6e9748e',extremes,Tropical Cyclone,#4f4f4f,wmo,热带气旋广丰区,2026-08-10T04:14:00+00:00,China,0.6466249216419306,1,2,zh,EAS,Asia
+'259cde9a26',extremes,Heat Wave,#c40202,wmo,热浪 民丰县,2026-08-13T04:26:00+00:00,China,0.6463955817545457,0,1,zh,EAS,Asia
 'f941ef58fc',extremes,Fog,#d60d2b,wmo,霧 前山區,2026-07-08T05:37:00+00:00,China,0.6438487195005667,1,3,zh,EAS,Asia
 'db84bc35a8',extremes,Fog,#d60d2b,wmo,雾 市南区,2026-07-10T06:27:00+00:00,China,0.6432314388416782,1,2,zh,EAS,Asia
+'bc58c862ce',extremes,Tropical Cyclone,#4f4f4f,wmo,颶風安福縣,2026-08-10T04:14:00+00:00,China,0.6414376607746876,0,1,zh,EAS,Asia
+'65c07d89e1',extremes,Tropical Cyclone,#4f4f4f,wmo,颶風嵊泗縣,2026-08-08T03:51:00+00:00,China,0.6413084066060295,0,1,zh,EAS,Asia
 '41abbb5749',extremes,Tropical Cyclone,#4f4f4f,wmo,飓风建德,2026-07-11T05:27:00+00:00,China,0.6365042742686453,1,2,zh,EAS,Asia
 'f1feb3c458',extremes,Tropical Cyclone,#4f4f4f,wmo,台风海曙区,2026-07-11T05:27:00+00:00,China,0.63632273265935,3,1,zh,EAS,Asia
 '24f1291cd8',extremes,Flood,#030ba1,wmo,中国洪水,2026-07-26T05:46:00+00:00,China,0.6307488717236545,1,3,zh,EAS,Asia
