@@ -9,7 +9,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f7493e0a77',extremes,Tropical Cyclone,#4f4f4f,wmo,台风中国,2026-08-13T04:26:00+00:00,China,0.7272271438193721,1,3,zh,EAS,Asia
 'b6efe8837b',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風路橋區,2026-07-10T06:27:00+00:00,China,0.712484410494621,1,3,zh,EAS,Asia
 '24b660695f',extremes,Landslide,#572c03,wmo,中国泥石流,2026-08-14T04:24:00+00:00,China,0.7098085529520439,1,2,zh,EAS,Asia
-'351cacdbd3',extremes,Tropical Cyclone,#4f4f4f,wmo,台风贵溪,2026-08-29T09:18:00+00:00,China,0.7057189055966427,0,1,zh,EAS,Asia
 '348801d079',extremes,Tropical Cyclone,#4f4f4f,wmo,台风 青田县,2026-08-09T03:59:00+00:00,China,0.7023655185592911,1,2,zh,EAS,Asia
 'f9be3aa8b8',extremes,Tropical Cyclone,#4f4f4f,wmo,熱帶氣旋 橫峰縣,2026-08-29T09:18:00+00:00,China,0.7022326006802995,0,1,zh,EAS,Asia
 '8763352986',extremes,Tropical Cyclone,#4f4f4f,wmo,中国飓风,2026-08-20T03:26:00+00:00,China,0.7011076409924992,1,2,zh,EAS,Asia
@@ -49,6 +48,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b2fd57376',extremes,Earthquake,#870007,usgs,台湾地震,2026-08-18T03:23:00+00:00,Taiwan,0.6073343170166386,2,2,zh,EAS,Asia
 '39edcf0c44',extremes,Heat Wave,#c40202,wmo,福海县热浪,2026-08-13T04:26:00+00:00,China,0.6060176205571849,1,1,zh,EAS,Asia
 'a8b6a2179a',extremes,Heat Wave,#c40202,wmo,热浪乌苏,2026-08-01T05:42:00+00:00,China,0.6017247523151821,2,2,zh,EAS,Asia
+'351cacdbd3',extremes,Tropical Cyclone,#4f4f4f,wmo,台风贵溪,2026-08-29T09:18:00+00:00,China,0.6001610997571464,1,1,zh,EAS,Asia
 'b6523172b1',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風“樂平”,2026-08-10T04:14:00+00:00,China,0.5979955211405615,2,2,zh,EAS,Asia
 '354f83b339',extremes,Landslide,#572c03,wmo,开原山体滑坡,2026-07-28T05:31:00+00:00,China,0.5952503029226442,1,2,zh,EAS,Asia
 '7c2940583d',extremes,Heat Wave,#c40202,wmo,定陶區熱浪,2026-08-26T03:34:00+00:00,China,0.5766546315344991,1,1,zh,EAS,Asia
