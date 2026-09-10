@@ -3,7 +3,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd6e6895b7a',extremes,Heat Wave,#c40202,wmo,熱浪庫爾勒,2026-09-02T07:16:00+00:00,China,0.7998328193127433,2,2,zh,EAS,Asia
 '2d4f9a45a0',extremes,Landslide,#572c03,wmo,海原縣山崩,2026-09-09T07:32:00+00:00,China,0.7921028135587438,2,2,zh,EAS,Asia
 '71684b4804',extremes,Snow&Ice,#d60d2b,wmo,冰中国,2026-09-05T07:05:00+00:00,China,0.7766826897354939,1,3,zh,EAS,Asia
-'69bded2239',extremes,Landslide,#572c03,wmo,隆德县泥石流,2026-09-10T07:28:00+00:00,China,0.7638734366827138,0,1,zh,EAS,Asia
 '0a09427c6b',extremes,Landslide,#572c03,wmo,靖遠泥石流,2026-08-27T13:00:00+00:00,China,0.7627764001951708,0,1,zh,EAS,Asia
 '8763352986',extremes,Tropical Cyclone,#4f4f4f,wmo,中国飓风,2026-08-20T03:26:00+00:00,China,0.7469915998436244,2,2,zh,EAS,Asia
 'f4aa91b292',extremes,Snow&Ice,#d60d2b,wmo,冰冻中国,2026-09-01T07:58:00+00:00,China,0.7422463249689416,1,2,zh,EAS,Asia
@@ -45,6 +44,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2198cd79a6',extremes,Landslide,#572c03,wmo,路橋區山崩,2026-08-20T03:26:00+00:00,China,0.6625093715791484,2,1,zh,EAS,Asia
 'c6900007be',extremes,Fog,#d60d2b,wmo,霧鐵力,2026-08-14T04:24:00+00:00,China,0.6521638107475819,2,2,zh,EAS,Asia
 '5fb4855526',extremes,Fog,#d60d2b,wmo,雾景源,2026-08-21T03:30:00+00:00,China,0.6517823530913988,1,2,zh,EAS,Asia
+'69bded2239',extremes,Landslide,#572c03,wmo,隆德县泥石流,2026-09-10T07:28:00+00:00,China,0.6495924511803067,1,1,zh,EAS,Asia
 'cfa60f4659',extremes,Storm,#b3b2b1,wmo,澳門風暴潮,2026-08-14T04:24:00+00:00,Macao,0.6465685935858272,1,2,zh,EAS,Asia
 'f3598beff9',extremes,Heat Wave,#c40202,wmo,玉里县热浪,2026-08-28T14:32:00+00:00,China,0.6425128035738725,2,1,zh,EAS,Asia
 'd570c3e138',extremes,Heat Wave,#c40202,wmo,热浪新河县,2026-08-30T08:30:00+00:00,China,0.640554622689882,2,1,zh,EAS,Asia
