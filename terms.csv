@@ -23,17 +23,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f1cfaea846',extremes,Fog,#d60d2b,wmo,霧鳳城,2026-08-16T03:28:00+00:00,China,0.697802960046632,1,2,zh,EAS,Asia
 '8fee3581f6',extremes,Landslide,#572c03,wmo,固原市山崩,2026-08-27T13:00:00+00:00,China,0.690240875145042,1,2,zh,EAS,Asia
 '59dd64cdf0',extremes,Tropical Cyclone,#4f4f4f,wmo,台风北仑区,2026-08-09T03:59:00+00:00,China,0.6865647364680444,1,2,zh,EAS,Asia
-'b09d856bd7',extremes,Snow&Ice,#d60d2b,wmo,冰冻康保县,2026-09-12T07:19:00+00:00,China,0.6856268060556125,0,1,zh,EAS,Asia
-'77097afff4',extremes,Snow&Ice,#d60d2b,wmo,崇禮區冰雪,2026-09-12T07:19:00+00:00,China,0.6845776091789534,0,1,zh,EAS,Asia
 '8182b1f37a',extremes,Snow&Ice,#d60d2b,wmo,雪中国,2026-08-31T08:51:00+00:00,China,0.6775473551789768,2,3,zh,EAS,Asia
 '24f1291cd8',extremes,Flood,#030ba1,wmo,中国洪水,2026-07-26T05:46:00+00:00,China,0.6729053527832881,2,3,zh,EAS,Asia
 '82d86aa2b0',extremes,Fog,#d60d2b,wmo,霧安寧,2026-08-13T04:26:00+00:00,China,0.6709246480876913,2,2,zh,EAS,Asia
-'3c38755ad2',extremes,Fog,#d60d2b,wmo,吉安市雾,2026-09-03T07:20:00+00:00,China,0.6647639839847682,1,2,zh,EAS,Asia
 '4390b41087',extremes,Heat Wave,#c40202,wmo,热浪齐拉县,2026-08-09T03:59:00+00:00,China,0.6644062346577875,1,2,zh,EAS,Asia
 '55f6b57ec6',extremes,Earthquake,#870007,usgs,敦煌地震,2026-08-19T03:25:00+00:00,China,0.663167522779945,3,2,zh,ECA,Asia
 '1b249593ac',extremes,Landslide,#572c03,wmo,固原市土石流,2026-07-27T06:05:00+00:00,China,0.6631218174182165,1,2,zh,EAS,Asia
 '2198cd79a6',extremes,Landslide,#572c03,wmo,路橋區山崩,2026-08-20T03:26:00+00:00,China,0.6625093715791484,2,1,zh,EAS,Asia
 'c6900007be',extremes,Fog,#d60d2b,wmo,霧鐵力,2026-08-14T04:24:00+00:00,China,0.6521638107475819,2,2,zh,EAS,Asia
+'3c38755ad2',extremes,Fog,#d60d2b,wmo,吉安市雾,2026-09-03T07:20:00+00:00,China,0.6518137771013386,2,2,zh,EAS,Asia
 '5fb4855526',extremes,Fog,#d60d2b,wmo,雾景源,2026-08-21T03:30:00+00:00,China,0.6517823530913988,1,2,zh,EAS,Asia
 '69bded2239',extremes,Landslide,#572c03,wmo,隆德县泥石流,2026-09-10T07:28:00+00:00,China,0.6495924511803067,1,1,zh,EAS,Asia
 '0a09427c6b',extremes,Landslide,#572c03,wmo,靖遠泥石流,2026-08-27T13:00:00+00:00,China,0.6483599401658952,1,1,zh,EAS,Asia
@@ -80,7 +78,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dac4bc8e20',extremes,Fog,#d60d2b,wmo,雾 武强县,2026-08-29T09:18:00+00:00,China,0.5838532832332362,1,1,zh,EAS,Asia
 '3c0de39f9e',extremes,Landslide,#572c03,wmo,壽陽縣土石流,2026-08-29T09:18:00+00:00,China,0.5830967955302622,1,1,zh,EAS,Asia
 'cc22cade74',extremes,Tropical Cyclone,#4f4f4f,wmo,热带气旋静宁畲族自治县,2026-08-30T08:30:00+00:00,China,0.5829692533834729,1,1,zh,EAS,Asia
+'b09d856bd7',extremes,Snow&Ice,#d60d2b,wmo,冰冻康保县,2026-09-12T07:19:00+00:00,China,0.5827827851472707,1,1,zh,EAS,Asia
 '2e8fdeabbf',extremes,Snow&Ice,#d60d2b,wmo,霜冻 崇礼区,2026-09-01T07:58:00+00:00,China,0.5825380981450857,1,1,zh,EAS,Asia
+'77097afff4',extremes,Snow&Ice,#d60d2b,wmo,崇禮區冰雪,2026-09-12T07:19:00+00:00,China,0.5818909678021104,1,1,zh,EAS,Asia
 'd977573dad',extremes,Fog,#d60d2b,wmo,霧 輝南縣,2026-09-02T07:16:00+00:00,China,0.5806272677624787,1,1,zh,EAS,Asia
 'aa443a3a7b',extremes,Fog,#d60d2b,wmo,綏濱縣霧,2026-09-03T07:20:00+00:00,China,0.5792201364550513,1,1,zh,EAS,Asia
 'f40cc842a1',extremes,Tropical Cyclone,#4f4f4f,wmo,台风无锡市,2026-08-08T03:51:00+00:00,China,0.5787939516912245,2,1,zh,EAS,Asia
@@ -151,7 +151,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '806347a19e',extremes,Tropical Cyclone,#4f4f4f,wmo,热带气旋文成县,2026-08-09T03:59:00+00:00,China,0.4875986642370023,2,1,zh,EAS,Asia
 '3b2617898e',extremes,Tropical Cyclone,#4f4f4f,wmo,台风桐乡,2026-08-11T04:01:00+00:00,China,0.4837374392021861,2,1,zh,EAS,Asia
 'f937cc8642',extremes,Fog,#d60d2b,wmo,会昌县雾,2026-08-14T04:24:00+00:00,China,0.4825197733233884,2,1,zh,EAS,Asia
-'a8da15abe4',extremes,Tropical Cyclone,#4f4f4f,wmo,颶風天台縣,2026-08-08T03:51:00+00:00,China,0.4803689393138318,2,1,zh,EAS,Asia
 '41e66d6a23',extremes,Tropical Cyclone,#4f4f4f,wmo,颶風樂清,2026-08-11T04:01:00+00:00,China,0.4784553881568903,2,1,zh,EAS,Asia
 '805b776a75',extremes,Tropical Cyclone,#4f4f4f,wmo,颱風龍泉,2026-08-09T03:59:00+00:00,China,0.4781924878560081,2,1,zh,EAS,Asia
 '6d74199f14',extremes,Fog,#d60d2b,wmo,肥城市雾,2026-08-17T03:28:00+00:00,China,0.4767453922850591,2,1,zh,EAS,Asia
