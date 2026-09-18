@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c685705bbd',extremes,Earthquake,#870007,usgs,中国地震,2026-08-27T13:00:00+00:00,China,0.8542612828642546,10,3,zh,EAS,Asia
+'c685705bbd',extremes,Earthquake,#870007,usgs,中国地震,2026-08-27T13:00:00+00:00,China,0.8527985604346164,11,3,zh,EAS,Asia
 '0cfb65b58d',extremes,Fog,#d60d2b,wmo,雾中国,2026-08-27T13:00:00+00:00,China,0.753368860257932,1,3,zh,EAS,Asia
 '71684b4804',extremes,Snow&Ice,#d60d2b,wmo,冰中国,2026-09-05T07:05:00+00:00,China,0.7484195980208622,7,3,zh,EAS,Asia
 '8763352986',extremes,Tropical Cyclone,#4f4f4f,wmo,中国飓风,2026-08-20T03:26:00+00:00,China,0.7469915998436244,2,2,zh,EAS,Asia
@@ -35,7 +35,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f3598beff9',extremes,Heat Wave,#c40202,wmo,玉里县热浪,2026-08-28T14:32:00+00:00,China,0.6425128035738725,2,1,zh,EAS,Asia
 'd570c3e138',extremes,Heat Wave,#c40202,wmo,热浪新河县,2026-08-30T08:30:00+00:00,China,0.640554622689882,2,1,zh,EAS,Asia
 'fa06cd330a',extremes,Landslide,#572c03,wmo,中國山崩,2026-08-15T03:13:00+00:00,China,0.6394509482550257,4,3,zh,EAS,Asia
-'ca39a7a0f8',extremes,Fog,#d60d2b,wmo,霧江縣,2026-08-04T05:32:00+00:00,China,0.6375505968968966,2,2,zh,EAS,Asia
 '31919931b3',extremes,Landslide,#572c03,wmo,中国岩崩,2026-09-03T07:20:00+00:00,China,0.6332727924824136,1,1,zh,EAS,Asia
 '9865db2185',extremes,Landslide,#572c03,wmo,大同山体滑坡,2026-08-23T03:30:00+00:00,China,0.6320695379949739,2,2,zh,EAS,Asia
 'd4f0e45c92',extremes,Snow&Ice,#d60d2b,wmo,冰霜中国,2026-09-01T07:58:00+00:00,China,0.6265692884750289,2,1,zh,EAS,Asia
