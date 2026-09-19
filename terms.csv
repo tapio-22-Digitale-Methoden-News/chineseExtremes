@@ -42,7 +42,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'df06b3e838',extremes,Landslide,#572c03,wmo,沙坡头区山体滑坡,2026-09-07T07:29:00+00:00,China,0.6186042841693322,1,1,zh,EAS,Asia
 '2e7300d2e7',extremes,Tropical Cyclone,#4f4f4f,wmo,热带气旋龙岗市,2026-08-28T14:32:00+00:00,China,0.608498651888404,1,1,zh,EAS,Asia
 '0b2fd57376',extremes,Earthquake,#870007,usgs,台湾地震,2026-08-18T03:23:00+00:00,Taiwan,0.6073343170166386,2,2,zh,EAS,Asia
-'39edcf0c44',extremes,Heat Wave,#c40202,wmo,福海县热浪,2026-08-13T04:26:00+00:00,China,0.6060176205571849,1,1,zh,EAS,Asia
 '50dd07cf07',extremes,Heat Wave,#c40202,wmo,若羌縣熱浪,2026-08-28T14:32:00+00:00,China,0.6035828444643043,1,1,zh,EAS,Asia
 '4328ef261b',extremes,Snow&Ice,#d60d2b,wmo,赤城縣霜凍,2026-09-12T07:19:00+00:00,China,0.6034196663206192,1,1,zh,EAS,Asia
 '6e30839c63',extremes,Heat Wave,#c40202,wmo,热浪 岳普湖县,2026-08-29T09:18:00+00:00,China,0.6030397547249253,1,1,zh,EAS,Asia
