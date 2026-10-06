@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'0c1f18c498',extremes,Earthquake,#870007,usgs,阿克苏地震,2026-08-29T09:18:00+00:00,China,0.7245529585222332,4,2,zh,ECA,Asia
+'0c1f18c498',extremes,Earthquake,#870007,usgs,阿克苏地震,2026-08-29T09:18:00+00:00,China,0.7669201197438983,5,2,zh,ECA,Asia
 'd8c34d6f66',extremes,Fog,#d60d2b,wmo,東光縣霧,2026-08-29T09:18:00+00:00,China,0.7242593583758339,2,2,zh,EAS,Asia
 '3b6501675a',extremes,Fog,#d60d2b,wmo,霧縣,2026-08-29T09:18:00+00:00,China,0.7004464135696702,5,3,zh,EAS,Asia
 'f4aa91b292',extremes,Snow&Ice,#d60d2b,wmo,冰冻中国,2026-09-01T07:58:00+00:00,China,0.6882232922900602,3,2,zh,EAS,Asia
@@ -22,7 +22,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3a36b77d80',extremes,Snow&Ice,#d60d2b,wmo,霜凍豐寧滿族自治縣,2026-09-12T07:19:00+00:00,China,0.5108963483350227,2,1,zh,EAS,Asia
 '64ffe70ee6',extremes,Snow&Ice,#d60d2b,wmo,康保縣冰雪,2026-09-08T07:23:00+00:00,China,0.497430699020768,2,1,zh,EAS,Asia
 '7d3291eff9',extremes,Landslide,#572c03,wmo,西吉郡泥石流,2026-09-09T07:32:00+00:00,China,0.4967531782689161,2,1,zh,EAS,Asia
-'b09d856bd7',extremes,Snow&Ice,#d60d2b,wmo,冰冻康保县,2026-09-12T07:19:00+00:00,China,0.49536536737518,2,1,zh,EAS,Asia
 '2e8fdeabbf',extremes,Snow&Ice,#d60d2b,wmo,霜冻 崇礼区,2026-09-01T07:58:00+00:00,China,0.4951573834233228,2,1,zh,EAS,Asia
 '77097afff4',extremes,Snow&Ice,#d60d2b,wmo,崇禮區冰雪,2026-09-12T07:19:00+00:00,China,0.4946073226317938,2,1,zh,EAS,Asia
 'd977573dad',extremes,Fog,#d60d2b,wmo,霧 輝南縣,2026-09-02T07:16:00+00:00,China,0.4935331775981069,2,1,zh,EAS,Asia
@@ -32,3 +31,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'df06b3e838',extremes,Landslide,#572c03,wmo,沙坡头区山体滑坡,2026-09-07T07:29:00+00:00,China,0.4469415953123425,3,1,zh,EAS,Asia
 'fba9512f0d',extremes,Landslide,#572c03,wmo,ledu區山體滑坡,2026-09-07T07:29:00+00:00,China,0.4314729681643547,3,1,zh,EAS,Asia
 '16356c3c33',extremes,Landslide,#572c03,wmo,紅堡地區土石流,2026-09-09T07:32:00+00:00,China,0.4221505097263734,3,1,zh,EAS,Asia
+'b09d856bd7',extremes,Snow&Ice,#d60d2b,wmo,冰冻康保县,2026-09-12T07:19:00+00:00,China,0.421060562268903,3,1,zh,EAS,Asia
