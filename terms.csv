@@ -1,8 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'f4aa91b292',extremes,Snow&Ice,#d60d2b,wmo,冰冻中国,2026-09-01T07:58:00+00:00,China,0.7783491894295684,5,2,zh,EAS,Asia
+'3b6501675a',extremes,Fog,#d60d2b,wmo,霧縣,2026-08-29T09:18:00+00:00,China,0.7503300065342197,6,3,zh,EAS,Asia
 '8182b1f37a',extremes,Snow&Ice,#d60d2b,wmo,雪中国,2026-08-31T08:51:00+00:00,China,0.7308669769021302,3,3,zh,EAS,Asia
 'd8c34d6f66',extremes,Fog,#d60d2b,wmo,東光縣霧,2026-08-29T09:18:00+00:00,China,0.7242593583758339,2,2,zh,EAS,Asia
-'3b6501675a',extremes,Fog,#d60d2b,wmo,霧縣,2026-08-29T09:18:00+00:00,China,0.7004464135696702,5,3,zh,EAS,Asia
 'd4f0e45c92',extremes,Snow&Ice,#d60d2b,wmo,冰霜中国,2026-09-01T07:58:00+00:00,China,0.6584839852037746,3,2,zh,EAS,Asia
 'bc407bdc9a',extremes,Fog,#d60d2b,wmo,雾原平,2026-09-08T07:23:00+00:00,China,0.6556349513641421,3,3,zh,EAS,Asia
 '31919931b3',extremes,Landslide,#572c03,wmo,中国岩崩,2026-09-03T07:20:00+00:00,China,0.6510221908185437,3,2,zh,EAS,Asia
