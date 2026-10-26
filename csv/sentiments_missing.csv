@@ -198,13 +198,13 @@ German,German,NORP,,,en,2.9060606060606067
 2028,2028,DATE,,,en,2.8666666666666676
 24 hours,24 hours,TIME,,,en,2.866666666666667
 January,January,DATE,,,en,2.863636363636365
-Qinwu Bridge,Qinwu Bridge,FAC,,,en,2.8333333333333335
 August 2012,August 2012,DATE,,,en,2.8333333333333335
+Qinwu Bridge,Qinwu Bridge,FAC,,,en,2.8333333333333335
 year-end,year-end,DATE,,,en,2.8000000000000007
-two years,two years,DATE,,,en,2.8000000000000007
 December 9,December 9,DATE,,,en,2.8000000000000007
-July 11,July 11,DATE,,,en,2.8000000000000003
+two years,two years,DATE,,,en,2.8000000000000007
 Scout Day,Scout Day,EVENT,,,en,2.8000000000000003
+July 11,July 11,DATE,,,en,2.8000000000000003
 40 minutes,40 minutes,TIME,,,en,2.8
 the Qingming Festival,the Qingming Festival,EVENT,,,en,2.8
 6 kilometers,6 kilometers,QUANTITY,,,en,2.8
@@ -213,8 +213,8 @@ ten years,ten years,DATE,,,en,2.7896825396825404
 30,30,CARDINAL,,,en,2.7857142857142865
 the first half of the year,the first half of the year,DATE,,,en,2.785714285714286
 20%,20%,PERCENT,,,en,2.7818181818181826
-English,English,NORP,,,en,2.7666666666666675
 the World Cup,the World Cup,EVENT,,,en,2.7666666666666675
+English,English,NORP,,,en,2.7666666666666675
 the 16th,the 16th,DATE,,,en,2.7636363636363637
 Six,Six,CARDINAL,,,en,2.750000000000001
 the new year,the new year,DATE,,,en,2.7500000000000004
@@ -224,17 +224,17 @@ five years,five years,DATE,,,en,2.722222222222223
 40%,40%,PERCENT,,,en,2.7000000000000015
 more than 1 million,more than 1 million,CARDINAL,,,en,2.7
 one year,one year,DATE,,,en,2.6916666666666678
-only 8.4 degrees,only 8.4 degrees,QUANTITY,,,en,2.688888888888889
 7/10,7/10,CARDINAL,,,en,2.6857142857142855
 more than ten,more than ten,CARDINAL,,,en,2.6833333333333336
 the past three years,the past three years,DATE,,,en,2.666666666666667
-the 17th,the 17th,DATE,,,en,2.650000000000001
 Australian,Australian,NORP,,,en,2.650000000000001
-115th,115th,ORDINAL,,,en,2.6500000000000004
+the 17th,the 17th,DATE,,,en,2.650000000000001
 22,22,CARDINAL,,,en,2.6500000000000004
+115th,115th,ORDINAL,,,en,2.6500000000000004
 1 million yuan,1 million yuan,MONEY,,,en,2.65
 early in the morning,early in the morning,TIME,,,en,2.635714285714286
 8 a.m.,8 a.m.,TIME,,,en,2.628571428571429
+only 8.4 degrees,only 8.4 degrees,QUANTITY,,,en,2.622222222222222
 World Cup,World Cup,EVENT,,,en,2.61904761904762
 billions of dollars,billions of dollars,MONEY,,,en,2.611111111111111
 2nm,2nm,QUANTITY,,,en,2.6000000000000014
@@ -257,8 +257,8 @@ December 8,December 8,DATE,,,en,2.500000000000001
 the second day,the second day,DATE,,,en,2.5000000000000004
 a week,a week,DATE,,,en,2.5000000000000004
 the Dear Culture and Health Station,the Dear Culture and Health Station,WORK_OF_ART,,,en,2.5
-the Qinwu Bridge,the Qinwu Bridge,FAC,,,en,2.5
 Wende Road,Wende Road,FAC,,,en,2.5
+the Qinwu Bridge,the Qinwu Bridge,FAC,,,en,2.5
 the second half of the year,the second half of the year,DATE,,,en,2.485714285714286
 Neihu Road,Neihu Road,FAC,,,en,2.4857142857142858
 30%,30%,PERCENT,,,en,2.4833333333333343
@@ -295,13 +295,13 @@ the first half of 2026,the first half of 2026,DATE,,,en,2.2857142857142865
 more than half,more than half,CARDINAL,,,en,2.281818181818182
 5.6,5.6,CARDINAL,,,en,2.278571428571429
 three years,three years,DATE,,,en,2.2761904761904765
-August 2,August 2,DATE,,,en,2.2666666666666666
 Winter,Winter,DATE,0.4923881673881674,1.6467171717171718,en,2.2666666666666666
+August 2,August 2,DATE,,,en,2.2666666666666666
 100%,100%,PERCENT,,,en,2.253571428571429
 80%,80%,PERCENT,,,en,2.2500000000000004
 a year ago,a year ago,DATE,,,en,2.2444444444444445
-year-on-year,year-on-year,DATE,,,en,2.2428571428571438
 December,December,DATE,,,en,2.2428571428571438
+year-on-year,year-on-year,DATE,,,en,2.2428571428571438
 Miaoli,Miaoli,NORP,-0.042927228127555214,0.08585445625511043,en,2.2333333333333334
 29th,29th,DATE,,,en,2.2333333333333334
 100 million,100 million,CARDINAL,,,en,2.2250000000000005
@@ -374,21 +374,21 @@ July 17,July 17,DATE,,,en,2.0222222222222226
 the past two days,the past two days,DATE,,,en,2.0214285714285714
 the end of last year,the end of last year,DATE,,,en,2.0151515151515156
 15%,15%,PERCENT,,,en,2.0111111111111115
-"10,000 yuan","10,000 yuan",MONEY,,,en,2.000000000000001
-March,March,DATE,,,en,2.000000000000001
 over 100 million yuan,over 100 million yuan,MONEY,,,en,2.000000000000001
-last week,last week,DATE,,,en,2.0000000000000004
-all day,all day,DATE,,,en,2.0000000000000004
+March,March,DATE,,,en,2.000000000000001
+"10,000 yuan","10,000 yuan",MONEY,,,en,2.000000000000001
 August,August,DATE,,,en,2.0000000000000004
-the end of the year,the end of the year,DATE,,,en,2.0000000000000004
-the past few years,the past few years,DATE,,,en,2.0000000000000004
+all day,all day,DATE,,,en,2.0000000000000004
 the Tamkang Bridge,the Tamkang Bridge,FAC,,,en,2.0000000000000004
+the past few years,the past few years,DATE,,,en,2.0000000000000004
+last week,last week,DATE,,,en,2.0000000000000004
+the end of the year,the end of the year,DATE,,,en,2.0000000000000004
+half a year,half a year,DATE,,,en,2.0
 7.5,7.5,CARDINAL,,,en,2.0
 nearly 10%,nearly 10%,PERCENT,,,en,2.0
-the United Nations Convention on the Law of the Sea,the United Nations Convention on the Law of the Sea,LAW,,,en,2.0
-7.8,7.8,CARDINAL,,,en,2.0
 2016,2016,DATE,,,en,2.0
-half a year,half a year,DATE,,,en,2.0
+7.8,7.8,CARDINAL,,,en,2.0
+the United Nations Convention on the Law of the Sea,the United Nations Convention on the Law of the Sea,LAW,,,en,2.0
 July 2,July 2,DATE,,,en,1.9857142857142862
 360,360,CARDINAL,,,en,1.9675324675324681
 nearly half,nearly half,CARDINAL,,,en,1.966666666666667
@@ -405,26 +405,26 @@ nearly 100 million yuan,nearly 100 million yuan,MONEY,,,en,1.9333333333333331
 5.9 kilometers,5.9 kilometers,QUANTITY,,,en,1.9166666666666665
 the 20th,the 20th,DATE,,,en,1.9160173160173157
 92%,92%,PERCENT,,,en,1.9111111111111112
-more than 20,more than 20,CARDINAL,,,en,1.9000000000000008
 Russian,Russian,NORP,,,en,1.9000000000000008
+more than 20,more than 20,CARDINAL,,,en,1.9000000000000008
 nearly 40%,nearly 40%,PERCENT,,,en,1.9000000000000008
-a single day,a single day,DATE,,,en,1.9000000000000006
 iOS 27,iOS 27,PRODUCT,,,en,1.9000000000000006
-Every year,Every year,DATE,,,en,1.9000000000000006
 July 13,July 13,DATE,,,en,1.9000000000000006
+a single day,a single day,DATE,,,en,1.9000000000000006
+Every year,Every year,DATE,,,en,1.9000000000000006
+5.4,5.4,CARDINAL,,,en,1.9000000000000004
+seventh,seventh,ORDINAL,,,en,1.9000000000000004
 "500,000 yuan","500,000 yuan",MONEY,,,en,1.9000000000000004
 36th,36th,ORDINAL,,,en,1.9000000000000004
-seventh,seventh,ORDINAL,,,en,1.9000000000000004
 23,23,CARDINAL,,,en,1.9000000000000004
-5.4,5.4,CARDINAL,,,en,1.9000000000000004
 the 31st,the 31st,DATE,,,en,1.9000000000000001
 February 6,February 6,DATE,,,en,1.9000000000000001
-73,73,CARDINAL,,,en,1.9
-5:06 pm,5:06 pm,TIME,,,en,1.9
-May 26,May 26,DATE,,,en,1.9
-1 hour,1 hour,TIME,,,en,1.9
 28 kilometers,28 kilometers,QUANTITY,,,en,1.9
+5:06 pm,5:06 pm,TIME,,,en,1.9
+1 hour,1 hour,TIME,,,en,1.9
 320,320,CARDINAL,,,en,1.9
+May 26,May 26,DATE,,,en,1.9
+73,73,CARDINAL,,,en,1.9
 31,31,CARDINAL,,,en,1.896825396825397
 2019,2019,DATE,,,en,1.891666666666667
 "250,000","250,000",CARDINAL,,,en,1.8857142857142857
@@ -439,8 +439,8 @@ tens of billions,tens of billions,MONEY,,,en,1.8666666666666667
 2013,2013,DATE,,,en,1.8649572649572652
 1 billion,1 billion,CARDINAL,,,en,1.8535714285714286
 99,99,MONEY,,,en,1.8523809523809525
-April 23,April 23,DATE,,,en,1.8500000000000003
 19th,19th,ORDINAL,,,en,1.8500000000000003
+April 23,April 23,DATE,,,en,1.8500000000000003
 28,28,CARDINAL,,,en,1.8428571428571427
 Eight,Eight,CARDINAL,,,en,1.8333333333333337
 the end of September,the end of September,DATE,,,en,1.833333333333333
@@ -448,19 +448,19 @@ Taichung Port,Taichung Port,FAC,,,en,1.8285714285714285
 the 22nd,the 22nd,DATE,,,en,1.8111111111111116
 200 million,200 million,CARDINAL,,,en,1.8000000000000007
 December 10,December 10,DATE,,,en,1.8000000000000007
-Venezuelan,Venezuelan,NORP,,,en,1.8000000000000007
 7.1,7.1,CARDINAL,,,en,1.8000000000000007
+Venezuelan,Venezuelan,NORP,,,en,1.8000000000000007
 the next week,the next week,DATE,,,en,1.8000000000000005
 This summer,This summer,DATE,,,en,1.8000000000000005
-June this year,June this year,DATE,,,en,1.8000000000000003
 38,38,CARDINAL,,,en,1.8000000000000003
 Broad Peak,Broad Peak,WORK_OF_ART,,,en,1.8000000000000003
 6 p.m.,6 p.m.,TIME,,,en,1.8000000000000003
 23rd,23rd,DATE,,,en,1.8000000000000003
-Mikra,Mikra,WORK_OF_ART,,,en,1.8
-under winter,under winter,DATE,,,en,1.8
+June this year,June this year,DATE,,,en,1.8000000000000003
 November 18,November 18,DATE,,,en,1.8
+under winter,under winter,DATE,,,en,1.8
 Douyu,Douyu,NORP,0.5194903581267217,1.9401515151515152,en,1.8
+Mikra,Mikra,WORK_OF_ART,,,en,1.8
 311,311,CARDINAL,,,en,1.8
 Jianguo Road,Jianguo Road,FAC,,,en,1.7999999999999998
 the eve of the Lunar New Year,the eve of the Lunar New Year,DATE,,,en,1.7999999999999998
@@ -745,109 +745,108 @@ at least two,at least two,CARDINAL,,,en,1.4333333333333333
 70 yuan,70 yuan,MONEY,,,en,1.4333333333333333
 42%,42%,PERCENT,,,en,1.4333333333333333
 8:46 a.m.,8:46 a.m.,TIME,,,en,1.4285714285714284
-GPU,GPU,PRODUCT,,,en,1.4285714285714284
-10 to 20 days,10 to 20 days,DATE,,,en,1.4285714285714284
 53%,53%,PERCENT,,,en,1.4285714285714284
+10 to 20 days,10 to 20 days,DATE,,,en,1.4285714285714284
 Half,Half,CARDINAL,,,en,1.4285714285714284
-January 22,January 22,DATE,,,en,1.4222222222222225
+GPU,GPU,PRODUCT,,,en,1.4285714285714284
 July 23,July 23,DATE,,,en,1.4222222222222225
-August 1,August 1,DATE,,,en,1.4222222222222225
 more than a year,more than a year,DATE,,,en,1.4222222222222225
-December 26,December 26,DATE,,,en,1.4166666666666665
+August 1,August 1,DATE,,,en,1.4222222222222225
+January 22,January 22,DATE,,,en,1.4222222222222225
 17th,17th,DATE,,,en,1.4166666666666665
-fiscal year 2026,fiscal year 2026,DATE,,,en,1.4111111111111114
+December 26,December 26,DATE,,,en,1.4166666666666665
 February,February,DATE,,,en,1.4111111111111114
+fiscal year 2026,fiscal year 2026,DATE,,,en,1.4111111111111114
 the New Year's,the New Year's,EVENT,,,en,1.4111111111111112
 1996,1996,DATE,,,en,1.4095238095238094
-NT$1.25 trillion,NT$1.25 trillion,FAC,,,en,1.4000000000000004
-April 22,April 22,DATE,,,en,1.4000000000000004
-June 25,June 25,DATE,,,en,1.4000000000000004
-Lightning,Lightning,WORK_OF_ART,,,en,1.4000000000000004
-YouTube,YouTube,PRODUCT,,,en,1.4000000000000004
-June 2025,June 2025,DATE,,,en,1.4000000000000004
-US$2 billion,US$2 billion,MONEY,,,en,1.4000000000000004
-Sino-Japanese,Sino-Japanese,NORP,,,en,1.4000000000000004
-6.9,6.9,CARDINAL,,,en,1.4000000000000004
-38 degrees,38 degrees,QUANTITY,,,en,1.4000000000000004
-the next three days,the next three days,DATE,,,en,1.4000000000000004
-21%,21%,PERCENT,,,en,1.4000000000000004
-late-night,late-night,TIME,,,en,1.4000000000000004
-Canadian,Canadian,NORP,,,en,1.4000000000000004
-2.5,2.5,CARDINAL,,,en,1.4000000000000004
+46,46,CARDINAL,,,en,1.4000000000000004
+June 19,June 19,DATE,,,en,1.4000000000000004
 the 19th,the 19th,DATE,,,en,1.4000000000000004
+weekly,weekly,DATE,,,en,1.4000000000000004
+Exynos 2600,Exynos 2600,PRODUCT,,,en,1.4000000000000004
+2.5,2.5,CARDINAL,,,en,1.4000000000000004
+Canadian,Canadian,NORP,,,en,1.4000000000000004
+November 2025,November 2025,DATE,,,en,1.4000000000000004
+late-night,late-night,TIME,,,en,1.4000000000000004
+38 degrees,38 degrees,QUANTITY,,,en,1.4000000000000004
+6.9,6.9,CARDINAL,,,en,1.4000000000000004
+NT$1.25 trillion,NT$1.25 trillion,FAC,,,en,1.4000000000000004
+US$2 billion,US$2 billion,MONEY,,,en,1.4000000000000004
+5.179 billion yuan,5.179 billion yuan,MONEY,,,en,1.4000000000000004
 16 years,16 years,DATE,,,en,1.4000000000000004
+April 10,April 10,DATE,,,en,1.4000000000000004
 4.1,4.1,CARDINAL,,,en,1.4000000000000004
 NT$ 90,NT$ 90,MONEY,,,en,1.4000000000000004
 the last day,the last day,DATE,,,en,1.4000000000000004
+two weeks,two weeks,DATE,,,en,1.4000000000000004
+June 2025,June 2025,DATE,,,en,1.4000000000000004
+21%,21%,PERCENT,,,en,1.4000000000000004
+Sino-Japanese,Sino-Japanese,NORP,,,en,1.4000000000000004
+World of Warcraft,World of Warcraft,WORK_OF_ART,,,en,1.4000000000000004
+the next three days,the next three days,DATE,,,en,1.4000000000000004
+April 22,April 22,DATE,,,en,1.4000000000000004
+YouTube,YouTube,PRODUCT,,,en,1.4000000000000004
 Robot Phone,Robot Phone,WORK_OF_ART,,,en,1.4000000000000004
-the past decade,the past decade,DATE,,,en,1.4000000000000004
-ONE,ONE,CARDINAL,,,en,1.4000000000000004
 the age of 16,the age of 16,DATE,,,en,1.4000000000000004
+the past decade,the past decade,DATE,,,en,1.4000000000000004
 9.9 yuan,9.9 yuan,MONEY,,,en,1.4000000000000004
+June 25,June 25,DATE,,,en,1.4000000000000004
+Glyph Bar,Glyph Bar,PRODUCT,,,en,1.4000000000000004
 "Qooah.com
 ","Qooah.com
 ",PRODUCT,,,en,1.4000000000000004
-November 2025,November 2025,DATE,,,en,1.4000000000000004
-June 19,June 19,DATE,,,en,1.4000000000000004
-Exynos 2600,Exynos 2600,PRODUCT,,,en,1.4000000000000004
-2008,2008,DATE,,,en,1.4000000000000004
-20 minutes,20 minutes,TIME,,,en,1.4000000000000004
-weekly,weekly,DATE,,,en,1.4000000000000004
-1x,1x,CARDINAL,,,en,1.4000000000000004
-70,70,CARDINAL,,,en,1.4000000000000004
-"50,000","50,000",CARDINAL,,,en,1.4000000000000004
 90s,90s,CARDINAL,,,en,1.4000000000000004
-5.179 billion yuan,5.179 billion yuan,MONEY,,,en,1.4000000000000004
-World of Warcraft,World of Warcraft,WORK_OF_ART,,,en,1.4000000000000004
+Lightning,Lightning,WORK_OF_ART,,,en,1.4000000000000004
+"50,000","50,000",CARDINAL,,,en,1.4000000000000004
+70,70,CARDINAL,,,en,1.4000000000000004
 December 12,December 12,DATE,,,en,1.4000000000000004
 week,week,DATE,,,en,1.4000000000000004
+2008,2008,DATE,,,en,1.4000000000000004
+1x,1x,CARDINAL,,,en,1.4000000000000004
+ONE,ONE,CARDINAL,,,en,1.4000000000000004
 5.8,5.8,CARDINAL,,,en,1.4000000000000004
-April 10,April 10,DATE,,,en,1.4000000000000004
-Glyph Bar,Glyph Bar,PRODUCT,,,en,1.4000000000000004
-46,46,CARDINAL,,,en,1.4000000000000004
-two weeks,two weeks,DATE,,,en,1.4000000000000004
-New Year’s Eve,New Year’s Eve,EVENT,,,en,1.4000000000000001
-2 billion yuan,2 billion yuan,MONEY,,,en,1.4000000000000001
-IT Morning News,IT Morning News,WORK_OF_ART,,,en,1.4000000000000001
-hourly,hourly,TIME,,,en,1.4000000000000001
-the coming week,the coming week,DATE,,,en,1.4000000000000001
-September 9,September 9,DATE,,,en,1.4000000000000001
+20 minutes,20 minutes,TIME,,,en,1.4000000000000004
 30 minutes,30 minutes,TIME,,,en,1.4000000000000001
-a day,a day,DATE,,,en,1.4000000000000001
-16 hours,16 hours,TIME,,,en,1.4000000000000001
-120,120,CARDINAL,,,en,1.4000000000000001
-1 yuan,1 yuan,MONEY,,,en,1.4000000000000001
+the 9th,the 9th,DATE,,,en,1.4000000000000001
+the summer,the summer,DATE,,,en,1.4000000000000001
+the coming week,the coming week,DATE,,,en,1.4000000000000001
+hourly,hourly,TIME,,,en,1.4000000000000001
+2 billion yuan,2 billion yuan,MONEY,,,en,1.4000000000000001
+New Year’s Eve,New Year’s Eve,EVENT,,,en,1.4000000000000001
 nearly two years,nearly two years,DATE,,,en,1.4000000000000001
 last month,last month,DATE,,,en,1.4000000000000001
-the end of 2024,the end of 2024,DATE,,,en,1.4000000000000001
 Southeast Asian,Southeast Asian,NORP,,,en,1.4000000000000001
-January 11,January 11,DATE,,,en,1.4000000000000001
-only one,only one,CARDINAL,,,en,1.4000000000000001
-the 9th,the 9th,DATE,,,en,1.4000000000000001
-Model,Model,PRODUCT,,,en,1.4000000000000001
-44%,44%,PERCENT,,,en,1.4000000000000001
 July 1st,July 1st,DATE,,,en,1.4000000000000001
-the summer,the summer,DATE,,,en,1.4000000000000001
+September 9,September 9,DATE,,,en,1.4000000000000001
+IT Morning News,IT Morning News,WORK_OF_ART,,,en,1.4000000000000001
+a day,a day,DATE,,,en,1.4000000000000001
+120,120,CARDINAL,,,en,1.4000000000000001
+only one,only one,CARDINAL,,,en,1.4000000000000001
 143,143,CARDINAL,,,en,1.4000000000000001
 ten-year,ten-year,DATE,,,en,1.4000000000000001
+the end of 2024,the end of 2024,DATE,,,en,1.4000000000000001
+44%,44%,PERCENT,,,en,1.4000000000000001
+1 yuan,1 yuan,MONEY,,,en,1.4000000000000001
+16 hours,16 hours,TIME,,,en,1.4000000000000001
+Model,Model,PRODUCT,,,en,1.4000000000000001
+January 11,January 11,DATE,,,en,1.4000000000000001
+Tanaka Suite,Tanaka Suite,WORK_OF_ART,,,en,1.4
+Xperia 1 VIII,Xperia 1 VIII,PRODUCT,,,en,1.4
+about 20 billion,about 20 billion,CARDINAL,,,en,1.4
+every month,every month,DATE,,,en,1.4
+nearly 2 million,nearly 2 million,CARDINAL,,,en,1.4
+156,156,CARDINAL,,,en,1.4
+6 hours,6 hours,TIME,,,en,1.4
+four years,four years,DATE,,,en,1.4
+Bawi,Bawi,WORK_OF_ART,,,en,1.4
 Yongle,Yongle,WORK_OF_ART,,,en,1.4
+8 hours,8 hours,TIME,,,en,1.4
 8),8),CARDINAL,,,en,1.4
 "990,000","990,000",CARDINAL,,,en,1.4
-Xperia 1 VIII,Xperia 1 VIII,PRODUCT,,,en,1.4
-nearly 2 million,nearly 2 million,CARDINAL,,,en,1.4
 Nobel Prize,Nobel Prize,WORK_OF_ART,,,en,1.4
-156,156,CARDINAL,,,en,1.4
-Tanaka Suite,Tanaka Suite,WORK_OF_ART,,,en,1.4
-every month,every month,DATE,,,en,1.4
-about 20 billion,about 20 billion,CARDINAL,,,en,1.4
-Bawi,Bawi,WORK_OF_ART,,,en,1.4
-four years,four years,DATE,,,en,1.4
-6 hours,6 hours,TIME,,,en,1.4
-8 hours,8 hours,TIME,,,en,1.4
 Strengthening Safety Maintenance Work on Important Festivals,Strengthening Safety Maintenance Work on Important Festivals,WORK_OF_ART,,,en,1.4
 "1,523","1,523",CARDINAL,,,en,1.4
-Scouts,Scouts,NORP,,,en,1.4
-the Labor Day holiday,the Labor Day holiday,DATE,,,en,1.4
+Dongshan Railway Station,Dongshan Railway Station,FAC,,,en,1.4
 2017,2017,DATE,,,en,1.4
 8 degrees,8 degrees,QUANTITY,,,en,1.4
 6 consecutive days,6 consecutive days,DATE,,,en,1.4
@@ -856,8 +855,8 @@ Huhai Road,Huhai Road,FAC,,,en,1.4
 month,month,DATE,,,en,1.4
 "17,000 yuan","17,000 yuan",MONEY,,,en,1.4
 50 centimeters,50 centimeters,QUANTITY,,,en,1.4
-Dongshan Railway Station,Dongshan Railway Station,FAC,,,en,1.4
 4 years,4 years,DATE,,,en,1.4
+Scouts,Scouts,NORP,,,en,1.4
 101,101,CARDINAL,,,en,1.4
 Onmyoji,Onmyoji,WORK_OF_ART,,,en,1.4
 two days in a row,two days in a row,DATE,,,en,1.4
@@ -868,40 +867,41 @@ Leica,Leica,WORK_OF_ART,,,en,1.4
 Han,Han,NORP,,,en,1.4
 the holiday,the holiday,DATE,,,en,1.4
 the evening of the 10th,the evening of the 10th,TIME,,,en,1.4
-around 10 degrees or,around 10 degrees or,QUANTITY,,,en,1.4
+the Labor Day holiday,the Labor Day holiday,DATE,,,en,1.4
 Mist Festival,Mist Festival,EVENT,,,en,1.3928571428571428
 "4,699 yuan","4,699 yuan",MONEY,,,en,1.3857142857142857
 Wednesday night,Wednesday night,TIME,,,en,1.3857142857142857
+45,45,CARDINAL,,,en,1.3857142857142857
 the Mid-Autumn Festival,the Mid-Autumn Festival,EVENT,,,en,1.3857142857142857
 "459,800 yuan","459,800 yuan",MONEY,,,en,1.3857142857142857
-45,45,CARDINAL,,,en,1.3857142857142857
 weekdays,weekdays,DATE,,,en,1.3857142857142857
-700,700,CARDINAL,,,en,1.3666666666666667
-November 2024,November 2024,DATE,,,en,1.3666666666666667
 April 2,April 2,DATE,,,en,1.3666666666666667
 the morning of the 25th,the morning of the 25th,TIME,,,en,1.3666666666666667
+November 2024,November 2024,DATE,,,en,1.3666666666666667
+7:37 a.m.,7:37 a.m.,TIME,,,en,1.3666666666666667
+700,700,CARDINAL,,,en,1.3666666666666667
+only 6 kilometers,only 6 kilometers,QUANTITY,,,en,1.3666666666666667
 April 1,April 1,DATE,,,en,1.3666666666666667
 PhD,PhD,WORK_OF_ART,,,en,1.3666666666666667
-only 6 kilometers,only 6 kilometers,QUANTITY,,,en,1.3666666666666667
 the past week,the past week,DATE,,,en,1.3666666666666667
-7:37 a.m.,7:37 a.m.,TIME,,,en,1.3666666666666667
 mid-March,mid-March,DATE,,,en,1.3666666666666665
-January 12,January 12,DATE,,,en,1.3666666666666665
 today (25th,today (25th,DATE,,,en,1.3666666666666665
+January 12,January 12,DATE,,,en,1.3666666666666665
 July 2026,July 2026,DATE,,,en,1.3650793650793651
-"2,699","2,699",CARDINAL,,,en,1.35
-At least 12,At least 12,CARDINAL,,,en,1.35
+9:30,9:30,TIME,,,en,1.35
 More than half,More than half,CARDINAL,,,en,1.35
-Hongxia,Hongxia,WORK_OF_ART,-0.09615384615384615,0.358974358974359,en,1.35
+At least 12,At least 12,CARDINAL,,,en,1.35
 the century,the century,DATE,,,en,1.35
 97%,97%,PERCENT,,,en,1.35
-9:30,9:30,TIME,,,en,1.35
-4.2,4.2,CARDINAL,,,en,1.342857142857143
+Hongxia,Hongxia,WORK_OF_ART,-0.09615384615384615,0.358974358974359,en,1.35
+"2,699","2,699",CARDINAL,,,en,1.35
 1998,1998,DATE,,,en,1.342857142857143
 many days,many days,DATE,,,en,1.342857142857143
 tens of billions of dollars,tens of billions of dollars,MONEY,,,en,1.342857142857143
 1%,1%,PERCENT,,,en,1.342857142857143
 a ton,a ton,QUANTITY,,,en,1.342857142857143
+4.2,4.2,CARDINAL,,,en,1.342857142857143
+around 10 degrees or,around 10 degrees or,QUANTITY,,,en,1.3333333333333333
 Geek Park,Geek Park,FAC,,,en,1.3333333333333333
 16.88 million yuan,16.88 million yuan,MONEY,,,en,1.3333333333333333
 "1,558","1,558",CARDINAL,,,en,1.3333333333333333
@@ -911,19 +911,19 @@ early last year,early last year,DATE,,,en,1.3333333333333333
 Jiaxian,Jiaxian,NORP,,,en,1.3333333333333333
 49%,49%,PERCENT,,,en,1.3333333333333333
 US$70 million,US$70 million,MONEY,,,en,1.3333333333333333
-28th,28th,DATE,,,en,1.3333333333333333
-352,352,CARDINAL,,,en,1.3333333333333333
 | 2026,| 2026,DATE,,,en,1.3333333333333333
+Fast16,Fast16,PRODUCT,,,en,1.3333333333333333
+28th,28th,DATE,,,en,1.3333333333333333
 hundreds of meters,hundreds of meters,QUANTITY,,,en,1.3333333333333333
 83,83,CARDINAL,,,en,1.3333333333333333
-841,841,CARDINAL,,,en,1.3333333333333333
 Puli Town,Puli Town,FAC,0.0,0.0,en,1.3333333333333333
 only 110 days,only 110 days,DATE,,,en,1.3333333333333333
 "1,494","1,494",CARDINAL,,,en,1.3333333333333333
 316,316,CARDINAL,,,en,1.3333333333333333
 the middle of winter,the middle of winter,DATE,,,en,1.3333333333333333
 February 8,February 8,DATE,,,en,1.3333333333333333
-Fast16,Fast16,PRODUCT,,,en,1.3333333333333333
+352,352,CARDINAL,,,en,1.3333333333333333
+841,841,CARDINAL,,,en,1.3333333333333333
 Castle of Evil,Castle of Evil,WORK_OF_ART,,,en,1.333333333333333
 13 million yuan,13 million yuan,MONEY,,,en,1.333333333333333
 January 21,January 21,DATE,,,en,1.3250000000000002
@@ -2943,7 +2943,7 @@ September 5,September 5,DATE,,,en,1.0
 "499,800 yuan","499,800 yuan",MONEY,,,en,1.0
 1 to 2 days,1 to 2 days,DATE,,,en,1.0
 PEL Adventure Time Sanya Chapter,PEL Adventure Time Sanya Chapter,WORK_OF_ART,,,en,1.0
-Gentlemen Prefer Blondes,Gentlemen Prefer Blondes,WORK_OF_ART,,,en,1.0
+300 days,300 days,DATE,,,en,1.0
 545,545,CARDINAL,,,en,1.0
 August 3 this year,August 3 this year,DATE,,,en,1.0
 1 meter,1 meter,QUANTITY,,,en,1.0
@@ -2978,14 +2978,14 @@ Vera,Vera,PRODUCT,,,en,1.0
 6.04%,6.04%,PERCENT,,,en,1.0
 2K+280Hz,2K+280Hz,CARDINAL,,,en,1.0
 no more than 900 million Norwegian kroner,no more than 900 million Norwegian kroner,CARDINAL,,,en,1.0
-365 days,365 days,DATE,,,en,1.0
+Seventy years ago,Seventy years ago,DATE,,,en,1.0
 at least 23,at least 23,CARDINAL,,,en,1.0
 5434,5434,DATE,,,en,1.0
 the early morning of the 3rd,the early morning of the 3rd,TIME,,,en,1.0
 the early autumn,the early autumn,DATE,,,en,1.0
 the evening of the 28th,the evening of the 28th,TIME,,,en,1.0
 1500,1500,CARDINAL,,,en,1.0
-300 days,300 days,DATE,,,en,1.0
+1953,1953,DATE,,,en,1.0
 one-night,one-night,QUANTITY,,,en,1.0
 "320,000","320,000",CARDINAL,,,en,1.0
 the Tang Dynasty,the Tang Dynasty,DATE,,,en,1.0
@@ -2996,14 +2996,14 @@ Armor,Armor,PRODUCT,,,en,1.0
 up to ten years,up to ten years,DATE,,,en,1.0
 "June 2, 2026","June 2, 2026",DATE,,,en,1.0
 LABUBU,LABUBU,WORK_OF_ART,0.25803571428571426,0.4897321428571429,en,1.0
-Seventy years ago,Seventy years ago,DATE,,,en,1.0
+Gentlemen Prefer Blondes,Gentlemen Prefer Blondes,WORK_OF_ART,,,en,1.0
 "164,000","164,000",CARDINAL,,,en,1.0
 March 2025,March 2025,DATE,,,en,1.0
 Peace Elite,Peace Elite,WORK_OF_ART,,,en,1.0
 PEL Adventure Time,PEL Adventure Time,WORK_OF_ART,,,en,1.0
 the next 20 years,the next 20 years,DATE,,,en,1.0
 June 4,June 4,DATE,,,en,1.0
-1953,1953,DATE,,,en,1.0
+365 days,365 days,DATE,,,en,1.0
 only about 60 pounds,only about 60 pounds,QUANTITY,,,en,1.0
 about 15 days,about 15 days,DATE,,,en,1.0
 Nangang System - Toucheng National,Nangang System - Toucheng National,FAC,,,en,1.0
@@ -4389,7 +4389,7 @@ Incredibles 3,Incredibles 3,WORK_OF_ART,,,en,1.0
 "over 104,000","over 104,000",CARDINAL,,,en,1.0
 the Trocadéro Fountain,the Trocadéro Fountain,FAC,,,en,1.0
 US$3.4163 billion,US$3.4163 billion,MONEY,,,en,1.0
-3 p.m.,3 p.m.,TIME,,,en,1.0
+the end of April this year,the end of April this year,DATE,,,en,1.0
 3 million yuan,3 million yuan,MONEY,,,en,1.0
 192,192,CARDINAL,,,en,1.0
 the Wanlixi Barrier Lake Red Alert,the Wanlixi Barrier Lake Red Alert,FAC,,,en,1.0
@@ -4476,9 +4476,9 @@ around 6 p.m.,around 6 p.m.,TIME,,,en,1.0
 "the ""Yunlongqiao Ming Tunnel""","the ""Yunlongqiao Ming Tunnel""",FAC,,,en,1.0
 about 5 p.m.,about 5 p.m.,TIME,,,en,1.0
 "18,000 yuan","18,000 yuan",MONEY,,,en,1.0
-1.4 kilometers,1.4 kilometers,QUANTITY,,,en,1.0
+3 p.m.,3 p.m.,TIME,,,en,1.0
 "June 22, 2026","June 22, 2026",DATE,,,en,1.0
-61 years old,61 years old,DATE,,,en,1.0
+1.4 kilometers,1.4 kilometers,QUANTITY,,,en,1.0
 "up to 6,000 yuan","up to 6,000 yuan",MONEY,,,en,1.0
 the Shanghai World Expo Exhibition and Convention Center,the Shanghai World Expo Exhibition and Convention Center,EVENT,,,en,1.0
 the following months,the following months,DATE,,,en,1.0
@@ -4530,12 +4530,12 @@ Earlier this week,Earlier this week,DATE,,,en,1.0
 as many as 30,as many as 30,CARDINAL,,,en,1.0
 70 to 80%,70 to 80%,PERCENT,,,en,1.0
 Renyitan,Renyitan,PRODUCT,0.0,0.0,en,1.0
-the end of April this year,the end of April this year,DATE,,,en,1.0
-"more than 40,000 kilograms","more than 40,000 kilograms",QUANTITY,,,en,1.0
 57 years old,57 years old,DATE,,,en,1.0
+"more than 40,000 kilograms","more than 40,000 kilograms",QUANTITY,,,en,1.0
 69 years old,69 years old,DATE,,,en,1.0
-August 8 Eighth,August 8 Eighth,DATE,,,en,1.0
 63 years old,63 years old,DATE,,,en,1.0
+August 8 Eighth,August 8 Eighth,DATE,,,en,1.0
+61 years old,61 years old,DATE,,,en,1.0
 the Heping Butterfly Valley Waterfall,the Heping Butterfly Valley Waterfall,FAC,,,en,1.0
 530,530,CARDINAL,,,en,1.0
 1.9 billion yuan</li,1.9 billion yuan</li,MONEY,,,en,1.0
@@ -6344,12 +6344,12 @@ Inkslan,Inkslan,PRODUCT,,,en,1.0
 two days ago,two days ago,DATE,,,en,1.0
 Commercial Insurance Catalog,Commercial Insurance Catalog,WORK_OF_ART,,,en,1.0
 Millions,Millions,CARDINAL,,,en,1.0
+30 kilometers per hour,30 kilometers per hour,QUANTITY,,,en,1.0
+10:39,10:39,TIME,,,en,1.0
 March 2024,March 2024,DATE,,,en,1.0
 Innosec,Innosec,NORP,,,en,1.0
 17:44,17:44,CARDINAL,,,en,1.0
 Two Heroes Battle,Two Heroes Battle,WORK_OF_ART,,,en,1.0
-30 kilometers per hour,30 kilometers per hour,QUANTITY,,,en,1.0
-10:39,10:39,TIME,,,en,1.0
 May 2010,May 2010,DATE,,,en,1.0
 41.1%,41.1%,PERCENT,,,en,1.0
 the 25th consecutive month,the 25th consecutive month,DATE,,,en,1.0
